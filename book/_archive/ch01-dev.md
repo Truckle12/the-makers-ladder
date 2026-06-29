@@ -1,7 +1,7 @@
 ---
 id: ch01-dev
 title: Chapter 1 developmental pass
-status: draft
+status: rejected
 persona_name: developmental
 persona_file: prompts/personas/developmental.md
 target: manuscript/chapter-01.md
