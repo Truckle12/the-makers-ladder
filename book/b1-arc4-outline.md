@@ -1,7 +1,7 @@
 ---
 id: b1-arc4-outline
 title: Arc 4 storyboard — brainstorm middle + flesh chapter premises (Ch29-42)
-status: ready
+status: review
 persona_name: storyboard-architect
 persona_file: prompts/personas/storyboard-architect.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/reference/book-bible.md
