@@ -124,9 +124,9 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 
 **The Warden** — ageless **primal keeper of the wild**; Oscar's peer; deals in true bargains; the teacher the wild-touched are denied. Has a **fox** companion. "I am the deep of this country." Clocks Wick's door gravely. Her line **"they're getting better at you"** = scale-dread (she has seen *other* made things) — **does NOT name the architect** (Book 2).
 
-**Corwen** — the **finder/hunter** antagonist; **impersonal House apparatus; the dread is indifference** ("closes a gate like a door it walks past"). Offstage so far. **Dies in Arc 4.** [PLANNED on-page]
+**Corwen** — the **finder/hunter** antagonist; **impersonal House apparatus; the dread is indifference** ("closes a gate like a door it walks past"). Offstage so far. **Dies in Arc 4 — a crew combat-to-the-death** (~Ch41); keep his menace high through Ch32/34 so the death lands. [PLANNED on-page]
 
-**Ash** — second hunter. **LOCKED (Arc-4 on-page reveal):** she is the **niece of the *original* Oscar Alberich** — family to the line Oscar is a fair copy of. She snatches Oscar from Corwen; the **crew believes Oscar is her captive, but Oscar learns he is her guest.** Her identity/relationship is a deliberate **reveal** — do NOT leak it before its Arc-4 beat; the crew (and the reader) should read "captor" first. Does NOT name the architect (Book 2). [PLANNED on-page]
+**Ash** — second hunter; **niece of the *original* Oscar Alberich** (family to the line Oscar copies). **Motivation:** a rebel of the Alberich line who seeks out *made* Oscars that break the cycle and quietly helps them, as she once broke from it. She sees what was meant as a way to live forever as a **nightmare of eternal life**, grown beyond what her uncle first planned; she doesn't know if it can truly be stopped. **She knows more than she tells** — her understanding is partial and she withholds. **Mechanics:** a trickster of the line — out-thinks Oscar by playing into his own cleverness, then blinks the pair away (reskin the ability on the page — no game terms). **Reveal staging (Arc 4):** snatches Oscar from Corwen, the crew reading "captor" first (don't leak early); after a brief split (~1–2 ch) the crew bursts in to find Oscar at ease with her over tea — she's pre-explained what she'll share; she gives him **Quill**, then goes her own way (→ solo chapters in Book 2). **Architect:** her uncle (the original Oscar / Alberich line) devised the cycle — Book 1 **may hint** this through Ash's partial, withheld knowledge; full architect scope stays the **Book-2** reveal. [PLANNED on-page]
 
 **Hauk** — Oressa pit-boss; sold Oscar's whereabouts to the House (→ the cordon). Ch23–24.
 
@@ -138,7 +138,7 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 
 **The Redactor** — Arc-1 editor/corrector monster, built to read places and strike out what doesn't belong.
 
-**Quill** — an **absent companion** of the original Oscar (has **talons**; a recurring "Quill-absence" motif in Arc 1). **Given to Oscar in Arc 4.** Exact nature: TBD beyond "talons / a felt absence."
+**Quill** — the Alberich line's **owl familiar** (the "talons" / "Quill-absence" motif in Arc 1 pays off here). **Ash gives Quill to Oscar in Arc 4**, after which it becomes a **recurring party member** (small roles onward). Oscar could never summon Quill before — not for lack of power, but because **he doesn't truly believe he's a person** (a made copy); summoning it is the moment that belief cracks. Quill plainly loves Oscar, which he finds hard to accept.
 
 ## World / Setting & Rules
 **Cosmology / magic substrate:** Reality is *written* on a cold "**deep current**" / the **Script**. Three living sources of magic:
@@ -244,3 +244,15 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 - [2026-06-28] Ash = niece of the original Oscar; crew thinks captive, learns guest; Arc-4 on-page reveal — session lock.
 - [2026-06-28] Fraying ≡ made-thing unraveling (same phenomenon, seeded for later books) — session lock.
 - [2026-06-28] Ch28 to be extended (incident, not interiority) toward word count — session lock.
+- [2026-06-29] **Arc 4 storyboard decisions** (from the storyboard PR review):
+  - Ash's motive & nature locked (rebel of the line; helps made-Oscars breaking the cycle; immortality-cycle as nightmare; knows more than she tells). See Ash entry.
+  - Ash extracts Oscar by out-thinking him, then a trickster's blink away — **reskin on the page** (no game vocab).
+  - Corwen dies in a **crew combat-to-the-death** (~Ch41); menace kept high through Ch32/34.
+  - Reveal staging: brief split (~1–2 ch) → crew finds Oscar at ease with Ash (she's pre-explained) → she gives Quill → departs solo (Book 2).
+  - **Quill** = Alberich-line **owl familiar**; Ash gives it; recurring party member; Oscar can't summon it until he accepts he's a person.
+  - **Wick's Book-1 climax: she gives herself to the thing at the door to save the crew**; Book-2 spine = rescue Wick.
+  - **Everset** = a high new-magic city, the evolution of the centuries-old cycle; its magic is deep/arcane. **Cael's** devotional (god-granted) power is independent of it — unaffected at Everset.
+  - Intermediate location = an opulent **conjured Alberich manse** (the line is wealthy) — reskin the "spell" name on the page.
+  - **Architect** (Book-2 reveal) MAY be **hinted** in Book 1 via Ash's partial, withheld knowledge (her uncle devised the cycle); full scope stays Book 2.
+  - **POV:** Arc-4 rotation approved; **Cael gets exactly ONE POV chapter** (Ch33 or Ch34, whichever fits) and the other goes to Oscar; **Tarn gets no POV in Book 1.** No hard chapter count — target **~400 pages**.
+- [2026-06-29] **Delegated to the writer to PROPOSE** (not yet canon): the font / erasure-engine mechanics; what "the sweep" is; the Ch34 waystation cost.

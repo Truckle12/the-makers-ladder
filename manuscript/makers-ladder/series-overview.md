@@ -125,7 +125,7 @@ climax-tier ability **"the sweep"** debuts here.
 - The central question Book 2 turns on (implied by the spine: *who made him, and can a made thing
   become its own?* — but not formally locked).
 - How the "other cradles / dead-houses" thread (other sleeping made things) develops.
-- Where the **Wick / her door / the deep / the Warden** thread goes.
+- Where the **Wick / her door / the deep / the Warden** thread goes — partly locked: **Book 2's spine is rescuing Wick** (she gives herself to the door at Book 1's climax).
 - Whether/where **Tarn's unpayable hook** pays off.
 - Antagonist(s) beyond the House apparatus.
 - Comps, length.
@@ -165,15 +165,15 @@ how the succession trap finally resolves, the fates of the ensemble, the final s
   Book 1, Arc 4** (Everset = Evermere remade as the erasure-engine's seat).
 - **Scale-dread** — the Warden's "they're getting better at you" signals there have been **other made
   things**, *without naming the architect.* Planted Book 1; pays off toward **Book 2.**
-- **The architect** (who makes the made things) — **Book 2 reveal.**
+- **The architect** (who makes the made things) — **Book 2 reveal**, but Book 1 **may hint** it through **Ash's partial, withheld knowledge** (her uncle — the original Oscar / Alberich line — devised the cycle). The Warden still never names it.
 - **The fair copy** (the technique) — **Book 2.**
 - **Self-authorship / the succession trap's resolution** — **Book 3.**
 
 **Loaded guns planted in Book 1 for later books:**
 - **Fraying** (catastrophic overdraw) — rare; reserved as a later-books danger.
 - **Tarn's pact-hook** — a working "written never to be paid"; payoff book [TBD].
-- **The door behind Wick** — something vast and hungry in the deep that has noticed her and wants
-  her; still there at Book 1's end (lessened, not gone). Trajectory [TBD].
+- **The door behind Wick** — at Book 1's climax **Wick gives herself to the thing at the door to save
+  the crew**; **Book 2's spine is rescuing her.** (Was [TBD]; now locked.)
 - **Other cradles / dead-houses** — other made things sleeping; thread [TBD].
 
 **Reserved abilities (don't debut early):** **the sweep** (Book 1, Arc 4); **the blank / going
@@ -195,11 +195,12 @@ unread** (later — book [TBD]); **fetches** (later).
 - **Doss** — dead former crewmate; a grief the crew carries.
 - **The Warden** — ageless primal keeper of the wild; Oscar's peer; knows about other made things.
 - **Corwen** — impersonal House finder; **dies Book 1, Arc 4.**
-- **Ash** — second hunter; **LOCKED:** the **niece of the *original* Oscar Alberich**. She snatches
-  Oscar from Corwen; the crew reads her as captor, but Oscar learns he is her **guest**. A deliberate
-  **Arc-4 on-page reveal** — do not leak early. (Does not name the architect — that's Book 2.)
-- **Quill** — the original Oscar's absent companion (talons); **given to Oscar in Book 1, Arc 4**;
-  fuller nature [TBD].
+- **Ash** — second hunter; **niece of the original Oscar Alberich**; a rebel of the line who helps
+  *made* Oscars breaking the cycle. Snatches Oscar from Corwen (crew reads "captor"; Arc-4 reveal —
+  don't leak early); gives him Quill, then departs solo (→ Book 2). Knows more than she tells — **may
+  hint the architect** (her uncle devised the cycle); full reveal is Book 2.
+- **Quill** — the Alberich line's **owl familiar**; **Ash gives it to Oscar in Book 1, Arc 4**; becomes
+  a recurring companion. Oscar can't summon it until he accepts he's a person.
 - **The Redactor** (Bk1 Arc1), **Sarn** & **Brida** (Bk1 Arc2), **Hauk** & **Borr** (Bk1 Arc3) —
   Book-1 figures.
 
