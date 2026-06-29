@@ -56,8 +56,8 @@ progression. Each book title names a rung and turns on the word for being "finis
   intentions, and the wild.** He can **unstitch worked things, never living ones.** A made man
   cannot read the unmade, living world — thematically load-bearing.
 - **Fraying:** a **rare, catastrophic overdraw** danger for a wizard — a **loaded gun for later
-  books**, not a routine cost. (Note: the Warden frames a possibly-distinct *made-thing unraveling*
-  — see Open Threads.)
+  books**, not a routine cost. (LOCKED: the Warden's framing of a *made-thing unraveling* is the
+  **same** phenomenon as fraying — deliberately seeded for later books, not a separate mystery.)
 
 ---
 
@@ -195,7 +195,9 @@ unread** (later — book [TBD]); **fetches** (later).
 - **Doss** — dead former crewmate; a grief the crew carries.
 - **The Warden** — ageless primal keeper of the wild; Oscar's peer; knows about other made things.
 - **Corwen** — impersonal House finder; **dies Book 1, Arc 4.**
-- **Ash** — unrevealed second hunter; identity/allegiance [TBD].
+- **Ash** — second hunter; **LOCKED:** the **niece of the *original* Oscar Alberich**. She snatches
+  Oscar from Corwen; the crew reads her as captor, but Oscar learns he is her **guest**. A deliberate
+  **Arc-4 on-page reveal** — do not leak early. (Does not name the architect — that's Book 2.)
 - **Quill** — the original Oscar's absent companion (talons); **given to Oscar in Book 1, Arc 4**;
   fuller nature [TBD].
 - **The Redactor** (Bk1 Arc1), **Sarn** & **Brida** (Bk1 Arc2), **Hauk** & **Borr** (Bk1 Arc3) —
@@ -207,8 +209,8 @@ unread** (later — book [TBD]); **fetches** (later).
 
 - **Book 1:** Ch1–28 drafted (quality/consistency varies; cleanup ongoing). Arc 4 (Ch~30–42)
   **outlined only at the tentpole level — no chapter outline exists yet.** Its load-bearing unknowns
-  (**Ash**, the **erasure-engine** and **font** mechanics, the climax mechanics, the Book 1↔2 reveal
-  split) are unresolved and gate the outline.
+  (the **erasure-engine** and **font** mechanics, the climax mechanics, the Book 1↔2 reveal
+  split) are unresolved and gate the outline. (**Ash** is now resolved — the original Oscar's niece.)
 - **Book 2:** unplanned beyond the architect + fair-copy reveals and the "unset journeyman" framing.
 - **Book 3:** unplanned beyond the "master" rung, the self-authorship resolution, and an undecided
   title that encodes the ending's valence.

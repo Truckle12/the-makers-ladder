@@ -1,7 +1,7 @@
 ---
 id: b1-ch26-review
 title: Arc 3 review — Book 1 Ch26
-status: draft
+status: ready
 persona_name: chapter-review
 persona_file: prompts/personas/chapter-review.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-26.md
