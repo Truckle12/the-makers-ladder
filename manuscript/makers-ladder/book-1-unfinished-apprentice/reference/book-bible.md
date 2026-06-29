@@ -93,7 +93,7 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 **Arc 2 — "Marrow" (Ch10–17) — [DRAFTED]**
 - Ch10 *Marrow*; Ch11 *A Day's Grace*; Ch12 *Kindling* (Wick-heavy); Ch13 *The Writ*; Ch14 *The Descent*; Ch15 *The Good Claim* (fight; highest em-dash count); Ch16 *The Squeeze* (Tithe-lie); Ch17 *The Example* — all [DRAFTED]
 
-**Ch18–22 — [PARTIAL / UNCONFIRMED]** — Ch18 is established (Brida names Everset). Content/draft status of Ch18–22 is **not confirmed in the current workspace**; treat as a gap to verify with the author before assuming.
+**Ch18–22 — [DRAFTED]** — drafts exist (South / The Open Country / Banked / The Cull / The Bright Market). **LOCKED: Arc 3 = Ch18–28** (the road south through Oressa and the wild). These early chapters predate several locked decisions and need the full revision pass.
 
 **Arc 3 — Oressa & the wild (Ch23–28 drafted) — [DRAFTED]**
 - Ch23 *What's Owed* [DRAFTED] (Oressa pits; Oscar fights; recruits Tarn; crew → 5)
@@ -103,8 +103,9 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 - Ch27 *The Grey* [DRAFTED] (dread-trek; Oscar's gift the wrong tool; Oscar → field architect; hand-off to 28)
 - Ch28 *What Holds* [DRAFTED] (Wick POV; out-holds the source; grey resolved; road south opens)
 
-**Arc 4 — "The Truth" (PLANNED) — [PLANNED]**
-- ~Ch29+ the hunters: Corwen closing in; Ash snatches Oscar; ~Ch30 Kessa-POV reunion. [PLANNED]
+**Arc 4 — "The Truth" (PLANNED) — [PLANNED]. LOCKED: Arc 4 = Ch29–~42** (target ~42 / typical-fantasy word count; flexible — whatever the story needs).
+- The hunter turn (Corwen pressure → Ash snatches Oscar → ~Ch30 Kessa-POV reunion) **opens Arc 4** (it is NOT the close of Arc 3). [PLANNED]
+- The **middle** (≈Ch30 reunion → Everset climax, ~10 chapters) is **undefined and to be brainstormed** in `reference/arc-4-outline.md`. [TO STORYBOARD]
 - Climax: Everset, the font, the Everset = Evermere reveal; Corwen dies; Quill given to Oscar. [PLANNED]
 - Exact chapter breakdown for Ch29–42: TBD — not yet decided.
 
@@ -125,7 +126,7 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 
 **Corwen** — the **finder/hunter** antagonist; **impersonal House apparatus; the dread is indifference** ("closes a gate like a door it walks past"). Offstage so far. **Dies in Arc 4.** [PLANNED on-page]
 
-**Ash** — second hunter; **as-yet-unrevealed.** Snatches Oscar from Corwen (~Arc 4). Nature/identity: TBD — not yet decided. [PLANNED]
+**Ash** — second hunter. **LOCKED (Arc-4 on-page reveal):** she is the **niece of the *original* Oscar Alberich** — family to the line Oscar is a fair copy of. She snatches Oscar from Corwen; the **crew believes Oscar is her captive, but Oscar learns he is her guest.** Her identity/relationship is a deliberate **reveal** — do NOT leak it before its Arc-4 beat; the crew (and the reader) should read "captor" first. Does NOT name the architect (Book 2). [PLANNED on-page]
 
 **Hauk** — Oressa pit-boss; sold Oscar's whereabouts to the House (→ the cordon). Ch23–24.
 
@@ -152,7 +153,7 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 
 **Unstitching / unmaking:** Oscar can unmake **worked things only** — never living things. A living rot (the grey) has "no seam, no rule, nothing made" for him to undo.
 
-**Fraying:** a **wizard's catastrophic overdraw** danger (push too hard → risk being torn apart). **Rare; a loaded gun for later books; NOT a per-fight/per-chapter gauge** and not a routine cost of using magic. **Oscar is fully rested after Oressa** (treat downtime as a long rest; the wild replenishes him with travel). Do not invoke "fraying," "blurry," or "thinning at the edges" for ordinary exertion. (Note: the Warden's Ch26 warning frames an *unraveling specific to made things* — see Open Questions; do not silently equate or split this from wizard-fraying.)
+**Fraying:** a **wizard's catastrophic overdraw** danger (push too hard → risk being torn apart). **Rare; a loaded gun for later books; NOT a per-fight/per-chapter gauge** and not a routine cost of using magic. **Oscar is fully rested after Oressa** (treat downtime as a long rest; the wild replenishes him with travel). Do not invoke "fraying," "blurry," or "thinning at the edges" for ordinary exertion. (The Warden's Ch26 "a made thing can spend until there's not enough of it left to hold its shape" is the **same** phenomenon as wizard-fraying — **deliberate seeding for future books**, not a separate mystery.)
 
 **The grey (Arc 3, RESOLVED):** the **wild's own** living sickness — self-contained, **NOT** tied to the House or Everset. It spreads through the deep current like rot through a root, hollowing creatures and filling them with bottomless *want*. The Warden can't touch the source (it would climb into her). The crew can (no deep-root for it to climb). Resolved Ch28 by Wick out-holding it.
 
@@ -197,12 +198,13 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 
 ## Open Questions / Unresolved
 - **Book 3 title** — TBD (debated; no decision).
-- **Wizard-fraying vs. made-thing unraveling** — the Warden's Ch26 warning ("a made thing can spend until there's not enough of it left to hold its shape") frames an unraveling *specific to made things.* Whether this is the same phenomenon as wizard-fraying or a deliberately distinct mystery is **undecided** — flag, do not silently resolve.
+- ~~**Wizard-fraying vs. made-thing unraveling**~~ — **RESOLVED:** they are the **same phenomenon**, and the Warden's Ch26 line is **deliberately seeding it for future books.** Treat fraying and made-thing unraveling as one thing; keep the Ch26 framing as foreshadowing (still rare, still a loaded gun — not a per-fight gauge).
 - **Ch26 cadence thinning** (em ~15/1,000; "the way" ~10) — offered, not done.
-- **Ch28 length** — lean (~2,428); extend with incident (not interiority) or leave — author's call.
+- ~~**Ch28 length**~~ — **RESOLVED: extend** (with incident, not interiority) to help hit target word count.
 - **Comps** — TBD.
-- **Ch18–22** — content and draft status unconfirmed; verify.
-- **Ash** — identity/nature unrevealed/undecided.
+- ~~**Ch18–22**~~ — **RESOLVED:** drafts exist; Arc 3 = Ch18–28.
+- ~~**Ash**~~ — **RESOLVED:** niece of the original Oscar Alberich; crew thinks captive, learns guest (Arc-4 on-page reveal — don't leak early).
+- **Arc 3/4 boundary** — **RESOLVED:** Arc 3 = Ch18–28; Arc 4 = Ch29+ (hunter turn opens Arc 4).
 - **Sarn's believable belief** — revision note, not yet applied.
 - **Arc 4 chapter breakdown (Ch29–42)** — TBD.
 - **Arc 1 / Arc 2 deferred revision passes** — planned for after Arc 3 completes (see Backlog); not yet executed.
