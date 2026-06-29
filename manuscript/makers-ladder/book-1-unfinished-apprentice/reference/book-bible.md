@@ -234,3 +234,13 @@ Oscar Alberich wakes under the ice in a **buried, dead city** with the mind, mem
 5. Saved as a file (`Oscar_Book1_Ch##_Title.md`) and presented; any edits to existing chapters logged.
 
 **Parallel deferred track (after Arc 3 completes):** run the **Arc 2 revision pass first, then Arc 1 (lightest touch)**, per `Oscar_Arc1_Arc2_RevisionBacklog.md` and `Oscar_StyleGuardrail.md` — cut the over-explanation/echo **and** add the developmental items (uprising friction Ch16–17; Sarn a believable belief; Wick mystery → symptoms; compress the Tithe-lie across Ch15→17; Kessa a private-cost beat; Brida a personal detail; consistent visible magic costs; Ch8 trim 10–15%). Preserve voice; do not over-correct.
+
+---
+
+## Decisions Log (append-only)
+*Locked decisions, newest at the bottom. The `canon-keeper` agent appends here as reviews/revisions resolve things; do not rewrite history — only add.*
+
+- [2026-06-28] Arc 3 = Ch18–28; Arc 4 = Ch29–~42 (hunter turn opens Arc 4) — session lock.
+- [2026-06-28] Ash = niece of the original Oscar; crew thinks captive, learns guest; Arc-4 on-page reveal — session lock.
+- [2026-06-28] Fraying ≡ made-thing unraveling (same phenomenon, seeded for later books) — session lock.
+- [2026-06-28] Ch28 to be extended (incident, not interiority) toward word count — session lock.
