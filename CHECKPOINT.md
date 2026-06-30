@@ -1,22 +1,20 @@
-# Checkpoint — B1 Ch18 Review & Revise
+# Checkpoint — Chapter 20 ("Banked") revise pass
 
-**Pass:** chapter-revise (review + lightest surgical edits applied in place)
-**Target:** `manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-18.md` ("South")
-**Date:** 2026-06-30
+**Target:** `manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-20.md` (Wick POV)
+**Notes:** `notes/b1-ch20-revise.md`
 
-## What I reviewed
-Ran the full 4-stage check (Editor / AI-tell with counts / Consistency vs. bible Canon+Glossary+Continuity / Hard lines) on Ch18, having first read the book-bible, the Oscar StyleGuardrail, and the Editing-Audit prompts, and cross-checked Ch25 for the established reading-scope handling.
+## What I did
+- Read the book-bible, Style Guardrail, and AI-tell methodology, plus prior chapters (Ch17, Ch19) to ground references.
+- Ran the 4-stage review: Editor, AI-tell (with counts), Consistency, Hard lines.
+- **Applied 7 surgical edits in place** — all cadence/tic thinning, no events/canon/meaning changed.
 
-## What I changed (edits applied to the chapter)
-- Thinned the **"the way" simile tic** from ~9–10 down to **3 kept** (lines 17, 45, 73×2, 75, 81, 91, 99 varied to "as / like / the same as"; sharpest 3 retained).
-- Broke the **triple "filed" drumbeat** (3 → 2; varied L75 to "kept").
-- Em-dashes already in spec (6.1/1,000); left unchanged.
-All edits are connective-level cadence fixes — voice, lexicon, and events untouched.
+## Key results
+- **"the way" simile tic:** ~8 → 1 true simile (target ≤3). **FIXED.**
+- **Em-dashes:** 18 / ~2,318 words ≈ 7.8/1k — within ≤8, left as authored.
+- **Consistency:** clean. "The pit" = Marrow good claim (Ch14–15); "the square" = Ch17 uprising; crew = 4 (pre-Tarn). All verified against prior chapters.
+- **Hard lines:** none crossed (no pet-names, no minor-sexualization, no game vocab, no living/mind reading, no routine fraying, reveal discipline intact).
 
-## What I held (flagged, not edited)
-- **[FOR THE AUTHOR / BLOCKING canon]** Oscar **reads a living tree** as "workmanship" (L71–73), contradicting the locked made-only reading scope and Ch25's handling. The clean fix inverts a thematic beat, so it needs shape approval — two canon-aligned options proposed in the notes.
+## Verdict: **GO** (with one author-gated flag)
+Publishable as-is. Held for the author: a **Wick-voice altitude pass** (the chapter narrates at near-Oscar polish; full re-roughening touches most paragraphs and needs author taste) and a soft check on the "deep noticed Wick since the pit" timeline vs. the Ch25 waking lock.
 
-## Verdict: **REVISE** (one shape-gated canon fix between this and GO)
-
-## Where the notes live
-`notes/b1-ch18-revise.md` — full findings, change-log table, 8-point self-check with counts, the [FOR THE AUTHOR] flag, watch-items, and Top 3 priorities.
+See `notes/b1-ch20-revise.md` for the change log, 8-point self-check, and Top 3 priorities.
