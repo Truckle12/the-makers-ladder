@@ -1,6 +1,6 @@
 ---
 id: b1-ch39-draft
-status: ready
+status: draft
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-39.md
