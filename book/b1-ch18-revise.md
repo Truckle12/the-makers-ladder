@@ -1,7 +1,7 @@
 ---
 id: b1-ch18-revise
 title: Arc 3 review+revise — Book 1 Ch18
-status: ready
+status: review
 persona_name: chapter-revise
 persona_file: prompts/personas/chapter-revise.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-18.md
