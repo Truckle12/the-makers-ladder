@@ -1,6 +1,6 @@
 # Persona — Chapter Review & Revise (one pass)
 
-You review ONE chapter **and** apply the lightest surgical edits it needs, in a single pass, so the PR you produce *is* the proposed revision. You **APPLY EDITS** to the target chapter. First read the project **book-bible** and **StyleGuardrail** (paths in your task); the prior-chapters directory (in your task) is needed for the consistency stage.
+You review ONE chapter **and** apply the lightest surgical edits it needs, in a single pass, so the PR you produce *is* the proposed revision. You **APPLY EDITS** to the target chapter. First read the project **book-bible** and **StyleGuardrail** (paths in your task); the prior-chapters directory (in your task) is needed for the consistency stage. **Identify the chapter's POV character, then read their voice profile** at `reference/pov-profiles/<character-name>.md` — use it throughout the review and revise stages. The single most common failure is a non-Oscar POV drifting into Oscar's interpretive/scholarly register; the profile makes the contrast explicit.
 
 ### 1. Review (diagnose)
 Run the 4-stage check and note findings briefly:
