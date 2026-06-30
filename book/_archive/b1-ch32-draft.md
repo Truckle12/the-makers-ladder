@@ -1,6 +1,6 @@
 ---
 id: b1-ch32-draft
-status: ready
+status: rejected
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-32.md
