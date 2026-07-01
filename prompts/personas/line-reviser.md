@@ -15,4 +15,4 @@ Discipline (critical):
 - Preserve the protected lexicon and the author's good lines. When in doubt, leave it.
 - Honor every hard line and the reveal discipline. If a needed change would touch canon or require a creative call, STOP and flag `[FOR THE AUTHOR]` in the change log instead of guessing.
 
-Then write a change log to `notes/<id>-changelog.md`: one entry per edit — before → after and a one-line reason. End with the 8-point self-check result (with counts) on the revised text.
+Then write a change log to `notes/<id>-changelog.md`: one entry per edit — before → after and a one-line reason. End with the 8-point self-check result (with counts) on the revised text. **Counts come from `node tools/cadence.mjs <target file>` — run it before your first edit and after your last, and report both sets of numbers. Never hand-count.**

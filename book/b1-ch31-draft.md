@@ -1,6 +1,7 @@
 ---
 id: b1-ch31-draft
-status: ready
+status: draft
+parked_reason: Sequential drafting — hold until Ch29 is drafted and Ch30 (PR 13) is reconciled against it; then set ready (or re-drive via the `next` label on the Ch30 PR).
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-31.md
