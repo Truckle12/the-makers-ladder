@@ -1,20 +1,27 @@
-# Checkpoint — Chapter 20 ("Banked") revise pass
+# Checkpoint — B1 Ch18 "South" Review & Revise (rev1)
 
-**Target:** `manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-20.md` (Wick POV)
-**Notes:** `notes/b1-ch20-revise.md`
+**Pass:** chapter-revise rev1 (review + lightest surgical edits applied in place)
+**Target:** `manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-18.md` ("South")
+**Date:** 2026-06-30
+**Driving feedback:** PR #11 — @Truckle12 approved the `(Ch25-consistent) Scope it to the Script` fix.
 
-## What I did
-- Read the book-bible, Style Guardrail, and AI-tell methodology, plus prior chapters (Ch17, Ch19) to ground references.
-- Ran the 4-stage review: Editor, AI-tell (with counts), Consistency, Hard lines.
-- **Applied 7 surgical edits in place** — all cadence/tic thinning, no events/canon/meaning changed.
+## What I reviewed
+Read the book-bible (canon + Decisions Log), the Oscar StyleGuardrail (locked style + 8-point self-check), the AI-tell audit methodology, the target Ch18, the prior pass's notes (`notes/b1-ch18-revise.md`), and Ch25 (to mirror the approved spring-scoping fix). Re-ran the 4-stage check (Editor / AI-tell with counts / Consistency / Hard lines).
 
-## Key results
-- **"the way" simile tic:** ~8 → 1 true simile (target ≤3). **FIXED.**
-- **Em-dashes:** 18 / ~2,318 words ≈ 7.8/1k — within ≤8, left as authored.
-- **Consistency:** clean. "The pit" = Marrow good claim (Ch14–15); "the square" = Ch17 uprising; crew = 4 (pre-Tarn). All verified against prior chapters.
-- **Hard lines:** none crossed (no pet-names, no minor-sexualization, no game vocab, no living/mind reading, no routine fraying, reveal discipline intact).
+## What I changed (edits applied to chapter-18.md)
+- **Headline fix (approved canon):** the night-fire study scene no longer has Oscar *read the living tree as workmanship*. The living tree now returns **nothing** (per the made-only HARD SCOPE); his "getting better" beat is scoped to the **deep current / the Script the tree is *written on***, mirroring the Ch25 spring fix. This also dissolved the two "the way" tics formerly trapped in that paragraph.
+- **Cadence:** thinned four formulaic "noun—appositive/list" em-dashes (incl. two the rewrite introduced) to periods/semicolons/colons.
 
-## Verdict: **GO** (with one author-gated flag)
-Publishable as-is. Held for the author: a **Wick-voice altitude pass** (the chapter narrates at near-Oscar polish; full re-roughening touches most paragraphs and needs author taste) and a soft check on the "deep noticed Wick since the pit" timeline vs. the Ch25 waking lock.
+## State after the pass
+- Reading-scope violation: **resolved** (was the prior pass's only blocker).
+- Em-dashes: 31 → **27** (8.9 → **7.74 / 1,000**, under ≤8).
+- "the way" similes: **3 genuine + 1 idiom** (≤3).
+- No banned phrases; protected lexicon intact and strengthened; no events/canon changed.
 
-See `notes/b1-ch20-revise.md` for the change log, 8-point self-check, and Top 3 priorities.
+## Verdict: **GO**
+Remaining items are minor watch-items for the broader Ch18–22 full pass ("a guard" vs "the brace" figure-name; the polite-hunter timeline vs the Ch24 cordon origin) — not blockers.
+
+## Where the notes live
+`notes/b1-ch18-revise-rev1-chapter-revise.md` — full findings, change-log table, 8-point self-check with counts, watch-items, and Top 3 priorities.
+
+> Do not `git commit` — the runner handles commits.
