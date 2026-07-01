@@ -19,6 +19,7 @@ import { fileURLToPath } from "node:url";
 // Reuse the one workflow→persona registry (pure data, no deps) so the CLI, the web
 // app, and the bot all enqueue identically.
 import { FORGE_WORKFLOWS, buildTaskBody } from "../web/lib/forge-workflows.js";
+import { fetchBookPRs, prStatus } from "./prs.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -50,14 +51,20 @@ function scan() {
   const dir = queueDir();
   const abs = path.join(ROOT, dir);
   if (!existsSync(abs)) return [];
+  const prs = fetchBookPRs(); // reconcile with real GitHub PR state (graceful if gh absent)
   return readdirSync(abs)
     .filter((f) => f.endsWith(".md"))
     .map((f) => {
       const d = parseFrontmatter(readFileSync(path.join(abs, f), "utf8"));
+      const id = d.id || f.replace(/\.md$/, "");
+      const local = String(d.status || "").toLowerCase();
+      const pr = prs.get(id) || null;
       return {
-        id: d.id || f.replace(/\.md$/, ""),
+        id,
         title: d.title || "",
-        status: String(d.status || "").toLowerCase(),
+        status: prStatus(pr) || local, // effective status: PR truth wins over stale local
+        localStatus: local,
+        pr: pr ? { number: pr.number, state: pr.state, isDraft: pr.isDraft, reviewDecision: pr.reviewDecision, url: pr.url } : null,
         target: d.target || "",
         persona: d.persona_name || "",
         file: `${dir}/${f}`,
@@ -66,30 +73,37 @@ function scan() {
     .sort((a, b) => a.id.localeCompare(b.id));
 }
 
-// Map raw engine statuses to buckets the user thinks in.
+// Map effective statuses to buckets the user thinks in.
 function bucket(status) {
-  if (status === "review") return "attention"; // finished a pass, awaiting the author
-  if (status === "ready") return "ready"; // will run on the next engine pass
-  if (status === "draft") return "draft"; // not yet promoted to ready
+  if (status === "needs_review" || status === "review") return "attention"; // awaiting the author
+  if (status === "reviewed" || status === "approved") return "reviewed"; // author has acted; engine/merge next
+  if (status === "ready" || status === "running") return "ready"; // will run / running
+  if (status === "draft") return "draft"; // not yet promoted
+  if (status === "complete") return "done";
   return "other";
 }
 
 function summarize(items) {
-  const counts = { attention: 0, ready: 0, draft: 0, other: 0 };
+  const counts = { attention: 0, reviewed: 0, ready: 0, draft: 0, done: 0, other: 0 };
   for (const it of items) counts[bucket(it.status)]++;
-  const attention = items.filter((it) => bucket(it.status) === "attention");
-  const ready = items.filter((it) => bucket(it.status) === "ready");
-  return { total: items.length, counts, attention, ready };
+  const pick = (b) => items.filter((it) => bucket(it.status) === b);
+  return { total: items.length, counts, attention: pick("attention"), reviewed: pick("reviewed"), ready: pick("ready") };
 }
+
+const prTag = (it) => (it.pr ? ` [PR #${it.pr.number}${it.pr.reviewDecision === "CHANGES_REQUESTED" ? " · changes requested" : it.pr.reviewDecision === "APPROVED" ? " · approved" : ""}]` : "");
 
 function human(s) {
   const lines = [];
   lines.push(
-    `Queue — ${s.total} items: ${s.counts.attention} need you · ${s.counts.ready} ready to run · ${s.counts.draft} draft.`
+    `Queue — ${s.total} items: ${s.counts.attention} need you · ${s.counts.reviewed} reviewed · ${s.counts.ready} ready · ${s.counts.draft} draft.`
   );
   if (s.attention.length) {
-    lines.push("", "Needs you:");
-    for (const a of s.attention) lines.push(`• ${a.id} — ${a.title || "(untitled)"}`);
+    lines.push("", "Needs you (awaiting review):");
+    for (const a of s.attention) lines.push(`• ${a.id} — ${a.title || "(untitled)"}${prTag(a)}`);
+  }
+  if (s.reviewed.length) {
+    lines.push("", "Reviewed (you've acted):");
+    for (const r of s.reviewed) lines.push(`• ${r.id}${prTag(r)}`);
   }
   if (s.ready.length) {
     lines.push("", "Ready to run:");
