@@ -13,9 +13,12 @@
 //   node tools/forge.mjs queue            # human-readable summary (good for Discord)
 //   node tools/forge.mjs queue --json     # machine-readable JSON
 
-import { readdirSync, readFileSync, existsSync } from "node:fs";
+import { readdirSync, readFileSync, existsSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+// Reuse the one workflow→persona registry (pure data, no deps) so the CLI, the web
+// app, and the bot all enqueue identically.
+import { FORGE_WORKFLOWS, buildTaskBody } from "../web/lib/forge-workflows.js";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -95,6 +98,59 @@ function human(s) {
   return lines.join("\n");
 }
 
+// --- enqueue -----------------------------------------------------------------
+
+function flag(rest, name, def = "") {
+  const i = rest.indexOf(`--${name}`);
+  return i >= 0 && rest[i + 1] ? rest[i + 1] : def;
+}
+
+const slug = (s) => String(s).replace(/[^a-zA-Z0-9_-]/g, "-");
+
+// Minimal YAML frontmatter serializer (double-quote every string value; safe for the
+// flat key: value shape the engine parses). Avoids a gray-matter dep here.
+function frontmatter(data) {
+  const q = (v) => `"${String(v).replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
+  const lines = Object.entries(data).map(([k, v]) =>
+    typeof v === "number" ? `${k}: ${v}` : `${k}: ${q(v)}`
+  );
+  return `---\n${lines.join("\n")}\n---\n`;
+}
+
+// Write one queue item. Defaults to status "draft" (safe backlog — will NOT be picked
+// up by an engine run until promoted to "ready"), so a phone capture can't trigger spend.
+function addItem(rest) {
+  const wfId = flag(rest, "workflow");
+  const target = flag(rest, "target").replace(/\\/g, "/");
+  const direction = flag(rest, "direction");
+  const status = flag(rest, "status", "draft");
+  const canonPath = flag(rest, "canon");
+  const wf = FORGE_WORKFLOWS.find((w) => w.id === wfId);
+  if (!wf) throw new Error(`Unknown workflow "${wfId}". Known: ${FORGE_WORKFLOWS.map((w) => w.id).join(", ")}`);
+  if (!target) throw new Error("A --target is required.");
+
+  const targetSlug = slug(target.replace(/^.*\//, "").replace(/\.md$/, ""));
+  const stamp = new Date().toISOString().slice(0, 19).replace(/[:T]/g, "-");
+  const id = slug(`forge-${wf.id}-${targetSlug}-${stamp}`);
+  const title = flag(rest, "title") || `${wf.label} — ${targetSlug}`;
+
+  const data = {
+    id,
+    title,
+    status, // "draft" (safe) unless caller passes --status ready
+    persona_name: wf.persona_name,
+    persona_file: `prompts/personas/${wf.persona_name}.md`,
+    target,
+    max_turns: 25,
+    forge_source: "cli",
+  };
+  const body = buildTaskBody({ workflow: wf, direction, canonPath });
+  const dir = path.join(ROOT, queueDir());
+  const file = path.join(dir, `${id}.md`);
+  writeFileSync(file, `${frontmatter(data)}\n${body}\n`);
+  return { id, file: `${queueDir()}/${id}.md`, status, title };
+}
+
 function main() {
   const [cmd, ...rest] = process.argv.slice(2);
   const asJson = rest.includes("--json");
@@ -105,8 +161,15 @@ function main() {
       console.log(asJson ? JSON.stringify(s, null, 2) : human(s));
       break;
     }
+    case "add": {
+      const r = addItem(rest);
+      console.log(
+        asJson ? JSON.stringify(r, null, 2) : `Added ${r.status} item: ${r.id}\n${r.title}\n${r.file}`
+      );
+      break;
+    }
     default:
-      console.log("Usage: node tools/forge.mjs queue [--json]");
+      console.log("Usage:\n  node tools/forge.mjs queue [--json]\n  node tools/forge.mjs add --workflow <id> --target <path> [--title <t>] [--direction <d>] [--status draft|ready]");
       process.exit(cmd ? 1 : 0);
   }
 }
