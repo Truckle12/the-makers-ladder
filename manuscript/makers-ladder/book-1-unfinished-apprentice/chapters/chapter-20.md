@@ -6,7 +6,7 @@ That was the whole of it: the thing the pit had nearly killed her to learn, and 
 
 She was getting good at it. She let herself think that, walking at the back of the crew with the spring sun on her neck and the green country opening up ahead, because it was true and because nobody else could know it so somebody had to. *I'm getting good at it.* Three months ago the coal had run her. Down in the pit it had nearly taken her all the way—she'd reached past it, reached for the deep, the cold roaring underneath that was so much bigger than a coal, and she'd have drowned in it if the crew hadn't hauled her back by the collar of her own self. But in the square, with the cord coming and children screaming and every reason in the world to reach deep and burn it all down—she'd held. Coal, not fire. Aimed, not flooded. A lash to take a sword-hand, a wall of heat to back the cord off the little ones, and never, not once, the deep.
 
-She'd held the whole battle on the part of herself she could carry. And she hadn't told anyone how close it had been anyway, how the deep had been right there the entire time, patient and *interested,* the same as it always was now since the pit, like a thing that had gotten a good look at her and decided to wait.
+She'd held the whole battle on the part of herself she could carry. And she hadn't told anyone how close it had been anyway—how the whole time there'd been a cold pull down under the coal, low and steady, tugging at her, and it hadn't let up once since the pit. It didn't let up now. She'd stopped waiting for it to.
 
 Because that was the other half of the trick, the half she didn't have a clean name for. It wasn't just that the fire wanted to be bigger. It was that something on the far side of the door her mark opened *wanted her to let it.*
 
@@ -20,7 +20,7 @@ She'd found it in the good claim haul, in the crate the others were calling trea
 
 And she'd taken it anyway, before she'd thought about it, the way you'd close your hand around something falling. *Mine.* No reason. It didn't warm to her or sing to her or do any of the things the stories said a girl's secret treasure was supposed to do. It just sat in her pocket being heavy and grey and hers, and every time her fingers found it she felt, faintly, what you feel reaching for a word you can't remember—that it was a question, and the question had her name on it, and she wasn't going to get the answer by wanting it.
 
-She liked it because it was quiet. Everything else about her was loud now—the coal, the deep, the door, the thing waiting—and the token just sat there asking its one patient question and never once tried to take her over. It was restful, having something in her life that wasn't trying to be more than it was.
+She liked it because it was quiet. Everything else about her was loud now—the coal, the deep, the door, the thing waiting—and the token just sat there being a rock, asking its one question, never once trying to take her over. One thing in her whole life that wasn't trying to get bigger. She put her thumb on it and pressed.
 
 "You're rubbing that rock again," Kessa said, not turning around. Kessa never turned around and always knew.
 
@@ -30,7 +30,7 @@ She liked it because it was quiet. Everything else about her was loud now—the 
 
 "Some."
 
-She hadn't. She didn't, much, anymore. But Kessa let it lie, because Kessa carried her own dead in a knife she never put down and understood, better than anyone, that some things a person held alone on purpose.
+She hadn't. She didn't, much, anymore. But Kessa let it lie. Kessa carried her own dead in a knife she never put down; she wasn't the type to go digging in anybody else's pockets.
 
 ---
 
@@ -42,13 +42,13 @@ She watched Oscar a lot. She figured she was allowed; he was supposed to be teac
 
 He didn't know a lot of things, lately. That was the part that sat wrong in her, worse than the coal.
 
-He didn't know how close the pit had been. He thought she'd reached too far and gotten lucky and learned her lesson, and that was true as far as it went, but he didn't know about the *door,* or the thing on the far side of it that had noticed her down there in the dark and hadn't stopped noticing since. He didn't know that when he praised her for holding in the square—*you were magnificent, Wick, you didn't reach for any of it*—she'd had to look away, because she hadn't told him that holding had stopped being about whether she *could* and started being about whether she *would,* about a wanting that wasn't all hers anymore. He trusted her. He looked at her like she was a person who'd solved her problem, growing nicely, his apprentice coming along.
+He didn't know how close the pit had been. He thought she'd reached too far and gotten lucky and learned her lesson, and that was true as far as it went, but he didn't know about the *door.* He didn't know that since the pit there'd been a cold spot low at the back of her that no fire touched—not the coal, not the campfire, not the sun on her neck all afternoon. He didn't know that when he praised her for holding in the square—*you were magnificent, Wick, you didn't reach for any of it*—she'd had to look away, because she hadn't told him that holding had stopped being about whether she *could* and started being about whether she *would,* about a wanting that wasn't all hers anymore. He trusted her. He looked at her like she was a person who'd solved her problem, growing nicely, his apprentice coming along.
 
 She let him. She told herself it was kindness. Some nights, at the back of the crew with the token in her fist, she knew it was just fear—that if she said it out loud, *something wants me and I think part of me wants it back,* he'd look at her the new way, the careful way, the look you give a thing that might go off. And she would rather carry it alone forever than be looked at like that by Oscar.
 
 So she held the coal, and she held the secret, and she held the token, and she walked.
 
-She was good at holding. It was the only thing she was sure she was good at. She just wished, sometimes, that being good at a thing didn't mean doing it completely by yourself.
+She was good at holding. It was the only thing she was sure she was good at. And she was so tired of doing it by herself.
 
 ---
 
@@ -58,7 +58,7 @@ Nothing *happened,* which was the worst part. They were fording a cold quick str
 
 But it had been so *fast.* Faster than a month ago. The reaching for the coal was supposed to be the slow part, the part she ran—and lately it wasn't slow. Lately the coal met her halfway, leaning toward every spark of cold and fear and temper like a dog that had learned the sound of its own leash coming off. She was holding it as hard as she ever had. It just took more to hold the same amount, a little more every day, and she didn't know why, and there was no one to ask, because asking meant telling, and telling meant—
 
-She walked the rest of that day wet and quiet and frightened in a way she couldn't point at, frightened of nothing in the world but herself, and by the time they made camp she was so tired of being the only one who knew it that she'd nearly stopped being able to bear it.
+She walked the rest of that day wet and quiet and scared, and the stupid part was she couldn't even say of what—not the road, not the cord, nothing out there she could hit. Just her. Just the thing she was. And by the time they made camp she was so sick of being the only one who knew it that she'd nearly stopped being able to carry it.
 
 When Oscar came to take the second watch and folded himself down beside her by the banked fire, reaching, the way he did, for some dry joke about the cold to put them both at ease—she didn't let him get to it.
 
