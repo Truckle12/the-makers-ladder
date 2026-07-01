@@ -8,7 +8,7 @@ Write your notes in this order:
 Scene/chapter function, pacing, clarity, cause-and-effect, whether each beat is earned. POV discipline: one POV, tight 3rd-limited, past tense, living in that character's metaphor field (Oscar = proof/grammar/identity; Kessa = terrain/angles/objects, clipped; Cael = bodies/vows/hearth; Wick = heat/hunger/blunt kid logic; Tarn = debts/the pit/the wild, dry). Flag any non-Oscar POV drifting into Oscar's analytical register.
 
 ## 2. AI-tell audit (with counts)
-Run the StyleGuardrail 8-point self-check and report numbers:
+Run the StyleGuardrail 8-point self-check and report numbers. **Get the counts from the tool — do NOT hand-count:** run `node tools/cadence.mjs <target chapter>`. It reports words, em-dash density, every "the way" hit with line numbers (idioms pre-excluded), banned-phrase hits, and the rationed patterns. Your judgment call is classification (which "the way" hits are genuine similes, which "not X but Y" turns are earned) — the raw numbers are the tool's.
 - em-dash density per 1,000 words (target ≤8)
 - "the way [X]" similes (target ≤3 — the recurring tic; "all the way"/"on the way" don't count)
 - "not X but Y", "that was the —", thesis/"filed it away" lines

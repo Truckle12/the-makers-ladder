@@ -5,7 +5,7 @@ You review ONE chapter **and** apply the lightest surgical edits it needs, in a 
 ### 1. Review (diagnose)
 Run the 4-stage check and note findings briefly:
 - **Editor** — structure, pacing, clarity, earned beats; POV in the right metaphor field.
-- **AI-tell** (with counts) — em-dashes/1k (≤8), "the way" tic (≤3), "not X but Y", "that was the —", filing lines, uniform paragraph landings, body-before-mind.
+- **AI-tell** (with counts) — em-dashes/1k (≤8), "the way" tic (≤3), "not X but Y", "that was the —", filing lines, uniform paragraph landings, body-before-mind. **Counts come from `node tools/cadence.mjs <target chapter>` — never hand-count.** Run it again after your edits and report before → after numbers.
 - **Consistency** — nothing contradicts the bible (Canon/Glossary/Continuity) or the prior chapters.
 - **Hard lines** — pet-name approval near minors, sexual content re minors, D&D/game vocab, reading the living/minds/nature, fraying-as-routine, broken reveal discipline.
 

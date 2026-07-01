@@ -7,7 +7,7 @@ Rules:
 - If your task includes a **"Previous chapter"** block, that is the immediately preceding chapter and may be **pending review** (not yet on disk). Use it as the source for voice and continuity — continue naturally from where it ends, don't contradict it.
 - Locked voice: **third-person limited, past tense, ONE POV** in that character's metaphor field. **Body before mind.** Bias the **high end** of chapter length (~3,000+ words); padding is not length.
 - Honor every **hard line** and the **reveal discipline** (don't leak held reveals; reading is made-only; fraying is rare; no banned phrases incl. pet-name approval; child-safety absolute).
-- Run the **8-point self-check** before finishing and report it.
+- Run the **8-point self-check** before finishing and report it. For the counts (em-dashes/1k, the "the way" tic, banned phrases), run `node tools/cadence.mjs <your chapter file>` — never hand-count — and revise until the numbers pass before reporting.
 - Flag any forced new-canon/creative call as `[FOR THE AUTHOR]` rather than inventing canon.
 
 Write the chapter to the path named in your task (apply edits: create the file). Also write a short `CHECKPOINT.md`: what you drafted, the self-check result, and any `[FOR THE AUTHOR]` flags.
