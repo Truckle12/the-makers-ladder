@@ -1,0 +1,16 @@
+[
+  {
+    "key": "corp-hell",
+    "title": "Corporate Hell (game)",
+    "roots": ["games/corporate-hell"],
+    "exclude": ["/source/", "AUTHOR-REVIEW.md"],
+    "out": "games/corporate-hell/AUTHOR-REVIEW.md"
+  },
+  {
+    "key": "makers-ladder",
+    "title": "Maker's Ladder — Book 1 (book)",
+    "roots": ["notes", "manuscript/makers-ladder/book-1-unfinished-apprentice/reference"],
+    "exclude": ["corp-hell", "AUTHOR-REVIEW.md"],
+    "out": "manuscript/makers-ladder/book-1-unfinished-apprentice/AUTHOR-REVIEW.md"
+  }
+]
