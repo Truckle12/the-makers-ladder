@@ -3,7 +3,8 @@ id: b1-arc4-outline-rev1-rev1
 title: >-
   Arc 4 storyboard — brainstorm middle + flesh chapter premises (Ch29-42)
   (revision) (revision)
-status: ready
+status: rejected
+rejected_reason: Its critique pass produced the storyboard-architect review (PR #27), which is now folded into b1-arc4-outline-rev2. Superseded.
 persona_name: storyboard-architect
 persona_file: prompts/personas/storyboard-architect.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/reference/book-bible.md
