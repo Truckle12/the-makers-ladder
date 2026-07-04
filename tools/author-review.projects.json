@@ -3,7 +3,7 @@
     "key": "corp-hell",
     "title": "Corporate Hell (game)",
     "roots": ["games/corporate-hell"],
-    "exclude": ["/source/", "AUTHOR-REVIEW.md"],
+    "exclude": ["/source/", "AUTHOR-REVIEW.md", "game-bible.md", "corporate-hell/README.md"],
     "out": "games/corporate-hell/AUTHOR-REVIEW.md"
   },
   {
