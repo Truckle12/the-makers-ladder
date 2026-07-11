@@ -1,26 +1,50 @@
-# Checkpoint — Chapter 20 ("Banked") Wick voice pass
+# CHECKPOINT — Arc 4 storyboard rev2 (storyboard-architect pass)
 
-**Target:** `manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-20.md` (Wick POV)
-**Notes:** `notes/b1-ch20-wick-voice.md`
-**Date:** 2026-07-01 · Supersedes the prior `b1-ch20-revise` checkpoint (that pass's GO stands; this is the follow-up Wick-voice altitude pass it flagged).
+**Run:** book lane, storyboard-architect persona, APPLY EDITS. Item `b1-arc4-outline-rev2-rev1`.
+Supersedes the prior Ch20 Wick-voice checkpoint (that pass's GO stands; this is a different unit).
 
 ## What I did
-- Read the book-bible (Wick canon + private terms), `Oscar_StyleGuardrail.md`, and `reference/pov-profiles/wick.md`.
-- Targeted voice pass on Wick's interiority ONLY. Voice only — no structural, event, or canon changes.
-- **Applied 6 surgical edits in place**, covering the three binding directives:
-  - **(a)** re-roughened 1 scared paragraph into pile-up/fragments (stream aftermath).
-  - **(b)** replaced 3 aphoristic paragraph landings with action/object/blunt lines (token ¶, Kessa's-knife ¶, "good at holding" ¶).
-  - **(c)** converted 2 door/deep re-descriptions into bodily symptom (cold pull under the coal; a cold spot no fire touches) — also killed a triple-repeat.
+Revised the Arc 4 storyboard **in place** (rev1 → rev2), shape-only (premises/beats, no prose):
+`manuscript/makers-ladder/book-1-unfinished-apprentice/reference/arc-4-outline.md`.
 
-## Key results
-- **Voice:** Wick's mystery is now felt, not analyzed; tidy lesson-landings replaced with kid-blunt beats.
-- **Em-dashes:** 31 / 2,337 words ≈ **13.3/1k** (above ≤8). The prior checkpoint's "7.8/1k" was an undercount; actual density is ~13/1k before and after. My edits added ~2 (panic dashes). **Flagged for a separate cadence pass** — out of scope for a voice pass.
-- **Consistency:** clean; Wick's private terms stay in POV; no canon contradictions.
-- **Hard lines:** none crossed (no pet-names, no minor-sexualization, no game vocab, no living/mind reading, no routine fraying, reveal discipline intact).
+## Inputs read (in order)
+1. `reference/book-bible.md` (Arc 4 spine, Canon & Glossary, Reveal discipline, Decisions Log).
+2. `reference/arc-4-outline.md` (rev1 — the target).
+3. `notes/b1-arc4-outline-rev1-rev1-storyboard-architect.md` (rev1 critique, PR #27 — §3 dependency
+   map treated as binding).
+4. **Author PR #38 feedback** — binding, wins on conflict with the task brief.
 
-## [FOR THE AUTHOR] flags (not applied)
-- Ending's stacked double-aphorism left intact deliberately (earned climax / prior pass "landed well") — optional future trim offered.
-- ¶9 symptom conversion trades away the eerie "patient/interested" characterization of the deep — hybrid offered.
+## Headline changes (rev2)
+- **PR #38 (binding, overrides task + bible):**
+  1. **Font = the deep current / arcane** (Oscar can partly read it) — resolves the rev1 Tier-0
+     living-vs-arcane contradiction.
+  2. **Corwen dies at Ch34, killed by Cael, as Cael's cost** (relocated from ~Ch41). A **new larger
+     villain tied to Corwen + Everset** carries the finale — recommended **"the Setter"** (operator of
+     the Setting at the font's seat; Redactor-analog; NOT the architect).
+  3. **De-center Oscar's reading/unmaking; "the sweep" demoted** to a modest tool (or cut) — the climax
+     is won by the ensemble + Wick.
+  4. **Shape 1 ratified**; back-half tension = "who is the real villain?"
+- **rev1-critique front-half fixes applied:** Ash reframed helper-not-user; Ch29 hard-cut on the blink
+  (no manse interior); Ch30 unease is made/tracker not living; **Ch31/Ch32 POV swap** (Wick 31 fresh /
+  Oscar 32 Quill); Quill give-at-manse / bond-at-climax split; Wick's sacrifice given a causal engine
+  (Ch41: the deep swallows the font's erasure).
 
-## Verdict: **GO**
-See `notes/b1-ch20-wick-voice.md` for full diagnosis, change log, 8-point self-check with counts, and Top 3.
+## Canon-keeper tickets opened (reconcile before drafting the back half)
+1. Corwen's death → Ch34 (overturns 2026-06-29 lock).
+2. Font = deep current / arcane (reconcile bible's "living magic").
+3. New finale villain (the Setter) — operator, not architect.
+4. "Quill given at the manse, bonds at the climax" (bible bundles it with climax beats).
+5. "The sweep" demoted/retired.
+
+## Deliverables
+- Revised outline: `reference/arc-4-outline.md` (rev2).
+- Notes / change-log + rationale: `notes/b1-arc4-outline-rev2-rev1-storyboard-architect.md`.
+- This checkpoint.
+
+## Held for Book 2 (verified intact)
+Architect's identity; "the fair copy" technique. Ash only hints; the new villain is an operator, not
+the maker.
+
+## Confidence
+High on canon fidelity + PR #38 application + structure; medium on the specific proposals (the Setter,
+the sweep's demoted shape, Wick's mechanism) — flagged `[FOR THE AUTHOR]`, not decided.
