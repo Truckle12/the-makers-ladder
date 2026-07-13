@@ -60,6 +60,32 @@ downstream reads as a silent drift:
 
 ---
 
+## ⚑ SESSION UPDATE 2026-07-13 — Ch29–35 ARE DRAFTED; notes for the Ch36+ drafter
+
+**Status change:** Ch29–35 exist as prose in `chapters/` (drafted to this rev2 shape, front-half fixes
+applied, full-book review passed). The back half (Ch36–~42) is still shape-only, and remains **blocked
+on the author ratifying the finale villain** (§New Villain — "the Setter" recommended, undecided).
+
+Binding notes for whoever drafts Ch36+ (author rulings, 2026-07-13):
+
+1. **Fuse the itch and the snag at Ch36.** Ch33/35 planted Oscar's involuntary skyline-snag toward the
+   south without naming it; Ch36's "hum to a hand on the back of the neck" beat must make the link to
+   the Evermere/Everset one-tumbler-off itch explicit, so the reader re-reads the snags as one thread.
+2. **Surface the grimoire on the approach.** Canon (Decisions Log 2026-07-13): the Marrow grimoire
+   (Ch15) is in the original Oscar's own hand and has been teaching Oscar his new figures since Marrow.
+   Use it in Ch36–37 road/camp scenes — new figure(s) learned under pressure, and a window into the
+   original Oscar's history as Everset nears. It must NOT name the architect or the fair-copy method.
+3. **The power behind Corwen reads House-internal until the Everset reveal at the earliest.** The mark
+   on the writ is the House's own old private seal; "the seat" = the House's seat at Everset. Do not
+   stage any "power above the House" on the page before the reveal — the occupant of the seat is the
+   reveal (Ch38–39), and even then it is an operator, never the architect.
+4. Carry-in state at Ch36: crew of five whole; Corwen dead and buried (Ch34–35); the seat knows (his
+   death-report discharged south); the net dropped — the road south is open because nothing needs to
+   close it; Quill scouts but won't come to the call; Wick's door is being knocked on at water; Cael
+   carries the killing; Tarn's arm healed; Oscar keeps the dead warrant in his coat.
+
+---
+
 ## 0. Where Arc 4 starts (carry-in state from Ch28)
 
 - **Crew = 5:** Oscar, Kessa, Cael, Wick, Tarn. (Doss still carried as grief; Quill not yet present.)

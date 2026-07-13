@@ -108,7 +108,7 @@ And burned into every crate, the same seal.
 
 He'd been bracing for it and it still landed like a stone. A southern house's mark, clerkly and bloodless—and beneath it, small and exact, the closed loop. The knot without ends. The mark on his sword. The mark on the writ that wanted him in a box.
 
-"One hand," he said quietly. Kessa came to stand beside him, and he tapped the brand. "The relics that go south. The bounty that wants me. Same seal. Same house. They're not two problems. They were never two problems." He almost laughed, and it came out hollow. "Somebody down south is pulling the magic out of the ground and—people like me out of the dark, with the same pen, and I still don't know why, and I am getting very tired of not knowing why."
+"One hand," he said quietly. Kessa came to stand beside him, and he tapped the brand. "The relics that go south. The bounty that wants me. Same seal. Same house. They're not two problems. They were never two problems." He almost laughed, and it came out hollow. "Somebody down south is pulling the magic out of the ground and—people like me out of the dark, with the same pen, and I still can't read the *why* of it. Only, now, the handwriting."
 
 "Then we go find out," Kessa said. "After we don't die here. One impossible thing at a time."
 

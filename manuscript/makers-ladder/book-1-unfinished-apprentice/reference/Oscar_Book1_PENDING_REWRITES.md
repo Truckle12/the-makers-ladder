@@ -71,3 +71,17 @@ earlier-written chapters instead of the actual text.
 - Fraying toned down: now a single earned use at the Ch23 knee-thrust overdraw (the loaded gun),
   reserved; "skin was fraying"->"buckling". Ch24's scorched-aftermath kept (immediate dawn after).
   Ch27 fraying removed earlier. Oscar fully rested by Ch25 (wild replenishes him).
+
+## 2026-07-13 — post-Ch29–35 session (author rulings)
+
+- **Grimoire beats (revision-pass consideration + Ch36+ forward):** the Marrow grimoire (Ch15, the
+  original Oscar's own hand) is canon as the source of Oscar's new figures since Marrow and a window
+  into the original's history. Forward: surface it in Ch36–37 scenes (drafter note in arc-4-outline).
+  Revision pass: consider 1–2 light retro beats in Ch18–28 showing him learning from it on the road
+  (e.g., where new figures like the drive/skin appear), so the payoff doesn't read as a late invention.
+- **Done this session (for the record):** Arc-2 refrain trims (crew-creed echo Ch16; "don't know why"
+  echo Ch15 → new facet; ghost-writ double-telling Ch13 compressed); Ch21 unmaking-exposure claim
+  dialed back to a day's-ride radius; Ch26 cadence pass (15.5 → ~7.7 em/1k, "the way" 10 → 3 genuine);
+  hard-line fixes from the full-book review (see notes/b1-full-book-review-ch01-35.md).
+- **Repeated-phrase watch:** `tools/repeater.mjs` added — run it in every review pass; repetition crept
+  in historically when a long-context drafting session got compressed.

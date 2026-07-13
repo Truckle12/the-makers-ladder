@@ -84,7 +84,7 @@ When his hands had come back enough to trust, he got up and turned the wrong way
 
 "It'll kill the next ones."
 
-"It'll kill the next ones whether or not you spend yourself into the ground over it tonight. You can barely stand." She stepped in front of him, not touching, just there. "And unmaking a maker-work the size of that, on the main road south, where every licensed reader between here and the sea would feel a working that old come apart. That's not quiet, Oscar. That's the loudest thing you could possibly do. You'd be writing your own name on this road in letters a blind man could read. *An unlicensed reader strong enough to unstitch the Cull came through here.* You think your polite friend won't hear about it?"
+"It'll kill the next ones whether or not you spend yourself into the ground over it tonight. You can barely stand." She stepped in front of him, not touching, just there. "And unmaking a maker-work the size of that, on the main road south, where any licensed reader within a day's ride would feel a working that old come apart. That's not quiet, Oscar. That's the loudest thing you could possibly do. You'd be writing your own name on this road in letters a blind man could read. *An unlicensed reader strong enough to unstitch the Cull came through here.* You think your polite friend won't hear about it?"
 
 It was all true. That was the trouble with Kessa; she was always all true.
 

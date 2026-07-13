@@ -48,3 +48,18 @@ All modified chapters re-measured: every chapter 29–35 (and touched older ones
 ## Cadence snapshot (em-dashes /1k, tool-measured)
 
 Arc 1: 9.8–14.9 (all over target — known audit finding, backlog owns it) · Arc 2: 8.9–16.4 (ch15 worst in book) · ch18–28: mostly over, ch26 = 15.5 (known), ch27 = 5.0 · **ch29–35: 3.8–7.7, all within target** — the new arc sets the cadence standard the deferred Arc 1–2 pass should aim at. Book total ≈ 107.9k words / 35 chapters; on pace for 120–130k with Ch36–42 to come.
+
+---
+
+## 2026-07-13 — author rulings on the flags above (all applied this session)
+
+1. **Shield origin → good-claim.** Bible corrected (Doss, Cael, Established facts, Continuity watch-outs); Decisions Log appended. Manuscript already agreed.
+2. **"Coal" stays Wick-private.** Enforcement stands; Decisions Log records the rule.
+3. **Corwen/PR #38 canon reconciled into the bible:** death at Ch34 by Cael's hand; font = deep current; Quill given-at-manse/bonds-at-climax; sweep demoted; Arc-4 synopsis/structure/status updated; POV list fixed (incl. Wick = Ch12).
+4. **Grimoire:** canon appended (the original Oscar's hand; source of his new figures since Marrow; window into the original's history). Drafter note added to the arc-4 outline (surface in Ch36–37); revision-pass note filed in PENDING_REWRITES (light retro beats in Ch18–28).
+5. **House vs seat → ruled DRIFT, pulled back.** The writ's mark is now the House's own old private seal; "the seat" = the House's seat at Everset; no above-House power on the page until the Everset reveal at the earliest. Prose updated in Ch29/31/35; Decisions Log records the staging rule. (Ch19's "a private man's seal, not the House's" is untouched — that's Corwen's personal tavern note, a different object.)
+6. **Refrain trims applied:** crew-creed echo dropped from Ch16 (Ch15 origin + Ch17 kid-callback kept); Ch15's "tired of not knowing why" recast to a new facet ("I still can't read the *why.* Only, now, the handwriting."); Ch13's ghost-writ second telling compressed to Cael's genuinely-new angle. **`tools/repeater.mjs` added** so repetition is a measurement from now on (run it in every review pass).
+7. **Ch21 exposure claim dialed back** to "any licensed reader within a day's ride."
+8. **Ch26 cadence pass run:** 15.5 → 7.7 em/1k; "the way" 10 → 3 genuine (hawk / forged coin / rot-through-root kept).
+9. **Itch↔snag fusion:** binding drafter note added to the arc-4 outline's Ch36 guidance (session-update block).
+10. **Bible hygiene done:** POV list, Arc-4 statuses, outline status header, open-questions list refreshed.
