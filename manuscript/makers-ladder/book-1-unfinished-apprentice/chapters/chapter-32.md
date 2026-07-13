@@ -36,7 +36,7 @@ He put his cup down before his hand could shake it. Body first; his mind ran a h
 
 His left shoulder. Three centuries of a weight that wasn't there.
 
-He had carried it since the ice and never once had a word for it: a specific absence, shoulder-shaped, talon-shaped, the phantom press of a grip that arrived in memory only as its own missing. In the buried city he'd caught himself bracing before sleep as though for something to land, and read the flinch, and failed to parse it, and shelved it with all the other marginalia of being a copied man. It was the oldest note in the oldest margin he owned. And here was the weight, standing on a table, looking at him with its face full of a dead man Oscar happened to be wearing.
+He had carried it since the ice: a specific absence, shoulder-shaped, talon-shaped, the phantom press of a grip that arrived in memory only as its own missing. He'd even had the name for it: he'd reached for Quill his first morning under the dead city and closed his fingers on an empty coat, and having the name had never once made the missing weigh less. In the buried city he'd caught himself bracing before sleep as though for something to land. It was the oldest note in the oldest margin he owned. And here was the weight, standing on a table, looking at him with its face full of a dead man Oscar happened to be wearing.
 
 "Quill," he said. His voice came out wrong. Smaller than the joke he'd meant to fit in it.
 

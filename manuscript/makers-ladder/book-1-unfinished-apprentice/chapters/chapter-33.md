@@ -18,9 +18,9 @@ She rolled the map and sat with it in both hands and made herself say the shape 
 
 He isn't following us. He's shrinking the country we can be in.
 
-She'd met him once and fought him never, and she was starting to know him the way she knew weather that meant to turn: Corwen didn't hunt. Hunting was running after. Corwen stood at the far end of where you were always going to have to go, and closed roads until where-you-were-going-to-have-to-go was a place with him standing in it, and he had never in his career needed to hurry, because the country did the walking for him. The wild had beaten him once. There was no second wild between here and Everset. There was farmed land, fenced land, House land, netted tighter every mile south, and somewhere in it, ahead, not behind, a man in a good grey coat pouring wine and letting arithmetic do its work.
+She'd met him once and fought him never, and she was starting to know him the way she knew weather that meant to turn: Corwen didn't hunt. Hunting was running after. Corwen stood at the far end of where you were always going to have to go, and closed roads until where-you-were-going-to-have-to-go was a place with him standing in it, and he had never in his career needed to hurry, because the country did the walking for him. The wild had beaten him once. There was no second wild between here and Everset. There was farmed land, fenced land, House land, netted tighter every mile south, and somewhere in it, ahead, not behind, a man in a good grey coat pouring wine and letting the roads do the rest.
 
-Her word wasn't arithmetic. Her word was simpler. Cornered.
+There'd be a wizard's word for that kind of hunting. Hers was simpler. Cornered.
 
 Behind her the camp began to breathe differently, one sleeper at a time, the small stirs she could have told apart blindfolded. She stayed where she was a moment longer, watching the third clean road on the rolled cloth in her fist, the way south going narrow as a throat.
 
@@ -58,7 +58,7 @@ She'd given him the honest answer, which was a nod, and put it in the nameless c
 
 ---
 
-Tarn found the waypost on the fourth day, because forty years of fetching had left him a map of the old country no oilcloth could match.
+Tarn found the waypost on the fourth day, because years of fetching had left him a map of the old country no oilcloth could match.
 
 They'd stopped shy of a valley mouth at noon, off the track, eating cold in a copse while Kessa glassed the way ahead and disliked it — the third clean road ran the valley floor, past two farms and a mill, all of it overlooked, all of it exactly where she'd put a watcher if she were a man shutting gaps — and Tarn hunkered down beside her, took one long look at the country, and said, "You've stopped meaning to slip him."
 
@@ -76,7 +76,7 @@ Tarn chewed, swallowed, unhurried. "Thought so. You've been reading every choke 
 
 "Aye."
 
-"So it's not a hiding place. It's an appointment." Kessa looked down the valley once more, at the mill, the farms, the soft watched floor of the third clean road, and then up the shoulder at the rough ground rising south and east, and felt the same settling she'd felt over the map at dawn, the weight coming down for good this time. An appointment. Ground of their choosing, and both parties know the hour, and nobody has to run anymore. Her whole trade was reading where a thing would have to pass and being there first with the wind right, and it had taken her until this morning to see she'd been on the wrong side of her own craft since Oressa. Prey reads the ground to leave. A hunter reads it to stay.
+"So it's not a hiding place. It's an appointment." Kessa looked down the valley once more, at the mill, the farms, the soft watched floor of the third clean road, and then up the shoulder at the rough ground rising south and east, and felt the same settling she'd felt over the map at dawn, the weight coming down for good this time. An appointment. Ground of their choosing, and both parties know the hour, and nobody has to run anymore. Her whole trade was reading where a thing would have to pass and being there first with the wind right, and it had taken her until this morning to see she'd been on the wrong side of her own craft since Oressa. Reading ground to leave it. Time to read it to stay.
 
 "Kessa." Tarn's voice, quieter. "One more thing you'll want, before you set this in front of the others." He was looking at the dirt where his map had been. "In the bowl, before they let two men in the sand together, they post the pairing. Days ahead. You know why?" He didn't wait. "Crowds don't come for a fight. They come for an ending. A fight you can walk away from; there's another behind it, and everyone knows it, and nobody bleeds more than they're paid to. But post the pairing, name the hour, shut the gates — " he stood, brushing his hand clean on his thigh, and finished the thought at the level ground south " — and both men fight like it's the only door out of the room. Because it is." His eyes came to her, flat and old. "You pick that post, you're not picking where we stand him off. You're picking where it ends. Him or us. Be picking that."
 
@@ -88,7 +88,7 @@ Kessa held his look and didn't blink it away, because he'd earned the straight a
 
 She laid it out for the crew at dusk, all of it, plain: the roads going bad in order, the net and the man working it, the waypost and what turning for it meant. She'd learned a long time ago you didn't soften ground-truth for people you expected to fight on it, and this crew had earned the whole map more times than she had fingers.
 
-Nobody argued. After all these months it still caught in her chest at wrong moments, how they didn't. Wick went white and then red and then said, "Good. I'm sick of being herded," with the coal audibly in it. Cael took the longest, sitting with his big hands loose between his knees, and what he finally said was: "He'll bring men who are only doing a wage's worth. I'll want us agreed, before, on what we do about surrender if it's offered. Theirs, I mean." Nobody laughed, because he wasn't joking; it went on the plan like everything else, a line in the order of march. Tarn just nodded, once, the pairing posted.
+Nobody argued. After all these months it still caught in her chest at wrong moments, how they didn't. Wick went white and then red and then said, "Good. I'm sick of being herded," with the heat audibly in it. Cael took the longest, sitting with his big hands loose between his knees, and what he finally said was: "He'll bring men who are only doing a wage's worth. I'll want us agreed, before, on what we do about surrender if it's offered. Theirs, I mean." Nobody laughed, because he wasn't joking; it went on the plan like everything else, a line in the order of march. Tarn just nodded, once, the pairing posted.
 
 And Oscar — Oscar had gone still while she talked, and stayed still after, and she'd watched, in the firelight, the thing she'd been waiting on since the heath: the moment the man who read everything realized there was nothing here for reading to do. No seam. No script. A country closing like a hand, and the only text in it a choice.
 

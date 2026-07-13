@@ -104,7 +104,7 @@ Kessa's head turned toward it, and so did Cael's, the two of them reading the so
 
 "Fighting pits," Cael said, with distaste and with recognition both. "Of course there's fighting pits. Where there's a city this rich, there's always somewhere the poor can go to watch each other die for the price of a seat." He frowned toward the roar. "Bad place."
 
-"Bad place," Kessa agreed. "Full of bad people who don't ask questions and don't talk to the House, and know every back way out of a city the House owns." She looked at Oscar, and there was no enthusiasm in it, just the flat arithmetic of a tracker who'd run out of clean roads. "Which is exactly the kind of people we need right now."
+"Bad place," Kessa agreed. "Full of bad people who don't ask questions and don't talk to the House, and know every back way out of a city the House owns." She looked at Oscar, and there was no enthusiasm in it, just the flat count of a tracker who'd run out of clean roads. "Which is exactly the kind of people we need right now."
 
 The roar went up again, down in the dark by the river, and Oscar pulled his hood lower over his silver hair and his clenched-shut, traitorous, screaming gift, and went down toward it—into the one part of the bright bought city that the House's light didn't reach, to look for help among the people the House had thrown away.
 

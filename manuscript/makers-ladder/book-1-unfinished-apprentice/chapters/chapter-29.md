@@ -26,7 +26,7 @@ Cael had stopped a few paces on, big and still, his broad face lifted south. He 
 
 Oscar noted it, and shouldn't have relaxed at it, and did.
 
-Wick walked at his elbow, which she'd done since the hollow, closer than she used to and pretending she wasn't. The heat had come back into her on the walk out — the coal climbing again, her color up, the mark at her throat gone from that terrible snow-coin white to its ordinary sullen red. She looked half-asleep on her feet and entirely unwilling to admit it.
+Wick walked at his elbow, which she'd done since the hollow, closer than she used to and pretending she wasn't. The heat had come back into her on the walk out — her color up again, the mark at her throat gone from that terrible snow-coin white to its ordinary sullen red. She looked half-asleep on her feet and entirely unwilling to admit it.
 
 "When we hit a town," Oscar said, "I'm going to sit in the hottest bath in the south until I've forgotten I have a body. Then I'm going to eat something that was never a root. And then —"
 
@@ -110,7 +110,7 @@ She didn't fight them so much as read them off the ground. Oscar watched her do 
 
 Wick would not move.
 
-She'd got herself between the reeds and Oscar without deciding to, small and lit and shaking, the coal up so hard the air around her had gone to shimmer, and she was staring at the cold sentence written across Oscar's throat like she'd found the one thing in the world she was finally allowed to burn.
+She'd got herself between the reeds and Oscar without deciding to, small and lit and shaking, her heat up so hard the air around her had gone to shimmer, and she was staring at the cold sentence written across Oscar's throat like she'd found the one thing in the world she was finally allowed to burn.
 
 "Let him go." Her voice cracked down the middle. "He's ours. You don't get him, he's my —" and she didn't say the word, the one she used in her own head and never out loud, but Oscar heard the shape of it and it undid him worse than the binding did. "I'll burn it off him. Oscar, I can burn it, tell me I can burn it —"
 

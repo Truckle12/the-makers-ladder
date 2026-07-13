@@ -26,7 +26,7 @@ He was wrong about the losing. He was right that the man was a fool.
 
 His name, the crowd informed Oscar at a deafening volume, was Tarn, and they did not like him.
 
-They had, once. Oscar could hear it in the shape of the jeering—the particular venom a crowd saves for a thing it used to love. Tarn was big, and scarred, and moved into the ring with the flat economy of a man who'd done this ten thousand times and stopped finding any of it interesting, and the moment he appeared the bowl filled with a booing that had real grief under it. Somewhere in his past was a name they used to chant. Now they threw it at him like a stone.
+They had, once. Oscar could hear it in the shape of the jeering—the particular venom a crowd saves for a thing it used to love. Tarn was scarred, and moved into the ring with the flat economy of a man who'd done this ten thousand times and stopped finding any of it interesting, and the moment he appeared the bowl filled with a booing that had real grief under it. Somewhere in his past was a name they used to chant. Now they threw it at him like a stone.
 
 His opponent was young and vicious and the crowd's darling—a brawler maybe twenty years old, thick through the shoulders, who came into the ring with his arms up to drink the noise and then charged before the bout-master had finished the call. Nothing on him for Oscar to read. No gift, no hook, just a young body that hadn't yet learned it could break, and four hundred people who loved watching it not-break.
 

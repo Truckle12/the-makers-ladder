@@ -64,7 +64,7 @@ Not a gate this time. A horse patrol—House men by the cut of them, two riders 
 
 "Sheds," Tarn said, and didn't wait to be agreed with.
 
-They got into the gap between two loaded carts as the first rider's lamp swung across the track. Pressed flat. Wick was shaking—not fear, Oscar realized, with a fresh drop of dread; she had her fist jammed against her own sternum and her teeth set, and there was a heat coming off her in the cold that had nothing to do with exertion, the banked coal of her stirred up by terror and proximity and the long bad night. If she lit, here, now, they were finished. Cael saw it the same instant. He didn't speak. He took her clenched fist in both of his broad hands and held it, the way you'd cup a candle against a draft, and bent his head to hers and breathed—slow, deliberate, in and out—until she caught the rhythm and matched it and the heat banked back down.
+They got into the gap between two loaded carts as the first rider's lamp swung across the track. Pressed flat. Wick was shaking—not fear, Oscar realized, with a fresh drop of dread; she had her fist jammed against her own sternum and her teeth set, and there was a heat coming off her in the cold that had nothing to do with exertion, the banked fire of her stirred up by terror and proximity and the long bad night. If she lit, here, now, they were finished. Cael saw it the same instant. He didn't speak. He took her clenched fist in both of his broad hands and held it, the way you'd cup a candle against a draft, and bent his head to hers and breathed—slow, deliberate, in and out—until she caught the rhythm and matched it and the heat banked back down.
 
 The riders stopped on the bridge.
 

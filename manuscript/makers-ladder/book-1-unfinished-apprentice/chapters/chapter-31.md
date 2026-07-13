@@ -30,7 +30,11 @@ When the plates were done the woman poured herself tea, unhurried, the pot going
 
 Her name was Ash. She gave it out flat, like a coin she didn't expect change from, and then she gave them the rest, in an order she had clearly decided on before any of them was born, and she never once got interrupted, which in this crew was a miracle on its own.
 
-"You've been calling me a hunter. That's fair, from where you stood. It's also wrong, and I don't care to be wrong about twice more, so." She turned her cup a quarter-turn on its saucer. "I didn't take him from you. I took him from the finder. There's a difference, and the difference is the only reason any of you is sitting warm right now instead of bleeding into a road. Corwen had him in a collar cut to his measure. Your wizard reads better than anyone alive and he could not unpick it. No shame in it; it was written *for* him, which is a sentence you should all sit with. In another hundred count he'd have been on that cart, and none of you would ever have found so much as his hat. I was faster. I am always faster." She said it without heat, a fact about weather. "You're welcome, by the way. Nobody's said it yet, and I've noticed."
+"You've been calling me a hunter. That's fair, from where you stood. It's also wrong, and I don't care to be wrong about twice more, so." She turned her cup a quarter-turn on its saucer. "I didn't take him from you. I took him from the finder. There's a difference, and the difference is the only reason any of you is sitting warm right now instead of bleeding into a road. Corwen had him in a collar cut to his measure. Your wizard reads better than anyone alive and he could not unpick it. No shame in it; it was written *for* him, which is a sentence you should all sit with. In another hundred count he'd have been on that cart, and none of you would ever have found so much as his hat."
+
+"How," Kessa said. Flat. "Faster from where. There was no one on that road."
+
+"There was me," Ash said, and visibly decided that was the whole answer she was giving. "I was faster. I am always faster. You're welcome, by the way. Nobody's said it yet, and I've noticed."
 
 "Thanks come after the bill," Tarn said. "Nobody's seen the bill."
 
@@ -47,6 +51,10 @@ The word went through the room and nobody moved.
 "Family." Kessa's voice was as flat as ground gets. "To him."
 
 "To what he was made from. What that makes me to *him*—" Ash lifted one shoulder. "There isn't a word. Nobody ever needed one before. Aunt of a copy. Keeper of an echo. My uncle's grief, twice removed. Take your pick; I've stopped shopping."
+
+Nobody smiled. The line had the worn-round shape of a joke a person keeps for themselves, handled a long time alone, and it fell into the middle of the table and lay there, and for a moment the woman who had not put a foot wrong all evening looked like someone who had spent a hundred years saying her best lines to an owl. She turned her cup a quarter-turn.
+
+"There isn't a word," she said again, quieter, and it wasn't a joke the second time.
 
 "You knew what he was," Wick heard herself say. Her voice came out low and wrong. Everyone looked at her and she didn't care. "The whole time. On the road, when you took him. You knew he was — a copy, a made thing, whatever, you knew, and you just — took him. Like luggage. He was scared." She hadn't known she knew that until it was out. It was true, though. Under the wit, at that table, back on that road with the collar on his neck: scared. She'd felt it off him like heat off a wall. "You could've said one word to us. You watched us stand there and you let us think —" Two days. The wet gorse. The half-moons in her palms. Her throat shut.
 
@@ -88,7 +96,7 @@ The fire ticked. The owl shifted its grip on the chair-back, leather creaking. W
 
 "Which is?" Wick said, because nobody else was saying it and the quiet was eating her.
 
-"The choice," Ash said. "Knowing, before he walks in, what the room is for. Everything I have is aimed at that one door: he arrives at Everset *knowing,* and standing in the middle of what he was made for, he gets what I got, once, a long time ago, and what nobody who built any of this ever planned on." Her eyes went to Oscar and stayed. "The chance to say no."
+"The choice," Ash said. "Knowing, before he walks in, what the room is for. Everything I have is aimed at that one door: he arrives at Everset *knowing,* and standing in the middle of what he was made for, he gets what I got, once, a long time ago, and what nothing that wants him finished has ever once planned on." Her eyes went to Oscar and stayed. "The chance to say no."
 
 Oscar looked back at her and said nothing, and his thumb moved on the rim of his cup, around, around, the thing he did when he was reading something that had no seam.
 
@@ -136,7 +144,7 @@ Oscar smiled, and it wasn't his good smile, it was the other one, the one with t
 
 "Then it's going to learn," he said, "that I travel with the kind that comes."
 
-She put her shoulder against his and they sat on the wrong stair in the beautiful house that shouldn't exist, not talking, while somewhere below the fire ticked itself down to embers that were exactly, perfectly, insultingly the right size. And behind Wick's ribs, quiet all evening, quiet all week, the door gave one small shift against its latch, south-facing, if a feeling could face, like a thing far off rolling over in its sleep, starting to dream about waking up.
+She put her shoulder against his and they sat on the wrong stair in the beautiful house that shouldn't exist, not talking, while somewhere below the fire ticked itself down to embers that were exactly, perfectly, insultingly the right size. And behind Wick's ribs, quiet all evening, quiet all week, the door gave one small shift against its latch, like a thing far off rolling over in its sleep, starting to dream about waking up.
 
 She held it, out of habit, and didn't tell anyone.
 

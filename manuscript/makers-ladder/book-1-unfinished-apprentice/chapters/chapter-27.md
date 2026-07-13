@@ -42,7 +42,7 @@ Nobody argued, and that was the worst of it. The two people on the crew who knew
 
 Wick got worse by the mile, and quietly, which was how Oscar knew how bad it was.
 
-The heat had gone out of her. For weeks she'd run hot, the coal in her always wanting to climb. Now the deeper they went the colder she got, the mark at her throat gone from angry red to a tight pale white, and she kept her hand flat over it like a woman holding a cut closed. She drifted. Twice she wandered off Tarn's line toward the worst of the dark without seeming to choose it, and the second time Oscar caught her arm.
+The heat had gone out of her. For weeks she'd run hot, the fire in her always wanting to climb. Now the deeper they went the colder she got, the mark at her throat gone from angry red to a tight pale white, and she kept her hand flat over it like a woman holding a cut closed. She drifted. Twice she wandered off Tarn's line toward the worst of the dark without seeming to choose it, and the second time Oscar caught her arm.
 
 She rounded on him. "I can feel it," she snapped. "Exactly where it is. It's the only thing out here I *can* feel. So don't grab me. You grabbing my arm doesn't do anything—nothing you do out here does anything, and you know it, so don't pretend the hand's for me when it's for you."
 
@@ -116,7 +116,7 @@ Wick had gone still. Her hand had come off the cold mark at her throat. She had 
 
 And then—because she was sixteen and stubborn and done being only the one who fell apart—she tried it.
 
-She didn't ask. She put her hand out toward the hollow, palm open, and reached for it the same as she reached for the coal inside herself, and Oscar felt it even half-blind: the door in her cracked, and a thread of whatever lived behind it went out across the basin.
+She didn't ask. She put her hand out toward the hollow, palm open, and reached for it the same as she reached for the held fire inside herself, and Oscar felt it even half-blind: the door in her cracked, and a thread of whatever lived behind it went out across the basin.
 
 For one breath it worked.
 

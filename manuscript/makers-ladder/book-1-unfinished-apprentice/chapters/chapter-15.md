@@ -2,7 +2,7 @@
 
 The plan was good. Oscar wanted that on the record, afterward, when there was an afterward: the plan was good, and it worked exactly as designed, and that was the whole problem.
 
-The hush hunted by sound, so they gave it one. Oscar marked the seam for them first—the soft place behind the great trembling ear-fans, the one spot on the whole monstrous bulk that wasn't plated in the fused bones of everyone it had eaten—and then he picked up a chunk of old masonry, weighed it, and lobbed it the length of the chamber.
+The hush hunted by sound, so they gave it one. Oscar found them the soft place first, by watching the thing breathe—behind the great trembling ear-fans, the one spot on the whole monstrous bulk that wasn't plated in the fused bones of everyone it had eaten—and then he picked up a chunk of old masonry, weighed it, and lobbed it the length of the chamber.
 
 It cracked off the far wall. The hush spun toward the noise with that horrible boneless speed, its fans flaring wide, the unarmored seam swinging open to the dark for one perfect heartbeat—
 
@@ -26,7 +26,7 @@ Cael drove the hearthward into the stone and threw everything he had into it, an
 
 "It can't get through," Cael ground out. "But I can't—this won't last. It's too big. It's too angry. I can give you a minute. Maybe less."
 
-"Then we kill it in a minute." Oscar's mind was already racing down its one reliable road, looking, *looking*—not at the beast now, he'd read the beast and the beast had no soft answer, the seam only made it worse and everything else was armored in the dead. So he looked past it. He looked at the *room.* "Wick. When Cael's wall drops, you let go. All of it that's safe to let go—everything you can hold, and not one spark past that, you hear me—and you put it into the thing's face. Not to kill it. To make it flinch, to keep it off us, to buy room. Can you do that?"
+"Then we kill it in a minute." Oscar's mind was already racing down its one reliable road, looking, *looking*—not at the beast now, the beast was alive and gave his gift nothing, his eyes had already found it the one soft answer and everything else was armored in the dead. So he looked past it. He looked at the *room.* "Wick. When Cael's wall drops, you let go. All of it that's safe to let go—everything you can hold, and not one spark past that, you hear me—and you put it into the thing's face. Not to kill it. To make it flinch, to keep it off us, to buy room. Can you do that?"
 
 Her eyes were huge. But she nodded, and there was iron in the nod. "I can do that."
 
@@ -40,7 +40,7 @@ Kessa's gaze swept the cathedral dark—the dripping live seams, the vaulted sto
 
 "It weighs as much as a house."
 
-"Then we'll need a very good push." He looked at the cracked shelf, and now he let his gift run all the way out, not on the monster but on the *stone*—the same looking that read the seams of a working or the joints of a beast, turned on the architecture of a collapse. And the chamber unfolded for him the way everything did, once he stopped being afraid to look: there. And there. Two places where the whole rotten shelf hung on a single overburdened spine of rock, and if that spine went, the floor went, and anything standing on it went with it into the black. "Kessa, can you get it onto the shelf and keep it there?"
+"Then we'll need a very good push." He looked at the cracked shelf, and now he let his gift run all the way out, not on the monster but on the *stone*—the same looking that read the seams of a working or the courses of a dead-maker's wall, turned on the architecture of a collapse. And the chamber unfolded for him the way everything did, once he stopped being afraid to look: there. And there. Two places where the whole rotten shelf hung on a single overburdened spine of rock, and if that spine went, the floor went, and anything standing on it went with it into the black. "Kessa, can you get it onto the shelf and keep it there?"
 
 "I can make myself the most annoying thing in this room."
 

@@ -122,7 +122,7 @@ Something crossed the woman's face, gone too fast to name. It might, on another 
 
 She went inside, unhurried, showing them her back.
 
-Kessa stood on the raked gravel with her hand on a dead man's knife and her whole trade in ruins around her. Five places. She'd counted the crew for years; tonight a stranger in a house that hadn't existed at dawn had counted them for her, down the lane, in the dark, without a candle's pause — four coming in and one drifting wide that even Kessa had only tracked by habit. Tarn came in off the flank without being called, which was as near as he got to saying the same thing out loud.
+Kessa stood on the raked gravel with her hand on a dead man's knife and her whole trade in ruins around her. Five places. She'd counted the crew for years; tonight a stranger in a house that hadn't existed at dawn had counted them for her, down the lane, in the dark, without a candle's pause — three coming in and one drifting wide that even Kessa had only tracked by habit. Tarn came in off the flank without being called, which was as near as he got to saying the same thing out loud.
 
 "Kessa." Wick, at her elbow. The heat had dropped off her strangely, all at once, like a wave dropping. Through the doorway, down the long lamplit hall, a room stood open and gold, and a table, and — Kessa's eye did what eyes do and went to what it had hunted for three days.
 
