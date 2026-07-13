@@ -1,0 +1,125 @@
+## Chapter Thirty-Four — The Waystation
+
+The waypost had good bones and Cael spent two days learning them with his hands.
+
+Old work. Older than the House, older than any road he'd ever prayed beside. The walls were a single grey stone without joint or mortar, cool in the sun and never cold at night, and when he laid his palm flat against them he could feel a low steadiness in the rock, not alive, not warm, but *kept* — like a floor swept every day for a thousand years by nobody. Oscar had gone around the whole place the first evening reading it aloud to anyone in earshot, drunk on it, calling it the finest weather-work he'd seen outside the buried city, and Cael had understood one word in five and agreed with all of them. A place built by people who meant travelers to live through the night. Whatever else the dead makers had done wrong in the world, a roadhouse that would not burn and would not crack was a thing you could respect with both hands.
+
+He learned the doors best, because the doors would be his.
+
+Two of them, north and south, each a narrow slot a big man filled by standing in it. Good timber gone grey, dead-maker hinges that had never once been oiled and never once complained. The south door they barred and left barred. The north door was the door. That was Kessa's plan, and she'd walked every foot of it with them until each of them could have run it blind: the open ground on three sides that no one could cross unseen, the scarp at the back no one could come down quietly, the well inside the walls, the walls themselves. If the finder wanted them, he had one approach and one door, and everything about the choosing of it said what the crew had stopped saying out loud. Nobody talks their way out of a room like that. You build a room like that to finish something in it.
+
+Cael warded the door on the second evening, and it came easy, and the ease of it sat in him strangely.
+
+This far south, with farms in the next valley and a mill-town beyond, the hall inside him had gone short and warm. He reached down it and the warmth was just *there*, close, the same as in the years he'd served a roof and a road and a hundred small hearths, before the crew, before Doss. He laid the warding into the doorway slow and deep, layer on layer, banking it like a fire he meant to find alive in the morning, and when it was done the narrow slot of the north door hummed against his palm like a kettle two breaths from singing. Good work. Maybe the best he'd ever set.
+
+"That'll stop a man?" Wick asked him, watching from the well-coping with her knees drawn up.
+
+"It'll ask him to stop," Cael said. "Hard. A man leaning into it feels like the whole day's walk lands on him at once. Most men sit down." He flexed his hand, feeling the warmth bank itself. "It won't kill anybody. It's not for that."
+
+"What if the man doesn't sit down?"
+
+"Then he comes through tired," Cael said, "and the rest of us are on this side of it."
+
+Wick looked at him for a while, and he could see the next question, the real one, standing behind her teeth. She didn't let it out. She'd been carrying it since the fire two nights back, the same as all of them: the vote had carried, him or us, and what that meant for whoever stood nearest when it stopped being words. Cael had been carrying it too. He was a big man; things landed on him first; he'd made his peace with that a long time ago, in the order of things he could make peace with.
+
+He mended what there was to mend, that second evening. Tarn's shoulder took a last slow pass of warmth, the fibers settling under his hands like rope when the strain comes off. A blister of Wick's. A seam in his own boot, with needle and waxed thread, nothing granted about it, and he did it in the doorway in the last light because his hands wanted plain work. Doss's shield leaned against the jamb while he sewed. He'd scoured it that morning. He didn't usually scour it before trouble; it kept its own counsel, that shield, and he kept it fed with oil and let it be. But he'd sat that morning with it across his knees and worked the old strap-leather soft, and cleaned the rim back to bright metal, and not looked too closely at himself doing it.
+
+It had failed the man who carried it before him. He'd never once blamed it. Shields don't fail. The world just comes in heavier than one edge can answer, some days, and the shield had been there for the weight when it came, which was all a shield ever promised. He set his palm flat on the boss, the old habit, and it was cool, and kept, like the walls.
+
+"Tomorrow," Kessa said from the doorway. Not a guess. She'd been on the scarp-top at dusk and seen what she'd been waiting for: the last clean road, quiet. No carts. No drovers. A country holding its breath.
+
+"Tomorrow," Cael agreed, and bit the thread, and put the needle away, and slept better than he had any right to, in the house the dead had built for travelers.
+
+---
+
+Corwen came at mid-morning, walking, with fourteen men and no hurry in any of them.
+
+Cael stood in the north door and watched them come up the old road, and his first feeling was the one he'd been dreading, because he knew what it did to a man's arm later. Pity. The fourteen came on in loose order with cudgels and hooked staves and two crossbows, and they were nobody. Wage-men. He'd fed men like these at a hundred hearths — big-knuckled lads off the farms, debtors working a season for the House because the House held their paper, a grey-headed one who moved careful on a bad hip. Somebody's sons. Two of them were joking together, low, as men joke on the walk to work that might go wrong, and the joke died as the waypost got bigger in front of them.
+
+And ahead of the fourteen, in the good grey coat, the man himself, and about him Cael's dread found nothing to pity at all.
+
+He'd heard the others on Corwen. Kessa's *certain,* Oscar's *apparatus,* the story the south told. Standing in the doorway with his ward humming at his back, Cael finally read the finder his own way, in the language of bodies, and the body coming up the road was wrong in a way none of the stories had caught. Not wrong like the pale thing at the spring. Wrong like a man whose whole weight never commits to either foot. Corwen walked forty years old and moved older and stood like a hinge, and there was no fear anywhere in him, none, not the healthy animal fear every living body wears walking toward walls with armed people behind them. Cael had seen brave men. Brave men carry their fear gathered and pointed. This was absence. A space where the fear should be, swept clean, like the walls, like something kept.
+
+Corwen stopped forty paces out, past the reach of any bow but not by much, and lifted his hat to the doorway.
+
+"The priest," he said. Pleasant. Carrying. "They put the warm one in the door. That's sound. I'd have done the same." His eyes went over the walls without hunger, a surveyor's pass. "This is a good room you've all chosen, and I want you to know I appreciate the shape of the thing. Truly. In a long career this is the first time the collection has set the table and waited for me, and I find it makes a pleasant change."
+
+"You could turn around," Cael said. "That'd be a pleasant change too."
+
+"It would," Corwen agreed, with what sounded like real consideration. "Here is my difficulty. Your wizard is on my paper, and my paper doesn't lapse, and I don't lose them. It isn't pride, understand. It's soundness. The country south of here works — the roads are safe, the writs are honored, the tithes feed the towns that pay them — because when the House writes a name, the name arrives. Every name that doesn't arrive costs more than itself; it teaches ten men the writ is weather, that they might be the eleventh who slips it. I've spent a life keeping that lesson untaught, and the country is quieter for it, and I'll not unlearn it here for five tired people in a dead man's roadhouse, however well they've chosen their walls." He resettled the hat. "The others still have my word. Doors are poor places to die in, priest. Stand out of yours."
+
+"No," Cael said. And because some stubborn hearth-keeping corner of him had to, to the fourteen, over Corwen's head, plain: "There's a fight in here you're being paid a day's wage to have. When it turns, and it will, any man who drops his stick and walks gets to keep walking. That's our word. Nobody follows you. Go home whole."
+
+Some of the fourteen looked at each other, and that was worth something. The grey-headed one with the hip looked longest.
+
+"There," Corwen said, mild as milk. "Everyone's terms are on the table. I do like a tidy start." And he set his cane into the road like a clerk setting a stamp into wax, and it began.
+
+---
+
+The first hour was Kessa's, and it went as she'd built it to go.
+
+Cael held the door and the door held. The rush came in two prongs — one at him, one at the barred south door with a ram-beam they'd cut on the walk — and both prongs paid. His ward took the leaders' momentum off them like a tide taking legs; men leaned into the doorway and sat down in it, weeping with a tiredness they had no name for, and Tarn's fists were waiting past the threshold for the ones who kept their feet, short work, mercifully short, men folding over their own middles and being hauled aside by their friends. The south prong got Oscar. He'd read the bar and the old frame for two days, and whatever he'd said to the dead-maker work in that wall, the wall had agreed to: the ram-beam met the door and the door did not so much as sound. The beam split on the third swing. Cael saw the crew that carried it stand looking at the pieces like men whose tools had gone over to the enemy.
+
+From the well-coping, held, aimed, Wick made the open ground expensive. She'd sat with Cael the night before and set her own terms, blunt as a hammer: *I won't cook anybody. Tell me where the line is and I'll hold the line.* The line was the strip of bare earth ten feet out from the walls, and she held it, heat without flame, a shimmer that made the air over the strip stand up and wobble, and the men who tried to cross to the blind corners met it and reeled back sunstruck, blistered-red across their cheekbones as if they'd worked a harvest week in an hour. Not one of them burned. Cael marked what it cost her to keep it that side of burning, the coal fighting her for its whole leash, her jaw set white and her eyes gone narrow with the arithmetic of it — hers, that sum, hers alone, and she carried it the whole hour and never let it slip once.
+
+Three men dropped their sticks in that hour and walked. The grey-headed one was the first. Cael watched him go up the old road, not running, one hand pressed to his hip, and did not know he'd been holding that gladness clenched somewhere until it left him all at once, like heat.
+
+The trouble was that none of it moved Corwen, because none of it was meant for him, and he wasn't in it.
+
+He stood the whole hour at forty paces with his hands folded on the cane, and he watched the door. Only the door. Not his men — he spent his men like a man paying a toll, without looking at the coins. He watched the doorway, and the ward in it, and Cael standing in the ward, and it took Cael most of the hour to understand what he was looking at, because it was how Oscar looked at things. He's reading my work, Cael thought, cold. He's been reading it since the hat came off. Not the walls, the walls don't yield. The warm thing in the door. He's finding where it's stitched.
+
+"Kessa," Cael said, level, over his shoulder. "He's about to spend the rest."
+
+Corwen lifted his cane.
+
+What came off it wasn't fire and wasn't force and made no sound. It came across the open ground like the shadow of a cloud, fast, a traveling *flatness*, and where it passed, the morning went out of things. Wick's shimmer-line died in front of it, not beaten, *canceled,* the heat still in her and nowhere for it to go. It hit the doorway and Cael's banked warmth — two days of it, laid deep, the best work of his hands — went grey and papery around him, an old fire raked open to show there'd never been coals in it at all, and the hum against his back stopped.
+
+Unwritten, he heard Oscar shout, somewhere behind, raw. He doesn't cut the working, he strikes out the *warrant* for it, don't let him land it twice —
+
+The rush came through the dead ward before the shout finished.
+
+After that it stopped being Kessa's fight or anyone's plan and became what Cael had known since the vote it would become, which was bodies in a narrow place. He filled the door because that was his and the shield did what the shield was for. Weight came in on him in waves with men behind it. He broke a stave with the rim and felt the blow he gave back land wrong on someone's collarbone, felt it give, took no joy and no time from it. Beside him in the slot Tarn worked with terrible economy, no wasted arm, no anger, catching wrists and finishing balances the men didn't know they'd lost. Somewhere left, Kessa's voice ran the room, three words at a time. The well, Wick's heat cracking loose at last in one licensed roar as a man came over the coping at her, flame this time, off his sleeve and gone, the man rolling on the floor more scared than burnt, her voice shrieking something at him that was pure Oressa gutter and no part of it apologetic.
+
+They were holding. That was the thing. Even with the ward struck out, the room was theirs, the door was one man wide and the man in it was Cael, and the wage-men had no more want for this work than they'd carried up the road. It was turning. He could feel it turn, the weight coming easier, the waves thinner. Two more dropped their sticks in the doorway itself, close enough that he took their cudgels from them like offered parcels and let them squeeze out past his shield, and heard them run.
+
+Corwen came through his own men's ebb like a man boarding through surf, and he came for Oscar, and he did not hurry even now.
+
+Cael saw it in pieces, between blows, as a man sees a thing across a working room. The grey coat shrugging off Kessa's thrown knife — the coat *shrugging,* the cloth moving wrong, worked cloth, another made thing wearing the shape of an ordinary one. Oscar, back to the well-house wall, hands up and already reading, already talking, buying his half-second the only way he'd ever bought it. And the finder's hand coming out of the coat with something small and bright between the fingers, thread or wire or written light, and Cael, forty, wedged in a doorway under two men's weight with his shield arm singing, understood the whole rest of it before it happened, understood it in his body the same as you know a falling cup will break.
+
+The collar had been cut to Oscar's measure once already. The man had had a season to cut it better.
+
+"Cael." Kessa's voice, from the beam-rack, pinned behind three men and a hooked stave, seeing what he saw. Not an order. There wasn't one to give. Just his name, and everything in it.
+
+Corwen's hand opened, almost kindly, and the bright thing went onto Oscar's raised wrist and *wrote itself up his arm*, fast, a sentence closing, and Oscar's voice stopped mid-word. Not a cry. Worse. A period, placed. The wizard came off the wall rigid, arched on a scaffold of cold light that had already reached his throat, his eyes still moving, still reading, finding no seam because it was being *held* shut, the maker standing composed at arm's length with two fingers raised like a man keeping his place in a book, and Cael watched Oscar's lips shape one word with the last of his breath and the word was nothing clever at all, the word was *out,* aimed at Wick, at all of them: get out.
+
+Cael put the two men off his shield and left the door.
+
+He was slow. He'd never minded being slow; slow had always been the price of the rest of him. He crossed the room at the pace the room allowed, one man's grasp broken over his forearm on the way, and the whole time some back shelf of him was reaching down the hall as he'd reached ten thousand times, for warmth, for the granted thing, for anything of his sworn trade that answered this. And it answered. That was the horror he'd keep. The hall was short, the hearth was near, the warmth came willing into his hands, all of it, and none of it was any use, because warmth wards and warmth mends and there is no mending a sentence while the writer holds the pen, and Oscar had perhaps five breaths left in him none of which he was being permitted to take, and the only tool in the room that answered *that* was the oldest one, the one from before all vows.
+
+"Put him down," Cael said, at the finder's shoulder, one last time, because he had to. "He's a person."
+
+"He's a name," Corwen said, patient, not turning, two fingers holding his place. "They're rarely persons, this deep in the paper. You'd be surprised."
+
+The shield had belonged to Doss, who had been a person. It came around flat and full, with all of Cael behind it, the whole slow weight that things landed on first, and it caught the finder below the ear where the coat's cleverness didn't reach, and Cael felt through his arm precisely what it did, because feeling what bodies did was his trade too, the mending half of him reading the breakage as surely as Oscar read script. He could have told anyone who asked, to the smallest bone, what the shield's rim wrote there. Nobody would ever have to ask.
+
+Corwen went down the way a coat slides off a chair.
+
+The cold scaffold vanished from Oscar's body between one instant and the next, unheld, unwritten, and the wizard hit the floor breathing in whoops with Wick already over him, already shouting his name into his face as if volume were a mending art. The last standing wage-men looked at the grey coat crumpled on the old stone, and at the big man over it with the shield still raised, and dropped everything, and were let go, all of them, pouring up the road into the noon like men given back their lives, which they had been.
+
+The room went very quiet, the kept walls holding the quiet the way they held the cool.
+
+Corwen was not dead yet. Cael knelt, because kneeling by the broken was the oldest habit he owned and it did not check first whose breaking it was. The finder's eyes were open and going. There was no fear in them even now, no anger, nothing arriving at the end to be met or eased or forgiven; Cael had knelt by many dyings and there had always, always been *someone* there to hold the door for, and here there was only the procedure, winding down, regarding him with a faint clerical interest all the way to the bottom.
+
+"Sound work," Corwen said, or most of it, the consonants failing. And then, not to Cael, not to anyone, the eyes gone past them all toward some far standing desk: "Unfetched. Note it —"
+
+The word finished him, or he finished with it. Cael watched the absence where the fear should have been become the ordinary absence, the one he knew, the one every body came to, and found no comfort at all in the difference having ended. He put two fingers to the finder's eyes and closed them, because his hands would not agree to leave a dead man staring, whatever the man had been.
+
+Under the coat's collar, against the breastbone, something cracked with a small dry sound like a seal breaking, and a thin grey smoke that was not smoke went up from the body and moved off south along the floor, low, purposeful, unhurried even now — and Oscar, still on his back, still whooping air, got one arm up and read it going, and what Cael saw on the wizard's face as he read was not triumph, and not relief, and Cael's own body understood before any word came, the falling cup again, the whole rest of it arriving ahead of schedule:
+
+It had somewhere to report to.
+
+"It's a term," Oscar rasped, to the ceiling, to the room, to the five of them alive in it. "The paper. His whole errand had a term written on it, like the house did. *In the event the fetching fails.*" A breath, whooped, spent on this instead of on being alive, because he was who he was: "It's gone to tell the seat we killed its hand."
+
+Cael knelt on the old kept stone with a dead man's eyes closed under his fingers, in a room he had helped make safe, in a fight they had won, everyone breathing, everyone his, no one lost, the very sum they'd built the walls for. He looked at his hands. They were steady. The warmth sat banked and willing in them still, unspent, unneeded, unasked. He thought, with the part of him that had knelt at hearths for thirty years: I will mend everyone in this room before dark, and it will take everything I have, and it will not touch the one thing in it that's broken.
+
+Then he got up, big and slow, and went to see about the living, because that was the vow, and the vow was the only door he knew to keep standing in.

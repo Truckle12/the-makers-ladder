@@ -1,13 +1,14 @@
 ---
-id: b1-ch30-draft
-status: ready
+id: b1-ch29-draft
+status: rejected
+rejected_reason: Superseded — Ch29 was drafted via PR #28/#42 and then finalized directly on the claude/session-cass6g session branch (reconciled to the rev2 outline). Item retired so it can't re-run.
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
-target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-30.md
+target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-29.md
 max_turns: 30
-title: Draft Book 1 Ch30
+title: Draft Book 1 Ch29
 ---
-Draft Book 1 chapter 30 to the approved outline below. Read the book-bible and StyleGuardrail (in manuscript/makers-ladder/book-1-unfinished-apprentice/reference/) and re-read the previous chapter first. Write the chapter to `manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-30.md` (apply edits: create the file).
+Draft Book 1 chapter 29 to the approved outline below. Read the book-bible and StyleGuardrail (in manuscript/makers-ladder/book-1-unfinished-apprentice/reference/) and re-read the previous chapter first. Write the chapter to `manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-29.md` (apply edits: create the file).
 
 ## Approved outline (from PR #10 — https://github.com/Truckle12/nightly-agents/pull/10)
 
