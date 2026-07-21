@@ -83,6 +83,12 @@ Binding notes for whoever drafts Ch36+ (author rulings, 2026-07-13):
    death-report discharged south); the net dropped — the road south is open because nothing needs to
    close it; Quill scouts but won't come to the call; Wick's door is being knocked on at water; Cael
    carries the killing; Tarn's arm healed; Oscar keeps the dead warrant in his coat.
+5. **Wick's blank token (Ch15) is a live gun — keep it on the page.** She still carries the grey
+   going-unread disc; let it go quiet or stir near the seat (its unreadable nature vs. a place built
+   to read). **Do NOT pay it off in Arc 4** unless a clean tie appears — it is set up to be **left
+   behind at the Ch41 sacrifice** (the one part of her the deep can't claim) and to become the
+   **Book-2 tracker** to where she was taken. At Ch41, stage the leaving-behind; at Ch42, the crew
+   keeps it as the lead that starts the rescue.
 
 ---
 
@@ -716,6 +722,7 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 | **"The fair copy" technique** | **NEVER in Arc 4** | Book 2 — keep the *how* off the page (watch the villain option (c)) |
 | Deep-current **spectacle** | **Ch38–41 only** | Approach-pressure earliest Ch35–37; nothing before |
 | Wick's **door** | strains Ch36–37, **pays off Ch41** | Resolves as her sacrifice; entity distinct from the grey |
+| **Wick's blank token** *(the going-unread grey disc, Ch15)* | carried Ch36–42; **left behind Ch41**; **paid off Book 2** | The one part of her the deep can't claim; becomes the Book-2 tracker to where she was taken. Do **not** force an Arc-4 payoff |
 | Tarn's **hook** | — | Payoff book TBD — do **NOT** pay off or spend Tarn at the Ch34 cost |
 | **Fraying** | brush at the climax only | Loaded gun; not a per-fight gauge |
 | **Cael at Everset** | Ch38+ | **Independent / unaffected** by the seat (locked 2026-06-29) — exploit it |
