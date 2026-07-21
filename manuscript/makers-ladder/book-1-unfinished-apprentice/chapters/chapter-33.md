@@ -70,7 +70,7 @@ Tarn chewed, swallowed, unhurried. "Thought so. You've been reading every choke 
 
 "Water, walls, sight-lines, two doors." She was already building it in her head, setting men on it, running the angles. "What's wrong with it?"
 
-"Same thing that's right with it." Tarn wiped the map from the dirt with the flat of his hand, habit older than any of tonight's reasons. "It's the only good room in the country. I know it. Any fetcher south of the wild knows it." A beat, dry as ever. "Man who's spent a season closing roads on us knows what we know."
+"Same thing that's right with it." Tarn wiped the map from the dirt with the flat of his hand, habit older than any of tonight's reasons. "It's the only good room in the country. I know it. Any fetcher south of the wild knows it." A beat, dry as ever. "Man who's spent this long closing roads on us knows what we know."
 
 "He'll read it the moment we turn for it."
 
@@ -88,7 +88,7 @@ Kessa held his look and didn't blink it away, because he'd earned the straight a
 
 She laid it out for the crew at dusk, all of it, plain: the roads going bad in order, the net and the man working it, the waypost and what turning for it meant. She'd learned a long time ago you didn't soften ground-truth for people you expected to fight on it, and this crew had earned the whole map more times than she had fingers.
 
-Nobody argued. After all these months it still caught in her chest at wrong moments, how they didn't. Wick went white and then red and then said, "Good. I'm sick of being herded," with the heat audibly in it. Cael took the longest, sitting with his big hands loose between his knees, and what he finally said was: "He'll bring men who are only doing a wage's worth. I'll want us agreed, before, on what we do about surrender if it's offered. Theirs, I mean." Nobody laughed, because he wasn't joking; it went on the plan like everything else, a line in the order of march. Tarn just nodded, once, the pairing posted.
+Nobody argued. After all this road together it still caught in her chest at wrong moments, how they didn't. Wick went white and then red and then said, "Good. I'm sick of being herded," with the heat audibly in it. Cael took the longest, sitting with his big hands loose between his knees, and what he finally said was: "He'll bring men who are only doing a wage's worth. I'll want us agreed, before, on what we do about surrender if it's offered. Theirs, I mean." Nobody laughed, because he wasn't joking; it went on the plan like everything else, a line in the order of march. Tarn just nodded, once, the pairing posted.
 
 And Oscar — Oscar had gone still while she talked, and stayed still after, and she'd watched, in the firelight, the thing she'd been waiting on since the heath: the moment the man who read everything realized there was nothing here for reading to do. No seam. No script. A country closing like a hand, and the only text in it a choice.
 

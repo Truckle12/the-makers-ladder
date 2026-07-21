@@ -86,7 +86,7 @@ Corwen came through his own men's ebb like a man boarding through surf, and he c
 
 Cael saw it in pieces, between blows, as a man sees a thing across a working room. The grey coat shrugging off Kessa's thrown knife — the coat *shrugging,* the cloth moving wrong, worked cloth, another made thing wearing the shape of an ordinary one. Oscar, back to the well-house wall, hands up and already reading, already talking, buying his half-second the only way he'd ever bought it. And the finder's hand coming out of the coat with something small and bright between the fingers, thread or wire or written light, and Cael, forty, wedged in a doorway under two men's weight with his shield arm singing, understood the whole rest of it before it happened, understood it in his body the same as you know a falling cup will break.
 
-The collar had been cut to Oscar's measure once already. The man had had a season to cut it better.
+The collar had been cut to Oscar's measure once already. The man had had the days since to cut it better.
 
 "Cael." Kessa's voice, from the beam-rack, pinned behind three men and a hooked stave, seeing what he saw. Not an order. There wasn't one to give. Just his name, and everything in it.
 

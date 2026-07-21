@@ -12,7 +12,7 @@ Four. And no body. She made herself hold on to the second half of that. No body.
 
 "We go back." Wick's voice came out scorched. "Now. Right now. We go back and we take him —"
 
-"We go back at dark." Kessa didn't raise her voice. Raising it fed the fire; she'd learned that in the first month. "The road belongs to the finder till the light's gone. He's got four men still standing, kit that hits harder than the arm swinging it, and a working I can't cut sitting on ground he chose twice." She looked at the girl straight, because Wick trusted nothing that came at her sideways. "And he doesn't have Oscar."
+"We go back at dark." Kessa didn't raise her voice. Raising it fed the fire; she'd learned that early. "The road belongs to the finder till the light's gone. He's got four men still standing, kit that hits harder than the arm swinging it, and a working I can't cut sitting on ground he chose twice." She looked at the girl straight, because Wick trusted nothing that came at her sideways. "And he doesn't have Oscar."
 
 That landed. Wick's breathing hitched down a notch. "The woman."
 
