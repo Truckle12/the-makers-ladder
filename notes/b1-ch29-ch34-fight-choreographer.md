@@ -106,3 +106,9 @@ Excellent, disciplined work. The de-centering is exactly to brief, the POV is im
 ## Bottom line
 - **Ch29 — REVISE:** one numeric fix (the six-man ambush absorbs ~eight neutralizations and fights its own "six down to three standing" tally). Fix the count (two options given), and it's a GO. Scope, de-centering, and Corwen's believable spare are all strengths to preserve.
 - **Ch34 — GO:** ship it after the author rules on one new magic-interaction (can the House's unwriting revoke a granted/devotional ward's warrant — the prose already frames it as striking the *warrant*, not the source). The reworked wizard beat gives Oscar real agency without stealing Cael's finish; the win is felt; Corwen's death lands as Cael's cost; the clock is clean.
+
+---
+
+## AUTHOR RESOLUTION (2026-07-13)
+- **Ch29 REVISE:** applied — ambush raised to a score-adjacent **8 men** (six reeds + two ridge) so 2+1+2+3 closes; Kessa's line now "eight down and three still on their feet"; drive-origin tidied. Cadence still 6.7/1k. → **GO.**
+- **Ch34 [FOR THE AUTHOR] (granted-ward interaction):** author chose **option (b) — overwhelm, not unwrite.** Corwen's "flatness/strike-out-the-warrant" power removed entirely; he now **buries** wards with wage-men fed in as fodder (force bumped to a score). Cael's granted ward and Oscar's woken keeping are smothered by weight, never cancelled — granted power stays House-proof; Everset independence lock intact. Recorded in the bible Decisions Log. → **GO.**
