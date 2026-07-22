@@ -96,13 +96,20 @@ architect** (command without control). **Wick out-holds the source** (refusing i
 release; clamping its hunger shut the way she clamps her own) and it eats itself. Grey resolved;
 road south opens. *(Wick's arc beat: holding can be aimed outward, not just a cage.)*
 
-**Arc 4 — "The Truth" (Ch~30–42) — [PLANNED, not drafted]:** The hunters close — **Corwen**
-(impersonal House finder) and **Ash** (an unrevealed second hunter who **snatches Oscar from
-Corwen**); a **Kessa-POV reunion (~Ch30)**. Climax at **Everset** — the apex of living magic and the
-seat of **the font** — where the reveal lands: **Everset is Evermere remade as the erasure-engine's
-seat** (the Evermere/Everset echo paid off). **Corwen dies. Quill is given to Oscar.** Oscar's
-climax-tier ability **"the sweep"** debuts here.
-**Book 1 deliberately HOLDS for Book 2:** the architect's identity; "the fair copy" as a technique.
+**Arc 4 — "The Truth" (Ch29–42) — [Ch29–35 DRAFTED; Ch36–42 outlined]:** The hunters close — **Corwen**
+(impersonal House finder) and **Ash** (the original Oscar's niece, who **snatches Oscar from Corwen**);
+a **Kessa-POV reunion (Ch30)** at Ash's conjured manse; the guest/niece reveal and **Quill given (Ch32)**.
+**Corwen dies at Ch34, killed by Cael** (his cost). Climax at **Everset** — the **deep current at full
+flood** + the seat of **the font** — where the reveal lands: **Everset is Evermere remade as the
+erasure-engine's seat**. The finale antagonist is **the Setter** — the font's operator, and **a hollow
+prior fair copy of Oscar, emptied by its own Setting** (new Book-1 rule: **"Setting hollows the copy"**).
+Oscar **refuses to be Set** (the self-authorship spine made physical; **Quill bonds** here); the crew is
+the answer, not Oscar's reading (**"the sweep"** demoted to a minor tool, may be cut). His refusal breaks
+the Setter but leaves the seat empty and the font **runs away** — and **Wick gives herself to the deep to
+end it** (taken, not killed → Book-2 rescue).
+**Book 1 deliberately HOLDS:** the architect's identity + "the fair copy" technique (**Book 2**); the full
+"seat must always be filled" cosmology + the master-resolution (**Book 3**). The Setter shows the *result*
+of Setting, never the *method* or the *maker*.
 
 *(Full chapter outline, character bible, and style guardrail live in separate project files.)*
 
@@ -165,6 +172,12 @@ how the succession trap finally resolves, the fates of the ensemble, the final s
   Book 1, Arc 4** (Everset = Evermere remade as the erasure-engine's seat).
 - **Scale-dread** — the Warden's "they're getting better at you" signals there have been **other made
   things**, *without naming the architect.* Planted Book 1; pays off toward **Book 2.**
+- **"Setting hollows the copy"** — [ESTABLISHED, Book 1, Arc 4] to be **Set** (finished into the master's
+  role) **empties the self**: a set copy is a functional *operator* of the seat, never the *master*. This is
+  the wrongness the "getting better at you" iteration implied, now named. It's why the finale villain — **the
+  Setter**, a **hollow prior copy of Oscar** — cannot take the seat, only tend it and Set the next; and why
+  the cycle still needs a *whole* Oscar. Book 1 shows only the **result** (a hollow copy); the **method** and
+  **architect** stay Book 2, and **why the seat must always be filled** stays Book 3.
 - **The architect** (who makes the made things) — **Book 2 reveal**, but Book 1 **may hint** it through **Ash's partial, withheld knowledge** (her uncle — the original Oscar / Alberich line — devised the cycle). The Warden still never names it.
 - **The fair copy** (the technique) — **Book 2.**
 - **Self-authorship / the succession trap's resolution** — **Book 3.**
@@ -176,8 +189,10 @@ how the succession trap finally resolves, the fates of the ensemble, the final s
   the crew**; **Book 2's spine is rescuing her.** (Was [TBD]; now locked.)
 - **Other cradles / dead-houses** — other made things sleeping; thread [TBD].
 
-**Reserved abilities (don't debut early):** **the sweep** (Book 1, Arc 4); **the blank / going
-unread** (later — book [TBD]); **fetches** (later).
+**Reserved abilities (don't debut early):** **the sweep** (Book 1, Arc 4 — now **demoted** to a minor tool,
+may be cut); **the blank / going-unread** — **Wick's grey token**, carried through Arc 4, **left behind at her
+Ch41 sacrifice** (the one part of her the deep can't claim), **Book-2 payoff = it tracks where she was taken**;
+**fetches** (later).
 
 ---
 
@@ -201,6 +216,9 @@ unread** (later — book [TBD]); **fetches** (later).
   hint the architect** (her uncle devised the cycle); full reveal is Book 2.
 - **Quill** — the Alberich line's **owl familiar**; **Ash gives it to Oscar in Book 1, Arc 4**; becomes
   a recurring companion. Oscar can't summon it until he accepts he's a person.
+- **The Setter** (Bk1 Arc4) — the font's operator and the finale villain: **a hollow prior fair copy of Oscar**,
+  Set and emptied. Wields Oscar's gift with centuries' practice and no self; beaten not by force but by Oscar's
+  **refusal** (it can't model a person). An **operator, not the architect** — shows the *result* of Setting, never the *how*.
 - **The Redactor** (Bk1 Arc1), **Sarn** & **Brida** (Bk1 Arc2), **Hauk** & **Borr** (Bk1 Arc3) —
   Book-1 figures.
 

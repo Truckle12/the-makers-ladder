@@ -64,7 +64,7 @@ downstream reads as a silent drift:
 
 **Status change:** Ch29–35 exist as prose in `chapters/` (drafted to this rev2 shape, front-half fixes
 applied, full-book review passed). The back half (Ch36–~42) is still shape-only, and remains **blocked
-on the author ratifying the finale villain** (§New Villain — "the Setter" recommended, undecided).
+on the author having **RATIFIED the finale villain (2026-07-13): the Setter — a hollow prior copy** (§New Villain, LOCKED). Ch36–42 are now unblocked to draft.
 
 Binding notes for whoever drafts Ch36+ (author rulings, 2026-07-13):
 
@@ -146,7 +146,7 @@ hunter they can see is the *smaller* danger.
 - **The architect's identity** (who makes the made things). Ash may **hint** — her partial, withheld
   knowledge that *her uncle (the original Oscar / the Alberich line) devised the cycle* — but the
   **full scope is Book 2**. The Warden's "they're getting better at you" stays scale-dread only.
-  **The new Everset villain (§New Villain) is an *operator/apparatus*, NOT the architect** — revealing
+  **The new Everset villain (§New Villain) is an *operator/apparatus*, NOT the architect** — and the **"seat must always be filled" cosmology** (why an empty seat runs away; what a *successful* whole heir would mean) is **Book 3** — Book 1 uses only the runaway at local scale. Revealing
   it must not name or explain who designed the cycle.
 - **"The fair copy" as a technique/concept** (how made things are produced). Ash can be *family to the
   line* and *know Oscar is a copy* without ever explaining the **method**. Keep the *how* off the page.
@@ -155,7 +155,62 @@ hunter they can see is the *smaller* danger.
 
 ---
 
-## New Villain — the real big-bad for the finale (PR #38) — **[FOR THE AUTHOR], recommended proposal**
+## The finale villain — ★ LOCKED (author 2026-07-13): **the Setter — a hollow prior copy**
+
+**Decision:** the finale antagonist is **the Setter** — the operator/officiant of the font that performs
+the **Setting** — and it **wears the body of a prior fair copy of the original Oscar Alberich**, Set long
+ago and **hollowed by it.** This fuses rev2's two strongest candidates (option **a**, the operator/apparatus;
+option **c**, the mirror-copy) and closes the hole in (c) with one new rule.
+
+### ★ The rule that makes it work — "Setting hollows the copy" (new Book-1 canon)
+To be **Set** — finished into the master's role — **empties the self.** A set copy comes out a functional,
+obedient **operator** of the seat, but never the **master**, because the process that "completes" it burns
+away the very self-authorship a true heir would need. **The finishing is the ruining.** This is already
+implied by the ESTABLISHED Warden line **"they're getting better at you"** — the makers iterate because
+every prior copy came out *wrong.* We are now naming the wrongness. (Book-1-usable; the deeper *why* stays held — see guardrails.)
+
+### Why it's the right villain
+1. **Closes "why doesn't the copy just take the seat?"** — it **can't.** It's hollow; no one is home to *be*
+   the master, only enough left to **tend the font and Set the next candidate.** That is exactly why the
+   cycle still needs **our** Oscar — a whole one who woke **before** Setting, self intact (the best yet).
+2. **The mirror horror of (c) without (c)'s risk.** Oscar meets a previous **himself**, emptied — the
+   self-authorship spine made physical ("this is what taking the seat does; this is why it still needs you").
+   But the Setter is an **operator**, so it reveals only the **result** of Setting (a hollow thing), never
+   the **method**, the **architect**, or the **cosmology** (all held — see below).
+3. **On-theme escalation up the ladder.** The Book-1 villain is deliberately the **lowest rung** — a *failed
+   apprentice-copy*, hollow and tragic, rhyming with the book's own title. Books 2–3 climb (architect +
+   fair-copy method + the other cradles → Book 2; the true master + the seat + the cosmology → Book 3). The
+   horror in Book 1 is the *smallest, emptiest* thing — **what winning the cycle costs** — which earns the going-bigger later.
+
+### Ties (PR #38 brief), and how it fights (see §Ch40)
+- **To Corwen:** Corwen was the fetch-hound bringing the copy *home to be Set*; he answered to the Setter;
+  his Ch34 death changes nothing — the Setter waits at Everset regardless.
+- **To Everset:** the Setter *is* the will of the erasure-engine; Everset = Evermere remade as its seat.
+- **In combat:** it has **Oscar's gift** — reads and unmakes the made — but wielded with **centuries of
+  practice and no self**: no hesitation, no fear, no mercy. It is **Oscar's own gift turned against him,
+  better and emptier.** Oscar **cannot out-read it** (de-centering, PR #38). Its weakness *is* its
+  hollowness: it cannot model a **person** — refusal, love, the messy human things — the same blindness the
+  grey had to Wick's holding. The crew beat it by being people it can't compute.
+- **Pitiability (hard tonal note):** the Setter is **not a big bad.** It is **empty**, and should be
+  **pitiable** — beaten because there is no self left in it to fight *for*, not out-muscled. The mirror
+  lands as **grief**, not spectacle.
+
+### ★ HARD GUARDRAILS — protect Books 2–3 (do not cross)
+- The Setter shows **what it is** (a hollow, finished copy), **never how it was made.** No fair-copy method on the page.
+- It is an **operator**, **not the architect** — it does not name or explain who devised the cycle (Book 2).
+- Do **NOT** establish the full **"the seat must always be filled"** cosmology, or what a *successful* whole
+  heir would mean — Book-3 material. Book 1 needs only: *it needs a whole heir, and it keeps failing to get one.*
+- Ash may still only **hint** (her uncle / the line devised it) — unchanged.
+
+### [FOR THE AUTHOR] — two tonal dials (flagged, not decided)
+- **Does the Setter remember it's a copy of Oscar?** Recommend: it retains just enough (a ghost of the shared
+  self) to make the mirror unbearable — it may even, in a flicker, *want* Oscar to refuse — but is far past
+  acting on it. Set the dosage before Ch39/40.
+- **The trigger for Wick's sacrifice (the "runaway"):** see §Ch41's causal-engine block.
+
+> **The original three-candidate analysis is retained below for the record — the LOCKED decision above supersedes it (a+c fusion chosen, with the "Setting hollows" rule).**
+
+## New Villain — the real big-bad for the finale (PR #38) — **[superseded — see LOCKED decision above]**
 
 The author's note is the design brief: *"Corwen is a hunter but thats just a pawn in a larger game.
 While we cant reveal the whole archietecture of the system - there's bound to be something we could
@@ -587,7 +642,7 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 - **Advances toward Everset:** this *is* Everset's heart; next is the confrontation.
 - **Locked beat delivered:** **Everset = Evermere remade reveal** (the "one tumbler off" itch paid).
 - **Reveal discipline:** reveal **Everset = Evermere** and **the erasure-engine seat** and the
-  **operator (the Setter)** — but still **NOT** the **architect** (who built/perverted the cycle) and
+  **operator (the Setter) — and that it is a *hollow prior copy of Oscar himself*, Set and emptied** (the mirror; "Setting hollows the copy") — but still **NOT** the **architect** (who built/perverted the cycle), **NOT** the fair-copy *method*, and **NOT** the seat-cosmology (Book 3), and
   **NOT** the **fair-copy** technique. The *place* and its *operator* are revealed; the *maker* and the
   *method* stay Book 2. **This split is delicate** — draft so the climax doesn't back into naming the
   maker (see §3 ledger).
@@ -598,6 +653,44 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 ---
 
 ### Ch40 — "The Sweep" *(climax, part 1)* — POV: **Oscar** *(proposed)*
+
+> **★ FINALE COMBAT DESIGN (2026-07-13) — "the best damn thing we've written." This enriches the bullets below;
+> where they conflict, this governs. When drafted, run it through the `fight-choreographer` persona.**
+>
+> **The battlefield is the villain's weapon.** The font *reads the seat and strikes out what doesn't belong* —
+> and the crew doesn't belong. So the fight happens **inside an erasing room**: the working un-writes the
+> world in patches — stone, air, sound — and, the cruel high-concept beat, it strikes at *the crew themselves*
+> (a name half-gone, a memory guttering, Kessa's tally slipping out from under her). **The clock:** stay too
+> long and you are edited out. Erasure vs. self-authorship, made literal.
+>
+> **Three fronts, escalating (Problem → Plan → Consequence):**
+> 1. **The erasing room** — the ticking threat. **Cael's independent warmth is the one light the font cannot
+>    strike out** (pay off the locked independence): a hearth in a room unwriting everything, the thing that
+>    keeps the crew **legible to themselves** as the seat tries to erase them. This is where his Book-1 power
+>    *matters most.*
+> 2. **The seat's made defenses/agents** — worked guardians (reskinned). **The sweep (demoted) clears these**
+>    at scale — crowd-control, not the win. Oscar's reading is **input**: he reads the room's made bones and
+>    **orchestrates** (the field-architect capstone) — Kessa's angles, Tarn's fists, Wick's fire held in
+>    reserve. No single ability wins it.
+> 3. **The Setter itself — the dark-mirror duel.** Oscar and the Setter read and unmake each other's workings,
+>    and **Oscar LOSES the magic-duel** — you cannot out-read your own gift wielded without a self. **The turn:**
+>    Oscar stops trying to *win* and does the one thing the Setter can't do — **he refuses to be Set.** Facing
+>    the completed hollow thing it means to finish him into, he chooses to be a **person.** *(Quill answers
+>    here — the belief that he isn't real cracks, and the owl comes: tie the bond to the **refusal**, not to
+>    winning the duel.)* His refusal is a **human act, not a magic act**, which is why the thing that can
+>    out-read any working has **no counter** to it.
+>
+> **The turn / handoff to Ch41 (the trap springs):** Oscar's refusal **breaks the Setter** — the operator,
+> denied its heir and unable to model a self, comes apart (pitiable, empty). **But breaking the operator does
+> not stop the engine.** Heir-less, **the seat that must be filled is left empty — and the font goes to
+> RUNAWAY**, striking out without limit (the lich-king seed, used at Book-1 scale ONLY — do not explain the
+> cosmology). The crew **won the fight and caused the catastrophe.** Only the deep can end a runaway
+> deep-flood, and only Wick can reach the deep. → Ch41.
+>
+> **De-centering (PR #38, hard):** Oscar's reading/sweep/orchestration get the crew *to* the crux and his
+> *refusal* breaks the Setter — but **neither ends the font.** Cael's warmth keeps them legible; the ensemble
+> is the answer; the finish is **Wick's** (Ch41). A **brush** of fraying is allowed here (Book-2 foreshadow),
+> not a gauge.
 
 - **Premise:** The confrontation at the font, against **the Setter** (§New Villain) — not Corwen, who
   is a month dead. Cornered at the seat of the erasure-engine, the crew stops running and fights the
@@ -638,6 +731,45 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ### Ch41 — "What She Gives" *(climax, part 2)* — POV: **Wick** *(proposed — the sacrifice from inside her)*, Oscar-witnessed alt
 
+> **★ THE CAUSAL ENGINE (2026-07-13) — why Wick's sacrifice HAPPENS (the author asked for this). This governs.**
+>
+> **The chain, link by link:**
+> 1. The font channels the **deep current at full flood** to power its erasure (why it's arcane; why the veil
+>    to the deep is **thin** here — the seat is a *mouth* on the deep).
+> 2. Oscar **refuses to be Set** (Ch40) → the Setter breaks → **the seat is empty** → the engine, built to
+>    always be filled, goes to **runaway erasure**: it will strike out the crew, the city, and keep going.
+> 3. The erasure is a **made** working running on a **living** substrate. Oscar can *read* the made engine but
+>    can't stop a flood; Cael's warmth **wards** but can't drink an ocean; the ensemble can't out-fight a
+>    rising un-writing. **Every tool they have is the wrong tool** — the thematic blindness, one last time.
+> 4. **Only the deep can eat the engine — and only Wick's door opens onto the deep.** She opens it **at the
+>    seat**, and **the hungry thing that wants everything devours the thing that strikes everything out**:
+>    *want* eats *erasure.* The flood swallows the runaway engine — **and Wick with it.** Font
+>    collapses/spent; **Wick is taken, not killed** (Book-2 rescue). *(Mechanism unchanged from rev2 — now with its trigger.)*
+>
+> **[FOR THE AUTHOR] — the tonal dial: how much is this Oscar's fault?**
+> - **★ Recommended — the interlocked tragedy:** Oscar's refusal (his moral victory, *becoming a person*) is
+>   exactly what forces the runaway that costs Wick. He saves his soul; Wick pays for it. Devastating; makes
+>   Book 2's rescue his atonement; makes self-authorship **cost** something. **Handle so the blame lands on the
+>   TRAP, not on Oscar** — the cycle is built so that *refusing it is catastrophic*; that is the horror of the
+>   trap, not a flaw in Oscar. He still carries the **guilt** into Book 2 (guilt is the engine, whether or not
+>   it's "his fault").
+> - **Alt — the villain's scorched-earth:** the *Setter*, breaking, opens the font to full erasure as a final
+>   spiteful act (if it can't finish him, it strikes out everything). Keeps Oscar's refusal clean-heroic;
+>   slightly less pointed thematically.
+> - Recommend the interlocked read, softened toward the trap.
+>
+> **★ The token interlock (canon 2026-07-13):** everything of Wick is pulled through the door **except the
+> blank token** — the one part of her that reads as **nothing**, that the deep (a thing that *wants
+> everything*) can't perceive or want because there's nothing there to want. It **stays behind on the
+> seat-stone.** The crew keeps it. **It is the Book-2 lead — tuned to her going-unread, the tracker to where
+> she was taken.**
+>
+> **Arc payoffs, all in one motion:** Wick — "holding aimed outward" (Ch28) becomes *giving herself* outward,
+> and this time it costs her; she does it because they're hers and *you don't let the dark have your people*
+> (Kessa's creed, now Wick's act). Kessa — loses one of hers to the dark she swore to keep them from (her
+> Book-2 engine). Cael — his mercy has no benediction for this, and he already carries Corwen's blood. Tarn —
+> the debt reframes toward Wick. Oscar — his magic won the room and **cannot save her.**
+
 - **Premise:** The sweep and the crew's fight aren't enough — the **Setter / the font's deep working**
   still has them, and the one lever left is the **thing at Wick's door** that has wanted her since the
   deep. **Wick gives herself to it to save them.**
@@ -677,7 +809,9 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch42 — "[Denouement — e.g. 'Set Aside']" — POV: **Oscar** *(proposed; or a Kessa coda)*
+### Ch42 — "[Denouement — e.g. 'Set Aside']" — POV: **Kessa coda ★ recommended** *(or Oscar)*
+
+> **★ POV REBALANCE (2026-07-13):** the back half as outlined runs **5 Oscar / 2 Wick, zero Kessa/Cael/Tarn** — the whole climax has no ensemble POV, which cuts against the "let the crew *feel* it" note. **Recommend giving Ch42 to Kessa**: it bookends her Ch30 reunion, lands the loss through the tracker who swore *you don't let the dark have your people* and just did, and gives the denouement an outside-Oscar vantage. (Tarn-POV stays a Book-1 no.) Oscar-POV remains the alt if the close must be his refusal-turned-resolve from inside.
 
 - **Premise:** The dust of Everset settles. The crew is smaller by one — **Wick is gone through the
   door** — the hunter and the Setter are both spent, and Oscar has an owl that finally comes when he
@@ -714,7 +848,8 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 | Guest **+** niece **+** architect *hint* | **Ch31** *(Wick POV — fresh; Oscar already knows)* | *Family/grief* + a **hint** her uncle devised the cycle — **not** the maker's scope, **not** the fair-copy method |
 | **Quill given** to Oscar | **Ch32** *(Oscar POV; at the manse; Ash departs solo)* | Given here; **bond/summon withheld** to the climax |
 | **Corwen dies** *(RELOCATED — PR #38)* | **Ch34** *(waystation; Cael's blow = Cael's cost)* | Overturns the 2026-06-29 ~Ch41 lock — **canon-keeper**. Reveals he was a **pawn**; the real villain waits |
-| **The real villain (the Setter)** | dread Ch34→37, **present Ch38, fused w/ reveal Ch39** | **Operator/apparatus, NOT the architect**; tied to Corwen + Everset |
+| **The Setter** *(★ LOCKED — a hollow prior copy of Oscar)* | dread Ch34→37, **present Ch38, revealed Ch39, refused Ch40** | Operator, **NOT the architect/method**; "Setting hollows the copy" — shows the *result*, never the *how*; pitiable, empty; beaten by Oscar's refusal, not out-fought |
+| **"Setting hollows the copy"** *(new Book-1 rule)* | usable Ch39–40 | Names the wrongness the Warden's "getting better at you" implied. The full *why the seat must be filled* cosmology is **Book 3** — do not spend |
 | **Everset = Evermere remade** | **Ch39** | Reveal the *place* + its *operator*, not the *maker* |
 | **The sweep** debuts *(DEMOTED — PR #38)* + **Quill answers** | **Ch40** | Sweep is a **modest tool, not the focal solution**; Quill bonds when Oscar accepts he's a person |
 | **Wick gives herself to the door** *(now the finale-ender)* | **Ch41** | Wick **taken**, not killed (Book-2 rescue); the deep **swallows the erasure**; entity ≠ the grey |
