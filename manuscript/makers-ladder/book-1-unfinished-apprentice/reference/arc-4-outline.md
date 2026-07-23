@@ -534,7 +534,7 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch36 — "One Tumbler Off" — POV: **Oscar** *(proposed)*
+### Ch36 — "One Tumbler Off" — POV: **Oscar** *(proposed)* — **[DRAFTED 2026-07-13]**
 
 - **Premise:** The approach proper. Everset resolves out of the country ahead — and the **itch Oscar
   has carried since Marrow** goes from a hum to a hand on the back of his neck. He *knows* this place
