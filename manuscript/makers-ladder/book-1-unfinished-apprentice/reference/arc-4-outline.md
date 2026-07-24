@@ -561,7 +561,16 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch37 — "The Door, Getting Louder" — POV: **Wick** *(proposed)* — **[DRAFTED 2026-07-13]**
+### Ch37 — "The Door, Getting Louder" — POV: **Wick** — **[DRAFTED 2026-07-13; REBUILT 2026-07-13]**
+
+> **★ REBUILD BRIEF (author notes on the first draft):** (1) *Too dull after Ch36* — two consecutive
+> approach/interiority chapters with no event; the first draft's middle was atmosphere doing a plot's job.
+> **Fix: cut ~a third, and give it a real incident** — the crew actually reaches and enters the gate, and
+> something *happens* there. (2) *Metaphysics correction* — the first draft wrote Wick's door as opening onto
+> **the deep current**, which is wrong: her door opens on **the far side** (outside the world; wants to
+> consume; **not** arcane, **not** written, unreadable). The pressure at Everset is **the wall of the world
+> going thin** under the font's flood, **not** "the deep coming near the surface." (3) *Oscar knows the word
+> "door"* — he says it aloud to her in Ch27; do not write him avoiding it.
 
 - **Premise:** They come within reach of Everset's gates; the deep current at full flood is a physical
   weather now. A **Wick POV** lets the place register first in the body of the one who feels the deep —
@@ -734,17 +743,22 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 > **★ THE CAUSAL ENGINE (2026-07-13) — why Wick's sacrifice HAPPENS (the author asked for this). This governs.**
 >
 > **The chain, link by link:**
-> 1. The font channels the **deep current at full flood** to power its erasure (why it's arcane; why the veil
->    to the deep is **thin** here — the seat is a *mouth* on the deep).
+> 1. The font channels the **deep current at full flood** to power its erasure — and that much power **wears
+>    the wall of the world thin.** Everset is where reality is thinnest, so **the far side** (Wick's word for
+>    the hungry elsewhere her door opens on — **NOT** the deep current; see bible Cosmology) can press
+>    closest. **The engine's own excess opens the only crack that can kill it.**
 > 2. Oscar **refuses to be Set** (Ch40) → the Setter breaks → **the seat is empty** → the engine, built to
 >    always be filled, goes to **runaway erasure**: it will strike out the crew, the city, and keep going.
-> 3. The erasure is a **made** working running on a **living** substrate. Oscar can *read* the made engine but
->    can't stop a flood; Cael's warmth **wards** but can't drink an ocean; the ensemble can't out-fight a
->    rising un-writing. **Every tool they have is the wrong tool** — the thematic blindness, one last time.
-> 4. **Only the deep can eat the engine — and only Wick's door opens onto the deep.** She opens it **at the
->    seat**, and **the hungry thing that wants everything devours the thing that strikes everything out**:
->    *want* eats *erasure.* The flood swallows the runaway engine — **and Wick with it.** Font
->    collapses/spent; **Wick is taken, not killed** (Book-2 rescue). *(Mechanism unchanged from rev2 — now with its trigger.)*
+> 3. Oscar can *read* the made engine but can't stop a flood; Cael's warmth **wards** but can't drink an
+>    ocean; Kessa's angles don't work on a rising un-writing; Tarn can't hit a tide. **Every tool they have is
+>    the wrong tool** — the thematic blindness, one last time. (And Oscar is **doubly** blind here: the far
+>    side isn't *written*, so his reading returns nothing on the one thing that could help.)
+> 4. **Only the far side can eat the engine — and only Wick's door opens on it.** Nothing in the world can
+>    stop a runaway working of this scale; the answer has to come from **outside the world.** She opens the
+>    door **at the seat**, and **the thing that wants everything devours the thing that strikes everything
+>    out**: *want* eats *erasure.* It swallows the runaway engine — **and Wick with it.** Font
+>    collapses/spent; **Wick is taken, not killed** (Book-2 rescue = she is *somewhere else*, not dead).
+>    *(Mechanism as rev2, re-skinned to the far side + now with its trigger.)*
 >
 > **[FOR THE AUTHOR] — the tonal dial: how much is this Oscar's fault?**
 > - **★ Recommended — the interlocked tragedy:** Oscar's refusal (his moral victory, *becoming a person*) is
@@ -759,7 +773,7 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 > - Recommend the interlocked read, softened toward the trap.
 >
 > **★ The token interlock (canon 2026-07-13):** everything of Wick is pulled through the door **except the
-> blank token** — the one part of her that reads as **nothing**, that the deep (a thing that *wants
+> blank token** — the one part of her that reads as **nothing**, which the far side (a thing that *wants
 > everything*) can't perceive or want because there's nothing there to want. It **stays behind on the
 > seat-stone.** The crew keeps it. **It is the Book-2 lead — tuned to her going-unread, the tracker to where
 > she was taken.**

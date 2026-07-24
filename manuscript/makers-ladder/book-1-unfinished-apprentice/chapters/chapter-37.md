@@ -1,73 +1,123 @@
 ## Chapter Thirty-Seven — The Door, Getting Louder
 
-The gates of Everset were still half a day off when Wick had to stop pretending she was fine, and she hated that, because she'd got so good at pretending she was fine that it was basically her best thing now, better than the fire even.
+Everset had a queue, which Wick had not expected from the mouth of the world.
 
-It started as weather. That was the closest she could get to it and it wasn't close. Not weather you felt on your skin — weather you felt on the *door*, the one behind her ribs, the one she'd kept shut since she was small and had got better at keeping shut in a grey hollow up north when she'd held a whole hungry world quiet with both hands. That door. All the way down the valley it had been leaning. Now it wasn't leaning, it was *pushing*, a big slow patient push from the far side like the sea leaning on a boat, and the closer they got to the towers the harder it pushed, and she walked in the middle of the crew where they kept the things they couldn't lose and held it shut and smiled at people and said she was fine.
+That was the first stupid thing. You spend a week walking toward a place that's been leaning on your ribs and you build it up into teeth and towers, and then you come round the last bend and there's a *line*. Carts. A woman with chickens in a basket. Two boys fighting over who carried the sack. Ordinary people waiting their ordinary turn at a gate in the morning, and the gate was white stone and forty feet high and beautiful, and above it the air did the thing it had been doing for two days, the thing only she could see: it *thinned.*
 
-Here was the thing nobody up there understood and she couldn't say without sounding cracked: it wasn't the town pushing. The town was just where it came up. Under the town, under the whole green shape of the valley, the deep ran close to the top of the world — the deep, the real one, the cold under-everything that her door opened onto — and here it wasn't buried down where you had to dig for it. Here it was right there. A hand's width under the grass. Full to the brim and rising, like a well after a month of rain, and the thing about a well that full was that it didn't need you to lower a bucket. It could just come up and meet you.
+That was the closest word. Not shimmer, not heat. Thin. Like the world here was a coat worn through at the elbow and you could feel the cold coming in the place where the weave gave up. All the way down the valley she'd felt it getting worse and told herself it was nerves. It wasn't nerves. It was the far side, the elsewhere behind her door, the place that had wanted her since before she had a word for anything. And here, under all that beautiful white stone, the wall between it and her had gone thin enough to lean on.
 
-And it wanted to meet her. It had wanted to meet her a long time. She'd felt it want her at the spring with the otter-thing, and worse in the grey where its sick little brother had begged her to lie down, and she'd told that one *no* and held it till it ate itself, and she'd come out of that thinking she'd won something. Standing on the road to Everset with the deep pushing on her door like a tide, she understood she hadn't won anything. She'd just met the little one. This was the water the little one had run to.
+It had been leaning for two days. This morning it was *pressing.*
 
-"You're doing the thing," Oscar said, quiet, falling in beside her. "The jaw thing."
+"Say the number," Kessa said, low, beside her. They'd stopped a hundred paces back, in the ordinary dust with the ordinary people, and Kessa was reading the gate: the guards, the traffic, the pace of it, all of it going into her tally. "One to ten. How bad."
 
-"I don't have a jaw thing."
+"Six." Wick had made herself answer that question honestly about forty times since the waystation, which was a new thing for her and she wasn't sure she liked it. "It's a six but it's a *rising* six." She rubbed her sternum without meaning to. "It's not the town doing it, before you ask. The town's just where it's worn through."
 
-"You have a very distinct jaw thing. It's how I know when to be worried and when to be extremely worried. Right now it's the second one." He said it light, but he was watching her the careful way, the one he'd stopped bothering to hide because she'd told him once that hiding it was worse. "Talk to me or don't. But if it's the door, I'd rather know how close. You're the only one of us who can feel it. That makes you the eyes. Not the bait. The eyes."
+"Worn through," Kessa repeated, in the flat voice that meant *say more.*
 
-Which was kind, and also she knew he was scared, because Oscar got precise when he was scared, and he was being very precise.
+"Like." Wick hunted for it and got something worse than she meant. "You know when ice goes bad over a pond and you can still walk on it but you can hear it? It's like that except the ice is everything and the pond is *hungry.*"
 
-"It's close," she said. Her voice came out smaller than she wanted. "It's really close. It's like — you know when you're a kid and you're not supposed to look in a room but the door's open a crack and there's something in there breathing?" She hadn't meant to say that much. It just came. "It's like that except the room's the whole ground and the crack is me."
+Kessa did not say anything for a moment. Then: "Good. Say it exactly that plain every time." She went back to counting guards, and Wick had the strange warm awful feeling of having been *useful,* which around Kessa was the only currency there was.
 
-Oscar didn't say anything clever. That was how she knew he'd heard her right. He just walked next to her a while with his face doing the thing where he was filing something terrible away where she couldn't see it, and then he said, "Then we don't open the door," plain, like it was simple, like she hadn't been holding a door shut every single morning of her whole entire life, and somehow him being wrong about how easy it was helped more than if he'd been right.
+Up ahead, the line moved. A cart went through. Then a man with a hand-barrow, then the chicken woman, and each of them stopped for a moment under the arch where two grey-robed people stood — not soldiers, clerks, with no weapons at all — and each of them *paused* there like a page being turned, and then went on into the city.
 
----
+Oscar had gone very still.
 
-By afternoon it was bad enough that she started using the rock.
-
-She'd had it since the good claim under Marrow, the little grey nothing disc she'd pulled out of a corner crate, and she'd never told anybody why she kept it and she still couldn't have said why except that it was *quiet.* Everything else about her was loud — the coal, the door, the deep, all of it screaming or begging or pushing — and the rock just sat in her pocket being a rock, asking nothing, wanting nothing, saying nothing at all. She'd catch herself with her thumb on it, same as Cael went for his iron token, same as Kessa went for Doss's knife. A thing to hold that stayed the same.
-
-Today it was more than a habit. Today, with the deep pushing on her door so hard her back teeth ached with it, she put her hand in her pocket and closed it around the rock and the rock was *still.* Dead quiet in the middle of all that pushing. Everything the ground was doing, the whole rising tide of want, and this one small thing in her fist felt none of it — didn't feel the deep, didn't feel her, didn't feel anything, a little cold coin of nothing in a world gone loud. She didn't understand it and she didn't try to, because she was sixteen and terrified and understanding was Oscar's job. But she held onto it. It was the one thing near her that the big hungry everything didn't seem to know was there.
-
-She thought, without meaning to, without words, in the body-place under thinking where she kept the truths she couldn't afford: *it can't want you because there's nothing in you to want.* And then she thought, quick, slamming the drawer on it: *shut up.* And she held the rock tighter and walked.
+"They're reading them," he said.
 
 ---
 
-They came up the last rise before the gates in the failing light and the crew went quiet all at once, all of them, even Tarn, and Wick understood that here, finally, was a thing the others could see too.
+He said it the flat careful way he'd been saying things since the valley, and Wick watched his face do the thing where he stopped being a person and started being a machine that took notes.
 
-Everset stood in the bowl of the valley and it was beautiful and it was wrong and the wrong was the kind you felt in your stomach before your eyes agreed. Towers, pale, tall, catching the last of the sun — and something *coming up* through all of it, through the streets and the walls and the bright water in the channels, a shimmer that wasn't heat and wasn't light, a thickness in the air over the whole city like the wobble over a road in summer except it went *up,* up past the towers, up into a sky that seemed to bend a little toward it. The deep at the brim. She could see it now, or not see it, feel-see it, the place where the under-everything came up and the town sat on the top of it like a lid on a pot that had stopped being able to hold the boil.
+"Not licensed readers. That's not — " he squinted at the arch, and she could tell he was doing his looking, reaching out for the made parts of it, "that's not a person's working at all. The arch is doing it. The whole gate is one enormous figure and it's *reading everyone who walks under it.* It takes the measure of a thing and asks whether the thing belongs." He was talking to himself now, as he did. "It's the Redactor's grammar. Scaled up. Made permanent and given a *door* to stand in."
 
-Oscar made a sound next to her. She looked and his face had gone grey and hungry and lost all at the same time.
+"What happens if you don't belong?" Wick said.
 
-"I can read it," he said, and he didn't sound glad about it. "The made part. The workings. It's enormous, it's a *working* the size of a city and I can read the grammar of it, I can see what it's for — " he stopped, and she watched him hit the wall she already lived behind, watched the reader run out of things to read. "And under it there's the other thing. The live thing it's all built on. And I get *nothing* off that. Nothing. It's the biggest thing I've ever stood in front of and my whole gift slides right off it." He laughed, once, wrong. "You'd think I'd be used to it. It's the same nothing I get off you when you're doing the door. Turns out it's the same nothing all the way down."
+Nobody answered her, which was answer enough, and then about a minute later the city answered her properly.
 
-"It's not nothing," Wick said. She didn't mean to snap. It just mattered, suddenly, more than anything had mattered in a while, that he not call it that. "It's not nothing, it's — it's the loudest thing there is, you just can't hear it. I can hear it. It's all I can hear." She was shaking and she made herself stop. "You want eyes. Fine. I'm the eyes. So here's what I see, wizard, and you're going to hate it: that whole city is a mouth. The town's just the teeth. The thing that opens onto the deep, the real thing, the one that wants — it's right there, right under, and it's awake, and it's been waiting, and it is so, so glad we came."
+There was a man four places up the line. Nothing about him. Thin, older, a bad coat, a bundle under one arm, the sort of man you saw a hundred of in any town and never once looked at twice. He got to the arch. He paused under it, the way they all did, page-turn.
 
-Nobody said anything for a moment. The wind came up the valley and it smelled like cold water and larches, and Oscar flinched at the smell like she'd flinched at the ground, and she remembered he had his own version of this, a home in his head that wasn't his, and thought — mean, and then not mean, then just tired — that at least her monster was outside her. His was wearing his own face.
+And the clerks looked at him, and one of them made a small mark on a board, and the man came apart.
 
-"All right," Kessa said, low, and it was the flat voice, the one that meant she'd taken the fear and turned it into a list. "Then we don't walk in tonight. We camp back off the rise, cold, no fire — " a glance at Cael, who nodded, " — and in the morning we go down slow with our eyes open and Wick tells us what the ground's doing every hundred paces whether we ask or not." She looked at Wick, and there was something in it that wasn't just tactics, something that had started at a manse door counting heads and hadn't stopped since. "You don't hold it alone. You feel it getting worse, you say so, out loud, first — not after. That's an order and it's the only kind I give."
+Not blood. That was what Wick would keep, after, the thing that sat in her chest for days. There was no blood and no scream and no *event.* He simply got less. It started at his edges and went inward, and it was quick and it was extremely tidy, and the bundle he'd been holding dropped and rolled and was still there in the dust afterward, and the man was not. The line went quiet. The line did not run. The chicken woman looked at her feet. A guard came out and picked up the bundle and carried it into a little side room, and the clerk turned to the next person in the queue, and the queue *moved forward one place,* stepping around the spot, the way you step around a puddle.
 
-"I always hold it alone," Wick said, before she could stop it, and it came out flat and true and much too old, and she saw it land on all of them, saw Cael's big hands go still and Oscar's face do the terrible filing thing again.
+It took maybe four heartbeats. That was the whole of it.
 
-"Not down there you don't," Kessa said. "Down there you've got four people and a bird. Say it back."
+"Oh," Wick said, out loud, to nobody. Her voice came out very small and very young. "Oh, they just — they do that here. That's a thing they just *do* here."
 
-"Four people and a bird," Wick said. Her throat hurt. "And a rock."
+And then, right on top of it, worse: her door woke up.
 
-"And a rock," Kessa agreed, not knowing what she was agreeing to, and Wick almost laughed, and it turned into the other thing, and she got it back under before it could show.
+Not pushed. *Leaned in.* The far side had been pressing on her for two days like weather, patient, general, the sea leaning on everything. And the second that man came apart, all of that patient pressure swung and *pointed,* the way a dog's head comes round at a sound. Something on the other side of her ribs sat up and paid attention to the place where a man had just been struck out of the world, and the feeling that came through the thin wall with it was not hunger exactly.
+
+It was *interest.*
+
+She staggered. Cael's hand was on her shoulder before she knew she'd moved, big and warm and steadying, and she was glad of it and also she wanted to be sick.
+
+"Wick."
+
+"It liked that," she got out. "The — the thing. Behind my door. When the man came apart it *liked* it, it went all — " she couldn't, she didn't have any of the words, she was sixteen and her hands were shaking and the biggest thing she'd ever felt had just licked its lips. "It's not the same as the striking-out. It's the *opposite* of it. But it woke up for it. Like two dogs noticing each other through a fence."
+
+She saw Oscar hear that. She saw it go into him and get filed somewhere with a lid on it, and she saw — this was the part that frightened her most, later — she saw him decide not to say what he was thinking.
 
 ---
 
-She took the last watch, because she couldn't sleep with the door pushing anyway, and because she wanted, for a little while, to be the one keeping the others instead of the one being kept.
+They pulled back off the road into a stand of trees, and Kessa let them stand there for a count of about thirty before she started the sum out loud, because Kessa believed the worst thing you could do with a fright was carry it silently.
 
-She sat with her back to a stone and the cold city glimmering below and the deep pushing, pushing, pushing on the latch behind her ribs, and she did the sum she wasn't supposed to be able to do, the one that was Oscar's kind of thing and not hers, except this one was hers, this one had always been going to be hers.
+"Right," she said. "The gate reads everyone. It struck out a man for failing whatever it asked him. Oscar. Can you pass it?"
 
-The deep wanted her. It had wanted her since before she had a name for it. And down there it wasn't buried; down there it was a hand's width under everything, full to the brim, and her door was the one door in the whole crew that opened onto it. Everybody was walking into that valley to stop the thing in the middle of it, and Oscar's reading slid off the live part, and Cael's fire came from a different river, and Kessa's angles didn't work on water, and Tarn's fists couldn't hit a tide. And the deep, the actual deep, the thing that wanted everything and could come up and meet you if you were full enough of the right emptiness,
+"No." He said it immediately. He'd clearly been sitting on it since the line. "Not a chance in the world. I'm a made thing, unlicensed, carrying a working I can't put down, and that arch is built to find exactly that and strike it out. I'd get four heartbeats and a mark on a board." A short ugly breath. "I've been walking toward this town for weeks and it turns out I can't come in the front."
 
-there was exactly one person here it would open for.
+"Wick?" Kessa said.
 
-She knew it the way she knew when she was hungry. Not a thought. A fact in the body, sitting there, patient, already true, waiting for the day it stopped being a shape in the dark and started being a thing she'd have to do with her own two hands, the way she did everything, on her own feet, because she wasn't getting carried out of one more thing in her life.
+And Wick opened her mouth to say *obviously not, I'm a wild-touched nobody with a fire in me and a mark on my throat,* and then she didn't say it, because her hand had gone into her pocket, as it always did when everything was too loud, and closed on the rock.
 
-She took the rock out and held it in the dark and it was quiet, quiet, quiet, the one still thing.
+The little grey nothing disc from the good claim under Marrow. The thing she'd kept because it was *quiet.* She'd had it in her fist for two days straight now, off and on, because it was the one object in a hundred miles that the thinning didn't touch — it didn't feel the far side, it didn't feel her, it sat there being a small cold coin of nothing in a world gone loud.
 
-"Not yet," she told it, or told the deep, or told herself. Her voice didn't shake this time. That scared her more than anything had all day. "Not yet. But I know where the door is."
+She took it out and looked at it. Everyone looked at her looking at it.
 
-Below her the city breathed its slow bright wrong breath up into the bending sky, and the deep leaned on her latch, glad and sure, and Wick sat the watch over her sleeping people and held a small cold nothing in her fist and did not open anything, and morning came up grey over the mouth of the world.
+"Oscar," she said slowly. "When you read this. Back in Marrow. What did you get?"
+
+"Nothing," Oscar said. "Not 'a little.' Not 'faint.' *Nothing.* It's the only object I've ever put my looking on that returned a flat blank — I assumed it was dead salvage and got distracted by a book." He had gone very still again, but a different still. "Why."
+
+"Because it's still doing it." She held it up. "Everything here is screaming. This isn't. It's not quiet like a rock's quiet, it's quiet like," she groped, "like there's nothing there to *find.*"
+
+There was a silence with a lot in it.
+
+"Say that again," Oscar said, in a voice she hadn't heard him use before.
+
+"There's nothing there to find."
+
+"A thing that reads as nothing," he said. "Standing in front of an arch whose entire function is to *read* a thing and decide whether it belongs." He looked at the token and then at her hand around it, and she watched him almost say something and put it down instead, careful as a man setting a hot pan on a stone. "Wick. I want you to keep hold of that and I want you to not lose it, and I want you to understand that I'm not going to build a plan on it today, because I've had exactly one idea and one idea is how people get killed at gates."
+
+"So we don't go in the front," Tarn said. He'd been quiet the whole time, in the manner of a man who'd already worked something out and was waiting for the others to catch up. "Fine. Cities aren't sealed. Cities *leak.* Water comes in, muck goes out, and neither of them queues." He nodded at the pale line of the channels running down from the walls, bright with all that water. "Something's got to carry that. Find where it goes under, and there's your door that doesn't read anybody."
+
+"That," Kessa said, "is the first sentence anyone's said today that I liked." She was already turning, already reading the ground west of the walls where the channels ran, the tally going. "We go around. Tonight. Slow, cold, no fire. Cael keeps the middle. Wick."
+
+"I say the number," Wick said. "Every hundred paces. Out loud, first, not after."
+
+"Every hundred paces," Kessa agreed.
+
+---
+
+They lay up until dark, and Wick did not sleep, and near the end of it Oscar came and sat down next to her, which she'd known he would.
+
+"You're going to tell me it wasn't my fault the man died," she said, "and I'm going to be rude to you about it."
+
+"I wasn't going to say anything of the kind. I was going to say something much worse, and I'd like to say it anyway, because I've decided you're old enough to be lied to less." He looked out at the dark city and its thin bending sky. "That thing behind your door woke up because the city *erased* someone. That's not a coincidence and I don't like what it implies, and I'm telling you because I would rather you hear a frightening true thing from me than work it out alone at three in the morning, which is what you do."
+
+"It is what I do," she admitted.
+
+"It is. It's my least favourite of your habits and you learned it from me." He turned the grimoire over in his hands without opening it, an old dead man's book, his own handwriting inside. "Here's the whole of what I've got. That town runs on something enormous, and it's the same cold written stuff I read and swim in — it's *mine,* in the sense that anything is. And whatever is behind your door is not that. It isn't written anywhere. It isn't in the world at all. Which is why my looking gives me nothing on it, and never has, and never will." He said that steadily, but she heard the crack under it. "It's the one thing coming for you that I cannot read, cannot argue with, and cannot unmake. So when I say *tell me the number every hundred paces,* Wick, I'm not managing you. That number is the only instrument I have."
+
+Wick sat with that. It should have been terrifying. Somehow, coming from him, in his careful voice, on a night before a bad morning, it was almost the opposite: somebody had finally admitted out loud that the thing she'd been carrying alone since she was small was actually as big as it felt.
+
+"Six," she said. "It's a six. It's been a six all afternoon."
+
+"Thank you." He stood, and hesitated, and then said the awkward thing instead of the graceful one, which was how she always knew he meant it. "For what it's worth, and I appreciate this is not much: we are going in through a drain. It is very hard to be finished into a great and terrible destiny while wading."
+
+"You're so weird," Wick said, and meant *thank you,* and he heard it, because he always did.
+
+She held the rock in her fist while the others got up and shouldered their packs and Kessa counted them in the dark — five, breathing, hers — and the thin place over Everset waited above them with a patience she was starting to recognize. Not the town's patience. The other one. The far side, leaning on a worn-through world, glad and sure and awake now, because tonight it had watched somebody get unmade and found the whole business *interesting.*
+
+She was the only one who could feel it.
+
+Which meant, she thought, following Kessa down into the dark toward the water, that whatever happened in there, she was going to be the one who saw it coming.

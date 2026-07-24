@@ -20,7 +20,7 @@ She'd found it in the good claim haul, in the crate the others were calling trea
 
 And she'd taken it anyway, before she'd thought about it, the way you'd close your hand around something falling. *Mine.* No reason. It didn't warm to her or sing to her or do any of the things the stories said a girl's secret treasure was supposed to do. It just sat in her pocket being heavy and grey and hers, and every time her fingers found it she felt, faintly, what you feel reaching for a word you can't remember—that it was a question, and the question had her name on it, and she wasn't going to get the answer by wanting it.
 
-She liked it because it was quiet. Everything else about her was loud now—the coal, the deep, the door, the thing waiting—and the token just sat there being a rock, asking its one question, never once trying to take her over. One thing in her whole life that wasn't trying to get bigger. She put her thumb on it and pressed.
+She liked it because it was quiet. Everything else about her was loud now—the coal, the far side, the door, the thing waiting—and the token just sat there being a rock, asking its one question, never once trying to take her over. One thing in her whole life that wasn't trying to get bigger. She put her thumb on it and pressed.
 
 "You're rubbing that rock again," Kessa said, not turning around. Kessa never turned around and always knew.
 

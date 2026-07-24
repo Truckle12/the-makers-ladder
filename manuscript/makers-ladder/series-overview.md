@@ -42,7 +42,13 @@ progression. Each book title names a rung and turns on the word for being "finis
 - **Three living sources of magic:**
   - **Learned / Script** (Oscar) — reads/edits the written and the made.
   - **Granted / devotional** (Cael, hearth-sworn) — warmth, warding, mending; weaker far from civilization.
-  - **Innate / primal** (Wick; the Warden) — raw deep-fire / the deep itself.
+  - **Innate / primal** (Wick; the Warden) — raw deep-fire / the deep current itself.
+- **The far side** *(Wick's word; locked 2026-07-13)* — **NOT** the deep current. Somewhere *else*,
+  outside/behind the world, where something lives that **wants to consume**. It is **not arcane and not
+  written**, so **Oscar's reading returns nothing on it** and no working touches it; it is reached only
+  through **Wick's door**. **The grey** (Bk1 Arc 3) was a **spill** of that hunger which got in and spread
+  *through* the deep current like rot through a root — a contaminated medium, not its origin (the Warden:
+  "the same current the grey travels through"). **Do not conflate the far side with the deep current.**
 - **Made things:** beings (and workings) that are *made* — fashioned, written into being. Oscar is
   one (a fair copy). The reveal-ladder around "what a made thing is, and who makes them" runs across
   all three books.
@@ -216,7 +222,7 @@ Ch41 sacrifice** (the one part of her the deep can't claim), **Book-2 payoff = i
 - **Kessa** — mortal tracker; "you don't let the dark have your people"; carries Doss's knife.
 - **Cael** — hearth-sworn warrior-priest; gentle giant; granted warmth/warding/mending; carries the
   shield that failed Doss.
-- **Wick** — ~16, wild-touched; holds "the coal"; the **door** onto the hungry deep; believes
+- **Wick** — ~16, wild-touched; holds "the coal"; the **door** onto **the far side** (the hungry elsewhere — *not* the deep current); believes
   herself Oscar's apprentice (the echo of the trap).
 - **Tarn** — pit veteran, fist-fighter, ordinary build; bound by the unpayable pact-hook; blood-debt
   loyalty to Oscar.
