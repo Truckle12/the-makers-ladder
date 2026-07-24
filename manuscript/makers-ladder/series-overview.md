@@ -137,6 +137,19 @@ of Setting, never the *method* or the *maker*.
 - Antagonist(s) beyond the House apparatus.
 - Comps, length.
 
+**★ Author seeds (2026-07-13 — character/romance direction; NOT yet plotted; still [TBD]):**
+- **Kessa — a romance with a NEW Book-2 character.** Dramatizes her locked need ("let someone in / grieve
+  Doss"); a mortal, human echo of the self-authorship spine (choosing a life against the armor she built
+  after Doss). A **new face**, not in-crew.
+- **Cael — the road not taken.** A heart-to-heart where the connection is real and **Cael chooses NOT to
+  pursue it** — he won't drag someone into a life of adventuring and danger. Self-denial out of
+  protectiveness; very Cael (mercy, no benediction). A deliberate contrast to Kessa's *yes*.
+- **Tarn — a bit of a player** (dry, easy charm, casual about it) — hence not Kessa's match; light texture.
+- **Book 2 opens after a TIME JUMP**, which ages the cast; **Wick is placed a bit older** on her
+  return/rescue. **HARD GUARDRAIL:** Wick is 16 in Book 1 — the child-safety absolute stays fully in force
+  for all Book-1 material and until she is unambiguously an adult on-page after the jump; any Wick romance is
+  **Book-2+ and adult-only.** The time jump is the clean way to age her out of the constraint for later arcs.
+
 > Do not invent Book 2 plot. The only canon is: journeyman/"unset" framing + the architect reveal +
 > the fair-copy reveal, seeded by the scale-dread planted in Book 1.
 

@@ -561,7 +561,7 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch37 — "The Door, Getting Louder" — POV: **Wick** *(proposed)*
+### Ch37 — "The Door, Getting Louder" — POV: **Wick** *(proposed)* — **[DRAFTED 2026-07-13]**
 
 - **Premise:** They come within reach of Everset's gates; the deep current at full flood is a physical
   weather now. A **Wick POV** lets the place register first in the body of the one who feels the deep —
