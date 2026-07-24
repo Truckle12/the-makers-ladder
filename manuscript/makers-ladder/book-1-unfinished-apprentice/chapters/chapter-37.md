@@ -12,7 +12,7 @@ And it wanted to meet her. It had wanted to meet her a long time. She'd felt it 
 
 "I don't have a jaw thing."
 
-"You have a very distinct jaw thing. It's how I know when to be worried and when to be extremely worried. Right now it's the second one." He said it light, but he was watching her the careful way, the one he'd stopped bothering to hide because she'd told him once that hiding it was worse. "Talk to me or don't. But if it's the — " and he did the small clumsy thing he did, not saying *door*, giving it room to be hers, "if it's the thing that's close out here, I'd rather know how close. You're the only one of us who can feel it. That makes you the eyes. Not the bait. The eyes."
+"You have a very distinct jaw thing. It's how I know when to be worried and when to be extremely worried. Right now it's the second one." He said it light, but he was watching her the careful way, the one he'd stopped bothering to hide because she'd told him once that hiding it was worse. "Talk to me or don't. But if it's the door, I'd rather know how close. You're the only one of us who can feel it. That makes you the eyes. Not the bait. The eyes."
 
 Which was kind, and also she knew he was scared, because Oscar got precise when he was scared, and he was being very precise.
 
