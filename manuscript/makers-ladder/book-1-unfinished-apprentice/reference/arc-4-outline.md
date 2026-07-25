@@ -599,7 +599,7 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch38 — "The Gates of Everset" — POV: **Oscar** *(proposed)*
+### Ch38 — "The Gates of Everset" — POV: **Oscar** *(proposed)* — **[DRAFTED 2026-07-13]**
 
 - **Premise:** They reach **Everset** — and the **apex of the deep working** opens up: the **font**,
   the seat, and the spectacle the whole book reserved. Under it, a wrongness Oscar's *made* sense keeps
