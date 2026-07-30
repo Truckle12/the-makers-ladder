@@ -633,7 +633,21 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch39 — "Evermere Remade" *(the central reveal)* — POV: **Oscar** *(proposed)*
+### Ch39 — "Evermere Remade" *(the central reveal)* — POV: **Oscar** *(proposed)* — **[DRAFTED 2026-07-13]**
+
+> **★ DRAFT ADDITIONS — [FOR THE AUTHOR] to ratify or dial back:**
+> - **"Eleven candidates; the Setter was the fourth."** The draft gives the run a **count**. It pays off the
+>   Warden's "getting better at you" hard, and it is *result*-only (no method, no maker) — but it does put a
+>   number on the **other cradles / dead-houses** thread, which the series overview still holds as [TBD] for
+>   Book 2. Keep, change the number, or make it vaguer ("more than a few, fewer than you'd fear").
+> - **Everset = Evermere *re-cast,* not merely built-over.** The Larchwall was taken apart, **melted, and
+>   poured again** as Everset — which is why the new city's stone is seamless. This fuses the reveal with the
+>   **font = where type is cast** idea from Ch38: the same crime at three sizes (a city re-set, a man re-set,
+>   the Setter finished). Strong, and it does *not* touch the fair-copy method — but it is new canon about
+>   Evermere's fate. Confirm.
+> - **The Setter cannot name the maker because Setting emptied the part that keeps things.** This is the
+>   device that holds the Book-2 architect reveal *without* coyness — the one who was told is not home.
+>   Recommend keeping; it makes the hold feel like tragedy rather than authorial withholding.
 
 - **Premise:** The itch pays. **Everset = Evermere remade as the erasure-engine's seat.** The home
   Oscar *remembers* has been turned into the machine that strikes out what doesn't belong — the
