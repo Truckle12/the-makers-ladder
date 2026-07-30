@@ -675,7 +675,7 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch40 — "The Sweep" *(climax, part 1)* — POV: **Oscar** *(proposed)*
+### Ch40 — "The Sweep" *(climax, part 1)* — POV: **Oscar** *(proposed)* — **[DRAFTED 2026-07-13 — pending fight-choreographer pass]**
 
 > **★ FINALE COMBAT DESIGN (2026-07-13) — "the best damn thing we've written." This enriches the bullets below;
 > where they conflict, this governs. When drafted, run it through the `fight-choreographer` persona.**
