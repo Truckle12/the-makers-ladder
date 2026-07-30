@@ -108,7 +108,7 @@ Nobody spoke. Water ran in the channels, keeping the beautiful clean streets bea
 
 He would remember the next part imperfectly, and he would be grateful for that.
 
-He remembered Wick, very small and very white, saying "seven, it's seven, it's still seven" to nobody, and holding a grey rock in her fist so hard her knuckles had gone the colour of the city. He remembered Kessa going round the plain's edge counting exits and finding none she liked and telling him so plainly, because she had promised to keep telling him the truth even when the truth was *nothing here is any good.* He remembered Tarn saying, to no one, "So the debt was always to a building," and being unable to work out what that meant and never asking.
+He remembered Wick, very small and very white, saying "nine, it's nine, it's still nine" to nobody, and holding a grey rock in her fist so hard her knuckles had gone the colour of the city. He remembered Kessa going round the plain's edge counting exits and finding none she liked and telling him so plainly, because she had promised to keep telling him the truth even when the truth was *nothing here is any good.* He remembered Tarn saying, to no one, "So the debt was always to a building," and being unable to work out what that meant and never asking.
 
 And he remembered Cael, of all people, walking out onto the pale stone toward the thing at the font with his empty hands open, and asking it — plainly, in the voice he used at bedsides — whether it had ever been happy.
 

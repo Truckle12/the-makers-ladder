@@ -24,7 +24,7 @@ A stretch of colonnade three pillars long stopped being there. No dust, no crash
 
 And then the clerks came out of the colonnade, and Oscar started laughing, which frightened Wick more than anything the city had done yet.
 
-Because they were *clerks.* Six of them, seven, grey-robed, unhurried, empty-handed except for a board and a stylus each. The same figures who had stood at the gate that morning and marked a man for coming apart. And they came across the pale stone in no formation whatsoever, as clerks cross a yard, and one of them was already writing.
+Because they were *clerks.* Eleven of them (he counted, and then wished very much that he hadn't) grey-robed, unhurried, empty-handed except for a board and a stylus each. The same figures who had stood at the gate that morning and marked a man for coming apart. And they came across the pale stone in no formation whatsoever, as clerks cross a yard, and one of them was already writing.
 
 "They're not soldiers," he said. "They're *the pen.* The font strikes out what's been marked, and *they do the marking.* That's the whole apparatus, that's why nobody in this city is armed. Kessa, listen to me, this is the fight: don't kill them, you can't, they're made and they'll keep coming. **Don't let one finish writing.**"
 
@@ -44,7 +44,7 @@ And Wick held her gap.
 
 She stood in the ten feet between the basin and the steps with her hands down and open and the air over the strip standing up in a wobble, and she did not burn anybody, and Oscar knew exactly what that was costing her because he could see her jaw. Two clerks tried the gap. Both reeled back sun-struck and blistered and *unmarked,* and turned around and went to find another way, and Wick stayed standing, shaking, holding a line with a leash on.
 
-"*Seven,*" she said, to Kessa, through her teeth. "Still seven. It's still just watching."
+"*Nine,*" she said, to Kessa, through her teeth. "Still nine. It's still just watching."
 
 "Marked," said Kessa, and it was the most ordinary word in the world and it steadied the whole plain.
 
@@ -88,11 +88,13 @@ He had gone to one knee in the middle of them and put both palms flat on the pal
 
 He remembered water in the channels. He remembered *door.* He remembered five.
 
+Across the hearth, Tarn's mouth moved and stopped, and moved and stopped. Whatever the city had lifted out of him had not come back with the rest. He caught Oscar looking, gave one short shake of the head, and never mentioned it again.
+
 "It cannot read this," Cael said. He was grey and running with sweat and his voice came out of him in pieces. "It's been at me since we came into this city and it cannot *find* me, because I'm not written in its book and neither is what I'm burning. Stay in it. All of you. **Stay in the warm and you'll keep knowing who you are.**"
 
 "Cael — " Oscar started.
 
-"Don't." The big man's jaw set. "Don't you dare do the sums out loud. I know how long I've got. Get on with your work."
+"Don't." The big man's jaw set. "Don't you dare do the sums out loud. I know how long the fire's got." And then, because it was true and he was the sort of man who said a true thing once: "It hasn't dimmed. Not a flicker in it, same as the waystation. It isn't the fire that runs out in here. It's me. Get on with your work."
 
 ---
 
@@ -102,7 +104,13 @@ That was the discovery of his life and he had about four seconds to have it in. 
 
 What he had was five people and about ninety seconds.
 
-"Kessa. They resupply from the colonnade, there's a *cupboard,* the whole west arcade is stocked with their kit and I can read where. Break the line of supply, not the clerks. Tarn, go with her, you're the one who can put a door through a wall," he heard himself, and did not stop, "Wick, you hold that gap until Kessa's back and then you fall in to Cael and you do not leave the warm, do you hear me, *not for me*, I am not the thing that needs holding tonight. Cael keeps the middle. Everyone stays inside the fire."
+"Kessa. They resupply from the colonnade, there's a *cupboard,* the whole west arcade is stocked with their kit and I can read where. Break the line of supply, not the clerks. Tarn, go with her. You're the one who can put a *door* through a wall." He said the word deliberately, handing it back. Tarn's face did not change; it hadn't taken. "Wick, you hold that gap until Kessa's back and then you fall in to Cael, and you do not leave the warm, do you hear me, *not for me*, I am not the thing that needs holding tonight. Cael keeps the middle."
+
+Then he heard what he was doing, and made himself say the rest out loud, because a man who spends people should at least name the price at the time. "Kessa. That arcade is outside the fire. I'm sending the two of you out of the only thing in this city keeping us ourselves, and I know it, and I'm doing it anyway."
+
+"I know you are," Kessa said. "Cael?"
+
+Cael had his palms flat on the stone and his eyes shut. "Then I'll throw a hall after you." The gold went thin in the middle of them, and something in it drew out westward, low along the pavement, a long warm thread reaching after two people into a room that ate names. Cael made a sound through his teeth. "Go fast. It costs more this way."
 
 "And you?" Kessa, already moving.
 
@@ -114,9 +122,9 @@ He set his feet, and he opened his looking as wide as it went, and instead of re
 
 And he swept it out.
 
-It was nothing to look at. It made no noise. Every stylus on the plain of Everset became a stick, and every board became a plank, and eleven grey clerks stood holding kindling in the cold light with their heads tipped in mild inquiry.
+It was nothing to look at. It made no noise. Every stylus on that pale plain became a stick, and every board became a plank, and eleven grey clerks stood holding kindling in the cold light with their heads tipped in mild inquiry.
 
-It cost him nearly everything he had. His vision went to grain at the edges, and something in him thinned in a way he recognized from a bowl in Oressa and did not want to think about, and he got a hand onto a plinth and stayed upright out of sheer spite.
+It cost him nearly everything he had. The plain went white at the corners of his eyes, and something in him thinned in a way he recognized from a bowl in Oressa and did not want to think about, and he got a hand onto a plinth and stayed upright out of sheer spite.
 
 Nine seconds, maybe. Then the clerks turned, unbothered, and started walking back toward the arcade for more kit.
 
@@ -136,7 +144,7 @@ He'd set the brace without thinking, the good figure, the one that had held agai
 
 He tried the lance. It read the lance as he was writing it and *finished the sentence for him:* closed the figure early, wrong, so that it came out of his hand as a fizzle and a smell of hot stone.
 
-He tried to unstitch the Setter itself, went for the composition, the seams of the made thing in front of him, and found every place he would have begun already closed, exactly as Corwen's collar had been closed, except Corwen's collar had been *written* by somebody who understood how Oscar read, and this thing simply *was* how Oscar read, three hundred years older and with nobody in it to hesitate.
+He tried to unstitch the Setter itself, went for the composition, the seams of the made thing in front of him, and found every place he would have begun already closed, exactly as Corwen's collar had been closed, except Corwen's collar had been *written* by somebody who understood how Oscar read, and this thing simply *was* how Oscar read, with three centuries of practice and nobody in it to hesitate.
 
 "You're quick," the Setter said, not unkindly, taking his figures apart one after another. "You're the quickest of us. But I have done this without stopping since before your master's grandchildren died, and you have been alive for one season, and you are still, at the bottom of it, *trying to win a conversation.*"
 
@@ -148,7 +156,7 @@ So he stopped doing magic.
 
 "You're right," he said.
 
-The Setter paused. It was, Oscar noted through the roaring in his ears, the only time all night it had done anything he had not predicted.
+The Setter paused. It was, Oscar noted through the roaring in his ears, the only time all night it had done anything he had not predicted — and then the hand at his throat *changed.* It did not let go. It slid to his collar and took his weight there instead and set his boots back down on the stone, and Oscar understood that he was being allowed to finish speaking because a candidate still talking is a candidate not yet finished, and that this was the first thing the fourth of him had done all night that nobody had written.
 
 "I can't beat you at reading. I'm not going to try again; that would be vanity, and I've had my vanity broken twice this season and I'm learning." His feet were barely on the stone. He got the words out because words were the last thing he owned. "You asked me a question at the basin. You asked if I wanted to be finished. Everybody does, you said. At the end."
 
@@ -168,9 +176,9 @@ And he reached up with his free hand, and he did not reach for a working.
 
 The owl came out of the dark over Everset like a thrown stone.
 
-It came down through the bending light and the erasing air and the whole enormous careful attention of a city that had no line in its book for a bird that belonged to nobody but a man who had just declared himself a person, and it struck the Setter's arm with both feet and every ounce of a barn owl's ridiculous fury, and it *landed on Oscar's left shoulder.*
+It came down through the bending light and the erasing air and the whole enormous careful attention of a city that had no line in its book for a thing that answered to nobody it had ever licensed — a bird that belonged to no one but a man who had just declared himself a person — and it struck the Setter's arm with both feet and every ounce of a barn owl's ridiculous fury, and it *landed on Oscar's left shoulder.*
 
-Three hundred years of absence closed like a door in a warm house.
+The line's whole long absence closed like a door in a warm house.
 
 The weight came down where the weight had always been missing — talons, and a grip, and the small furious shifting of a live thing settling — and Oscar made a sound that was not dignified and did not care, and the shoulder that had been empty since the ice was, at last, occupied.
 
@@ -186,7 +194,7 @@ Not thrown off. Not beaten. It let go, and stepped back one pace, and stood in C
 
 "Yes."
 
-"I could not — " The Setter stopped. It looked at its own hand, the one that had held his throat, and then at Oscar, and something moved behind its face like weather on the far side of a wall. "There was one. Ours. The line's bird. I remember there being a bird, and I remember." Its voice did a thing that no one who heard it ever afterward described the same way. "I remember the *shape of wanting it to come.*"
+"I could not — " The Setter stopped. It looked at its own hand, the one that had held his throat, and then at Oscar, and something moved behind its face like weather behind a wall. "There was one. Ours. The line's bird. I remember there being a bird, and I remember." Its voice did a thing that no one who heard it ever afterward described the same way. "I remember the *shape of wanting it to come.*"
 
 "I know," Oscar said. His eyes were stinging and he let them. "I'm sorry. I'm so extremely sorry."
 
@@ -200,7 +208,15 @@ And the fourth of him came apart.
 
 It was not violent. It was the tidiest thing on that whole plain: a made thing whose whole composition had been *the finished shape of a man who had stopped asking,* standing in front of a man who would not stop, and finding, for one second, three hundred years late, the missing part. And a figure with a contradiction in the middle of it cannot hold. It went out of true. It came undone at every seam Oscar had been unable to find, all of them opening at once from the inside, and the grey robe folded down onto the pale stone with nothing in it, and the crossbow bolt rolled away and stopped against the basin's rim, and the plain of Everset was quiet.
 
-Wick was crying. Tarn had a hand on the back of Oscar's coat again and Oscar had not felt him arrive. Kessa said, "That's four. Four's *fine.* We are five and one bird, and I have the count, and I would like very much to leave."
+Wick was crying. Tarn had a hand on the back of Oscar's coat again and Oscar had not felt him arrive.
+
+And out across the pale stone the clerks came back from the arcade for fresh kit, eleven of them, unhurried, and stopped.
+
+"Cupboard's kindling," Kessa said, arriving past Oscar's shoulder with soot on both hands and Doss's knife bare. "Whole arcade's cold. Tarn put a door through the back of it and I did the rest, and there's nothing left in there to write with." She looked out at them without any pity at all. "They can queue."
+
+Eleven grey figures stood about in the cold light with nothing in their hands, tipping their heads at the empty air in mild administrative inquiry.
+
+"That's the fourth one down," Kessa said, meaning the robe on the stone. "We are five and one bird, and I have the count, and I would like very much to leave."
 
 Cael sat down slowly in the middle of them and put his hands out flat on the stone and kept the fire lit anyway.
 
@@ -220,14 +236,34 @@ Oscar felt it as a change in the pressure of a page. The vast careful attention 
 
 He was reading it. He was reading it fast and he wished he weren't, because he could see the grammar of the thing perfectly and there was nothing in the world he could do with it.
 
-"It's an engine for finishing things," he said. "That's all it's ever been. It strikes out what doesn't belong and it sets what does, and it has been doing that for three hundred years under a hand. The fourth was its hand. There was always somebody standing at the basin to say *this far and no further.*" He watched the column climb past the height of the towers and keep going, and the threads of it that ran out into the city began to brighten street by beautiful street. "We took the hand off it. The seat's empty. There's no candidate and no operator and nothing to finish, so it's going to do the only thing it knows how to do."
+"It's an engine for finishing things," he said. "That's all it's ever been. It strikes out what doesn't belong and it sets what does, and it has been doing that all this while under a hand. The fourth was its hand. There was always somebody standing at the basin to say *this far and no further.*" He watched the column climb past the height of the towers and keep going, and the threads of it that ran out into the city began to brighten street by beautiful street. "We took the hand off it. The seat's empty. There's no candidate and no operator and nothing to finish, so it's going to do the only thing it knows how to do."
 
 "Which is."
 
 "Everything." His voice came out steady, which he would never afterward understand. "It's going to strike out everything. Not us. Not the plain. It doesn't stop at the walls, Kessa, it was never *told* to stop; the telling was a man, and we unmade him. It'll go over the city, and then the valley, and then it will keep going over, politely, in order, forever."
 
+"Then say what stops it," Kessa said. "Down the list. Fast."
+
+He went down the list. It took four seconds and it was the worst arithmetic of his life.
+
+"Cael can ward it. He can't drink it — you don't ward an ocean, you just choose which of you gets wet first. You have no ground to use; there's nothing left down there to put between anybody and anything. Tarn can't hit a tide. Wick's fire is a fire and this thing eats *fires* on its way past. And me." He heard how flat it came out. "I can read every clause of it. I could recite it to you. Reading isn't lifting; I told you that in a street two nights ago and you were kind enough not to say *I know.* There is nothing in the world that answers this."
+
+He stopped, because his own sentence had gone wrong in his mouth, and he did not yet know why, and the not-knowing had a shape to it that he would spend the rest of his life wishing he had been quicker about.
+
+*Nothing in the world.*
+
 The nearest of the lamplit bridges went out of the world. Then a garden. Then a whole pale street, with a sound like a held breath ending.
 
-Wick's voice came from somewhere near the basin, and it was very small and very clear and it cut through everything.
+And Wick walked out of the fire.
+
+Oscar saw it happen and was a half-second too slow, which was the thing about him and always had been. She did not decide to go; he could see that from behind, in the set of her shoulders — she went the way water goes downhill, drawn, one hand jammed in her pocket and the other loose at her side, out of Cael's gold and across the pale stone toward the rim of the basin where the wall of everything had worn thinnest. She stopped at the edge of it with the risen light going up past the towers in front of her, a small girl at the lip of a great bright ring, and she did not look afraid. That was what turned him cold. All season she had been afraid of this and now she was not, and he had read enough faces to know that the difference between dread and calm is usually that somebody has finished working something out.
+
+"Wick," he said. "Wick — get back in the warm — "
+
+Her hand came out of her pocket. She was holding the grey token, and she was looking at it, not at the font.
+
+"It's gone quiet," she said. Almost to herself. "It's been quiet all night and I thought that was it being a rock. It's not. It's *hiding.* It's the only thing here that isn't screaming, and I'm — " She stopped. Her fist closed on it. "Oscar, it can't feel me either. Whatever's on the other side of my door, it can't *find* this."
+
+"Wick, what are you — "
 
 "Ten," she said.

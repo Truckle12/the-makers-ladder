@@ -675,7 +675,25 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch40 — "The Sweep" *(climax, part 1)* — POV: **Oscar** *(proposed)* — **[DRAFTED 2026-07-13 — pending fight-choreographer pass]**
+### Ch40 — "The Sweep" *(climax, part 1)* — POV: **Oscar** — **[DRAFTED + FIGHT-PASSED 2026-07-13]**
+
+> **★ Fight-choreographer pass run and applied** (notes: `notes/b1-ch40-fight-choreographer.md`). Verdict was
+> REVISE→GO; fixes applied: the nine-second clock now pays (Kessa/Tarn's raid leaves eleven clerks with nothing
+> to write with); nobody leaves the hearth for free (Oscar names the price aloud; Cael throws a hall after them
+> at extra cost); Tarn never gets the word *door* back; Wick's drift to the basin is on-page with the blank
+> token going quiet; Oscar closes all four doors and lands on the *wrong* word ("nothing in the world");
+> `the far side` leak out of Oscar's narration; clerk count set at eleven (mirrors the eleven candidates).
+>
+> **★ AUTHOR FLAGS still open (from the pass):**
+> - **FA-1 RESOLVED IN DRAFT:** Wick's 1–10 gauge now rises monotonically with the thinning of the wall
+>   (Ch37 6 → Ch38 7 → 8 → Ch39 9 → Ch40 9 → **10**). Ch39 was corrected from 7. **Canon-keeper: log the
+>   gauge's meaning (pressure, rising) and direction — it is load-bearing across five chapters and ends the
+>   chapter.**
+> - **FA-4 [FOR THE AUTHOR]:** the font strikes words/counts/names out of living people (Tarn's *door*,
+>   Kessa's count, Oscar's name). The prose keeps this as *editing a person as a thing that doesn't belong* —
+>   it **goes over** them, it never *reads* a mind. Confirm as Book-1 canon; it has implications for the
+>   runaway (Ch41) and the seat's power (Book 3). **Never let the font "read" a person in prose.**
+> - **FA-2:** "Oh. *There* it is." kept as written (reviewer recommended keep).
 
 > **★ FINALE COMBAT DESIGN (2026-07-13) — "the best damn thing we've written." This enriches the bullets below;
 > where they conflict, this governs. When drafted, run it through the `fight-choreographer` persona.**
