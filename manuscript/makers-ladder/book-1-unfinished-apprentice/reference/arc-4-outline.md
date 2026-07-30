@@ -770,7 +770,35 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch41 — "What She Gives" *(climax, part 2)* — POV: **Wick** *(proposed — the sacrifice from inside her)*, Oscar-witnessed alt
+### Ch41 — "What She Gives" *(climax, part 2)* — POV: **Wick** — **[DRAFTED + FIGHT-PASSED 2026-07-30]**
+
+> **AS DRAFTED (6,070 words; cadence 5.1 em/1k; notes at `notes/b1-ch41-fight-choreographer.md`).**
+> The causal engine below is delivered intact. What the drafting added, for the canon-keeper:
+> - **The hinge line:** Wick answers Oscar's Ch40 wrong word — *"He said there's nothing in the world that
+>   answers this." / "So don't use the world."*
+> - **Oscar refuses first, then helps.** He says no (*"You are sixteen… I am not going to spend you"*), she
+>   goes anyway, and then he does the worst kind thing in the book: he tells her **where to stand** (the
+>   seat-stone, not the rim, so it can't heal around the hole) and **braces a strip of floor** across the
+>   disintegrating basin with the last figure he owns. Blame lands on the trap; the **guilt** is entirely his.
+> - **The clock is Cael** and it is paid: he goes out mid-scene, the gold stops, the city immediately takes
+>   Kessa's count and a word out of Oscar, and *that* ends the goodbyes.
+> - **The engine's one reflex** *(new — author flag #3 in the notes)*: it turns on the thing at its seat to
+>   read and strike out, and **finds nothing to read** — a hole isn't written, so there is no clause for it.
+>   This is why she survives long enough to finish, and it retro-loads her line to Cael (*"I can't be a
+>   person and a hole at the same time"*) into mechanism. **The font never successfully reads a person.**
+> - **Kessa's burn** *(new — author flag #2)*: Wick stops holding for less than a second to break Kessa's
+>   grip and never knows whether she meant to. Kessa carries a hand-shaped scar on her **left palm** into
+>   Book 2. Kessa's answer: *"You're not gone. You're **taken.** That's a different word and it's the one
+>   I'm using."*
+> - **Cael has no benediction** — he opens his mouth and nothing comes, and the kid absolves *him.*
+> - **Tarn** prices it (*"It's a good trade… And I hate it. Write that down as well."*), takes Cael's whole
+>   weight when he folds, and **still cannot hold the word *door*** — she gives it back, it doesn't stick,
+>   and she promises to keep saying it for him.
+> - **The token, per the interlock:** she sets it in the hollow of the seat-stone because *"You can't hold
+>   two things,"* and says *"Don't lose that."* Last image of the book's climax: an empty chair-sized hollow
+>   with a small grey rock in it, going on being nothing at all.
+> - **The gauge lands on ZERO** (6→7→8→9→9→10→**0** — nothing is pressing on the far side of the wall
+>   because there is no wall), and **Kessa answers "Marked."**
 
 > **★ THE CAUSAL ENGINE (2026-07-13) — why Wick's sacrifice HAPPENS (the author asked for this). This governs.**
 >
