@@ -210,7 +210,7 @@ It was not violent. It was the tidiest thing on that whole plain: a made thing w
 
 Wick was crying. Tarn had a hand on the back of Oscar's coat again and Oscar had not felt him arrive.
 
-And out across the pale stone the clerks came back from the arcade for fresh kit, eleven of them, unhurried, and stopped.
+And out on the flat the clerks came back from the arcade for fresh kit, eleven of them, unhurried, and stopped.
 
 "Cupboard's kindling," Kessa said, arriving past Oscar's shoulder with soot on both hands and Doss's knife bare. "Whole arcade's cold. Tarn put a door through the back of it and I did the rest, and there's nothing left in there to write with." She looked out at them without any pity at all. "They can queue."
 
@@ -234,7 +234,7 @@ Oscar felt it as a change in the pressure of a page. The vast careful attention 
 
 "You'll want to say why."
 
-He was reading it. He was reading it fast and he wished he weren't, because he could see the grammar of the thing perfectly and there was nothing in the world he could do with it.
+He was reading it. He was reading it fast and he wished he weren't, because he could see the grammar of the thing perfectly and could do precisely nothing with it.
 
 "It's an engine for finishing things," he said. "That's all it's ever been. It strikes out what doesn't belong and it sets what does, and it has been doing that all this while under a hand. The fourth was its hand. There was always somebody standing at the basin to say *this far and no further.*" He watched the column climb past the height of the towers and keep going, and the threads of it that ran out into the city began to brighten street by beautiful street. "We took the hand off it. The seat's empty. There's no candidate and no operator and nothing to finish, so it's going to do the only thing it knows how to do."
 
