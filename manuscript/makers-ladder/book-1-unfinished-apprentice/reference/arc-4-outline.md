@@ -883,7 +883,37 @@ This also drops Oscar from 8 chapters to 7 and helps ensemble decentering.)*
 
 ---
 
-### Ch42 — "[Denouement — e.g. 'Set Aside']" — POV: **Kessa coda ★ recommended** *(or Oscar)*
+### Ch42 — "Set Aside" *(denouement — **the last chapter of Book 1**)* — POV: **Kessa** — **[DRAFTED 2026-07-30]**
+
+> **AS DRAFTED (4,357 words; cadence 3.4 em/1k; repeater clean).** All three [FOR THE AUTHOR] calls
+> resolved as recommended: **Kessa coda**, **spent/collapsed font**, **no Ash**. Final note = **resolve.**
+> What the drafting locked, for the canon-keeper:
+> - **The city doesn't fall down.** Everset is queueing again by morning and nobody in it will ever be
+>   told. The eleven clerks are still standing about on the plain — *"a pen with no hand"* — harmless,
+>   idle, somebody else's problem.
+> - **The font's fate (locked):** not broken — **empty.** The valley-sized working is intact and running
+>   on residue. *"It's a mill with the river gone."* The lamps burn until they don't; in a year or forty
+>   there will be weeds in the cracks and rats in the granaries. **Book-2 seed: the beautiful city is
+>   slowly going to stop being clean.**
+> - **Kessa takes the token** — beats Oscar's hand to it, pockets it where Doss's whetstone used to ride,
+>   and Oscar is *relieved.* **She is the one who runs the rescue.**
+> - **Cael's benediction arrives ten hours late** and he has nowhere to put it (*"She isn't dead, Kessa,
+>   that's the whole trouble — I've got a benediction and no ground to put it in"*). Kessa tells him to
+>   say it over the stone and stands for it, and wants it, for the first time in her life.
+> - **Tarn's debt transfers on-page:** *"I was his. Since the bowl. It's hers now."*
+> - **Oscar states the ledger and refuses to guess** — the architect's name is **held** (the fourth had it
+>   burned out of him; Ash has it and is gone). **No architect, no fair-copy method.** He pays the Ch40
+>   bread line and can't enjoy it. He calls Quill four times just to check it still comes, and cannot
+>   cope with being loved by it.
+> - **Kessa's creed as the Book-2 heading:** *"Taken is not dead… travelling has two ends."* Her whole
+>   method, said plainly: *"Ground talks. Everything is somewhere. Every somewhere has an edge, and every
+>   edge has been crossed by something, and I have never once failed to find a way in — I've only ever
+>   failed to like the way."*
+> - **The rat on the parapet** breaks her (the Ch38 diagnostic — *"there's no rats"* — inverted as the
+>   sign of life coming back), and she gets through it in under a minute because that's what she has.
+> - **THE LAST BEAT OF BOOK 1:** Kessa gives the count out loud, first, not after. *"Five." … "Four here.
+>   One out. Five."* And Tarn, then Cael, then Oscar — on the second try — answer **"Marked."** The dead
+>   girl's half of the ritual is taken over by the crew, and the count is not written down at four.
 
 > **★ POV REBALANCE (2026-07-13):** the back half as outlined runs **5 Oscar / 2 Wick, zero Kessa/Cael/Tarn** — the whole climax has no ensemble POV, which cuts against the "let the crew *feel* it" note. **Recommend giving Ch42 to Kessa**: it bookends her Ch30 reunion, lands the loss through the tracker who swore *you don't let the dark have your people* and just did, and gives the denouement an outside-Oscar vantage. (Tarn-POV stays a Book-1 no.) Oscar-POV remains the alt if the close must be his refusal-turned-resolve from inside.
 
