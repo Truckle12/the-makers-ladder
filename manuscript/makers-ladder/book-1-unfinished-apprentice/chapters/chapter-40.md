@@ -98,7 +98,7 @@ The rubble settled.
 
 The Setter walked out of it, unhurried, brushing dust off one sleeve with two fingers.
 
-"That was the sweep," it said. There was no mockery in it, which was worse. "The fourth of us worked that out too. It's a good tool. It isn't a good answer." It came on. "You're quick. You're the quickest of us. But I have been doing this without stopping since before your grandmother's grandmother, and you have been alive for one season, and you are still, at the bottom of it, trying to *win a conversation.*"
+"That was the sweep," it said. There was no mockery in it, which was worse. "The fourth of us worked that out too. It's a good tool. It isn't a good answer." It came on. "You're quick. You're the quickest of us. But I have been doing this without stopping since before anything you remember, and you remember three hundred years, and you have been alive for one season, and you are still, at the bottom of it, trying to *win a conversation.*"
 
 ---
 

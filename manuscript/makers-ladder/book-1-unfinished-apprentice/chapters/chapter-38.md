@@ -56,6 +56,26 @@ Wick stopped in the middle of the street with her mouth open.
 
 Because he was. He had come five hundred miles to a place he was ready to hate, and the place had handed him a morning: warm stone, a good smell, children being nuisances, a man selling something on a stick. He kept waiting to catch the seam — the flat note, the performance under it — and it wasn't there. Nobody was pretending. These were people who had woken up in a town they liked.
 
+It took him until the second street to work out why his shoulders had come down.
+
+He had been walking under a hood since Marrow. Since before Marrow — since an innkeep in a valley town had described him to a polite stranger and been paid for it, and enjoyed the telling: *tall, silver hair, proper silver, not old-man grey, young face under it.* That description had been on a writ and in a hunter's mouth and in the memory of every landlord between here and the ice. He had spent a season being the most describable person on the road.
+
+Here, nobody looked at him.
+
+Nobody looked at him because a good quarter of that market was his own people. Elves at the fish stalls and elves arguing the price of thread; an elf-woman with grey coming up through the silver, minding somebody's human grandchild with the settled boredom of long practice; two young ones sitting on a wall with their boots off, doing nothing whatever, magnificently. Long bones and pale skin and that faint cold light in the eye — the old long-lived blood, thick on the ground, in a street where nobody had thought to remark on it in a hundred years.
+
+He put his hood back.
+
+He did it without deciding to. He felt the sun on the back of his neck, and for about four steps it was the greatest relief of his life.
+
+"Oscar," Kessa said quietly.
+
+"I know."
+
+"Do you? Because your face has gone soft, and I've not seen it do that since — " she went looking for the last time and did not enjoy what she found. "I've not seen it do that."
+
+"I *know.*" He made himself say the rest of it out loud, because saying a thing out loud was the only reliable way he had ever found to stop wanting it. "I am standing in the first town since the ice where I am not the only object in the street worth describing. I am entirely aware of how that works. It is working anyway."
+
 "Kessa," he said quietly. "Read it for me. I don't trust myself here."
 
 She had been doing nothing else since the wash-yard. "Nobody's afraid," she said. "That's the first thing. Not of us, not of each other, not of the guards — and there's guards, four so far, and one of them just bought a bun." Her eyes went along the roofline and came back. "Everyone's fed. Nobody's limping. That woman put her purse down on a barrel to count fish and left it there." A pause. "It's the best-run place I've ever stood in, and I want you to know I'm saying that with my whole chest and I still don't like it."
@@ -101,6 +121,8 @@ She had crouched at the edge of a yard with her fingers in the gutter-mud, and h
 And the morning turned over.
 
 Because once she'd said it he could not stop seeing it, and it was not the absence of vermin, it was the *shape* of the absence. No beggars — and he had been in enough towns to know a town without beggars is a town that did something about them. No one very old and no one very ill. No accents. The arguing woman and the fishmonger had exactly the same vowels, and so did the grandmother, and so did the guard with the bun. Everyone dressed a little bit the same, in a way that no one had ordered, in a way that came from below rather than above.
+
+And his own people and theirs in the same street with nothing at all between them — which his borrowed memory said took three generations and usually did not take. It had taken here. Of course it had. *Belonging* was the one product this town had ever been asked to make, and it made it the way a mill makes flour: reliably, at scale, and without once asking the grain.
 
 And there was one more thing he owed her, and he made himself say it out loud at the next corner, because he had promised.
 
@@ -182,7 +204,13 @@ Kessa's hand went to Doss's knife. Tarn stepped wide. And Everset — the market
 
 It was the worst thing that had happened to him since the ice.
 
-They came out of the shops. Somebody put a cup of something hot in his hand and he took it because his body took it. An old man got hold of his other hand in both of his and would not let go and said *thank you* with tears standing in his eyes, and could not or would not say what for. A woman lifted a baby up so the baby could see him, and the baby, uninterested, tried to eat its own fist. The flower girl emptied her basket over him. He stood in a fall of cut stems in a beautiful street with a hot cup he had not asked for and forty strangers smiling at him and he had never in his life, in either of his lives, been so frightened.
+They came out of the shops. Somebody put a cup of something hot in his hand and he took it because his body took it.
+
+And the ones who reached him first were the old ones of his own blood.
+
+That was the part he would take out and look at properly later, when there was time to be frightened in an orderly fashion. The humans in that street were delighted the way a town is delighted by a wedding: noise, and a good day, and something to tell people about at supper. The elves were not delighted like that. An old man with the silver gone nearly white got hold of his other hand in both of his and would not let go and said *thank you* with tears standing in his eyes, and could not or would not say what for, and there was nothing festive in him anywhere.
+
+There was *at last.* A woman lifted a baby up so the baby could see him, and the baby, uninterested, tried to eat its own fist. The flower girl emptied her basket over him. He stood in a fall of cut stems in a beautiful street with a hot cup he had not asked for and forty strangers smiling at him and he had never in his life, in either of his lives, been so frightened.
 
 "They know my *face,*" he said, to no one. "Kessa. They have never seen me and they know my *face* — "
 
