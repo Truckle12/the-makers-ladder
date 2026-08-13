@@ -102,6 +102,16 @@ And the morning turned over.
 
 Because once she'd said it he could not stop seeing it, and it was not the absence of vermin, it was the *shape* of the absence. No beggars — and he had been in enough towns to know a town without beggars is a town that did something about them. No one very old and no one very ill. No accents. The arguing woman and the fishmonger had exactly the same vowels, and so did the grandmother, and so did the guard with the bun. Everyone dressed a little bit the same, in a way that no one had ordered, in a way that came from below rather than above.
 
+And there was one more thing he owed her, and he made himself say it out loud at the next corner, because he had promised.
+
+"I can read all of this," he said. "Grammar, clauses, purpose. I could stand here a year and take notes and probably understand the whole of it. And I want to be very clear about the next part, so nobody builds a plan on the wrong hope." He looked at the calm lovely working running away in every direction under the market. "I can't *hold* any of it. Reading isn't lifting. If this thing turns round and asks whether I belong, knowing exactly how the question is phrased will not help me survive the answer. I'm a man who can read a river. I still drown in it."
+
+Kessa took that the way she took everything, which was as something to be spent later. "Then reading's for finding the door," she said. "Not the fight."
+
+"Yes."
+
+"Good. Say that to yourself twice a day."
+
 He stood in the best-run place he had ever seen and understood at last what he was standing in.
 
 It was clean. Not tidy. *Clean,* in the way a page is clean when someone has been going over it with a pen and striking out what doesn't belong — and the striking-out never stops, and it is never loud, and the city simply *stays* lovely. They were happy. He believed the happiness completely. That was the horror: it was not a lie. It was an *edit,* and it had been running so long and so gently that the people inside it had never once had a bad day they could name.
@@ -109,6 +119,16 @@ It was clean. Not tidy. *Clean,* in the way a page is clean when someone has bee
 "It's not a city," he said. "It's a fair copy of one."
 
 And he heard the word come out of his own mouth and went cold to the wrists, because it was Ash's word, and he had not meant to use it.
+
+And then the name arrived, the way they always arrived, too late and all at once.
+
+"Oh," he said.
+
+"What," said Kessa.
+
+"The *name.*" He laughed, and it was not a good sound. "Ever*set.* It isn't a place-name at all, it's a *state.* It's what you call a thing that has been fixed in its final form and cannot be altered any more. You set type. You set a stone. You set a thing so it stays." His hands had gone cold. "And the font at the middle of it isn't a spring. Or it is, but that's not why they call it that. A font is the case you cast the letters out of. You break the old ones up and pour them again into whatever you want to say next." He looked up the hill toward the pale crown of the city. "Somebody built a town on a font and named it Everset, and nobody has thought twice about it since, and I want it noted that this is exactly the sort of joke a man makes when he is quite certain nobody clever will ever read it."
+
+Nobody said anything. Down the street, somebody's grandmother was still holding court.
 
 ---
 
