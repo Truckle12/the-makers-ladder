@@ -52,11 +52,25 @@ And he asked the question he had crossed five hundred miles to ask, and he asked
 
 "I no longer have the part that keeps things," the Setter said.
 
-It said it without self-pity, because self-pity requires a self, and Oscar stood very still while the worst news of his life arrived in the shape of an administrative regret. Somewhere at the back of the plain of pale stone, the deep current came up out of the world and stood in its silent column, and threads of it ran off into the beautiful city and kept it clean.
+It said it without self-pity, because self-pity requires a self, and Oscar stood very still while the worst news of his life arrived in the shape of an administrative regret. Behind it the column stood in the middle of the Fair House and did not flicker, and the threads of it ran away under the floor and out into the streets and kept the pie stalls lovely.
+
+Oscar, who had been alive for one season and had inherited a long dead man's certainty about nearly everything, did what he always did with a fact he could not stand: tried to put a fence round it.
+
+"Give me a reign, then," he said. "Who sat the throne in the north the year they set you?"
+
+The Setter told him, and the name meant nothing, which proved nothing — his borrowed memory stopped where the man he was cut from stopped, and everything after that was other people's history.
+
+So he asked the other one.
+
+"And how many have there been since?"
+
+"A number," the Setter said. "I had it for a long while. I noticed I was carrying it about for no reason, so I put it down."
+
+That was the moment the floor went out from under the arithmetic. He had been telling himself a story in which this had been going on for a few lifetimes — bad, but a shape a man could hold. It was not a few lifetimes. It was however long it takes a patient thing to stop finding the count worth keeping, and Oscar's mind put its hands up and declined to guess.
 
 "When they set me," it went on, "the setting takes. That is the whole of what setting is: the thing is fixed in its final form, and what is fixed cannot also be *asking.* I could tell you the shape of the cycle. I could recite you the order of the offices. The man who was told the name of the hand behind it went out of me the day I was completed, and what was left is what you see, and what you see is adequate to the work." A small movement, hands unfolding and refolding. "I keep the basin. I set the candidates. I am a very good instrument and I was, they tell me, a promising person."
 
-"Then *sit it,*" Oscar said. His voice came out cracked and too loud, ringing off the stone. "The seat. Everything here is built to put a master in a chair and you've been standing next to it for three hundred years — why in all the world doesn't the fourth copy just take the job?"
+"Then *sit it,*" Oscar said. His voice came out cracked and too loud, ringing off the stone. "The seat. Everything here is built to put a master in a chair and you have been standing beside it since before anybody now breathing was born — why in all the world doesn't the fourth copy just take the job?"
 
 For the first time, the Setter looked at him with something that was almost attention.
 
@@ -68,7 +82,7 @@ Oscar's mouth was dry. "And I'm — "
 
 ---
 
-He had to move. He couldn't stand still in front of it and think, so he did the thing he'd been refusing to do since they came up out of the drain: he turned away from the font, and walked, badly, to the low dark well-head in the courtyard at the plain's edge — the old stone the beautiful city had grown politely around and never touched.
+He had to move. He couldn't stand still in front of it and think, so he did the thing he'd been refusing to do since they came up out of the drain: he turned away from the font and walked, badly, down the side aisle to the thing he had been refusing to look at since he came through the doors: a low dark well-head, rough and unlovely, standing in a bay of that flawless pale stone like a bad tooth. The Fair House had not been built over it. The Fair House had been built *around* it, carefully, at a respectful distance, the way you build around a grave.
 
 "Oscar," Cael said, starting after him.
 
@@ -96,11 +110,11 @@ Oscar made a sound. He heard himself make it and had no control over it whatsoev
 
 "The dead place?" Kessa. Somewhere very far away, six feet off. "Your home's five hundred miles north, you said it was under the ice — "
 
-"No. No, that's — that's the *other* one, that's where they woke me, they woke me in a cradle in a dead city and I have spent this whole book of my life assuming my home was buried somewhere and *lost.*" He was laughing, which was appalling; he made it stop. "It isn't lost. It isn't buried. They took it *down.* They took my home apart, Kessa, stone by stone, and they melted it and *cast it again.* This stone, this beautiful smooth stone with no joints in it, it has no joints because it was never laid, it was *poured.* They broke up the Larchwall and they re-set it as this." He was pointing now, at the bridges, the colonnades, the lamps; his hand was shaking so hard he put it down. "The word is *font.* I told you the word was font and I thought I was being clever about the type. It's the same word. You break the old letters up and you throw them in the font and you *cast them again into whatever you want to say next.* They did it to a city. They did it to a *man.* They did it to me. Everything in this valley is the same crime performed at three different sizes and I am standing in the middle of it holding the third one's notebook."
+"No. No, that's — that's the *other* one, that's where they woke me, they woke me in a cradle in a dead city and I have spent every day since assuming my home was buried somewhere and *lost.*" He was laughing, which was appalling; he made it stop. "It isn't lost. It isn't buried. They took it *down.* They took my home apart, Kessa, stone by stone, and they melted it and *cast it again.* This stone, this beautiful smooth stone with no joints in it, it has no joints because it was never laid, it was *poured.* They broke up the Larchwall and they re-set it as this." He was pointing now, at the bridges, the colonnades, the lamps; his hand was shaking so hard he put it down. "The word is *font.* I told you the word was font and I thought I was being clever about the type. It's the same word. You break the old letters up and you throw them in the font and you *cast them again into whatever you want to say next.* They did it to a city. They did it to a *man.* They did it to me. Everything in this valley is the same crime performed at three different sizes and I am standing in the middle of it holding the third one's notebook."
 
 Nobody spoke. Water ran in the channels, keeping the beautiful clean streets beautiful and clean.
 
-"And the point of it," Oscar said, "the *use* of it." And he turned back toward the pale column and the small grey figure at its rim, and the last piece went into the last hole with a click he felt in his teeth. "You're not an erasure engine that happens to sit on my home. You're an erasure engine *made out of* my home, because that's the joke. The line's own house, re-cast as the thing that strikes out whatever doesn't belong. And then the heir comes back to it. Of course he does. Where else would he go? He walks in, and the place he remembers is the machine, and the machine is what finishes him."
+"And the point of it," Oscar said, "the *use* of it." And he turned back toward the pale column and the small grey figure at its rim, and the last piece went into the last hole with a click he felt in his teeth. "It isn't a machine that happens to stand where my home was." He would not take the tidy word for it; the tidy word was a place to stand back from, and he had done enough standing back. "They broke my home up and threw it in the font and cast *this* out of the pieces. That's the joke. The line's own house, re-cast as the thing that strikes out whatever doesn't belong. And then the heir comes back to it. Of course he does. Where else would he go? He walks in, and the place he remembers is the machine, and the machine is what finishes him."
 
 "Yes," said the Setter, with what a kinder man would have called relief. "You're quick. The fourth was not quick. I remember being told so."
 
@@ -108,9 +122,9 @@ Nobody spoke. Water ran in the channels, keeping the beautiful clean streets bea
 
 He would remember the next part imperfectly, and he would be grateful for that.
 
-He remembered Wick, very small and very white, saying "nine, it's nine, it's still nine" to nobody, and holding a grey rock in her fist so hard her knuckles had gone the colour of the city. He remembered Kessa going round the plain's edge counting exits and finding none she liked and telling him so plainly, because she had promised to keep telling him the truth even when the truth was *nothing here is any good.* He remembered Tarn saying, to no one, "So the debt was always to a building," and being unable to work out what that meant and never asking.
+He remembered Wick, very small and very white, saying "nine, it's nine, it's still nine" to nobody, and holding a grey rock in her fist so hard her knuckles had gone the colour of the city. He remembered Kessa going round the wall counting exits and finding none she liked and telling him so plainly, because she had promised to keep telling him the truth even when the truth was *nothing here is any good.* He remembered Tarn saying, to no one, "So the debt was always to a building," and being unable to work out what that meant and never asking.
 
-And he remembered Cael, of all people, walking out onto the pale stone toward the thing at the font with his empty hands open, and asking it — plainly, in the voice he used at bedsides — whether it had ever been happy.
+And he remembered Cael, of all people, walking out across that pale floor toward the thing at the font with his empty hands open, and asking it — plainly, in the voice he used at bedsides — whether it had ever been happy.
 
 "I was, I'm told, a promising person," said the Setter.
 
@@ -132,7 +146,7 @@ The Setter waited until they were done, because it had nothing but time and noth
 
 Then it said, "Shall we begin?"
 
-Oscar looked at it. The column of the deep current stood behind it, higher than the towers, holding a city's worth of striking-out in the air like a held breath, and the whole of it (the font, the basin, the beautiful lethal streets, the eleven candidates, the grimoire against his ribs in his own hand, the empty courteous thing that had been the fourth of him) was one long sentence somebody had started three hundred years ago and had been waiting all this time to put a full stop on.
+Oscar looked at it. The column of the deep current stood behind it, going up past the galleries into a roof he could not see, holding a city's worth of striking-out in the air like a held breath, and the whole of it (the font, the basin, the beautiful lethal streets, the eleven candidates, the grimoire against his ribs in his own hand, the empty courteous thing that had been the fourth of him) was one long sentence somebody had started a very long time ago and had been waiting, patiently, all this while, to put a full stop on.
 
 *Come and be fitted.*
 
