@@ -14,13 +14,13 @@ The thing that had wanted her since before she had a word for anything was not b
 
 And out through the great doors the city was coming apart.
 
-Not like a fire. That was the part she'd never be able to tell anyone. When a house burns you *know.* There's noise and heat and the roof goes and it's the most honest thing in the world. This was the other thing. A bridge with lamps on it stopped being a bridge and there was no bridge and no gap where a bridge had been, just a piece of the world that had never held one. Then a garden. Then a street with people in it, and she saw them, she was going to see them for the rest of her life, one man with a bucket standing in the road looking up —
+Not like a fire. She'd never be able to tell anyone this part. When a house burns you *know.* There's noise and heat and the roof goes and it's the most honest thing in the world. This was the other thing. A bridge with lamps on it stopped being a bridge and there was no bridge and no gap where a bridge had been, just a piece of the world that had never held one. Then a garden. Then a street with people in it, and she saw them, she was going to see them for the rest of her life, one man with a bucket standing in the road looking up —
 
 — and then no street.
 
 The pie stalls were down there.
 
-That was the stupid thing her head did, and it did it before anything else: not *the city,* not *thousands of people,* just the three pie stalls and the grandmother on her step and the boys with the hoop.
+Her head did its stupid thing, and it did it before anything else: not *the city,* not *thousands of people,* just the three pie stalls and the grandmother on her step and the boys with the hoop.
 
 Her door leaned in. It had been leaning all day. Now it *pointed,* the way a dog's head comes round at a sound, and what came through the thin place with it was not hunger exactly.
 
@@ -140,7 +140,7 @@ It was so *happy.* She'd never tell anybody that. It wasn't cruel. It had never 
 
 Above her the column bent.
 
-It had stood in that room all day being more power than anybody had any business having, and it *bent,* like a rope going slack, and then it started going down into her — not into her, *through* her, through the hole she'd spent sixteen years being — all that cold careful written light, an age of striking things out, an engine built to finish things, pouring into a mouth that had wanted everything since before there was anything to want.
+It had stood in that room all day being more power than anybody had any business having, and it *bent,* like a rope going slack, and then it started going down into her — not into her, *through* her, through the hole she'd spent sixteen years being — all that cold careful written light, an age of striking things out, pouring into a mouth that had wanted everything since before there was anything to want.
 
 It tried to strike her out. She felt it come. It was the same pressure that had gone over Tarn and lifted a word out of the middle of him and it came down on her with the whole weight of the valley behind it.
 

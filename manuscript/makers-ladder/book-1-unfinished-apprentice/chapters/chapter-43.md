@@ -2,7 +2,7 @@
 
 Wick woke up cold.
 
-That was the first thing and it was so strange it took her a while to get past it. She had been too hot her entire life. She had been the warm one, the dangerous one, the girl you didn't sit too close to in a barn; and she lay on her back with her arms out and her fingers open and she was *cold,* ordinary cold, cold like a person, and for about ten heartbeats it was the most interesting thing that had ever happened to her.
+It was so strange it took her a while to get past it. She had been too hot her entire life. She had been the warm one, the dangerous one, the girl you didn't sit too close to in a barn; and she lay on her back with her arms out and her fingers open and she was *cold,* ordinary cold, cold like a person, and for about ten heartbeats it was the most interesting thing that had ever happened to her.
 
 Then she remembered why.
 
@@ -18,7 +18,7 @@ She got up.
 
 She was somewhere.
 
-That was as far as she could get with it and she went at it for a long time. There was a ground and it held her weight. There was a direction that felt like down, which meant there was a direction that felt like up. There was light, or there was something her eyes kept trying to call light, low and colourless and coming from no particular side of anything.
+It was as far as she could get, and she went at it for a long time. There was a ground and it held her weight. There was a direction that felt like down, which meant there was a direction that felt like up. There was light, or there was something her eyes kept trying to call light, low and colourless and coming from no particular side of anything.
 
 There was no sky. She looked for a long time and there was no sky and she made herself stop looking.
 

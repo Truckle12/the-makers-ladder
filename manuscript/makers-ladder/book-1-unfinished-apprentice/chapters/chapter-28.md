@@ -22,7 +22,7 @@ She got a grip on it.
 
 And it got a grip on *her*, and pulled.
 
-That was the part nobody could have warned her about, because there weren't words for it that meant anything until it was happening. It didn't claw. It didn't bite. It just pulled her toward the open door inside herself like the ground pulls you when you lean too far over a high place, that lurch in the stomach, except the high place was *her* and the long drop was on the other side of the latch she'd kept shut since she was small, and she was going over it. She could feel herself going. The door swung wider than she'd cracked it and the dark behind it breathed out cold and patient and glad, *so* glad, and she scrabbled for the edge of herself and her fingers wouldn't hold.
+Nobody could have warned her about this part, because there weren't words for it that meant anything until it was happening. It didn't claw. It didn't bite. It just pulled her toward the open door inside herself like the ground pulls you when you lean too far over a high place, that lurch in the stomach, except the high place was *her* and the long drop was on the other side of the latch she'd kept shut since she was small, and she was going over it. She could feel herself going. The door swung wider than she'd cracked it and the dark behind it breathed out cold and patient and glad, *so* glad, and she scrabbled for the edge of herself and her fingers wouldn't hold.
 
 She was losing. She knew the feeling. She'd felt the start of it a hundred times and slammed the door every time, but she'd never felt it this far gone, never felt the actual lip of it, the place past which there wouldn't be a Wick to slam anything.
 
@@ -42,7 +42,7 @@ She hadn't known how much she wanted to stop until something finally offered. No
 
 And the worst thing — the thing she would never tell Oscar, never tell Cael, never tell anybody, the thing she could barely stand to know about herself — was that for one whole second, she said yes.
 
-She wanted to put it down so badly she would have died to do it. That was the trap and it was a good trap, it was the best trap anybody had ever built for her, because it wasn't offering to kill her. It was offering to let her *rest.*
+She wanted to put it down so badly she would have died to do it. And it was a good trap, the best trap anybody had ever built for her, because it wasn't offering to kill her. It was offering to let her *rest.*
 
 And it showed her what rest looked like, which was the cruelest part, because it knew exactly what to show her. Not gold. Not power. Nothing big. Small things. A bed that was warm all the way through to the middle. A morning where the first thing she did when she woke wasn't reach for the latch. Being full. Being a girl somebody fed, instead of a thing somebody had to manage. Sitting in a room full of people and not once running the count of which of them she'd burn if she slipped. It showed her *down* — set the weight down, all the way down, and never pick it up again — and oh, she wanted it. She wanted it so bad her eyes stung in the cold.
 
@@ -74,7 +74,7 @@ She grabbed its hunger like she grabbed her own every morning before her eyes we
 
 ---
 
-It wasn't ready for that. Nothing had ever held it. Everything it had ever touched either ran from it or opened to it or got swallowed by it. That was the whole world, as far as it knew, those were the only three things that happened. And now here was this small cold furious girl with her hand clamped down over its hunger like a lid jammed on a pot that wanted to boil over, and she would not let go, and she would not feed it, and she would not run.
+It wasn't ready for that. Nothing had ever held it. Everything it had ever touched either ran from it or opened to it or got swallowed by it. As far as it knew, those were the only three things that happened. And now here was this small cold furious girl with her hand clamped down over its hunger like a lid jammed on a pot that wanted to boil over, and she would not let go, and she would not feed it, and she would not run.
 
 *No,* Wick told it, and she didn't say it gently. *No. You don't get this one.*
 
