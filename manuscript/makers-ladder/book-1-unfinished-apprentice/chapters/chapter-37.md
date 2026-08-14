@@ -34,7 +34,7 @@ He said it the flat careful way he'd been saying things since the valley, and Wi
 
 Nobody answered her, which was answer enough, and then about a minute later the city answered her properly.
 
-There was a man four places up the line. Nothing about him. Thin, older, a bad coat, a bundle under one arm, the sort of man you saw a hundred of in any town and never once looked at twice. He got to the arch. He paused under it, the way they all did, page-turn.
+There was a man four places up the line. Nothing about him. Thin, older, a bad coat, a bundle under one arm, the sort of man you saw a hundred of in any town and never looked at twice. He got to the arch. He paused under it, the way they all did, page-turn.
 
 And the clerks looked at him, and one of them made a small mark on a board, and the man came apart.
 

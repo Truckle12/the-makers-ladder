@@ -2,7 +2,7 @@
 
 They came up out of the world into the world.
 
-The bright passage Oscar had torn held just long enough—a throat of forced light up through the dying shaft, the city folding in on itself below them as they climbed, the roar of it falling away by degrees until there was only the scrape of their own hands and feet and breath—and then the passage gave onto a crack in a glacier, and the crack gave onto the open, and the four of them spilled out onto a field of snow under an honest sky for the first time in days.
+The bright passage Oscar had torn held just long enough—a throat of forced light up through the dying shaft, the city folding in on itself below them as they climbed, the roar of it falling away by degrees until there was only the scrape of their own hands and feet and breath—and then the passage gave onto a crack in a glacier, and the crack gave onto the open, and the four of them spilled out onto a field of snow under an honest sky, the first sky in days.
 
 Oscar lay on his back in the snow and looked up and could not, for a moment, do anything else.
 

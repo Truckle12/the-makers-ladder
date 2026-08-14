@@ -20,7 +20,7 @@ She'd found it in the good claim haul, in the crate the others were calling trea
 
 And she'd taken it anyway, before she'd thought about it, the way you'd close your hand around something falling. *Mine.* No reason. It didn't warm to her or sing to her or do any of the things the stories said a girl's secret treasure was supposed to do. It just sat in her pocket being heavy and grey and hers, and every time her fingers found it she felt, faintly, what you feel reaching for a word you can't remember—that it was a question, and the question had her name on it, and she wasn't going to get the answer by wanting it.
 
-She liked it because it was quiet. Everything else about her was loud now—the coal, the far side, the door, the thing waiting—and the token just sat there being a rock, asking its one question, never once trying to take her over. One thing in her whole life that wasn't trying to get bigger. She put her thumb on it and pressed.
+She liked it because it was quiet. Everything else about her was loud now—the coal, the far side, the door, the thing waiting—and the token just sat there being a rock, asking its one question, never trying to take her over. One thing in her whole life that wasn't trying to get bigger. She put her thumb on it and pressed.
 
 "You're rubbing that rock again," Kessa said, not turning around. Kessa never turned around and always knew.
 
@@ -64,7 +64,7 @@ When Oscar came to take the second watch and folded himself down beside her by t
 
 "It's getting harder," Wick said. Her voice came out smaller than she wanted and she let it. "The holding. Everybody thinks I fixed it after the pit—I held in the square, didn't reach for anything I shouldn't, and you all looked at me like I'd *solved* something, and I let you, because it was nice, being looked at like that." She made herself look at him, this once, instead of away. "But it's not fixed. It's just *held.* And it takes more to hold every day, and tonight it nearly got off its leash in a stupid little stream over nothing, and I don't understand why it keeps getting heavier, and I'm scared of the day it's heavier than I can lift." The last of it came out in a rush, because a rush was the only way it was coming at all. "And I'm telling you because I'm tired of being the only one who knows when I'm scared. So. There. Now you know a thing about me too."
 
-And that was true, all of it—and it was also the smallest true thing she could have offered. She didn't give him the rest: not the door, not the thing on the far side of it that had wanted her since the pit and never once stopped, not the worst part of all, the part she could barely shape into words—that some nights the holding was hard not because the fire pulled, but because a piece of *her* had grown tired of pulling back. She handed him the weight and kept the worst of it buried under her ribs with everything else. One thing at a time, or none. It was already more than she had ever passed to another living person, and she hated that even now, even telling the truth, she was only ever telling part of it.
+And that was true, all of it—and it was also the smallest true thing she could have offered. She didn't give him the rest: not the door, not the thing on the far side of it that had wanted her since the pit and never stopped, not the worst part of all, the part she could barely shape into words—that some nights the holding was hard not because the fire pulled, but because a piece of *her* had grown tired of pulling back. She handed him the weight and kept the worst of it buried under her ribs with everything else. One thing at a time, or none. It was already more than she had ever passed to another living person, and she hated that even now, even telling the truth, she was only ever telling part of it.
 
 Oscar went very still beside her—not the careful stillness she'd dreaded, the *about to handle the dangerous girl* stillness. A different one. The stillness of a man taking a thing seriously, weighing whether to make it smaller than it was just to ease her.
 
@@ -74,7 +74,7 @@ He didn't. That was the thing about Oscar; whatever else he was, he didn't, not 
 
 It surprised a small, tired laugh out of her, which was, she understood, exactly what he'd been reaching for the whole time.
 
-She didn't say anything more. She couldn't, just then. But the coal behind her ribs had gone quiet and warm and *small*—small in the good way, the restful way, small as the token sat in her pocket—and there in the dark beside the only person she'd ever handed a piece of the weight to, she understood at last that holding a thing alone had never once made it lighter.
+She didn't say anything more. She couldn't, just then. But the coal behind her ribs had gone quiet and warm and *small*—small in the good way, the restful way, small as the token sat in her pocket—and there in the dark beside the only person she'd ever handed a piece of the weight to, she understood at last that holding a thing alone had never made it lighter.
 
 It had only ever made her sure she was the only one strong enough to carry it.
 

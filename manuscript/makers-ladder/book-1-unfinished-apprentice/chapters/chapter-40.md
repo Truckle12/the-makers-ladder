@@ -84,7 +84,7 @@ He went for the drive, the low hard shove that had thrown Wick clear at the spri
 
 So he stopped trying to hit the thing, and hit the *room.*
 
-He had read it off a dead man's book by firelight three weeks ago and never once tried it: four lines in a hand he shared, under a heading that said only *for when there are more of them than of you.* A wide thing. A shallow thing. Not elegant.
+He had read it off a dead man's book by firelight three weeks ago and never tried it: four lines in a hand he shared, under a heading that said only *for when there are more of them than of you.* A wide thing. A shallow thing. Not elegant.
 
 He set his feet and opened his looking as far as it went and laid his attention flat across the whole nave: every made thing in it, the standing lamps, the gallery rails, the exquisite fittings of an exquisite building. And he found the small mean binding they all had in common, the one that held worked stone in the shape somebody had argued it into.
 
@@ -126,7 +126,7 @@ Oscar turned. She was standing with the knife in her hand and her mouth slightly
 
 "Five." She said it like a stranger's name. "I know that. I *had* that."
 
-*It doesn't kill you,* Oscar thought, with a clarity like cold water. *That was never what it's for. It goes over you and strikes out whatever doesn't belong in a well-run city, and it will take the words and the counts and the names one at a time, politely, until what's left fits — and it will never once raise its voice.*
+*It doesn't kill you,* Oscar thought, with a clarity like cold water. *That was never what it's for. It goes over you and strikes out whatever doesn't belong in a well-run city, and it will take the words and the counts and the names one at a time, politely, until what's left fits — and it will never raise its voice.*
 
 He opened his mouth to give an order and could not, for one entire second, remember what he was called.
 
@@ -206,7 +206,7 @@ It was the first uncomposed movement it had made in living memory: a flinch, the
 
 The left arm came away from the ribs.
 
-And Kessa was there — because Kessa had been walking her angle round this thing since the moment it turned on her, and had never once stopped taking its ground a foot at a time, and had been standing for the last four seconds in exactly the place a tracker stands.
+And Kessa was there — because Kessa had been walking her angle round this thing since the moment it turned on her, and had never stopped taking its ground a foot at a time, and had been standing for the last four seconds in exactly the place a tracker stands.
 
 She put Doss's knife into the seam under its arm and drove it in to the grip.
 

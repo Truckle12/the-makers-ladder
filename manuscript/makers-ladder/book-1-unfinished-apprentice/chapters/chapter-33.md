@@ -96,7 +96,7 @@ And Oscar — Oscar had gone still while she talked, and stayed still after, and
 
 "You're certain," he said at last. Not challenging it. Checking the load, the same as she would.
 
-"He doesn't lose them. Ever. That's the story the south tells about him, and I've stopped betting against it. So we spend the story." She fed the fire one stick, watching the flame take it. "He's never once had to fight for a collection. It's why the collar, the cordon, the wage-men, the patience — he's built for a world where nobody stands, because in his whole career nobody ever has. There's no story about the time somebody stood, in ground they chose, with the doors shut." She looked up at the wizard over the fire, at all of them, her people, four and her, five with the bird if the bird was feeling generous. "First time for him. Not for us. We stood at the rim of the grey with worse odds and no walls at all."
+"He doesn't lose them. Ever. That's the story the south tells about him, and I've stopped betting against it. So we spend the story." She fed the fire one stick, watching the flame take it. "He's never had to fight for a collection. It's why the collar, the cordon, the wage-men, the patience — he's built for a world where nobody stands, because in his whole career nobody ever has. There's no story about the time somebody stood, in ground they chose, with the doors shut." She looked up at the wizard over the fire, at all of them, her people, four and her, five with the bird if the bird was feeling generous. "First time for him. Not for us. We stood at the rim of the grey with worse odds and no walls at all."
 
 "The post has walls," Tarn said, to the fire, "and a well," and the vote was carried.
 

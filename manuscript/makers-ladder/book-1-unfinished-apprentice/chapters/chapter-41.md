@@ -54,7 +54,7 @@ He kept walking.
 
 "Kessa," Oscar said. "Hold her."
 
-And Kessa — who had never once in her life failed to do the thing in front of her — did not move at all, because Kessa had done the sum in the same second he had and come out the same place and hated it, and everyone on that floor knew it.
+And Kessa — who had never yet failed to do the thing in front of her — did not move at all, because Kessa had done the sum in the same second he had and come out the same place and hated it, and everyone on that floor knew it.
 
 Cael got up.
 

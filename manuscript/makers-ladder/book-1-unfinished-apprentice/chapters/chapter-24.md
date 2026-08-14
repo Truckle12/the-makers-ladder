@@ -56,7 +56,7 @@ Tarn was nodding slowly, the wild-ways man waking up behind his eyes. "The river
 
 It got interesting four hundred yards on, when the patrol came.
 
-They'd cleared the post—five shapes sliding through cold reeds with the river loud enough to cover the suck of mud, the reader's net combing the road behind them and never once reaching the water—and they'd just come up onto firmer ground where a cart-track crossed the river by a low wooden bridge, when Kessa flung up a fist and everyone froze.
+They'd cleared the post—five shapes sliding through cold reeds with the river loud enough to cover the suck of mud, the reader's net combing the road behind them and never reaching the water—and they'd just come up onto firmer ground where a cart-track crossed the river by a low wooden bridge, when Kessa flung up a fist and everyone froze.
 
 Hooves. Unhurried. Coming down the cart-track from the south, toward the bridge, toward them.
 

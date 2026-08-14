@@ -16,7 +16,7 @@ Four. And no body. She made herself hold on to the second half of that. No body.
 
 That landed. Wick's breathing hitched down a notch. "The woman."
 
-"The woman," Kessa said. "Who walked onto a watched road out of nowhere, took him off the man who'd bound him, and was gone before the finder shut his mouth. Whoever she is, she beat Corwen to the prize with the trap already sprung." She let the shape of that sit where all of them could see it. "That's two hunters. The one we can find doesn't have him. The one who has him, nobody finds by charging a road in daylight."
+"The woman," Kessa said. "Who walked onto a watched road out of nowhere, took him off the man who'd bound him, and was gone before the finder shut his mouth. Whoever she is, she beat Corwen to the prize with the trap already sprung." She let that sit where all of them could see it. "That's two hunters. The one we can find doesn't have him. The one who has him, nobody finds by charging a road in daylight."
 
 "So we find her," Wick said. "You find everything."
 
@@ -92,7 +92,7 @@ Last light. They came down the lane in her order — herself first, Cael a pace 
 
 There was no village. There was no road but the lane that had not existed at dawn. There was nothing to feed this house for a day's walk in any direction, and Kessa stood at the edge of the gravel and read it as she'd read the empty hedges, and every line came back the same.
 
-No path worn from door to gate: gravel raked, then never once walked on. Smoke rising from two chimneys, and no woodpile, no ash-heap, no cart-way to bring the cords in. Glass in forty windows, and no wagon had ever hauled glass down that lane. Grass growing right to the foot of the walls, green and unbruised, where any real house wore a drip-line and a beaten margin into the ground its first winter. Stone with no lichen. A roof with no moss, no sag, no mended patch. Every part of it finished, and none of it *used.* Houses are lived in the same as ground is walked on; it goes into them; it can't be helped and it can't be faked. This one had all of the life and none of the wear, a thing built complete this morning out of the idea of wealth.
+No path worn from door to gate: gravel raked, then never walked on. Smoke rising from two chimneys, and no woodpile, no ash-heap, no cart-way to bring the cords in. Glass in forty windows, and no wagon had ever hauled glass down that lane. Grass growing right to the foot of the walls, green and unbruised, where any real house wore a drip-line and a beaten margin into the ground its first winter. Stone with no lichen. A roof with no moss, no sag, no mended patch. Every part of it finished, and none of it *used.* Houses are lived in the same as ground is walked on; it goes into them; it can't be helped and it can't be faked. This one had all of the life and none of the wear, a thing built complete this morning out of the idea of wealth.
 
 "That house shouldn't be here," she said, out loud, flat, because saying it was the only way to keep it from becoming one more thing the world did to her quietly.
 

@@ -8,7 +8,7 @@ At the head of the square, on the steps of the largest scale-house, the Tithe ha
 
 Oscar walked into the square at noon, and he did not come alone, and he did not come kneeling.
 
-He came down the central lane with Kessa on one side and Cael on the other and Wick a half-step behind, with the pack of the season's haul on his back and the branded seal in his hand, and he watched the calculation stutter behind Sarn's scarred face for the first time since he'd met them—a sum that had not accounted for this. The cord shifted, hands going to weapons. The crowd drew a single breath. Brida's eyes found Oscar's across the square, and he saw her understand that he had not come to die for her, and he watched something in her stand up straight.
+He came down the central lane with Kessa on one side and Cael on the other and Wick a half-step behind, with the pack of the season's haul on his back and the branded seal in his hand, and he watched the calculation stutter behind Sarn's scarred face—a sum that had not accounted for this. The cord shifted, hands going to weapons. The crowd drew a single breath. Brida's eyes found Oscar's across the square, and he saw her understand that he had not come to die for her, and he watched something in her stand up straight.
 
 "That's far enough," Sarn said. Their voice carried—a square has good acoustics, which Oscar was counting on. "This was meant to be done with dignity. You were meant to come alone. Now I'll have to do it the ugly way, in front of the children."
 
@@ -26,7 +26,7 @@ Two of the cord were pushing through the crowd toward him now. He had maybe a mi
 
 "*Quiet him,*" Sarn snapped, and the bored mask was gone.
 
-"—and ask yourselves," Oscar roared over the cord shoving toward him, "why a monster the Tithe could have killed any time in a hundred years was allowed to go on eating your families *generation after generation!*" He had them now; he could feel it, the awful held breath of a crowd at the edge of understanding. "Because a monster guarding the richest claim in the valley was the best thing that ever happened to them! It kept the claim theirs. It kept you afraid. It kept you in debt, sending your own down into a grave the Tithe never once tried to close—because your fear was worth more to them than every soul that thing swallowed. They didn't fight the monster. *They fed it. They fed it you.*"
+"—and ask yourselves," Oscar roared over the cord shoving toward him, "why a monster the Tithe could have killed any time in a hundred years was allowed to go on eating your families *generation after generation!*" He had them now; he could feel it, the awful held breath of a crowd at the edge of understanding. "Because a monster guarding the richest claim in the valley was the best thing that ever happened to them! It kept the claim theirs. It kept you afraid. It kept you in debt, sending your own down into a grave the Tithe never tried to close—because your fear was worth more to them than every soul that thing swallowed. They didn't fight the monster. *They fed it. They fed it you.*"
 
 The square erupted—not into action, not yet, but into sound, the dam of a hundred swallowed griefs breaking at once, and the cord faltered in the press of bodies that suddenly would not politely move aside.
 
@@ -52,7 +52,7 @@ It was not clean and it was not bloodless and Oscar would carry parts of it a lo
 
 Oscar fought to keep the center, and found the grimoire had been worth carrying. He'd had two days and one quiet night with it, and he'd learned exactly one new figure well enough to trust—a binding, a thing that seized and held rather than struck—and when three cord came at him together he scored it fast and clean and the air around their feet simply *gripped,* stone flowing up over boots like cold tar, holding them fast and harmless while the crowd took their blades. It cost him; new figures always cost more than old ones, and his reserve went thin and cold. But it held. It *worked.* He filed the small fierce joy of it away for later, when there was a later.
 
-And Wick—Wick was a wonder. She put herself at Cael's flank and she did not flood and she did not reach for anything she shouldn't, and Oscar understood, watching her work, that the pit had taught her something it had nearly killed her to learn: she fought the whole battle on the controlled part of herself, aimed and precise, a lash of fire to disarm, a wall of heat to drive the cord back from a knot of children, never once near the thing that waited under her—and she'd never been more dangerous, or more in command of it, in her life. The holding was her strength. She'd finally believed it.
+And Wick—Wick was a wonder. She put herself at Cael's flank and she did not flood and she did not reach for anything she shouldn't, and Oscar understood, watching her work, that the pit had taught her something it had nearly killed her to learn: she fought the whole battle on the controlled part of herself, aimed and precise, a lash of fire to disarm, a wall of heat to drive the cord back from a knot of children, never near the thing that waited under her—and she'd never been more dangerous, or more in command of it, in her life. The holding was her strength. She'd finally believed it.
 
 Sarn did not die in the square.
 

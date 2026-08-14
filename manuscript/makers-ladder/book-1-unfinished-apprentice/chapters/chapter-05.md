@@ -76,7 +76,7 @@ Oscar crouched over the body, and the scholar in him looked before the rest of h
 
 "What did that?" Cael's voice had gone very low. The iron token was in his fist. "Oscar. What does that to a person?"
 
-Oscar straightened slowly. The cold in the room had nothing to do with the frost. He had seen a great deal in three centuries; he had seen people unmade in nearly every way the unmaking could be done; and he had never once seen this, a death by deletion, a person taken apart by something that treated the living the way an editor treats a draft—keeping what it wanted, removing what it didn't, and feeling, he was suddenly and absolutely certain, nothing at all about either.
+Oscar straightened slowly. The cold in the room had nothing to do with the frost. He had seen a great deal in three centuries; he had seen people unmade in nearly every way the unmaking could be done; and he had never seen this, a death by deletion, a person taken apart by something that treated the living the way an editor treats a draft—keeping what it wanted, removing what it didn't, and feeling, he was suddenly and absolutely certain, nothing at all about either.
 
 "I don't know," he said. And then, because he could not help being right out loud, even now, even here: "But it wasn't the cold dead. The dead are a flood—they take everything or nothing. This was *chosen.* Every cut deliberate. Whatever did this looked at a living person and decided, piece by piece, which parts were worth keeping." He looked at the clean pale end where an arm had been. "It wasn't hungry. It was *correcting* something."
 

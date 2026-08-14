@@ -8,7 +8,7 @@ She'd thought she was scared of it.
 
 She got down to it and found out she wasn't, exactly, and that was so much worse.
 
-Because she *knew* it. Not its face — it didn't have a face, it had been an animal once and now it was a long grey wrongness with the shape of an animal smeared over it — but she knew the thing underneath. She'd been carrying its little brother her whole life. It was hungry. Not skipped-a-meal hungry. Hungry like the hole that's left after you've been hungry so long you forget there was ever a word for the other thing, for *full*, hungry like that, except it had never once in all the time it had been alive gotten to put anything in the hole, and it had stopped believing full was a real thing that real people got. She knew that hunger. She woke up with it. She held it down before she opened her eyes most mornings.
+Because she *knew* it. Not its face — it didn't have a face, it had been an animal once and now it was a long grey wrongness with the shape of an animal smeared over it — but she knew the thing underneath. She'd been carrying its little brother her whole life. It was hungry. Not skipped-a-meal hungry. Hungry like the hole that's left after you've been hungry so long you forget there was ever a word for the other thing, for *full*, hungry like that, except it had never in all the time it had been alive gotten to put anything in the hole, and it had stopped believing full was a real thing that real people got. She knew that hunger. She woke up with it. She held it down before she opened her eyes most mornings.
 
 "Oh," Wick said, out loud, to nobody, like you do when a thing turns out exactly as bad as the worst guess you didn't say. "Oh, you're just *me.*"
 
@@ -44,7 +44,7 @@ And the worst thing — the thing she would never tell Oscar, never tell Cael, n
 
 She wanted to put it down so badly she would have died to do it. That was the trap and it was a good trap, it was the best trap anybody had ever built for her, because it wasn't offering to kill her. It was offering to let her *rest.*
 
-And it showed her what rest looked like, which was the cruelest part, because it knew exactly what to show her. Not gold. Not power. Nothing big. Small things. A bed that was warm all the way through to the middle. A morning where the first thing she did when she woke wasn't reach for the latch. Being full. Being a girl somebody fed, instead of a thing somebody had to manage. Sitting in a room full of people and not once running the count of which of them she'd burn if she slipped. It showed her *down* — set the weight down, all the way down, and never once pick it up again — and oh, she wanted it. She wanted it so bad her eyes stung in the cold.
+And it showed her what rest looked like, which was the cruelest part, because it knew exactly what to show her. Not gold. Not power. Nothing big. Small things. A bed that was warm all the way through to the middle. A morning where the first thing she did when she woke wasn't reach for the latch. Being full. Being a girl somebody fed, instead of a thing somebody had to manage. Sitting in a room full of people and not once running the count of which of them she'd burn if she slipped. It showed her *down* — set the weight down, all the way down, and never pick it up again — and oh, she wanted it. She wanted it so bad her eyes stung in the cold.
 
 She started to let go.
 
@@ -62,7 +62,7 @@ And Wick, one second from gone, with the door yawning open and the dark breathin
 
 She hadn't actually let go.
 
-She'd said yes to *wanting* to. That was different. That was completely different and she knew the difference better than she knew her own name, because she'd been living in the exact crack between those two things her entire life — wanting to drop it and not dropping it, every day, a thousand times a day, the worst tired there was and never once putting it down. That half-inch between *want to* and *did* was the only place she'd ever lived. It was the one thing she was good at. The only thing, maybe. And she was *so* good at it.
+She'd said yes to *wanting* to. That was different. That was completely different and she knew the difference better than she knew her own name, because she'd been living in the exact crack between those two things her entire life — wanting to drop it and not dropping it, every day, a thousand times a day, the worst tired there was and never putting it down. That half-inch between *want to* and *did* was the only place she'd ever lived. It was the one thing she was good at. The only thing, maybe. And she was *so* good at it.
 
 So she stopped trying to win.
 
@@ -112,7 +112,7 @@ She was still her. She could feel it — the door still there behind her ribs, s
 
 But she'd met the big version of it, the thing her own door opened onto, the worst thing, and she'd held it until it gave up. And a girl who'd done that, she thought, sitting in the mud at the edge of a grey gone quiet, with her crew bleeding and breathing all around her and the road south finally open past the dark — a girl who'd done that didn't have to be quite so afraid of the small one she carried.
 
-Not gone. She'd never once thought it would be gone.
+Not gone. She'd never thought it would be gone.
 
 Just less.
 

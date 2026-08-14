@@ -116,4 +116,4 @@ Wick had woken. Cael had set down his cup. Nobody spoke for a moment.
 
 "He's on all of them, kid," Kessa said. "That's the trouble with a road."
 
-Oscar pulled his hood down lower and let it lie there. There would be time to understand the shape of the thing later—who the polite man was, and why six days early, and what it meant that he'd come armed with a face he could only have gotten from someone who already knew it. Tonight it was enough to know the shape was out there: somewhere south, on the only road there was, pouring strangers a friendly drink and waiting, in no hurry at all, to hear about a silver-haired man.
+Oscar pulled his hood down lower and let it lie there. There would be time to understand it later—who the polite man was, and why six days early, and what it meant that he'd come armed with a face he could only have gotten from someone who already knew it. Tonight it was enough to know the shape was out there: somewhere south, on the only road there was, pouring strangers a friendly drink and waiting, in no hurry at all, to hear about a silver-haired man.

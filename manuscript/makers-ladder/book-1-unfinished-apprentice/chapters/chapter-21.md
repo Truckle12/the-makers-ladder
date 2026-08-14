@@ -24,7 +24,7 @@ Wick was staring at the board with the word on it. "So we take the one called *C
 
 ---
 
-The notch swallowed the daylight by degrees, and the working woke when they were well inside it, and Oscar felt it before it fired, because feeling the shape of made things before they bit was the one talent that had never once let him down.
+The notch swallowed the daylight by degrees, and the working woke when they were well inside it, and Oscar felt it before it fired, because feeling the shape of made things before they bit was the one talent that had never let him down.
 
 It came up out of the stone all around them as a *pressure*: the deep current gathered and braced and aimed, an old, old figure folded into the walls of the notch and still running after centuries the way a heart runs, without thought, without mercy, without the faintest idea that the makers who'd set it here were dust and the war it guarded against was over. He'd half-expected a trap, a deadfall, a pit. This was worse and stranger and, the instant he read it, horribly familiar.
 
@@ -50,7 +50,7 @@ There was no time to think and Oscar didn't. He had failed this figure twice on 
 
 It came into being in the air in front of Cael as a hard cold plane, edge-on to the bolt, no bigger than a door, there for less than an instant—and the maker-lance struck it and *skidded,* a screaming line of force turned a hand's width wide, close enough that it scorched Cael's sleeve and blew a crater in the wall beside his head instead of through it. Then the plane was gone, and the wave had passed, and the gap was empty and safe as it should have been, and the cost arrived all at once.
 
-It took Oscar at the knees. The brace had cost more than anything he'd made, more than the binding in the square, and a good part of his reserve went out of him like water out of a cracked jug, so that he was suddenly on the stone without remembering having fallen, the notch tilting, his hands numb. Not the bottom. Close enough to it, though, and fast enough, that the light swam for a breath before it steadied. But he was awake. And down the notch, in the returned light at the far mouth of the Cull, Cael was alive, on his feet, staring at the scorched stone where his head had been and then at Oscar with an expression Oscar had never once seen on him.
+It took Oscar at the knees. The brace had cost more than anything he'd made, more than the binding in the square, and a good part of his reserve went out of him like water out of a cracked jug, so that he was suddenly on the stone without remembering having fallen, the notch tilting, his hands numb. Not the bottom. Close enough to it, though, and fast enough, that the light swam for a breath before it steadied. But he was awake. And down the notch, in the returned light at the far mouth of the Cull, Cael was alive, on his feet, staring at the scorched stone where his head had been and then at Oscar with an expression Oscar had never seen on him.
 
 They got out of the notch the rest of the way at a stagger, Kessa under one of Oscar's arms and Wick under the other, the battery sweeping its empty patient death behind them at things that were no longer there.
 
@@ -62,7 +62,7 @@ They sat in the grass on the far side a long time while Oscar's hands came back.
 
 "You'd have done it for any of us," Oscar said, his voice thin. "I just got there first, the once."
 
-"You got there first," Cael repeated softly. He looked at Oscar a long moment—grey and worn through, hands not yet steady, and *breathing*—and something eased in him, as it had eased in the square, another inch of the old weight setting down. Because that was the sum he had never once been able to make come right, the one he'd built his whole penance around since the door that took Doss: that holding it was a thing you did exactly once, and did not walk back through. And here was a man who'd done it, and walked back. "Well," he said, rough. "There's a thing I didn't think I'd see. I'll have to get used to that one too."
+"You got there first," Cael repeated softly. He looked at Oscar a while—grey and worn through, hands not yet steady, and *breathing*—and something eased in him, as it had eased in the square, another inch of the old weight setting down. Because that was the sum he had never been able to make come right, the one he'd built his whole penance around since the door that took Doss: that holding it was a thing you did exactly once, and did not walk back through. And here was a man who'd done it, and walked back. "Well," he said, rough. "There's a thing I didn't think I'd see. I'll have to get used to that one too."
 
 Wick was looking at Oscar with frank professional interest, one student grading another. "That was the new one. The wall you've been trying for, that keeps falling apart on you."
 
@@ -106,7 +106,7 @@ He set his grip to it, and pulled.
 
 For one terrible instant the working *fought*—not with malice, it had none, but as a structure fights, the whole vast weight of a thousand years of aimed force bearing down on the one stroke he was unpicking. The battery fired wild as it felt its center go, bolts screaming off the walls in every direction at once. Oscar held the unstitching, and did not flinch, and drew the knot the rest of the way loose.
 
-The Cull came undone. It didn't explode; it *stopped,* the way a held breath stops. The deep current that had been gathered and aimed in those stones since before there was a south to walk to simply let go—unwound, dispersed, sank back into the cold river it had been drawn from, and the notch went silent. Truly silent, for the first time in a thousand years. The sweep was gone. The road through was only a road.
+The Cull came undone. It didn't explode; it *stopped,* the way a held breath stops. The deep current that had been gathered and aimed in those stones since before there was a south to walk to simply let go—unwound, dispersed, sank back into the cold river it had been drawn from, and the notch went silent. Truly silent, after a thousand years. The sweep was gone. The road through was only a road.
 
 The last of his reserve went out with the working, and he would have fallen if Cael hadn't already been there—Cael, who was always there, who got to the gap first now that he'd learned it could be done, and the big man took his weight without a word.
 

@@ -90,7 +90,7 @@ Kessa thought about that. She was not a woman who did much with words; she read 
 
 So he did. He went out into the dry basin at last light and put his hand flat on the seat-stone and said the three plain lines he'd said over Doss and over a woman in a burned village whose name he never learned, and Tarn stood off two paces with his fists hanging, and Oscar stayed at the rim because he could not make himself walk that eleven again.
 
-Kessa stood for it. She had never once in her life wanted that particular thing, and she wanted it now, and she made a note of the change without examining it.
+Kessa stood for it. She had never wanted that particular thing before, and she wanted it now, and she made a note of the change without examining it.
 
 ---
 
@@ -152,7 +152,7 @@ Oscar took his hand off his eyes.
 
 "That's not an answer."
 
-"It's the only true one I've got and you'd know inside a second if I gave you a better one." He said it steadily, and she could see what it cost, and she made herself sit still for it. "Here's the whole of what I have. That thing behind her door was never *of* this world. It isn't written anywhere. It isn't in the Script and it isn't in the deep current and my looking has never once returned a single thing about it, not at the spring, not at the gate, not standing eleven feet away while it ate an engine. I am a man who reads made things. That was not a made thing." His voice did not move. "So I cannot tell you if there's a somewhere. I can't tell you if there's a *she.* I don't know whether she was taken or spent, and I have spent the whole night trying to build a way to find out, and there isn't one. Not in the grimoire. Not in that dry basin. Not in anything I know how to do."
+"It's the only true one I've got and you'd know inside a second if I gave you a better one." He said it steadily, and she could see what it cost, and she made herself sit still for it. "Here's the whole of what I have. That thing behind her door was never *of* this world. It isn't written anywhere. It isn't in the Script and it isn't in the deep current and my looking has never returned a single thing about it, not at the spring, not at the gate, not standing eleven feet away while it ate an engine. I am a man who reads made things. That was not a made thing." His voice did not move. "So I cannot tell you if there's a somewhere. I can't tell you if there's a *she.* I don't know whether she was taken or spent, and I have spent the whole night trying to build a way to find out, and there isn't one. Not in the grimoire. Not in that dry basin. Not in anything I know how to do."
 
 "Then get better," Kessa said.
 
@@ -174,7 +174,7 @@ That was all she said. Cael reached over and put one enormous hand flat on her b
 
 They came apart three days later, and it was nobody's fault, and Kessa had seen it coming since the bakehouse.
 
-A crew is a thing with a job. That is the whole of what a crew is; she had known it at nineteen and it had never once stopped being true. You have a job and it holds you in a shape, and when the job is over the shape goes, and the only people who don't come apart are the ones who go and find another job together fast. There was no job. There was a dry basin, and a town that would never be told, and four people with nothing to do next.
+A crew is a thing with a job. That is the whole of what a crew is; she had known it at nineteen and it had never stopped being true. You have a job and it holds you in a shape, and when the job is over the shape goes, and the only people who don't come apart are the ones who go and find another job together fast. There was no job. There was a dry basin, and a town that would never be told, and four people with nothing to do next.
 
 Cael was going home. He said it first and he said it plainly, sitting on the end of a bed with his hands between his knees. There was a house and a hearth two hundred miles east that had been keeping a fire lit for him for four years, and his own fire was down to the bottom of the cup, and the honest way to say it was that he needed to go and be near people who kept hearths for a while. "I'm no good to anybody like this," he said. "I'd rather come back full than stay empty."
 
@@ -188,7 +188,7 @@ Tarn was going south. He didn't dress it up. There was a bowl in Oressa he was n
 
 Oscar was going north.
 
-He said it standing at the window with the owl on the sill beside him, and he did not turn round. "Ash," he said. "She knows more than she told me, and she told me quite a lot, and I have four questions now that I didn't have on the day she poured me tea. I'm going to go and find a woman who blinks out of rooms." A pause. "And there's a dead city under the ice with a hall full of cradles in it that is the same building as the one we just wrecked, and I have never once gone back and looked at it properly, because I've spent this entire year running away from it in a southerly direction."
+He said it standing at the window with the owl on the sill beside him, and he did not turn round. "Ash," he said. "She knows more than she told me, and she told me quite a lot, and I have four questions now that I didn't have on the day she poured me tea. I'm going to go and find a woman who blinks out of rooms." A pause. "And there's a dead city under the ice with a hall full of cradles in it that is the same building as the one we just wrecked, and I have never gone back and looked at it properly, because I've spent this entire year running away from it in a southerly direction."
 
 "That's five hundred miles," Kessa said.
 
@@ -202,7 +202,7 @@ She let it go, because she had watched a man refuse to promise her a rescue two 
 
 And Kessa went west.
 
-She didn't explain it and nobody asked her to. There is a kind of country out past the edge-stones where the maps go pale and stop apologizing about it, and she had been thinking about the pale part of the map since a girl walked into a basin, not because she had a reason but because *west* was a direction and standing still was not. She was a tracker. It was the only thing she had ever been good at. When she could not think of anything else to do she walked, and she had never once in her life failed to find a way into somewhere; she had only ever failed to like the way.
+She didn't explain it and nobody asked her to. There is a kind of country out past the edge-stones where the maps go pale and stop apologizing about it, and she had been thinking about the pale part of the map since a girl walked into a basin, not because she had a reason but because *west* was a direction and standing still was not. She was a tracker. It was the only thing she had ever been good at. When she could not think of anything else to do she walked, and she had never in her life failed to find a way into somewhere; she had only ever failed to like the way.
 
 ---
 

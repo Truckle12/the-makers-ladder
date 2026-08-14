@@ -40,7 +40,7 @@ Not grateful. She'd have known grateful; people had been grateful at her before 
 
 "You ate a whole city's worth of *no,*" she told it. Her voice shook. She made it keep going. "That was what that was. That was the biggest meal anything ever got and I gave it you and I want that noted."
 
-The thing did not answer, because it did not have a mouth or a face or a name, and it had never once in her life needed any of those to be understood.
+The thing did not answer, because it did not have a mouth or a face or a name, and in all her life it had never needed any of those to be understood.
 
 But something in the not-light leaned toward her, glad.
 

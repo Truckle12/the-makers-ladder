@@ -1,6 +1,6 @@
 ## Chapter Thirty-Two — Quill
 
-Oscar woke before the light and read the house, because it was there and so was he, and three centuries of borrowed habit had never once produced a different outcome from that arrangement.
+Oscar woke before the light and read the house, because it was there and so was he, and three centuries of borrowed habit had never produced a different outcome from that arrangement.
 
 He'd been reading it in pieces since the first night, the polite way, a page at a time: the stones that had never been quarried, the beams that had never been trees, the forty windows of glass that had never known sand or fire. Made, all of it, and made *well* — a hand so far past his own that studying it was half pleasure and half humiliation, which was, he was coming to understand, the standing price of anything to do with Ash. But this morning, lying in a bed too comfortable to trust, staring at a ceiling with no history in it, he stopped being polite. He opened the looking properly and read the manse entire, roof to root, the whole written argument of it at once.
 
@@ -12,13 +12,13 @@ He lay still for a moment with that.
 
 "Huh," he said, to the ceiling that was already, in some grammatical sense he decided not to think about before breakfast, gone.
 
-He found her in the long room downstairs, and of course she was awake; he had given up modeling when the woman slept. The shutters stood open on the blue hour. There was tea. There was no baggage anywhere, no cloak over a chair, none of the small luggage of departure, and that was how he knew for certain it was today — she had nothing to pack because nothing here was hers, or everything was, which amounted to the same thing. The house would carry itself out. She'd walk away exactly as heavy as she'd arrived.
+He found her in the long room downstairs, and she was awake; he had given up modeling when the woman slept. The shutters stood open on the blue hour. There was tea. There was no baggage anywhere, no cloak over a chair, none of the small luggage of departure, and that was how he knew for certain it was today — she had nothing to pack because nothing here was hers, or everything was, which amounted to the same thing. The house would carry itself out. She'd walk away exactly as heavy as she'd arrived.
 
 "You read it," she said, not looking up from her cup. "The term."
 
 "Rude of you to notice before I said anything. I'd prepared remarks."
 
-"You walk like a man doing sums. You have since the stairs." She poured his tea. Two days he'd been her guest and she'd never once asked how he took it; she'd watched him once and known. It was like being kept by a very hospitable knife. "Today, since you're asking underneath all that. Noon, or near it. The house has a term, the lane has a shorter one, and I have a road that isn't yours." She turned her cup a quarter-turn. "Sit. You've time for tea, and there's a thing left to do that I've been putting off, and I don't put things off, so attend closely and be flattered."
+"You walk like a man doing sums. You have since the stairs." She poured his tea. Two days he'd been her guest and she'd not asked once how he took it; she'd watched him once and known. It was like being kept by a very hospitable knife. "Today, since you're asking underneath all that. Noon, or near it. The house has a term, the lane has a shorter one, and I have a road that isn't yours." She turned her cup a quarter-turn. "Sit. You've time for tea, and there's a thing left to do that I've been putting off, and I don't put things off, so attend closely and be flattered."
 
 "A thing."
 
@@ -36,7 +36,7 @@ He put his cup down before his hand could shake it. Body first; his mind ran a h
 
 His left shoulder. Three centuries of a weight that wasn't there.
 
-He had carried it since the ice: a specific absence, shoulder-shaped, talon-shaped, the phantom press of a grip that arrived in memory only as its own missing. He'd even had the name for it: he'd reached for Quill his first morning under the dead city and closed his fingers on an empty coat, and having the name had never once made the missing weigh less. In the buried city he'd caught himself bracing before sleep as though for something to land. It was the oldest note in the oldest margin he owned. And here was the weight, standing on a table, looking at him with its face full of a dead man Oscar happened to be wearing.
+He had carried it since the ice: a specific absence, shoulder-shaped, talon-shaped, the phantom press of a grip that arrived in memory only as its own missing. He'd even had the name for it: he'd reached for Quill his first morning under the dead city and closed his fingers on an empty coat, and having the name had never made the missing weigh less. In the buried city he'd caught himself bracing before sleep as though for something to land. It was the oldest note in the oldest margin he owned. And here was the weight, standing on a table, looking at him with its face full of a dead man Oscar happened to be wearing.
 
 "Quill," he said. His voice came out wrong. Smaller than the joke he'd meant to fit in it.
 

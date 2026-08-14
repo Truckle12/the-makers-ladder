@@ -68,7 +68,7 @@ Wick's shoulders came up. For a second Kessa watched her build the lie, *nothing
 
 ---
 
-She called it at the fire on the fifth night, because it had ripened and because pretending at her own crew was a coin she'd never once spent and wasn't starting now.
+She called it at the fire on the fifth night, because it had ripened and because pretending at her own crew was a coin she'd never spent and wasn't starting now.
 
 "I'll say where we stand," she said, when the food was down and the watches were set. "Then the order changes for what's ahead."
 

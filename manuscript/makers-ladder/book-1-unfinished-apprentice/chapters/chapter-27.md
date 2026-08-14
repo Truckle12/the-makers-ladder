@@ -6,7 +6,7 @@ The Warden walked them to the edge stones and no further.
 
 They knew they were in it when the bark-light went out.
 
-For three nights the old trees had glowed, a slow green seep Oscar had stopped seeing. Now the trunks were dark, and cold, and a little soft under the palm. So he did the thing he had done every day since he woke under the ice. He read. He reached for the deep current in the wood, the slow written warmth that ran under everything made and grown alike, the one language he had never once failed to find.
+For three nights the old trees had glowed, a slow green seep Oscar had stopped seeing. Now the trunks were dark, and cold, and a little soft under the palm. So he did the thing he had done every day since he woke under the ice. He read. He reached for the deep current in the wood, the slow written warmth that ran under everything made and grown alike, the one language he had never failed to find.
 
 It wasn't there.
 

@@ -76,7 +76,7 @@ He did it without deciding to. He felt the sun on the back of his neck, and for 
 
 "I *know.*" He made himself say the rest of it out loud, because saying a thing out loud was the only reliable way he had ever found to stop wanting it. "I am standing in the first town since the ice where I am not the only object in the street worth describing. I am entirely aware of how that works. It is working anyway."
 
-"Kessa," he said quietly. "Read it for me. I don't trust myself here."
+"Read it for me," he said then. "The town. I don't trust myself here."
 
 She had been doing nothing else since the wash-yard. "Nobody's afraid," she said. "That's the first thing. Not of us, not of each other, not of the guards — and there's guards, four so far, and one of them just bought a bun." Her eyes went along the roofline and came back. "Everyone's fed. Nobody's limping. That woman put her purse down on a barrel to count fish and left it there." A pause. "It's the best-run place I've ever stood in, and I want you to know I'm saying that with my whole chest and I still don't like it."
 
@@ -102,7 +102,7 @@ He opened one hand, and the hearth-light came up in it low and gold and absolute
 
 "In the font?" Oscar said. "They pray to the thing in the middle of the city?"
 
-"Some do. I've heard them say so twice this morning." Cael closed his hand and the light went out of it. "But that's not what's answering. I'd know. Whatever's got hold of the other end of my hall, it doesn't live in a great building. It's never once lived in a great building." Something in him settled, and hardened. "It lives in kitchens. It's here because *they're* here. That's the mercy of it and I'm going to hold onto it, because I don't like where the rest of this morning is going."
+"Some do. I've heard them say so twice this morning." Cael closed his hand and the light went out of it. "But that's not what's answering. I'd know. Whatever's got hold of the other end of my hall, it doesn't live in a great building. It's never lived in a great building." Something in him settled, and hardened. "It lives in kitchens. It's here because *they're* here. That's the mercy of it and I'm going to hold onto it, because I don't like where the rest of this morning is going."
 
 Oscar put that somewhere safe, and had cause to go back for it before the day was out.
 
@@ -136,7 +136,7 @@ Kessa took that the way she took everything, which was as something to be spent 
 
 He stood in the best-run place he had ever seen and understood at last what he was standing in.
 
-It was clean. Not tidy. *Clean,* in the way a page is clean when someone has been going over it with a pen and striking out what doesn't belong — and the striking-out never stops, and it is never loud, and the city simply *stays* lovely. They were happy. He believed the happiness completely. That was the horror: it was not a lie. It was an *edit,* and it had been running so long and so gently that the people inside it had never once had a bad day they could name.
+It was clean. Not tidy. *Clean,* in the way a page is clean when someone has been going over it with a pen and striking out what doesn't belong — and the striking-out never stops, and it is never loud, and the city simply *stays* lovely. They were happy. He believed the happiness completely. That was the horror: it was not a lie. It was an *edit,* and it had been running so long and so gently that the people inside it had never had a bad day they could name.
 
 "It's not a city," he said. "It's a fair copy of one."
 
