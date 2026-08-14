@@ -1,6 +1,6 @@
 ## Chapter Four — What the Fire Showed
 
-They found the room three streets down and a level deeper: a squat stone chamber that had been a counting-house once, by the look of the slotted shelves and the long dead ledgers fused to them in blocks of ice. It had one door. Kessa walked the whole of it twice before she let anyone sit, running her fingers along the seams of the walls, testing the single entrance, and only when she had satisfied some private arithmetic did she nod, once, and drop her pack.
+They found the room three streets down and a level deeper: a squat stone chamber that had been a counting-house once, by the look of the slotted shelves and the long dead ledgers fused to them in blocks of ice. It had one door. Kessa walked the whole of it twice before she let anyone sit, running her fingers along the seams of the walls, testing the single entrance, and only when she was satisfied did she nod, once, and drop her pack.
 
 "We rest here," she said. "Short. Cael's bleeding and the girl's spent and I won't take the deep road tired. Two hours. We keep the fire small and behind the door, and one of us watches it the whole time."
 

@@ -10,7 +10,7 @@ The woman did not look down at it. That told Oscar more than the crossbow did. A
 
 He kept them up.
 
-Boots on broken stone, behind her. Two sets, coming fast and unhidden, which meant they were hers. Oscar held still and let them arrive, because the alternative was to give a frightened woman with a steady aim a reason, and he had not clawed his way up out of a falling tomb to be killed by good marksmanship on a balcony.
+Boots on broken stone, behind her. Two sets, coming fast and unhidden, which meant they were hers. Oscar held still and let them arrive; he had not clawed his way up out of a falling tomb to be killed by good marksmanship on a balcony.
 
 The first to round the arch was a big man, broad through the shoulders in the way of someone built for the work rather than the look of it, a long-hafted hammer held low and ready. He wore a small iron token at his throat, worn bright by a thumb that had touched it often, and the first thing he did, before the weapon, before the stranger, was take in the whole scene with a quick, careful sweep, the way a man counts everyone in a room to be sure of who might get hurt.
 
@@ -24,7 +24,7 @@ Something passed over the big man's face. Not the girl's. She only looked deligh
 
 "Ah," he said, very quietly. "One of those."
 
-*One of those.* Oscar disliked the phrase intensely, and disliked more that two people who had never met him plainly knew a category he belonged to, and that the category came with grief attached. He had spent three hundred years being unprecedented. He was not accustomed to being *recognized*.
+*One of those.* Oscar disliked the phrase intensely, and disliked more that two people who had never met him plainly knew a category he belonged to. He had spent three hundred years being unprecedented. He was not accustomed to being *recognized*.
 
 "I'm going to spare us all a great deal of time," he said, in the warm and reasonable register he generally reserved for tax officials and very large dogs. "Whatever the wheel-mark means to you, I assure you it is a misunderstanding. I am a scholar. A traveler. I was caught in a working that went badly, and I woke in that—" he chose the word "—*place*, with a headache and a great many questions, and the door let me out, and now there is a crossbow in my face, which I feel is an overreaction to a man who is simply trying to find his way home."
 
@@ -54,7 +54,7 @@ The girl broke it. "Are you really out of the deep house?" She had drifted a ste
 
 "Wick." Just the name, from Cael, mild and immovable.
 
-So: Cael, and Wick, and Kessa. Oscar collected the names without trying to, the habit of a man who has spent centuries learning that names are the cheapest power there is and the most often underestimated.
+So: Cael, and Wick, and Kessa. Oscar collected the names without trying to, the habit of a man who has spent centuries learning that names are the cheapest power there is.
 
 Below them, the dragging sound came a third time, and now it had company: a second weight, and a third, a slow uneven shifting all through the streets beneath the balcony, as though the dead city were a sleeper turning over by degrees in a bed it had lain in for an age.
 
@@ -68,9 +68,9 @@ There was a whole history in that sentence. Oscar heard it and chose, for once, 
 
 And there it was.
 
-Oscar looked at the girl, and at the gentle dangerous man, and at the woman who would shoot him the moment the arithmetic came out wrong, and at his own right hand, the new and wrongly smooth hand with the wheel-mark healed into the web of it, the hand that had reached an hour ago for the simplest figure he knew and closed on nothing.
+Oscar looked at the girl, and at the gentle dangerous man, and at the woman who would shoot him the moment the count came out wrong, and at his own right hand, the new and wrongly smooth hand with the wheel-mark healed into the web of it.
 
-He could call the Measure. He could feel it there, the one well that hadn't run dry, waiting under his skin. But the Measure was not what they meant by magic; the Measure was a blade and a body moving faster than they had any right to, and a man who answered *prove you're not a monster* by suddenly moving like one would not improve his standing here. And he had so little of it to spend.
+He could call the Measure. But the Measure was not what they meant by magic; the Measure was a blade and a body moving faster than they had any right to, and a man who answered *prove you're not a monster* by suddenly moving like one would not improve his standing here. And he had so little of it to spend.
 
 The deep work, the great work, the work that had made him what three centuries of people had feared and courted and underestimated—
 
@@ -86,7 +86,7 @@ She had no idea. None of them had any idea what they had just watched. He had me
 
 It was the first lie he'd told them that he knew, as he said it, to be one.
 
-Kessa watched the dead light wink out, and something in her shifted. Not trust, nothing so warm, but a recalculation. A wizard, however small, was a wizard. And the city was waking, and they were three, and three was not enough for whatever was coming up out of those streets.
+Kessa watched the dead light wink out, and something in her shifted. Not trust, nothing so warm, but a recalculation. A wizard, however small, was a wizard.
 
 "The way we came in is gone," she said, to Cael, not to Oscar. "Collapsed when the deep place lit. I scouted it while you two were arguing about his soul." Her eyes finally left Oscar and swept the dark below, professional, quick. "There's one other road up and out that I know of. It runs through the low quarter. Through *that*." A tilt of her chin at the moving dark. "We'd have wanted four bodies for it before today. Now we'll want luck on top."
 
