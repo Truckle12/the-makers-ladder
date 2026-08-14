@@ -6,7 +6,7 @@ Oscar could not stop reading it.
 
 That was the trouble with being what he was. A scholar does not get to choose whether to understand; understanding simply happens to him, the way a draft happens to a person standing in a doorway, and the script on these walls poured meaning at him whether he wanted it or not. Most of it he could not parse—the hand was old past any tongue he knew, the figures shaped by minds that had thought differently about the world than anyone now did. But the deep grammar of it, the bones of how a working was made to hold, those had not changed in all the ages between that people and his own, because they could not change. They were not a language. They were the rules underneath language, the rules the deep current ran on, and a thing that is true does not get old.
 
-"They wrote it into everything," he said, mostly to himself, trailing his ruined new hand a finger's breadth from the wall, not touching. "Look. This isn't decoration. The whole city is one working. Every wall a clause. They didn't *cast* down here—they *built* the spell and then lived inside it." It was, he thought, magnificent and insane in roughly equal measure, the way the very best ideas usually were. "No wonder it woke all at once. You can't wake part of a sentence."
+"They wrote it into everything," he said, mostly to himself, trailing his ruined new hand a finger's breadth from the wall, not touching. "Look. This isn't decoration. The whole city is one working. Every wall a clause. They didn't *cast* down here—they *built* the spell and then lived inside it." It was, he thought, magnificent and insane in roughly equal measure, as the very best ideas usually were. "No wonder it woke all at once. You can't wake part of a sentence."
 
 "Is that why the cold ones came up?" Wick had drifted close again, collar up, eyes on the walls. She'd been quieter since the fire, since Doss, but the questions still leaked out of her the way the heat did—pressure that had to go somewhere. "Because the city's a spell, and the spell turned on?"
 
@@ -40,7 +40,7 @@ They looked at him.
 
 "I didn't say that." He had been following the spiral inward as he spoke, reading what he could, skipping what he couldn't, the way you read a page in a language you half-know—and the spiral ran inward and inward to the closed loop at the center, the knot without ends, and there the old dead dialect gave way, just for that one figure, to the deep grammar underneath, the bones that did not age. And the bones, here, said something Oscar understood perfectly.
 
-The loop at the hub was not part of the question. It was a *signature.* Someone had come to this lock, long after its makers were dust, and answered it—and then, in the way of a certain kind of person, had not been able to resist signing the solution, leaving a mark on a working that wasn't theirs, the way a lesser scholar scrawls in the margins of a book they did not write. The loop was a later hand. A familiar hand.
+The loop at the hub was not part of the question. It was a *signature.* Someone had come to this lock, long after its makers were dust, and answered it—and then had not been able to resist signing the solution, leaving a mark on a working that wasn't theirs, the way a lesser scholar scrawls in the margins of a book they did not write. The loop was a later hand. A familiar hand.
 
 His hand. The hand on the sword. The hand healed into his own skin.
 
