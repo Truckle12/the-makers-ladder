@@ -50,7 +50,7 @@ His hand. The hand on the sword. The hand healed into his own skin.
 
 He laid his palm flat against the closed loop at the center of the wheel.
 
-The script did not ask him the question. That was the horror of it, clean and immediate: the wall did not test him, did not weigh him, did not demand the name that this whole dead people had hidden in their door against strangers. The loop under his hand simply *brightened,* glad, eager, recognizing, and ran its gladness outward along the spiral in a wave of waking silver, and the worn track in the floor proved true, and the stone drew back along a seam that had not been visible a breath before.
+The script did not ask him the question. That was the horror of it, clean and immediate: the wall did not test him, did not weigh him. The loop under his hand simply *brightened,* glad, eager, recognizing, and ran its gladness outward along the spiral in a wave of waking silver, and the worn track in the floor proved true, and the stone drew back along a seam that had not been visible a breath before.
 
 The door opened for him the way the tower door had opened for him. Because it knew him. Because, somewhere in the unthinkable depth of years this city had lain sealed, a hand that was his hand had already been here, and signed its work, and gone.
 
@@ -82,7 +82,7 @@ Oscar straightened slowly. The cold in the room had nothing to do with the frost
 
 The warmth he'd carried down from the fire had gone entirely out of him. And the thing that had done this had come down here, recently, on the same road they were walking, toward the same heart they were bound for.
 
-And it had left the salvager's face half-finished, and taken the rest, and Oscar found he could not stop thinking that the cuts looked deliberate in a way he recognized, the way the loop on the wall had looked familiar, the way the door had known his hand: not as a stranger's work at all, but as the work of something that belonged to the same dreadful family of things he was beginning to suspect he belonged to himself.
+And it had left the salvager's face half-finished, and taken the rest, and Oscar found he could not stop thinking that the cuts looked deliberate in a way he recognized, the way the loop on the wall had looked familiar, the way the door had known his hand: the work of something that belonged to the same dreadful family of things he was beginning to suspect he belonged to himself.
 
 "We're not the only ones down here," Kessa said. She had her back to the wall and the crossbow up and her eyes on the dark beyond the worktable, where the vault ran on into the deeper dark, toward the heart. "Are we."
 

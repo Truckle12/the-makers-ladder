@@ -30,7 +30,7 @@ No weight. No talons. No rasp. Only the cold, and the silver light, and the soun
 
 "Off sulking somewhere," he said. The words came out level. He made sure of it. "We'll discuss it."
 
-He took his hand back, and stood, faster than he meant to, because the alternative to standing was to keep sitting there with his fingers on an empty shoulder.
+He took his hand back, and stood, faster than he meant to.
 
 The chamber assembled around him as he rose, vast and old, made before its makers had names anyone now living would know. Cradles in rows, scores of them, most empty, each carved with the frost-fine script. The walls went up and kept going. The air tasted of stone, and beneath the stone of something flatter and colder, a mineral nothing he had no name for yet.
 

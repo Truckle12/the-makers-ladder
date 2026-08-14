@@ -34,7 +34,7 @@ There was no other word that fit, and he turned the wrong word over and over loo
 
 *Made.*
 
-He did not let the thought finish. He had got very good, in the last several hours, at not letting certain thoughts finish; it was becoming his chief remaining skill. He drank, and did not look at the water again, and when he sat back down by the fire his face was arranged into its usual mild superiority and only his hands, had anyone been watching them, were not quite steady.
+He did not let the thought finish. He had got very good, in the last several hours, at not letting certain thoughts finish. He drank, and did not look at the water again, and when he sat back down by the fire his face was arranged into its usual mild superiority and only his hands, had anyone been watching them, were not quite steady.
 
 Someone had been watching them. Kessa's eyes came off the door for half a breath, found his hands, and went back to the door, and she said nothing, and somehow her saying nothing was the loudest thing in the room.
 
@@ -72,7 +72,7 @@ The fire popped. No one filled the silence. Oscar, who had spent his life being 
 
 "So when you came up out of *your* deep house," Cael said, finally, lifting his eyes to Oscar, and there was no accusation in them, which landed harder than accusation would have, "and Kessa said *put it back or put it down,* and I said no. You should understand I wasn't being kind. I've voted to go through a sleeping door once already. I'm not doing it twice. I'd sooner carry a stranger I'm not sure of than make that call again and be wrong the same way." He almost smiled, and didn't. "That's not faith. That's just someone who's learned the one lesson he was ever going to learn."
 
-Oscar looked at the three of them: the watchful woman who would not leave the door, the gentle ruined man who had run out of *no*, the wild girl who carried a mark she didn't understand and a guilt that wasn't hers to carry. And understood, with the sudden clarity of a thing he should have seen hours ago, that he was sitting in a dead man's place. They had been moving since they lost Doss in fits and lurches, voting on things no one should vote on because the one who used to *decide* was holding a door somewhere in the dark forever. And some part of him, the part that had commanded and been obeyed for longer than these three had been alive, was already leaning into the gap, already reaching for the empty place at the head of the crew the way an hour ago he had reached for the empty place on his shoulder.
+Oscar looked at the three of them: the watchful woman who would not leave the door, the gentle ruined man who had run out of *no*, the wild girl who carried a mark she didn't understand and a guilt that wasn't hers to carry. And understood that he was sitting in a dead man's place. They had been moving since they lost Doss in fits and lurches, voting on things no one should vote on because the one who used to *decide* was holding a door somewhere in the dark forever. And some part of him, the part that had commanded and been obeyed for longer than these three had been alive, was already leaning into the gap, already reaching for the empty place at the head of the crew the way an hour ago he had reached for the empty place on his shoulder.
 
 He did not take it. Not yet. It was not his to take, and he had learned, watching Cael, what it cost to want a thing for the group and be wrong. But he felt the shape of it, the wheel-shaped gap, one more space cut exactly to his size that he had not asked to be cut, and he wondered, he let himself wonder this much, how many such spaces there were in the world, and why they all seemed to be waiting for him.
 
@@ -82,7 +82,7 @@ He did not take it. Not yet. It was not his to take, and he had learned, watchin
 
 They slept. Wick first and hardest, curled small as a child, the mark at her throat faintly warm in the firelight. Cael after, grey and heavy. Kessa did not sleep at all, but she let her eyes rest on the fire instead of the door for a little while, which from her was nearly the same thing.
 
-And Oscar sat his watch in the warm uneven light, in a dead city under the bones of the world, and did not reach for his shoulder, because he had decided he was done discovering the absence over and over like someone worrying a bruise to be sure it still hurt. He missed the weight. He missed the voice. He missed it the way you miss a thing that is part of the architecture of you, so that its loss is not a wound in you but a wound in the *shape* of you.
+And Oscar sat his watch in the warm uneven light, in a dead city under the bones of the world, and did not reach for his shoulder, because he had decided he was done discovering the absence over and over like someone worrying a bruise. He missed the weight. He missed the voice. He missed it the way you miss a thing that is part of the architecture of you, so that its loss is not a wound in you but a wound in the *shape* of you.
 
 "You'd have something to say about all this," he told the fire, very low, where no one could hear. "Something unforgivable. I'd pretend to hate it."
 

@@ -42,7 +42,7 @@ And he wanted it. That was the thing he would not be able to explain to them aft
 
 He realized his hands were cold.
 
-He looked down. The warmth of the heart was on every other surface of him, but his hands, the new, smooth, wrong hands, had gone white at the fingertips, and a fine pale rime was creeping up from the nails, frost, the same soft frost that furred the dead and had eaten the figure in the cradle, growing on him now the longer he stood at the edge of the thing that wanted to finish him. As if some part of him knew that to be unfinished was to be coming apart, slowly, all along, and that the nearer he stood to the cure the more honestly his body admitted the disease.
+He looked down. The warmth of the heart was on every other surface of him, but his hands, the new, smooth, wrong hands, had gone white at the fingertips, and a fine pale rime was creeping up from the nails, frost, the same soft frost that furred the dead and had eaten the figure in the cradle. As if some part of him knew that to be unfinished was to be coming apart, slowly, all along, and that the nearer he stood to the cure the more honestly his body admitted the disease.
 
 He closed his fists over it before the others saw. He was getting practiced at hiding what his body kept trying to confess.
 
@@ -62,7 +62,7 @@ The Redactor's silhouette resolved at the top of the stair, small with distance,
 
 He stopped.
 
-Because the font was the word at the end of the city's long sentence, and the working that held the whole buried place up, the ceilings, the shaft, the stair under their feet, was the same working now dimming span by span under the Redactor's trailing hand. Cut the sentence and you stopped the reader. He had learned that an hour ago. But you could not cut a sentence in half twice without the half you were standing in coming down, and the Redactor was not lost now; it had its place; it was reading straight toward the load-bearing heart of everything, and when it struck out the font, the font would take the city with it.
+Because the font was the word at the end of the city's long sentence, and the working that held the whole buried place up, the ceilings, the shaft, the stair under their feet, was the same working now dimming span by span under the Redactor's trailing hand. Cut the sentence and you stopped the reader. But you could not cut a sentence in half twice without the half you were standing in coming down, and the Redactor was not lost now; it had its place; it was reading straight toward the load-bearing heart of everything, and when it struck out the font, the font would take the city with it.
 
 The warm light flickered again, dimming from the top down, and the first low groan of failing stone rolled around the great shaft, and the frost crept another knuckle up Oscar's hidden hands, and the basin at his feet went on leaning toward him, patient and certain and kind, offering, still offering, *be set, be whole, be finished,* while a faceless thing came methodically down the stair to unmake them all.
 

@@ -32,7 +32,7 @@ Something passed over the big man's face. Not the girl's. She only looked deligh
 
 "Evermere." He said it the way you say a thing everyone knows. The spires. The high cold halls. The galleries. "Or near enough. I'll want to make for the coast road, the one that runs under the Larchwall—"
 
-He stopped, because all three of them were looking at him now in the same way, and it was not the look he had expected. He had expected ignorance. Frontier people, salvagers grubbing in a hole in the ground; of course they would not know the great roads, the old kingdoms, the names that had mattered. He had braced to be patient with them.
+He stopped, because all three of them were looking at him now in the same way. He had expected ignorance. Frontier people, salvagers grubbing in a hole in the ground; of course they would not know the great roads, the old kingdoms, the names that had mattered. He had braced to be patient with them.
 
 Instead the big man's careful face had gone gentle, which was worse. It was the gentleness people put on for the very ill.
 
@@ -80,7 +80,7 @@ It was nothing. It was the magic equivalent of clearing one's throat.
 
 Wick's whole face lit up. "*There* it is," she breathed. "I knew it."
 
-She had no idea. None of them had any idea what they had just watched. He had meant to call down a working that could have unroofed a keep. He had produced a candle.
+None of them had any idea what they had just watched. He had meant to call down a working that could have unroofed a keep. He had produced a candle.
 
 "Yes," Oscar said. The word cost him. "Well. There's rather more where that came from."
 
