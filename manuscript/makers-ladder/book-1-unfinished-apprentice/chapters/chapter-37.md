@@ -64,7 +64,11 @@ They pulled back off the road into a stand of trees, and Kessa let them stand th
 
 "Right," she said. "The gate reads everyone. It struck out a man for failing whatever it asked him. Oscar. Can you pass it?"
 
-"No." He said it immediately. He'd clearly been sitting on it since the line. "Not a chance in the world. I'm a made thing, unlicensed, carrying a working I can't put down, and that arch is built to find exactly that and strike it out. I'd get four heartbeats and a mark on a board." A short ugly breath. "I've been walking toward this town for weeks and it turns out I can't come in the front."
+"No." He said it immediately. He'd clearly been sitting on it since the line. "Not a chance in the world. I'm a made thing, unlicensed, carrying a working I can't put down, and that arch is built to find exactly that and strike it out. I'd get four heartbeats and a mark on a board."
+
+"You could go quiet," Wick said. "You've been getting better. I nodded twice."
+
+"You did, and I've had the nods framed." But he shook his head, and he did her the courtesy of the real answer. "Quiet hides my *looking,* Wick. It doesn't hide my *make.* When I bank myself, a listener stops hearing me read—but that arch isn't listening for what I do. It reads what I *am,* the way you'd read a coin by its stamp, and I could stand under it silent as a stone and still be the wrongest thing that ever walked through it." A short ugly breath. "I've been walking toward this town for weeks and it turns out I can't come in the front."
 
 "Wick?" Kessa said.
 

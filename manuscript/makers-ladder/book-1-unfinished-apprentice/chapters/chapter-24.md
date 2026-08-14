@@ -96,7 +96,11 @@ They didn't try a third road.
 
 They didn't have to; by the gray of full dawn, hunkered in a hedge a mile south of the city with Oressa's smoke at their backs, Tarn laid it out, and it was worse than one watched gate. He'd counted the patrol's gear, the post's lamps, the simple fact of a reader spent on a customs shed in the dark, and he read it the way Oscar read a working—the shape of the whole thing from its pieces.
 
-"It's not the one gate," he said. "You don't post a reader and walk horse on the south approaches for one loose man you half want. That's a *cordon.* Every paved road out of Oressa that runs south, they'll have it the same—a watcher, a reader where they can spare one, men being present." He scratched his jaw. "The House owns the south the way weather owns the sky. Every road is their road. And they've decided, for the price of one boss's grudge, to put a lid on this particular pot until the loose thing inside it either dies trying a gate or sits still long enough to be collected."
+"And it shut too fast," he said, first, like a man putting the strangest figure at the top of the bill. "A boss's grudge buys a word up the line. It doesn't put a reader in a shed by dawn. That's a House that was already listening for something on this stretch of country before Hauk ever opened his mouth."
+
+Oscar thought of a notch in the hills gone silent, and a name written on a road in letters a blind man could read, and Kessa's flat voice saying *you think your polite friend won't hear about it,* and said nothing at all.
+
+"It's not the one gate," Tarn went on. "You don't post a reader and walk horse on the south approaches for one loose man you half want. That's a *cordon.* Every paved road out of Oressa that runs south, they'll have it the same—a watcher, a reader where they can spare one, men being present." He scratched his jaw. "The House owns the south the way weather owns the sky. Every road is their road. And they've decided, for the price of one boss's grudge, to put a lid on this particular pot until the loose thing inside it either dies trying a gate or sits still long enough to be collected."
 
 "Then we don't take a road," Kessa said. She'd said it twice already tonight. This time it landed differently, because this time there was nothing after it.
 

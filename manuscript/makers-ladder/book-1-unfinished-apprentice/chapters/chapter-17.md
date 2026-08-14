@@ -86,7 +86,7 @@ They gathered on the scale-house steps as the sun went long, the four of them, w
 
 "Finish that sentence," Kessa said, "and I'll push you off these steps."
 
-"We're a crew," Wick said simply, from his side, not opening her eyes. "Crews don't let the dark have their people. You said."
+"We're a crew," Wick said simply, from his side, not opening her eyes. "You know the rest. You said it first."
 
 Cael only smiled, and turned the warm shield in his hands, and said nothing, because some things didn't need saying twice.
 

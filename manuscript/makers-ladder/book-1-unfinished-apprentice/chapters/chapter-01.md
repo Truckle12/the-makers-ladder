@@ -130,7 +130,7 @@ He stepped onto a balcony of carved stone, and the world dropped away beneath hi
 
 A city. Underground. Beneath a sky of solid rock so high and far above that its darkness could have passed for an honest night. Streets, towers, the long pale bones of bridges; roofs beyond roofs marching into a gloom he could find no end to; all of it grey, all of it dead, all of it furred here and there with the same soft frost that had been eating the figure in the cradle. A buried city, sealed beneath the skin of the world, so old that Oscar—who was old, who had known this continent when half its kingdoms were arguments and the other half were trees—could not place a single line of it.
 
-He stood with the dead city below him and felt, for the first time in longer than he could have said, entirely and honestly lost. Not turned-around lost. Lost the way a sentence is lost when someone has torn the last word off the end of it.
+He stood with the dead city below him and felt, for the first time in longer than he could have said, entirely and honestly lost. Not turned-around lost. Lost the way a word is lost when the language that held it dies.
 
 "Right," he said, very quietly. There was no audience for it and no joke in it. "Right."
 

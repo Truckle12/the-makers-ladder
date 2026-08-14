@@ -121,6 +121,12 @@ Before letting reading solve a scene, ask: is the target *made*? If not, the gif
 someone else carries it. **Retro-fixes (scope creep) — DONE:** Ch23 (Borr's knee now observed, not read; "read every blow"→"see"), Ch24 ("attention" reads → reading the reader's ward/net; plain people give his gift nothing, he uses his eyes), Ch25 (spring scoped to the deep current/Script), Ch27 (the grey — he finds NO working). Fraying reserved to the single Ch23 overdraw; removed from Ch27.
 
 ### Fraying — rare loaded gun, NOT a gauge
+**Definition (unified, 2026-08-14):** fraying = **loss of self-cohesion** in a person or made thing —
+the edges of the self literally letting go. It has exactly **two triggers**, both already on the page:
+(1) an **unfinished made thing near its font** (Ch7–8, the rime; the Warden names the made-thing case in
+Ch26: "spend until there's not enough of him left to hold the shape"), and (2) **catastrophic overdraw**
+(Ch23, the spur; Cael knows it as a mender: "I've mended men who frayed," Ch24). Same phenomenon, two
+doors into it. Do not fork the term into two meanings in later books.
 Fraying is a wizard's *catastrophic overextension* danger, planted for later books, used sparingly
 at moments of genuine extreme overreach. It is NOT a per-fight/per-chapter cost and NOT a routine
 price of reading or ordinary magic. **Oscar is fully rested after Oressa** (treat downtime as a long

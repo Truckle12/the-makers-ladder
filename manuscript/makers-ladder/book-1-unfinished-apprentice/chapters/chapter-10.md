@@ -10,7 +10,7 @@ It had happened without anyone deciding it, which was apparently the only way th
 
 "How old are you, though," Wick said, on the fourth day, apropos of a long argument about whether a particular river had always been where it was. "Actually. You keep saying old. Old like Cael, or old like a tree?"
 
-"Older than the river, evidently," Oscar said, "since the river's in the wrong place." Which was a deflection, and she let him have it, but he noticed he had not given her the number. The number had been his favorite thing about himself for longer than—for a long time. *I am three hundred years old.* He had deployed it like a title. And lately it sat in his mouth like a coin he wasn't sure was his to spend, because the three hundred years were a place he could visit and not a place he had been, and a man ought to be honest, at least in the privacy of his own arithmetic, about the difference between remembering a life and having lived one.
+"Older than the river, evidently," Oscar said, "since the river's in the wrong place." Which was a deflection, and she let him have it, but he noticed he had not given her the number. Lately it sat in his mouth like a coin he wasn't sure was his to spend.
 
 He said none of that. He said, "Old enough to know better and young enough to keep not doing it," which made Wick laugh, and which had the additional virtue of being, for once, entirely true.
 
