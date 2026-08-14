@@ -14,7 +14,7 @@ The word was not enough, but nothing would have been. At the bottom of the shaft
 
 And it was reaching for him.
 
-He felt it the moment they came down off the last of the stair onto the floor of the heart. The light in the basin *leaned,* the way a plant leans at a window, the slow current of it turning toward him and away from the other three, and the pull came up through the soles of his feet and into the marrow of him, gentle and total and dreadful: a sense of homecoming so strong it made his eyes sting, a feeling that he had been cold and incomplete and only half-real his whole short life and that the warm completing thing was *right here,* and all he had to do was step into it and be finished.
+He felt it the moment they came down off the last of the stair onto the floor of the heart. The light in the basin *leaned,* the way a plant leans at a window, the slow current of it turning toward him and away from the other three, and the pull came up through the soles of his feet and into the marrow of him, gentle and total and dreadful: a sense of homecoming so strong it made his eyes sting.
 
 *Be set,* said the city.
 
@@ -24,7 +24,7 @@ The voice came out of the walls again, here as in the tower, the great gathered 
 
 "Don't," Kessa said. She had her crossbow up, not at anything, at everything, her eyes moving over the basin and the leaning light and Oscar's face, which had gone slack with longing in a way he could not feel and would have hated. "Whatever it's telling you. Don't."
 
-"It's not telling me anything." His voice came out strange. "It's *offering.*" And it was. The font was not commanding him, not dragging him. It was holding the door open and letting him feel, in his bones, exactly how much he wanted to walk through. He had spent a day discovering all the ways he was diminished: the candle where the ocean had been, the wear missing from his face, the empty place on his shoulder. And here was the thing that would mend all of it at once. He could feel that it would. The font was not lying.
+"It's not telling me anything." His voice came out strange. "It's *offering.*" And it was. The font was not commanding him, not dragging him. It was holding the door open and letting him feel, in his bones, exactly how much he wanted to walk through. He had spent a day discovering all the ways he was diminished. And here was the thing that would mend all of it at once. He could feel that it would. The font was not lying.
 
 "It's a forge," he said, and made himself say it, dragging the scholar up over the longing the way you drag a cold cloth over a fever. "Look at the architecture of it. The whole city pours its working into this basin and the basin—" he swallowed "—the basin *makes* things. Or finishes them. Completes a thing that came out unfinished." He thought of his too-new hands. He thought of the salvager edited on the vault floor. He thought, and could not stop thinking, of a frost-shedding figure in a lonely cradle, reaching, coming apart for want of exactly this. "It's where they were meant to be set. The ones from the cradles. The ones like—"
 
@@ -38,7 +38,7 @@ Wick had drifted toward the basin's rim. Of course she had; she was sixteen and 
 
 "Wick." Cael had her wrist before Oscar could move, drawing her back, gentle and immovable, and his other hand had gone to the iron at his throat, and his plain face had set into something Oscar had not seen on it before. Not fear, but a deep devotional unease, the look of a person of faith standing in front of a holy thing that belongs to the wrong god. "Don't touch it. I don't care how good it feels. *Especially* if it feels good." He looked at the basin the way he had looked at the edited body, and named it the way his kind named things: "This is a miracle. I just don't think it's a kind one. The kind ones don't have to talk you into them."
 
-And he wanted it. That was the thing he would not be able to explain to them afterward, if there was an afterward: that some large and exhausted part of him, the part that had reached for a familiar shoulder and a familiar current and found both gone, wanted nothing in the world so much as to climb into that warm pale light and stop being a candle and stop being unfinished and stop being whatever half-made thing the water by the fire had shown him. The longing was not a trick worked on him from outside. It came from the truest part of him.
+And he wanted it. That was the thing he would not be able to explain to them afterward, if there was an afterward: that some large and exhausted part of him wanted nothing in the world so much as to climb into that warm pale light and stop being a candle and stop being unfinished and stop being whatever half-made thing the water by the fire had shown him. The longing was not a trick worked on him from outside. It came from the truest part of him.
 
 He realized his hands were cold.
 
@@ -56,7 +56,7 @@ Oscar's stomach dropped.
 
 "It found the thread," he said.
 
-The Redactor's silhouette resolved at the top of the stair, small with distance, the smooth pale blank of its face turned down toward the heart, toward them, toward the font. It had cast about at the edge of the silence he'd made, patient, methodical, until it found where the great sentence picked up again. And the sentence picked up *here,* in the brightest, densest, most-written place in the whole dead city, the one passage it could not possibly resist reading to the end. It was not coming for them. It was coming because the sentence ran on, and a thing built to read could no more leave a line unfinished than water could decline to fall downhill. It would strike them out the way it would strike out a stray mark: without heat, without notice, in passing, on its way to the end. It started down the stair. It trailed one hand along the wall as it came, and behind its fingers the city's gathered light began, river by river, to thin and dim and *go out.*
+The Redactor's silhouette resolved at the top of the stair, small with distance, the smooth pale blank of its face turned down toward the heart, toward them, toward the font. And the sentence picked up *here,* in the brightest, densest, most-written place in the whole dead city, the one passage it could not possibly resist reading to the end. It was not coming for them. It was coming because the sentence ran on, and a thing built to read could no more leave a line unfinished than water could decline to fall downhill. It would strike them out the way it would strike out a stray mark: without heat, without notice, in passing, on its way to the end. It started down the stair. It trailed one hand along the wall as it came, and behind its fingers the city's gathered light began, river by river, to thin and dim and *go out.*
 
 "It's reading the heart," Oscar breathed. The understanding arrived with the floor still dropping out from under it. "It's going to edit the *font.* It's going to read this whole working to its last word and strike out whatever it decides doesn't—"
 

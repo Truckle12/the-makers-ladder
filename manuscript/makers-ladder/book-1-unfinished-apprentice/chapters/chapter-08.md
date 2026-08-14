@@ -8,17 +8,17 @@ The Redactor descended the long stair without hurry, trailing one hand along the
 
 "Then we go *up,* past it—" Cael started.
 
-"It's between us and up, and it can't be killed, and the stair behind us is already gone." Oscar's mind was running faster than it had run since he woke, faster than the falling stone, and for once the speed was no comfort, because every road it ran down ended at the same wall. He could cut the sentence again. He had done it once and it had saved them. But he could not cut the heart-passage of a working that was holding up the ceiling over their heads without bringing the ceiling down himself, and so the one trick he had left was the one trick he could not use.
+"It's between us and up, and it can't be killed, and the stair behind us is already gone." Oscar's mind was running faster than it had run since he woke, faster than the falling stone, and for once the speed was no comfort, because every road it ran down ended at the same wall. He could cut the sentence again. But he could not cut the heart-passage of a working that was holding up the ceiling over their heads without bringing the ceiling down himself, and so the one trick he had left was the one trick he could not use.
 
 Which left the font.
 
-It turned over at his feet, slow and warm and patient, the whole deep current of the world made naked and brought to a simmer, more power pooled in that one basin than he had felt in three hundred years. And it leaned toward him still, gentle, certain, holding its door open.
+It turned over at his feet, slow and warm and patient. And it leaned toward him still, gentle, certain, holding its door open.
 
 *Be set,* said the dying city, faint now, pleading almost. *Be whole. Inherit. Step in, and be finished, and all of this will hold for you.*
 
 *Set.* He had been turning the word over since the tower, the way you worry a loose tooth, and standing at the brim he finally let it show him all its faces. You set a jewel: fixed it in a claw of metal, made it admired and unable to move. You set a bone: forced the broken thing straight, whether or not straight was where it wanted to go, so it would knit the way the setter intended. You set a spell: locked a working to a single task forever, no longer free to become anything else. And you set a man, in a chair, in a role, in his ways, until the shape was the whole of him and there was no growing left to do. The city meant all of them at once. *Be set* was not an offer of life. It was an offer to be finished in the colder sense of the word: completed, and therefore over.
 
-And it would. The offer was true. If he climbed into the font and let it complete him, let it pour the whole inheritance into his unfinished shape, fill the candle back into an ocean, smooth the wrongness out of his new hands, make him at last the thing the cradle had been struck to make, then the working would know its master, and steady, and hold. The city would not fall. He would walk out of here whole and vast and *himself,* the self he remembered, three centuries restored in a single warm breath.
+And it would. The offer was true. If he climbed into the font and let it complete him, fill the candle back into an ocean, smooth the wrongness out of his new hands, make him at last the thing the cradle had been struck to make, then the working would know its master, and steady, and hold. The city would not fall. He would walk out of here whole and vast and *himself,* the self he remembered, three centuries restored in a single warm breath.
 
 He would walk out as the man he had been copied from. Faithful. Perfect. Set.
 
@@ -56,7 +56,7 @@ He did not keep it.
 
 He had spent the last day learning, against his will and one hard lesson at a time, the only thing this place had to teach him. He had taught it first, to a frightened girl in a ruined street, before he understood he was describing himself. He was not built to drink an ocean. He was built to *aim* one.
 
-But aiming takes time, and a place to stand, and a hand steady enough to write with, and on his own he had none of the three. He had them on loan. Cael's grace was the only reason his hands had not yet drifted off the ends of his arms; Cael was spending a god's borrowed warmth to hold him in one piece, and going greyer with every breath of it. Kessa was the only reason the Redactor had not already reached the basin and struck it out from under all of them; every bolt she put into the thing was a second she did not have, paid out on him. And the font lay open at all only because a girl who had spent her whole short life terrified of her own hands had put every terror she owned into a space the size of a fist, because he had once told her that she could. He was not doing this. The three of them were doing it, and letting him hold the pen.
+But aiming takes time, and a place to stand, and a hand steady enough to write with, and on his own he had none of the three. He had them on loan. Cael's grace was the only reason his hands had not yet drifted off the ends of his arms; Cael was spending a god's borrowed warmth to hold him in one piece, and going greyer with every breath of it. Every bolt Kessa put into the thing was a second she did not have, paid out on him. And the font lay open at all only because a girl who had spent her whole short life terrified of her own hands had put every terror she owned into a space the size of a fist, because he had once told her that she could. He was not doing this. The three of them were doing it, and letting him hold the pen.
 
 So he aimed it.
 

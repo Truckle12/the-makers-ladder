@@ -4,7 +4,7 @@ The deep road did not announce itself. It simply began, the way the cold did, by
 
 Oscar could not stop reading it.
 
-A scholar does not get to choose whether to understand; understanding simply happens to him, the way a draft happens to a person standing in a doorway, and the script on these walls poured meaning at him whether he wanted it or not. Most of it he could not parse. The hand was old past any tongue he knew, the figures shaped by minds that had thought differently about the world than anyone now did. But the deep grammar of it, the bones of how a working was made to hold, those had not changed in all the ages between that people and his own. They were not a language. They were the rules underneath language, the rules the deep current ran on, and a thing that is true does not get old.
+A scholar does not get to choose whether to understand; understanding simply happens to him, the way a draft happens to a person standing in a doorway, and the script on these walls poured meaning at him. Most of it he could not parse. The hand was old past any tongue he knew, the figures shaped by minds that had thought differently about the world than anyone now did. But the deep grammar of it, the bones of how a working was made to hold, those had not changed in all the ages between that people and his own. They were not a language. They were the rules underneath language, the rules the deep current ran on, and a thing that is true does not get old.
 
 "They wrote it into everything," he said, mostly to himself, trailing his ruined new hand a finger's breadth from the wall, not touching. "Look. This isn't decoration. The whole city is one working. Every wall a clause. They didn't *cast* down here. They *built* the spell and then lived inside it." It was, he thought, magnificent and insane in roughly equal measure, as the very best ideas usually were. "No wonder it woke all at once. You can't wake part of a sentence."
 
@@ -30,7 +30,7 @@ Three of them looked at the plate. Oscar looked at the worn track, and the wall,
 
 They looked at him.
 
-"The plate. It's not a lock you pick, it's a question the wall asks, and the door opens for the right answer." He came closer, hands behind his back now, deliberately, because his hands had a way of reaching for things and he did not yet know what this thing did to a careless hand. "Here—this whole outer ring is the asking. They've written the question into the stone so that anyone who can read it can answer, and anyone who can't, can't pass. It's elegant. Cruel, but elegant. A lock that only admits the lettered." He was already half lost in it, the old pleasure rising in him despite everything, the pure clean joy of a hard text yielding. He was beginning to understand that this, the reading, the standing between a shut thing and the people who needed it open, was the whole of what he had left to be. Not the hand that wrote the working. The hand that could tell you what it said. "Most of it's beyond me. The dialect's wrong. But the structure—the structure I know. They want a name. The wall wants you to *name the thing that built it.*"
+"The plate. It's not a lock you pick, it's a question the wall asks, and the door opens for the right answer." He came closer, hands behind his back now, deliberately, because his hands had a way of reaching for things and he did not yet know what this thing did to a careless hand. "Here—this whole outer ring is the asking. They've written the question into the stone so that anyone who can read it can answer, and anyone who can't, can't pass. It's elegant. Cruel, but elegant. A lock that only admits the lettered." He was already half lost in it, the pure clean joy of a hard text yielding. He was beginning to understand that this, the reading, the standing between a shut thing and the people who needed it open, was the whole of what he had left to be. Not the hand that wrote the working. The hand that could tell you what it said. "Most of it's beyond me. The dialect's wrong. But the structure—the structure I know. They want a name. The wall wants you to *name the thing that built it.*"
 
 "And do you know it?" Cael asked. "The thing that built it?"
 
@@ -50,7 +50,7 @@ His hand. The hand on the sword. The hand healed into his own skin.
 
 He laid his palm flat against the closed loop at the center of the wheel.
 
-The script did not ask him the question. That was the horror of it, clean and immediate: the wall did not test him, did not weigh him, did not demand the name that this whole dead people had hidden in their door against strangers. The loop under his hand simply *brightened,* glad, eager, recognizing, and ran its gladness outward along the spiral in a wave of waking silver, and the wall remembered it had once been told the answer by a hand exactly like this one, and the worn track in the floor proved true, and the stone drew back along a seam that had not been visible a breath before.
+The script did not ask him the question. That was the horror of it, clean and immediate: the wall did not test him, did not weigh him, did not demand the name that this whole dead people had hidden in their door against strangers. The loop under his hand simply *brightened,* glad, eager, recognizing, and ran its gladness outward along the spiral in a wave of waking silver, and the worn track in the floor proved true, and the stone drew back along a seam that had not been visible a breath before.
 
 The door opened for him the way the tower door had opened for him. Because it knew him. Because, somewhere in the unthinkable depth of years this city had lain sealed, a hand that was his hand had already been here, and signed its work, and gone.
 
@@ -60,13 +60,13 @@ No one said anything for a moment. The new dark beyond the door breathed out at 
 
 "I haven't." It came out steadier than he felt. "I have never in my life seen this city. I would stake my considerable reputation on it." Both true. Both, he was beginning to understand, beside the point. "And yet."
 
-"And yet," Kessa agreed, and that was all, and somehow it was the most frightening conversation he'd had since he woke, because she had stopped pushing. She'd looked at his unweathered face and his too-new hands and a door that opened to his touch, and she had arrived, hours ago, at a conclusion he was still refusing to reach, and she was simply, patiently, walking him toward it.
+"And yet," Kessa agreed, and that was all. She had stopped pushing. She'd looked at his unweathered face and his too-new hands and a door that opened to his touch, and she had arrived, hours ago, at a conclusion he was still refusing to reach, and she was simply, patiently, walking him toward it.
 
 They went through.
 
 The space beyond had been a vault, or a vestry, or the private study of someone the dead city had thought important: a long low room with shelves still standing and the rotted ghosts of books still on them, and a worktable in the center under a fall of pale frost. And on the floor before the table, where the frost lay thin, was a body.
 
-Not a husk. Not one of the cold drowned dead of the upper streets, grey and rimed and patient. This was recent. This was a person who had come down here, as they had come down, breathing and warm and afraid, a salvager by the look of the gear, the boots, the half-unrolled tools, and who had died here not long ago at all.
+Not a husk. Not one of the cold drowned dead of the upper streets, grey and rimed and patient. This was recent. This was a person who had come down here, as they had come down, breathing and warm and afraid, a salvager by the look of the gear, the boots, the half-unrolled tools.
 
 And they had not died the way people die.
 
