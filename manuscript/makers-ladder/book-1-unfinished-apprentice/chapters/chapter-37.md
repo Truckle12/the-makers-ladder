@@ -2,21 +2,21 @@
 
 Everset had a queue, which Wick had not expected from the mouth of the world.
 
-That was the first stupid thing. You spend a week walking toward a place that's been leaning on your ribs and you build it up into teeth and towers, and then you come round the last bend and there's a *line*. Carts. A woman with chickens in a basket. Two boys fighting over who carried the sack. Ordinary people waiting their ordinary turn at a gate in the morning, and the gate was white stone and forty feet high and beautiful, and above it the air did the thing it had been doing for two days, the thing only she could see: it *thinned.*
+You spend a week walking toward a place that's been leaning on your ribs and you build it up into teeth and towers, and then you come round the last bend and there's a *line*. Carts. A woman with chickens in a basket. Two boys fighting over who carried the sack. Ordinary people waiting their ordinary turn at a gate in the morning, and the gate was white stone and forty feet high and beautiful, and above it the air did the thing it had been doing for two days, the thing only she could see: it *thinned.*
 
-That was the closest word. Not shimmer, not heat. Thin. Like the world here was a coat worn through at the elbow and you could feel the cold coming in the place where the weave gave up. All the way down the valley she'd felt it getting worse and told herself it was nerves. It wasn't nerves. It was the far side, the elsewhere behind her door, the place that had wanted her since before she had a word for anything. And here, under all that beautiful white stone, the wall between it and her had gone thin enough to lean on.
+Not shimmer, not heat. Thin. Like the world here was a coat worn through at the elbow and you could feel the cold coming in the place where the weave gave up. All the way down the valley she'd felt it getting worse and told herself it was nerves. It was the far side, the place that had wanted her since before she had a word for anything. And here, under all that beautiful white stone, the wall between it and her had gone thin enough to lean on.
 
 It had been leaning for two days. This morning it was *pressing.*
 
 "Say the number," Kessa said, low, beside her. They'd stopped a hundred paces back, in the ordinary dust with the ordinary people, and Kessa was reading the gate: the guards, the traffic, the pace of it, all of it going into her tally. "One to ten. How bad."
 
-"Six." Wick had made herself answer that question honestly about forty times since the waystation, which was a new thing for her and she wasn't sure she liked it. "It's a six but it's a *rising* six." She rubbed her sternum without meaning to. "It's not the town doing it, before you ask. The town's just where it's worn through."
+"Six." Wick had made herself answer that question honestly about forty times since the waystation. "It's a six but it's a *rising* six." She rubbed her sternum without meaning to. "It's not the town doing it, before you ask. The town's just where it's worn through."
 
 "Worn through," Kessa repeated, in the flat voice that meant *say more.*
 
 "Like." Wick hunted for it and got something worse than she meant. "You know when ice goes bad over a pond and you can still walk on it but you can hear it? It's like that except the ice is everything and the pond is *hungry.*"
 
-Kessa did not say anything for a moment. Then: "Good. Say it exactly that plain every time." She went back to counting guards, and Wick had the strange warm awful feeling of having been *useful,* which around Kessa was the only currency there was.
+Kessa did not say anything for a moment. Then: "Good. Say it exactly that plain every time." She went back to counting guards, and Wick had the strange warm awful feeling of having been *useful.*
 
 Up ahead, the line moved. A cart went through. Then a man with a hand-barrow, then the chicken woman, and each of them stopped for a moment under the arch where two grey-robed people stood — not soldiers, clerks, with no weapons at all — and each of them *paused* there like a page being turned, and then went on into the city.
 
@@ -38,15 +38,15 @@ There was a man four places up the line. Nothing about him. Thin, older, a bad c
 
 And the clerks looked at him, and one of them made a small mark on a board, and the man came apart.
 
-Not blood. That was what Wick would keep, after, the thing that sat in her chest for days. There was no blood and no scream and no *event.* He simply got less. It started at his edges and went inward, and it was quick and it was extremely tidy, and the bundle he'd been holding dropped and rolled and was still there in the dust afterward, and the man was not. The line went quiet. The line did not run. The chicken woman looked at her feet. A guard came out and picked up the bundle and carried it into a little side room, and the clerk turned to the next person in the queue, and the queue *moved forward one place,* stepping around the spot, the way you step around a puddle.
+Not blood. That was what Wick would keep, after, the thing that sat in her chest for days. No scream, no *event.* He simply got less. It started at his edges and went inward, and it was quick and it was extremely tidy, and the bundle he'd been holding dropped and rolled and was still there in the dust afterward, and the man was not. The line went quiet. The line did not run. The chicken woman looked at her feet. A guard came out and picked up the bundle and carried it into a little side room, and the clerk turned to the next person in the queue, and the queue *moved forward one place,* stepping around the spot, the way you step around a puddle.
 
-It took maybe four heartbeats. That was the whole of it.
+It took maybe four heartbeats.
 
 "Oh," Wick said, out loud, to nobody. Her voice came out very small and very young. "Oh, they just — they do that here. That's a thing they just *do* here."
 
 And then, right on top of it, worse: her door woke up.
 
-Not pushed. *Leaned in.* The far side had been pressing on her for two days like weather, patient, general, the sea leaning on everything. And the second that man came apart, all of that patient pressure swung and *pointed,* the way a dog's head comes round at a sound. Something on the other side of her ribs sat up and paid attention to the place where a man had just been struck out of the world, and the feeling that came through the thin wall with it was not hunger exactly.
+Not pushed. *Leaned in.* The second that man came apart, all of that patient pressure swung and *pointed,* the way a dog's head comes round at a sound. Something on the other side of her ribs sat up and paid attention to the place where a man had just been struck out of the world, and the feeling that came through the thin wall with it was not hunger exactly.
 
 It was *interest.*
 
@@ -60,7 +60,7 @@ She saw Oscar hear that. She saw it go into him and get filed somewhere with a l
 
 ---
 
-They pulled back off the road into a stand of trees, and Kessa let them stand there for a count of about thirty before she started the sum out loud, because Kessa believed the worst thing you could do with a fright was carry it silently.
+They pulled back off the road into a stand of trees, and Kessa let them stand there for a count of about thirty before she started the sum out loud.
 
 "Right," she said. "The gate reads everyone. It struck out a man for failing whatever it asked him. Oscar. Can you pass it?"
 
@@ -74,7 +74,7 @@ They pulled back off the road into a stand of trees, and Kessa let them stand th
 
 And Wick opened her mouth to say *obviously not, I'm a wild-touched nobody with a fire in me and a mark on my throat,* and then she didn't say it, because her hand had gone into her pocket, as it always did when everything was too loud, and closed on the rock.
 
-The little grey nothing disc from the good claim under Marrow. The thing she'd kept because it was *quiet.* She'd had it in her fist for two days straight now, off and on, because it was the one object in a hundred miles that the thinning didn't touch — it didn't feel the far side, it didn't feel her, it sat there being a small cold coin of nothing in a world gone loud.
+The little grey nothing disc from the good claim under Marrow. The thing she'd kept because it was *quiet.* She'd had it in her fist for two days straight now, off and on. It didn't feel the far side, it didn't feel her; it sat there being a small cold coin of nothing in a world gone loud.
 
 She took it out and looked at it. Everyone looked at her looking at it.
 
@@ -110,17 +110,17 @@ They lay up until dark, and Wick did not sleep, and near the end of it Oscar cam
 
 "It is what I do," she admitted.
 
-"It is. It's my least favourite of your habits and you learned it from me." He turned the grimoire over in his hands without opening it, an old dead man's book, his own handwriting inside. "Here's the whole of what I've got. That town runs on something enormous, and it's the same cold written stuff I read and swim in — it's *mine,* in the sense that anything is. And whatever is behind your door is not that. It isn't written anywhere. It isn't in the world at all. Which is why my looking gives me nothing on it, and never has, and never will." He said that steadily, but she heard the crack under it. "It's the one thing coming for you that I cannot read, cannot argue with, and cannot unmake. So when I say *tell me the number every hundred paces,* Wick, I'm not managing you. That number is the only instrument I have."
+"It is. It's my least favourite of your habits and you learned it from me." He turned the grimoire over in his hands without opening it. "Here's the whole of what I've got. That town runs on something enormous, and it's the same cold written stuff I read and swim in — it's *mine,* in the sense that anything is. And whatever is behind your door is not that. It isn't written anywhere. It isn't in the world at all. Which is why my looking gives me nothing on it, and never has, and never will." He said that steadily, but she heard the crack under it. "It's the one thing coming for you that I cannot read, cannot argue with, and cannot unmake. So when I say *tell me the number every hundred paces,* Wick, I'm not managing you. That number is the only instrument I have."
 
-Wick sat with that. It should have been terrifying. Somehow, coming from him, in his careful voice, on a night before a bad morning, it was almost the opposite: somebody had finally admitted out loud that the thing she'd been carrying alone since she was small was actually as big as it felt.
+Wick sat with that. It should have been terrifying, and it was almost the opposite: somebody had finally admitted out loud that the thing she'd been carrying alone since she was small was as big as it felt.
 
 "Six," she said. "It's a six. It's been a six all afternoon."
 
-"Thank you." He stood, and hesitated, and then said the awkward thing instead of the graceful one, which was how she always knew he meant it. "For what it's worth, and I appreciate this is not much: we are going in through a drain. It is very hard to be finished into a great and terrible destiny while wading."
+"Thank you." He stood, and hesitated, and then said the awkward thing instead of the graceful one. "For what it's worth, and I appreciate this is not much: we are going in through a drain. It is very hard to be finished into a great and terrible destiny while wading."
 
 "You're so weird," Wick said, and meant *thank you,* and he heard it, because he always did.
 
-She held the rock in her fist while the others got up and shouldered their packs and Kessa counted them in the dark — five, breathing, hers — and the thin place over Everset waited above them with a patience she was starting to recognize. Not the town's patience. The other one. The far side, leaning on a worn-through world, glad and sure and awake now, because tonight it had watched somebody get unmade and found the whole business *interesting.*
+She held the rock in her fist while the others got up and shouldered their packs and Kessa counted them in the dark — five, breathing, hers — and the thin place over Everset waited above them with a patience she was starting to recognize. Not the town's patience. The other one.
 
 She was the only one who could feel it.
 

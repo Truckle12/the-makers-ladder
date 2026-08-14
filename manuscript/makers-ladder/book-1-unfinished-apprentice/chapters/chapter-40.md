@@ -14,7 +14,7 @@ They ran, and the Fair House turned on them.
 
 It did not roar. Oscar had braced for a roar. What the font did was so much worse: it began, calmly, to go over the room the way a careful man goes over a bad page.
 
-A stretch of colonnade three pillars long stopped being there. No dust, no crash. The pillars were struck out, and what was left was the flat wrongness of a gap the eye kept trying to fill in. Then a section of floor they had crossed forty seconds before. Then the *sound* of the water in the channel round the walls, which went out all at once and left a silence with a shape to it, and Oscar found he could not remember what running water was supposed to sound like, and understood with a lurch that he had just been robbed and could not have said of what.
+A stretch of colonnade three pillars long stopped being there. No dust, no crash. The pillars were struck out, and what was left was the flat wrongness of a gap the eye kept trying to fill in. Then a section of floor they had crossed forty seconds before. Then the *sound* of the water in the channel round the walls, which went out all at once and left a silence with a shape to it, and Oscar found he could not remember what running water was supposed to sound like.
 
 "It's clearing the room!" he shouted. "It isn't aiming at us yet — it works in *order*, Kessa, don't let it finish looking at you!"
 
@@ -40,7 +40,7 @@ The first was that Tarn had been saving something.
 
 He fought made things the way he had fought men for forty years in a bowl: without hurry, without a wasted movement, and with an absolute understanding that the job was not to hurt somebody, it was to *stop the job they were doing.* He took the aisle where the colonnade pinched it to two men wide, and he did not let it be three. He caught the first clerk's writing wrist and broke the stylus in its hand and put the clerk down on its back across the path of the two behind it. The second came over its fallen fellow and Tarn hit it once, in the shoulder, and turned it so it fouled the third.
 
-They did not feel any of it. That was the horror of fighting them, and Tarn understood it inside four seconds and adjusted: he stopped hitting them at all and started *stacking* them, using each one he put down as furniture against the next, until eleven clerks trying to walk up a narrow aisle became a slow argument about whose feet went where. He held that line a long time, alone, breathing like a bellows, and every so often a stylus came round the edge of him and he broke it.
+They did not feel any of it. Tarn understood that inside four seconds and adjusted: he stopped hitting them at all and started *stacking* them, using each one he put down as furniture against the next, until eleven clerks trying to walk up a narrow aisle became a slow argument about whose feet went where. He held that line a long time, alone, breathing like a bellows, and every so often a stylus came round the edge of him and he broke it.
 
 "How long can you keep that?" Oscar shouted.
 
@@ -52,7 +52,7 @@ She went past Tarn's shoulder low and came up in the middle of them, and she did
 
 "Their cupboard!" Oscar shouted. "West arcade — they resupply, there's a *store* of it — "
 
-Wick was already going. She went through the arcade like a rumour, and behind her the neat stacked kit of an age of tidy erasure caught and roared, and pale smoke rolled up into the galleries of the most beautiful building Oscar had ever seen.
+Wick was already going. She went through the arcade like a rumour, and behind her the neat stacked kit of an age of tidy erasure caught and roared, and pale smoke rolled up into the galleries.
 
 Eleven clerks stopped in the middle of the nave and turned their heads toward the burning cupboard with an expression of mild administrative inquiry.
 
@@ -66,7 +66,7 @@ She got *between.* She saw which had the clearest line to Wick and put a plinth 
 
 And she kept two eyes free for the thing at the font, and she kept walking her angle round it, and Oscar realized she was doing to the Setter what she had done in every wood and street since the ice: taking its ground away a foot at a time.
 
-It noticed her. That was the first thing it had done all day that wasn't in the book.
+It noticed her. The first thing it had done all day that wasn't in the book.
 
 "You're a difficulty," it said to her, mildly, and turned its attention on her — and Oscar felt the Setting swing round like a lamp, and did the only thing there was time to do, which was to put himself in it.
 
@@ -74,9 +74,9 @@ It noticed her. That was the first thing it had done all day that wasn't in the 
 
 So the duel began badly, from the wrong place, out of position, to buy a tracker two seconds.
 
-He had believed, in some private stupid chamber of himself, that when it came he would be *equal* to it — because he had read a city this morning and cracked a joke that had been sitting there unread for an age, and been rather good. There is no cure for that kind of belief except the thing that happened next.
+He had believed, in some private stupid chamber of himself, that when it came he would be *equal* to it. There is no cure for that kind of belief except the thing that happened next.
 
-He led with the brace, the good figure, the one that had held against the grey. The Setter took it apart in passing, the way you flick a cobweb off a doorframe, and Oscar's body registered the insult before his mind did.
+He led with the brace, the good figure, the one that had held against the grey. The Setter took it apart in passing, and Oscar's body registered the insult before his mind did.
 
 He tried the lance. It read the lance while he was still writing it and *finished the sentence for him* — closed the figure early and wrong, so it came out of his hand as a fizzle and the smell of hot stone.
 
@@ -104,7 +104,7 @@ The Setter walked out of it, unhurried, brushing dust off one sleeve with two fi
 
 Then the font finished with the room and started on them, and everything got much worse very fast.
 
-Oscar felt it arrive as a pressure of attention, the sensation of being carefully read by something the size of a city, and then Tarn said, from the aisle, in a voice with nothing in it at all:
+Oscar felt it arrive as a pressure of attention, and then Tarn said, from the aisle, in a voice with nothing in it at all:
 
 "What's the word."
 
@@ -148,7 +148,7 @@ Then he got up — which cost him something Oscar saw and never afterward forgot
 
 So Oscar went back to the thing at the font, and lost.
 
-He lost thoroughly, at length, and in front of everyone. He went for the composition, the seams, the places a made thing is joined — and found every one already closed, exactly as Corwen's collar had been closed, except that Corwen's collar had been *written* by somebody who understood how Oscar read, and this thing simply *was* how Oscar read, with an age of practice and nobody inside it to hesitate.
+He lost thoroughly, at length, and in front of everyone. He went for the composition, the seams, the places a made thing is joined — and found every one already closed. This thing simply *was* how Oscar read, with an age of practice and nobody inside it to hesitate.
 
 It took him apart the way a tutor takes apart an essay: patiently, without heat, marking each error as it arrived.
 
@@ -198,7 +198,7 @@ So he used the other thing. He used his mouth.
 
 The owl came out of the smoke over the nave like a thrown stone.
 
-It came down through the bending light and the erasing air and the whole enormous careful attention of a city that had no line in its book for a thing answering to nobody it had ever licensed, a bird belonging to no one but a man who had just declared himself a person, and it hit the Setter in the face with both feet and every ounce of a barn owl's ridiculous fury.
+It came down through the bending light and the erasing air and the whole enormous careful attention of a city that had no line in its book for it, and it hit the Setter in the face with both feet and every ounce of a barn owl's ridiculous fury.
 
 The Setter's arm came up.
 
@@ -282,7 +282,7 @@ Out through the three great doors the nearest of the lamplit bridges went out of
 
 And Oscar turned and looked at the chair beside the basin.
 
-It was such a plain chair. That was the part he could never afterward get past. Low, and worn, and entirely unremarkable, standing on the stone where it had stood for however long it takes a patient thing to stop counting — waiting, with enormous courtesy, for somebody to sit down in it and be finished, and put the hand back on the engine.
+It was such a plain chair. Low, and worn, and entirely unremarkable, standing on the stone where it had stood for however long it takes a patient thing to stop counting — waiting, with enormous courtesy, for somebody to sit down in it and be finished, and put the hand back on the engine.
 
 "Oscar," Wick said, from somewhere behind him. "Oscar. What are you looking at."
 

@@ -2,9 +2,9 @@
 
 The city didn't fall down.
 
-Kessa had expected it to. She had stood at the rim of a dry basin and watched the light go out of it, and some part of her that had spent a day reading a town built out of murder had assumed that when the murder stopped the town would go with it. It seemed only fair. A thing held up by a working ought to come down when the working goes.
+Kessa had expected it to. She had stood at the rim of a dry basin and watched the light go out of it, and assumed that when the murder stopped the town would go with it. It seemed only fair. A thing held up by a working ought to come down when the working goes.
 
-It didn't. Outside the three great doors the lamps were still burning on the bridges. The water was still running in the channels. Somewhere off east a bell went twice, the way bells go in any large place at any hour, and a dog barked, and the beautiful pale streets of Everset lay there in the evening being beautiful, and did not know.
+It didn't. Outside the three great doors the lamps were still burning on the bridges. The water was still running in the channels. Somewhere off east a bell went twice, and a dog barked, and the beautiful pale streets of Everset lay there in the evening being beautiful, and did not know.
 
 She stood in the ruined nave of the Fair House and put the count together.
 
@@ -22,7 +22,7 @@ She looked at her hands. They were fine. Nothing had touched her all day.
 
 She had to go out and get Oscar in the end, because he wasn't going to come.
 
-The basin was dry. That was the strangest walk of her life — eleven paces over a floor that had been coming apart under a girl an hour before and was now just stone, whole, cold, with dust already settling on it. The holes had closed. She looked for where they'd been and couldn't find them.
+The basin was dry. It was the strangest walk of her life — eleven paces over a floor that had been coming apart under a girl an hour before and was now just stone, whole, cold, with dust already settling on it. The holes had closed. She looked for where they'd been and couldn't find them.
 
 He was kneeling with both hands flat and his face doing the thing it did when he was reading.
 
@@ -42,9 +42,9 @@ She let that stand. Then she said the thing she'd come out to say.
 
 "Now. Cael's cold and I'm not carrying two of you."
 
-He got up. It took three goes and she let him do it himself, because there are men you help and men you insult by helping, and she'd learned which he was on a road outside a burned village a long way north.
+He got up. It took three goes and she let him do it himself, because there are men you help and men you insult by helping.
 
-That was when she saw the rock.
+Then she saw the rock.
 
 It was lying on the stone by the foot of the chair, a small grey disc, absolutely unremarkable, the sort of thing you would step over in a stream-bed. She had watched Wick take it out of her pocket forty times on the road and turn it over and put it back.
 
@@ -114,11 +114,11 @@ Tarn considered the queue for a while. "Best kind of debt," he said. "One nobody
 
 She went and found the street.
 
-She didn't tell the others why and none of them asked, because she had spent this whole road teaching them not to ask what she was reading until she was done. It took her two turns of the lower town and one wrong guess, and then she was standing in a lane of pale houses with washing across it, reading the ground as she'd read a hundred yards of thin country, and there was nothing to read at all: no scar, no ash, no gap. The street was exactly a street.
+She didn't tell the others why and none of them asked. It took her two turns of the lower town and one wrong guess, and then she was standing in a lane of pale houses with washing across it, reading the ground as she'd read a hundred yards of thin country, and there was nothing to read at all: no scar, no ash, no gap. The street was exactly a street.
 
 There was a bucket standing in a doorway with the rope coiled beside it.
 
-She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa put the man with the bucket into the column that was supposed to make yesterday bearable, and stood there, and found the column didn't add. It never had. She'd known that since Doss. You cannot set a stranger's morning against a girl and get a number that means anything; the two things are not the same kind of thing and never will be, and the only people who tell you otherwise have not yet lost anybody.
+She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa put the man with the bucket into the column that was supposed to make yesterday bearable, and stood there, and found the column didn't add. It never had. She'd known that since Doss.
 
 She did not knock. There was nothing to say to him that wouldn't have been a kind of collecting.
 
@@ -138,7 +138,7 @@ Oscar looked at it.
 
 "Wizard," Tarn said, "eat the bread."
 
-So he tore a piece off and put it in his mouth and chewed it and swallowed it and sat there with his hand over his eyes, and Kessa read it off him plain: he had said something about bread yesterday, on that floor, to the thing that was going to finish him, as his reason for staying a person. She hadn't caught what. She caught it now, watching him fail to enjoy it, and she looked away and let him have it, because there is a kind of watching that is theft.
+So he tore a piece off and put it in his mouth and chewed it and swallowed it and sat there with his hand over his eyes, and Kessa read it off him plain: he had said something about bread yesterday, on that floor, to the thing that was going to finish him. She hadn't caught what. She caught it now, watching him fail to enjoy it, and she looked away and let him have it, because there is a kind of watching that is theft.
 
 Then she put both hands flat on the table and asked the only question she had left.
 
@@ -168,13 +168,13 @@ She looked at the table for a while.
 
 "Right," she said.
 
-That was all she said. Cael reached over and put one enormous hand flat on her back and left it there, and nobody said anything else for a good while, and downstairs somebody put another batch in the oven.
+Cael reached over and put one enormous hand flat on her back and left it there, and nobody said anything else for a good while, and downstairs somebody put another batch in the oven.
 
 ---
 
 They came apart three days later, and it was nobody's fault, and Kessa had seen it coming since the bakehouse.
 
-A crew is a thing with a job. That is the whole of what a crew is; she had known it at nineteen and it had never stopped being true. You have a job and it holds you in a shape, and when the job is over the shape goes, and the only people who don't come apart are the ones who go and find another job together fast. There was no job. There was a dry basin, and a town that would never be told, and four people with nothing to do next.
+A crew is a thing with a job. She had known it at nineteen and it had never stopped being true. A job holds you in a shape, and when the job is over the shape goes. There was no job. There was a dry basin, and a town that would never be told, and four people with nothing to do next.
 
 Cael was going home. He said it first and he said it plainly, sitting on the end of a bed with his hands between his knees. There was a house and a hearth two hundred miles east that had been keeping a fire lit for him for four years, and his own fire was down to the bottom of the cup, and the honest way to say it was that he needed to go and be near people who kept hearths for a while. "I'm no good to anybody like this," he said. "I'd rather come back full than stay empty."
 
@@ -198,15 +198,15 @@ He said it standing at the window with the owl on the sill beside him, and he di
 
 "Yes."
 
-She let it go, because she had watched a man refuse to promise her a rescue two nights before and she was not going to insult him now by pretending he needed managing.
+She let it go, because she was not going to insult him now by pretending he needed managing.
 
 And Kessa went west.
 
-She didn't explain it and nobody asked her to. There is a kind of country out past the edge-stones where the maps go pale and stop apologizing about it, and she had been thinking about the pale part of the map since a girl walked into a basin, not because she had a reason but because *west* was a direction and standing still was not. She was a tracker. It was the only thing she had ever been good at. When she could not think of anything else to do she walked, and she had never in her life failed to find a way into somewhere; she had only ever failed to like the way.
+She didn't explain it and nobody asked her to. There is a kind of country out past the edge-stones where the maps go pale and stop apologizing about it, and she had been thinking about the pale part of the map since a girl walked into a basin, because *west* was a direction and standing still was not. She was a tracker. She had never in her life failed to find a way into somewhere; she had only ever failed to like the way.
 
 ---
 
-The last evening she went up on the flat roof of the bakehouse and did what she did, which was read the country she was about to be in: the road west, the ridge lines, the two passes and which would still be open, how the light fell so she'd know it again from the far side. Below her the beautiful city went about its evening. The lamps came on along the bridges. Nobody had told them anything and nobody was going to.
+The last evening she went up on the flat roof of the bakehouse and did what she did, which was read the country she was about to be in: the road west, the ridge lines, the two passes and which would still be open, how the light fell so she'd know it again from the far side. Below her the beautiful city went about its evening. The lamps came on along the bridges.
 
 Something moved on the parapet six feet away.
 
