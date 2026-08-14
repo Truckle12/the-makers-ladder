@@ -2,9 +2,9 @@
 
 By noon the square was full, because the Tithe had made sure of it.
 
-They'd sent the cord through Marrow at first light, lane by lane, and the message had been simple: be in the square at noon, all of you, or be marked absent, and in a town where everything you ate came on Tithe credit, *marked absent* was a sentence. So they came: salvagers and scale-clerks and children and the old, herded into the open square between the great stone ribs, hundreds of them, quiet the way the good claim was quiet, the quiet of people who have learned that noise gets noticed.
+They'd sent the cord through Marrow at first light, lane by lane, and the message had been simple: be in the square at noon, all of you, or be marked absent, and *marked absent* was a sentence. So they came: salvagers and scale-clerks and children and the old, herded into the open square between the great stone ribs, hundreds of them, with the quiet of people who have learned that noise gets noticed.
 
-At the head of the square, on the steps of the largest scale-house, the Tithe had built its stage. Brida stood on it between two of the cord, her bad arm tight to her side, her chin up. And before her, ledger in hand, waiting with the patience of someone who has already counted the outcome and found it good, stood Sarn.
+At the head of the square, on the steps of the largest scale-house, the Tithe had built its stage. Brida stood on it between two of the cord, her bad arm tight to her side, her chin up. And before her, ledger in hand, stood Sarn.
 
 Oscar walked into the square at noon, and he did not come alone, and he did not come kneeling.
 
@@ -14,7 +14,7 @@ He came down the central lane with Kessa on one side and Cael on the other and W
 
 "No," Oscar said, and he didn't say it to Sarn. He turned, and he pitched his voice to the stone ribs and the hundreds of frightened people beneath them, and he spoke to Marrow. "I came alone, the way you asked. Look—" he spread his empty hand "—no army. Four of us. The same four who, two days ago, walked down into the good claim, the deep one, the one the Tithe keeps for itself, the one that's been eating this valley's people since before most of you were born."
 
-A ripple went through the crowd. The good claim. The name alone was a wound in this town; every family had paid into it.
+A ripple went through the crowd. The good claim. The name alone was a wound in this town.
 
 "Quiet him," Sarn said to the cord, unhurried.
 
@@ -34,11 +34,11 @@ The square erupted—not into action, not yet, but into sound, the dam of a hund
 
 For one heartbeat the whole square hung silent.
 
-Then Sarn made the mistake that ended them, because even a clever mind panics when the arithmetic turns, and a panicking clever mind reaches for the oldest answer there is.
+Then Sarn made the mistake that ended them.
 
 "Kill the woman," Sarn said to the two on the stage. "Now. Where they can see. Remind them what the cord *is.*"
 
-It was meant to restore the fear. It did the opposite. It showed a square full of grieving people exactly what Oscar had just told them was true, made flesh, in the same breath: the Tithe killing a debtor to keep the rest in line. The held breath of the crowd became a roar, and the roar became a surge, and Marrow stopped being a crowd and became a tide.
+It was meant to restore the fear. It did the opposite. The held breath of the crowd became a roar, and the roar became a surge, and Marrow stopped being a crowd and became a tide.
 
 After that it happened very fast, and the crew's whole job was to keep the spark alive long enough for the fire to catch.
 
@@ -48,15 +48,15 @@ The cord in the crowd drew steel and the crowd drew back from the steel, and for
 
 And Marrow stood up.
 
-It was not clean and it was not bloodless and Oscar would carry parts of it a long time. But there were hundreds of them and dozens of cord, and the only thing that had ever made that math work was a fear that was coming apart in real time. Once the salvagers understood, once the dockworkers and the scale-clerks and the widows of the good claim understood that the cord bled, that the cord could be *grabbed,* that the people beside them were grabbing, the red cord drowned in the tide they'd spent a generation standing on.
+It was not clean and it was not bloodless and Oscar would carry parts of it a long time. But there were hundreds of them and dozens of cord. Once the salvagers understood, once the dockworkers and the scale-clerks and the widows of the good claim understood that the cord bled, that the cord could be *grabbed,* that the people beside them were grabbing, the red cord drowned in the tide they'd spent a generation standing on.
 
 Oscar fought to keep the center, and found the grimoire had been worth carrying. He'd had two days and one quiet night with it, and he'd learned exactly one new figure well enough to trust: a binding, a thing that seized and held rather than struck. When three cord came at him together he scored it fast and clean and the air around their feet simply *gripped,* stone flowing up over boots like cold tar, holding them fast and harmless while the crowd took their blades. It cost him; new figures always cost more than old ones, and his reserve went thin and cold. But it held. It *worked.* He filed the small fierce joy of it away for later, when there was a later.
 
-And Wick. Wick was a wonder. She put herself at Cael's flank and she did not flood and she did not reach for anything she shouldn't, and Oscar understood, watching her work, that the pit had taught her something it had nearly killed her to learn: she fought the whole battle on the controlled part of herself, aimed and precise, a lash of fire to disarm, a wall of heat to drive the cord back from a knot of children, never near the thing that waited under her. And she'd never been more dangerous, or more in command of it, in her life. The holding was her strength. She'd finally believed it.
+And Wick. Wick was a wonder. She put herself at Cael's flank and she did not flood and she did not reach for anything she shouldn't. She fought the whole battle on the controlled part of herself, aimed and precise, a lash of fire to disarm, a wall of heat to drive the cord back from a knot of children, never near the thing that waited under her.
 
 Sarn did not die in the square.
 
-Oscar found them at the edge of it, at the mouth of a side-lane, in the last minutes when the thing was clearly lost, the cord broken or fled or pinned under furious salvagers, the stage empty, Brida safe in Cael's warded light. Sarn was not fighting. Sarn was *leaving,* unhurried even now, ledger tucked away, and they stopped when they saw Oscar, and the two of them stood for a moment in the noise of a town tearing free.
+Oscar found them at the edge of it, at the mouth of a side-lane, in the last minutes when the thing was clearly lost, Brida safe in Cael's warded light. Sarn was not fighting. Sarn was *leaving,* unhurried even now, ledger tucked away, and they stopped when they saw Oscar, and the two of them stood for a moment in the noise of a town tearing free.
 
 "You've won a town," Sarn said. No bored mask now; just a cold clear assessment, almost respectful. "Congratulations. It's a small thing, and it cost more than you know, and you have no idea what you've actually done." They studied him. The silver hair, the unlined face, the loop on the sword. "I matched you to a standing writ from a southern house. Do you understand what that means? I was going to make a quiet sum off you. But the house that issued that writ does not lose its property to a riot in a salvage town and shrug. They'll want to know who. And I am going to go and tell them. Exactly who, exactly where, exactly what you can do." The scar twisted. "You didn't just break my cartel, marked man. You introduced yourself to the people who own it. They've been looking for you for a very long time. Now they know which hole to look in."
 
@@ -68,7 +68,7 @@ And then Sarn was gone, into the under-town, the way the cord knew and the crew 
 
 When he came back into the square, it was over, and it was beginning.
 
-The Tithe's hold on Marrow was broken, not tidily, not forever, but in the way that mattered: in front of everyone, all at once, past unforgetting. The cord were down or fled. The stage was a wreck. And the people of Marrow stood in the wreckage of their own fear looking faintly amazed at their own hands, the way people do when they discover the thing they were terrified of was always, in the end, outnumbered.
+The Tithe's hold on Marrow was broken, not tidily, not forever, but in the way that mattered: in front of everyone, all at once, past unforgetting. The cord were down or fled. The stage was a wreck. And the people of Marrow stood in the wreckage of their own fear looking faintly amazed at their own hands.
 
 Brida found him. Her bad arm was worse for the day and her face was wet and she gripped his sleeve with her good hand, hard.
 
@@ -76,7 +76,7 @@ Brida found him. Her bad arm was worse for the day and her face was wet and she 
 
 "Thank Cael," Oscar said, because it was true and because he couldn't carry her gratitude just then, not with Sarn's voice still cold in his ears. "He's the one who stood between."
 
-Cael, hearing it, looked up from where he knelt among the freed and the hurt, the warm shield quiet on his arm, and for the first time since Oscar had known him there was no guilt in his face at all, just a bone-deep, weary peace, the look of a man who had finally, finally been allowed to be what he was for. *The one who stands between.* He'd held the door, and this time the whole town had walked through it, and lived.
+Cael, hearing it, looked up from where he knelt among the freed and the hurt, the warm shield quiet on his arm, and for the first time since Oscar had known him there was no guilt in his face at all, just a bone-deep, weary peace. *The one who stands between.* He'd held the door, and this time the whole town had walked through it, and lived.
 
 They gathered on the scale-house steps as the sun went long, the four of them, with a freed town moving around them and a fortune in old-world workings to put into the hands of the people it had been stolen from. Wick sat close against Oscar's side, worn to nothing, her hand in her pocket on the worthless grey token, her eyes far away again now that the fighting was done. Kessa stood watch out of habit, though there was nothing left to watch for. And Oscar looked south, down the long valley, the way the relics went and the writ came from and Sarn had promised the reckoning would follow.
 
@@ -88,6 +88,6 @@ They gathered on the scale-house steps as the sun went long, the four of them, w
 
 "We're a crew," Wick said simply, from his side, not opening her eyes. "You know the rest. You said it first."
 
-Cael only smiled, and turned the warm shield in his hands, and said nothing, because some things didn't need saying twice.
+Cael only smiled, and turned the warm shield in his hands, and said nothing.
 
 So they sat on the steps of a freed town while the light went down the valley to the south, where the answers were, and the danger, and the thing Oscar had spent his whole short borrowed life refusing to learn about himself. And for the first time since he'd woken in a stone basin at the bottom of the world, he found he was ready to go and find out.

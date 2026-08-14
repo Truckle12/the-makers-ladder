@@ -1,20 +1,20 @@
 ## Chapter Fifteen — The Good Claim
 
-The plan was good. Oscar wanted that on the record, afterward, when there was an afterward: the plan was good, and it worked exactly as designed, and that was the whole problem.
+The plan was good. Oscar wanted that on the record, afterward, when there was an afterward: the plan was good, and it worked exactly as designed, which was the whole problem.
 
-The hush hunted by sound, so they gave it one. Oscar found them the soft place first, by watching the thing breathe. It was behind the great trembling ear-fans, the one spot on the whole monstrous bulk that wasn't plated in the fused bones of everyone it had eaten. Then he picked up a chunk of old masonry, weighed it, and lobbed it the length of the chamber.
+The hush hunted by sound, so they gave it one. Oscar found them the soft place first, by watching the thing breathe. It was behind the great trembling ear-fans, the one spot on the whole monstrous bulk that wasn't plated in the fused bones. Then he picked up a chunk of old masonry, weighed it, and lobbed it the length of the chamber.
 
 It cracked off the far wall. The hush spun toward the noise with that horrible boneless speed, its fans flaring wide, the unarmored seam swinging open to the dark for one perfect heartbeat—
 
 —and Kessa put a bolt through it to the fletching.
 
-For one second, it worked. The thing reared. The fans spasmed. Oscar felt the small savage spark of *yes* that came whenever a plan met the world and the world blinked first.
+For one second, it worked. The thing reared. The fans spasmed. Oscar felt the small savage spark of *yes.*
 
 Then the hush did something it had not done in ten thousand years of killing in the dark.
 
 It screamed.
 
-The sound was enormous and wrong, a grinding shriek that came up out of that millstone maw and slammed off every wall at once, and it was worse than any roar because the thing had never needed a voice and so its voice was a horror: the sound of silence itself tearing. Wick clapped her hands over her ears. Cael flinched. And the hush, half-deafened, blind, maddened with pain, stopped being a careful hunter and became something far worse: a rampage with no plan in it at all, twelve tons of armored agony that no longer cared where the noise was because *all of it* was the enemy now.
+The sound was enormous and wrong, a grinding shriek that came up out of that millstone maw and slammed off every wall at once: the sound of silence itself tearing. Wick clapped her hands over her ears. Cael flinched. And the hush, half-deafened, blind, maddened with pain, stopped being a careful hunter and became something far worse: a rampage with no plan in it at all, twelve tons of armored agony.
 
 "It's not dying," Wick said, in the small flat voice of someone watching the math go wrong. "Oscar. It's supposed to be dying."
 
@@ -22,11 +22,11 @@ The sound was enormous and wrong, a grinding shriek that came up out of that mil
 
 "*Cael!*" Kessa was already moving, hauling Wick by the collar. "Wall, now—give us a wall!"
 
-Cael drove the hearthward into the stone and threw everything he had into it, and the dome bloomed gold a half-breath before the hush hit it. The impact was a thunderclap. The whole monstrous bulk slammed into the warding and the warding *held.* Oscar felt the figure in the shield strain to its limits and hold, felt the chamber shake, saw Cael go to one knee under the load with his teeth bared and the warm light flickering. It held anyway, and the hush rebounded off a wall of force it could not see, more enraged than ever.
+Cael drove the hearthward into the stone and threw everything he had into it, and the dome bloomed gold a half-breath before the hush hit it. The impact was a thunderclap. The whole monstrous bulk slammed into the warding and the warding *held.* Oscar felt the figure in the shield strain to its limits and hold, felt the chamber shake, saw Cael go to one knee under the load with his teeth bared and the warm light flickering. The hush rebounded off a wall of force it could not see, more enraged than ever.
 
 "It can't get through," Cael ground out. "But I can't—this won't last. It's too big. It's too angry. I can give you a minute. Maybe less."
 
-"Then we kill it in a minute." Oscar's mind was already racing down its one reliable road, looking, *looking.* Not at the beast now, the beast was alive and gave his gift nothing, his eyes had already found it the one soft answer and everything else was armored in the dead. So he looked past it. He looked at the *room.* "Wick. When Cael's wall drops, you let go. All of it that's safe to let go: everything you can hold, and not one spark past that, you hear me. And you put it into the thing's face. Not to kill it. To make it flinch, to keep it off us, to buy room. Can you do that?"
+"Then we kill it in a minute." Oscar's mind was already racing, looking, *looking.* Not at the beast now, the beast was alive and gave his gift nothing. He looked at the *room.* "Wick. When Cael's wall drops, you let go. All of it that's safe to let go: everything you can hold, and not one spark past that, you hear me. And you put it into the thing's face. Not to kill it. To make it flinch, to keep it off us, to buy room. Can you do that?"
 
 Her eyes were huge. But she nodded, and there was iron in the nod. "I can do that."
 
@@ -40,7 +40,7 @@ Kessa's gaze swept the cathedral dark, the dripping live seams, the vaulted ston
 
 "It weighs as much as a house."
 
-"Then we'll need a very good push." He looked at the cracked shelf, and now he let his gift run all the way out, not on the monster but on the *stone:* the same looking that read the seams of a working or the courses of a dead-maker's wall, turned on the architecture of a collapse. And the chamber unfolded for him the way everything did, once he stopped being afraid to look: there. And there. Two places where the whole rotten shelf hung on a single overburdened spine of rock, and if that spine went, the floor went, and anything standing on it went with it into the black. "Kessa, can you get it onto the shelf and keep it there?"
+"Then we'll need a very good push." He looked at the cracked shelf, and now he let his gift run all the way out, not on the monster but on the *stone,* and the chamber unfolded for him: there. And there. Two places where the whole rotten shelf hung on a single overburdened spine of rock, and if that spine went, the floor went, and anything standing on it went with it into the black. "Kessa, can you get it onto the shelf and keep it there?"
 
 "I can make myself the most annoying thing in this room."
 
@@ -54,7 +54,7 @@ Kessa's gaze swept the cathedral dark, the dripping live seams, the vaulted ston
 
 The dome fell, and the world came apart in the right order.
 
-Wick let go. Not the wild uncontrolled thing that had nearly killed them all once. Aimed fire, the kind she could hold, but there was a great deal even in that now, and she'd learned at last to spend it like a blade instead of a flood. A lance of white fire took the hush full across the ruined face, and it shrieked again and reared back, fans flailing, and that was the flinch, that was the room they needed.
+Wick let go. Aimed fire, the kind she could hold, but there was a great deal even in that now. A lance of white fire took the hush full across the ruined face, and it shrieked again and reared back, fans flailing: the flinch, the room they needed.
 
 Kessa ran straight at it.
 
@@ -64,7 +64,7 @@ She ran past it, under it, around it, a small silent ferocious thing in dead men
 
 "*Wick!*" Oscar grabbed her shoulder, pointed at the two failure points his gift had lit, the overburdened spine. "There—and there—everything you have left, both of them, right now—and Wick—" he caught her face for half a second, made her look at him "—only what you can hold. *Only what you can hold.*"
 
-But there wasn't enough in the safe part. He saw it in her eyes the instant she reached, saw her scrape the bottom of what she could hold and find it not enough, the shelf too big, the stone too stubborn, the monster already finding its feet on the failing floor. What was safe wouldn't do it.
+But there wasn't enough in the safe part. He saw it in her eyes the instant she reached, saw her scrape the bottom of what she could hold and find it not enough, the shelf too big, the stone too stubborn, the monster already finding its feet on the failing floor.
 
 And he watched her decide.
 
@@ -88,7 +88,7 @@ A hand closed on his ankle like an iron trap. Kessa. Flat on the stone, anchored
 
 And then, all at once, it stopped.
 
-Oscar felt it happen the way you feel a window slam in another room: a pressure gone, a cold absence where a moment ago there'd been that awful glad reaching. The white fire cut off, and she sagged into him, and the four of them dragged each other back from the edge of the black in a heap of shaking limbs and ended up in a pile on the solid stone, alive, all of them, every one.
+Oscar felt it happen the way you feel a window slam in another room: a pressure gone, a cold absence where a moment ago there'd been that awful glad reaching. The white fire cut off, and she sagged into him, and the four of them dragged each other back from the edge of the black in a heap of shaking limbs and ended up in a pile on the solid stone, alive, all of them.
 
 For a while nobody said anything. Below them, very far down, something enormous finished falling.
 
@@ -98,15 +98,15 @@ For a while nobody said anything. Below them, very far down, something enormous 
 
 Wick laughed, a cracked, wet, half-hysterical sound, and didn't explain herself, and Oscar didn't ask, and Cael lay flat on his back with his ruined shield warm against his chest and said, to no one, "We pulled her back." Just that. Like he was checking it was true. "This time we pulled her back."
 
-Nobody had to ask what other time he meant. They let it sit there, the dead man's name nobody said, and for once it didn't poison anything. It just was. They'd lost one once. They hadn't lost one today. That was the whole of it.
+Nobody had to ask what other time he meant. They let it sit there, the dead man's name nobody said, and for once it didn't poison anything. They'd lost one once. They hadn't lost one today.
 
-The haul was everything Brida had said, and the cost of reaching it was written all around them in the bones, and Oscar made himself walk to it slowly, with respect, because a place like this had earned at least that.
+The haul was everything Brida had said, and the cost of reaching it was written all around them in the bones, and Oscar made himself walk to it slowly, with respect.
 
-It was a fortune. Not in coin. In *workings,* the live old-world figures the salvagers broke their bodies to find, crated and packed and waiting: lamps and locks and the small grey cold-boxes, and stranger things, intricate enough that Oscar wanted to sit down with each one for a week. The Tithe's richest season, ready to move south. Enough, sold quietly, to arm a rebellion. Enough to change the shape of the fight.
+It was a fortune. Not in coin. In *workings,* crated and packed and waiting: lamps and locks and the small grey cold-boxes, and stranger things, intricate enough that Oscar wanted to sit down with each one for a week. The Tithe's richest season, ready to move south. Enough, sold quietly, to arm a rebellion.
 
 And burned into every crate, the same seal.
 
-He'd been bracing for it and it still landed like a stone. A southern house's mark, clerkly and bloodless. And beneath it, small and exact, the closed loop. The knot without ends. The mark on his sword. The mark on the writ that wanted him in a box.
+He'd been bracing for it and it still landed like a stone. A southern house's mark, clerkly and bloodless. And beneath it, small and exact, the closed loop. The knot without ends.
 
 "One hand," he said quietly. Kessa came to stand beside him, and he tapped the brand. "The relics that go south. The bounty that wants me. Same seal. Same house. They're not two problems. They were never two problems." He almost laughed, and it came out hollow. "Somebody down south is pulling the magic out of the ground and—people like me out of the dark, with the same pen, and I still can't read the *why* of it. Only, now, the handwriting."
 
@@ -116,7 +116,7 @@ It was Cael who found the book, propped on its own little shelf apart from the c
 
 It was a grimoire.
 
-Oscar's hands were not entirely steady when he took it. Old, old as anything down here, and *whole,* the binding intact, the pages supple, a thing that should have crumbled to dust an age ago and hadn't, because the workings woven through it had kept it the way the old world kept its treasures. He opened it, and the cold legible shine came up behind his eyes, and the figures on the page resolved, and they were *figures he didn't know.* Workings beyond his repertoire, beyond what he'd woken with, a whole craft laid out in a patient hand: techniques, refinements, things he could *learn,* things that could make him more than the half-remembered scraps he'd clawed back since the basin. A door, on paper. A way forward.
+Oscar's hands were not entirely steady when he took it. Old, old as anything down here, and *whole,* the binding intact, the pages supple, a thing that should have crumbled to dust an age ago and hadn't. He opened it, and the cold legible shine came up behind his eyes, and the figures on the page resolved, and they were *figures he didn't know.* Workings beyond his repertoire, a whole craft laid out in a patient hand: techniques, refinements, things he could *learn,* things that could make him more than the half-remembered scraps he'd clawed back since the basin. A door, on paper.
 
 And then he turned a page, and his breath stopped.
 
@@ -148,7 +148,7 @@ Kessa nodded slowly, and for the second time since he'd known her, something dan
 
 "That," Cael said, gathering a fallen salvager's name-tags from the grit with hands that still shook, "would be a hard thing worth doing." He closed his fist around the dead. "Brida's man came down here for a debt and a lie. Let's carry both back up into the light."
 
-So they climbed, lighter in spirit, heavier in pack, a crew that had gone into the grave the good claim kept and come out whole and pointed, every one of them, in a single direction.
+So they climbed, lighter in spirit, heavier in pack, a crew that had gone into the grave the good claim kept and come out whole and pointed in a single direction.
 
 It was Wick who put the cold back in the day, because it was always Wick, and because she was right.
 

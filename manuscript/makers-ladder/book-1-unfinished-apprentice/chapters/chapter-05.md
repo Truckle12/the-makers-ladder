@@ -4,7 +4,7 @@ The deep road did not announce itself. It simply began, the way the cold did, by
 
 Oscar could not stop reading it.
 
-That was the trouble with being what he was. A scholar does not get to choose whether to understand; understanding simply happens to him, the way a draft happens to a person standing in a doorway, and the script on these walls poured meaning at him whether he wanted it or not. Most of it he could not parse. The hand was old past any tongue he knew, the figures shaped by minds that had thought differently about the world than anyone now did. But the deep grammar of it, the bones of how a working was made to hold, those had not changed in all the ages between that people and his own, because they could not change. They were not a language. They were the rules underneath language, the rules the deep current ran on, and a thing that is true does not get old.
+A scholar does not get to choose whether to understand; understanding simply happens to him, the way a draft happens to a person standing in a doorway, and the script on these walls poured meaning at him whether he wanted it or not. Most of it he could not parse. The hand was old past any tongue he knew, the figures shaped by minds that had thought differently about the world than anyone now did. But the deep grammar of it, the bones of how a working was made to hold, those had not changed in all the ages between that people and his own. They were not a language. They were the rules underneath language, the rules the deep current ran on, and a thing that is true does not get old.
 
 "They wrote it into everything," he said, mostly to himself, trailing his ruined new hand a finger's breadth from the wall, not touching. "Look. This isn't decoration. The whole city is one working. Every wall a clause. They didn't *cast* down here. They *built* the spell and then lived inside it." It was, he thought, magnificent and insane in roughly equal measure, as the very best ideas usually were. "No wonder it woke all at once. You can't wake part of a sentence."
 
@@ -12,7 +12,7 @@ That was the trouble with being what he was. A scholar does not get to choose wh
 
 "Near enough." He found he liked teaching her. He had forgotten he liked it. "Something switched the whole working live again after a very long time off. The dead weren't raised, exactly. They were *included.* The spell counted them back in, the way it was always written to, the moment it had power to spend." He paused at that, because the thought arrived with a barb on it he hadn't seen coming. "Which raises the question of what, precisely, switched it on. A city this size doesn't wake from a draft."
 
-He did not say *I woke when it woke.* He did not say *the door knew my hand.* He had got very good, in a single day, at the small craft of not saying things.
+He did not say *I woke when it woke.* He did not say *the door knew my hand.*
 
 Kessa, ahead, raised a fist. They stopped.
 
@@ -30,7 +30,7 @@ Three of them looked at the plate. Oscar looked at the worn track, and the wall,
 
 They looked at him.
 
-"The plate. It's not a lock you pick, it's a question the wall asks, and the door opens for the right answer." He came closer, hands behind his back now, deliberately, because his hands had a way of reaching for things and he did not yet know what this thing did to a careless hand. "Here—this whole outer ring is the asking. They've written the question into the stone so that anyone who can read it can answer, and anyone who can't, can't pass. It's elegant. Cruel, but elegant. A lock that only admits the lettered." He was already half lost in it, the old pleasure rising in him despite everything, the pure clean joy of a hard text yielding. He had come up out of the tower with no power worth the name and a head full of borrowed centuries, and he was beginning to understand that this, the reading, the standing between a shut thing and the people who needed it open, was the whole of what he had left to be. Not the hand that wrote the working. The hand that could tell you what it said. "Most of it's beyond me. The dialect's wrong. But the structure—the structure I know. They want a name. The wall wants you to *name the thing that built it.*"
+"The plate. It's not a lock you pick, it's a question the wall asks, and the door opens for the right answer." He came closer, hands behind his back now, deliberately, because his hands had a way of reaching for things and he did not yet know what this thing did to a careless hand. "Here—this whole outer ring is the asking. They've written the question into the stone so that anyone who can read it can answer, and anyone who can't, can't pass. It's elegant. Cruel, but elegant. A lock that only admits the lettered." He was already half lost in it, the old pleasure rising in him despite everything, the pure clean joy of a hard text yielding. He was beginning to understand that this, the reading, the standing between a shut thing and the people who needed it open, was the whole of what he had left to be. Not the hand that wrote the working. The hand that could tell you what it said. "Most of it's beyond me. The dialect's wrong. But the structure—the structure I know. They want a name. The wall wants you to *name the thing that built it.*"
 
 "And do you know it?" Cael asked. "The thing that built it?"
 
@@ -44,7 +44,7 @@ The loop at the hub was not part of the question. It was a *signature.* Someone 
 
 His hand. The hand on the sword. The hand healed into his own skin.
 
-"Someone's been here before me," he said, very quietly, and the *me* got out before he could trade it for *us,* and he saw Kessa hear it. "Someone solved this already and left their seal on it. And the seal is keyed so that—" He stopped. He understood what was about to happen and there was no version of the next ten seconds that did not make things worse, and he did it anyway, because the alternative was four people standing at a dead end while a city woke around them, and because some stubborn part of him needed to know if he was right. "Stand back."
+"Someone's been here before me," he said, very quietly, and the *me* got out before he could trade it for *us,* and he saw Kessa hear it. "Someone solved this already and left their seal on it. And the seal is keyed so that—" He stopped. He understood what was about to happen and there was no version of the next ten seconds that did not make things worse, and he did it anyway, because some stubborn part of him needed to know if he was right. "Stand back."
 
 "Oscar—" Cael began.
 
@@ -60,7 +60,7 @@ No one said anything for a moment. The new dark beyond the door breathed out at 
 
 "I haven't." It came out steadier than he felt. "I have never in my life seen this city. I would stake my considerable reputation on it." Both true. Both, he was beginning to understand, beside the point. "And yet."
 
-"And yet," Kessa agreed, and that was all, and somehow it was the most frightening conversation he'd had since he woke, because she had stopped pushing. People stopped pushing when they'd decided a thing and were only waiting to see it confirmed. She'd looked at his unweathered face and his too-new hands and a door that opened to his touch, and she had arrived, hours ago, at a conclusion he was still refusing to reach, and she was simply, patiently, walking him toward it.
+"And yet," Kessa agreed, and that was all, and somehow it was the most frightening conversation he'd had since he woke, because she had stopped pushing. She'd looked at his unweathered face and his too-new hands and a door that opened to his touch, and she had arrived, hours ago, at a conclusion he was still refusing to reach, and she was simply, patiently, walking him toward it.
 
 They went through.
 
@@ -70,7 +70,7 @@ Not a husk. Not one of the cold drowned dead of the upper streets, grey and rime
 
 And they had not died the way people die.
 
-Oscar crouched over the body, and the scholar in him looked before the rest of him could flinch, and what he saw turned even that cold, detached part of him to ice. There was no wound. There was no blood, no frost-burn, no mark of the cold dead's slow hands. The body was whole and unhurt and entirely, wrongly intact. But it was *unfinished.* That was the only word that fit, and Oscar hated that it was the same word the water had handed him by the fire. Pieces of the person were simply *gone.* Not torn away, not destroyed, but *removed,* the way a careful hand lifts a wrong word off a page. One arm thinned to nothing below the elbow, the edge of it clean and pale and final. Half the face smoothed away to blankness, like a carving abandoned mid-cut. Except it had not been abandoned. That was the detail Oscar's eye kept snagging on and his mind kept declining: the blank was *finished.* Not raw, not red, not the open surprise of a wound, but smooth and complete and considered, as though that edge had always been meant to be the edge, as though whatever did this had not removed a face so much as decided the body had never properly had one. And where the parts had been taken, the flesh did not bleed or scar. It simply *ended*, neat as a margin, as though whatever had done this had not killed the salvager so much as *edited* them, reading down the length of a living person and striking out the parts it had no further use for.
+Oscar crouched over the body, and the scholar in him looked before the rest of him could flinch, and what he saw turned even that cold, detached part of him to ice. There was no wound. There was no blood, no frost-burn, no mark of the cold dead's slow hands. The body was whole and unhurt and entirely, wrongly intact. But it was *unfinished.* Oscar hated that it was the same word the water had handed him by the fire. Pieces of the person were simply *gone.* Not torn away, not destroyed, but *removed,* the way a careful hand lifts a wrong word off a page. One arm thinned to nothing below the elbow, the edge of it clean and pale and final. Half the face smoothed away to blankness, like a carving abandoned mid-cut. Except it had not been abandoned. The blank was *finished.* Not raw, not red, not the open surprise of a wound, but smooth and complete and considered, as though that edge had always been meant to be the edge. And where the parts had been taken, the flesh did not bleed or scar. It simply *ended*, neat as a margin, as though whatever had done this had not killed the salvager so much as *edited* them, reading down the length of a living person and striking out the parts it had no further use for.
 
 "Don't look," he said to Wick, too late, and put himself between her and it, which he should have done before he spoke and not after, his body always a half-beat behind his mind.
 
@@ -80,7 +80,7 @@ Oscar straightened slowly. The cold in the room had nothing to do with the frost
 
 "I don't know," he said. And then, because he could not help being right out loud, even now, even here: "But it wasn't the cold dead. The dead are a flood. They take everything or nothing. This was *chosen.* Every cut deliberate. Whatever did this looked at a living person and decided, piece by piece, which parts were worth keeping." He looked at the clean pale end where an arm had been. "It wasn't hungry. It was *correcting* something."
 
-The warmth he'd carried down from the fire had gone entirely out of him. Somewhere in this dead working of a city, sharing the dark with four tired people and a great many patient corpses, there was a thing that did not kill so much as *revise.* And it had come down here, recently, on the same road they were walking, toward the same heart they were bound for.
+The warmth he'd carried down from the fire had gone entirely out of him. And the thing that had done this had come down here, recently, on the same road they were walking, toward the same heart they were bound for.
 
 And it had left the salvager's face half-finished, and taken the rest, and Oscar found he could not stop thinking that the cuts looked deliberate in a way he recognized, the way the loop on the wall had looked familiar, the way the door had known his hand: not as a stranger's work at all, but as the work of something that belonged to the same dreadful family of things he was beginning to suspect he belonged to himself.
 

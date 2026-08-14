@@ -12,7 +12,7 @@ The toll-keeper had come out to watch them choose, a bored man with a ledger, an
 
 *Papered folk take the toll.* Oscar looked down at the clean House gate and its short polite queue, at the brazier and the banner and the ledger waiting to write down every face that passed, and understood the country in one cold glance of his own. The safe road was the House's road. It cost coin, which they had, and papers, which they did not. And even if they'd forged papers, it cost a slow walk past a brazier and a clerk and a board where, for all Oscar knew, a description was pinned of a silver-haired man with a young face. The toll road was a net with manners. And the only alternative the country offered the un-papered, the marked, the poor, the running, was a notch in the hills the locals had named for what it did to the slow.
 
-Nobody was chasing them. They didn't need to. The road forked, and one tine was watched and the other killed, and the country quietly funneled everyone it didn't want toward the teeth. Corwen had told them as much in his note and Oscar hadn't fully heard it until now: *there is nowhere else the road goes.* He'd meant it about the whole south. Here it was, made small and literal, painted on a leaning board.
+Nobody was chasing them. They didn't need to.
 
 "We can't take the toll," Kessa said. Flat. She'd made the same call. "Brazier, clerk, a look at every face. That's exactly the kind of slow, careful look we can't sit still for."
 
@@ -36,7 +36,7 @@ His lance, the first figure he'd ever made, the one that had failed him in a bur
 
 "It's a battery," Oscar said, flat on the cold stone, his heart going like a hammer, his reader's eye already racing over the working because that was the only thing that was going to get them out. "Defensive. It fires at movement—down the length of the notch—" another bolt, from a different seam, and a third, the air cracking with them, the stone smoking where they struck "—in a *sweep,* there's a rhythm, it's old and it's stupid and it can't think, it just *sweeps*—"
 
-He read it as he'd read the tree and the hush and the lamp, only faster than he'd ever read anything, because the cost of a slow read here was one of them in a crater. And it gave itself up to him, because it was old and simple and built before subtlety: the battery fired in a sweeping sequence, seam to seam down the notch, a wave of bolts that crossed the road in a pattern as fixed as a millwheel, lethal where the wave was, and for a breath behind it, dead empty. There were gaps. There was a rhythm. A man who could read the rhythm could walk a crew through the empty water between the waves.
+He read it as he'd read the tree and the hush and the lamp, only faster than he'd ever read anything, because the cost of a slow read here was one of them in a crater. And it gave itself up to him, because it was old and simple and built before subtlety: the battery fired in a sweeping sequence, seam to seam down the notch, a wave of bolts that crossed the road in a pattern as fixed as a millwheel, lethal where the wave was, and for a breath behind it, dead empty.
 
 "On me," he said. "When I say, and only when I say, and *fast.* It can't see. It can't think. It only sweeps. We go behind the wave." He found the count of it, the awful patient millwheel beat of a thing that had been killing the slow in this notch since before his oldest borrowed memory. "Now—*move*—"
 
@@ -44,7 +44,7 @@ They moved. He took them down the notch in lurches, a dozen frantic strides and 
 
 And on the last gap, the one that should have carried them out into the light, the rhythm changed.
 
-It wasn't malice. That was the part Oscar would keep. The thing had no malice; it had a flaw, a worn place in a working a thousand years old, and on that one beat a seam that should have fired late fired early instead, out of sequence, a single bolt screaming down the notch into the gap that was supposed to be safe—into the gap where Cael was, a half-step behind, too slow, his slow kind body that had spent its whole life a half-step toward other people's danger now a half-step short of his own.
+The thing had no malice; it had a flaw, a worn place in a working a thousand years old, and on that one beat a seam that should have fired late fired early instead, out of sequence, a single bolt screaming down the notch into the gap that was supposed to be safe. Into the gap where Cael was, a half-step behind, too slow, his slow kind body that had spent its whole life a half-step toward other people's danger now a half-step short of his own.
 
 There was no time to think and Oscar didn't. He had failed this figure twice on the open road and gone cold and gasping for the failure, and there was no part of his mind that had time to remember that, which was, he understood later, the only reason it worked. He flung out his hand and he *wrote*: the guard, the brace, the snap of force between a man and the blow he couldn't dodge—and where two days ago the figure had come apart in his fingers, now, with Cael's death a finger's breadth and a heartbeat away, it held.
 
@@ -58,11 +58,11 @@ They got out of the notch the rest of the way at a stagger, Kessa under one of O
 
 They sat in the grass on the far side a long time while Oscar's hands came back.
 
-"You stood between," Cael said, finally. He said it quietly, looking at his scorched sleeve, at the place on his arm where the cloth had burned. He was a man who had spent years and a dead friend's worth of guilt learning to be the one who put his body in the gap, the one who held the door, and Oscar saw him struggling with the strange new shape of it from the other side. "That's—I'm the one who does that. That's the only thing I'm for. And you—" He stopped. Started again. "Thank you. The last person who held a door for me was Doss. You know how that ended for him."
+"You stood between," Cael said, finally. He said it quietly, looking at his scorched sleeve, at the place on his arm where the cloth had burned. "That's—I'm the one who does that. That's the only thing I'm for. And you—" He stopped. Started again. "Thank you. The last person who held a door for me was Doss. You know how that ended for him."
 
 "You'd have done it for any of us," Oscar said, his voice thin. "I just got there first, the once."
 
-"You got there first," Cael repeated softly. He looked at Oscar a while—grey and worn through, hands not yet steady, and *breathing*—and something eased in him, as it had eased in the square, another inch of the old weight setting down. Because that was the sum he had never been able to make come right, the one he'd built his whole penance around since the door that took Doss: that holding it was a thing you did exactly once, and did not walk back through. And here was a man who'd done it, and walked back. "Well," he said, rough. "There's a thing I didn't think I'd see. I'll have to get used to that one too."
+"You got there first," Cael repeated softly. He looked at Oscar a while—grey and worn through, hands not yet steady, and *breathing*—and something eased in him, as it had eased in the square, another inch of the old weight setting down. "Well," he said, rough. "There's a thing I didn't think I'd see. I'll have to get used to that one too."
 
 Wick was looking at Oscar with frank professional interest, one student grading another. "That was the new one. The wall you've been trying for, that keeps falling apart on you."
 
@@ -70,11 +70,9 @@ Wick was looking at Oscar with frank professional interest, one student grading 
 
 "It didn't fall apart."
 
-"No," Oscar said, and let himself have it, the fierce small thing he'd filed away on the road for when there was a *later*—because this was the later, sitting wrung-out in the grass with Cael alive beside him and the brace finally, *finally* landed when it had to. It had cost him everything he had and it had held a maker's killing-bolt a hand's width off a good man's skull. He was getting better. It might not be enough. It was getting better, and a man could stand on that. "No. It didn't fall apart."
+"No," Oscar said, and let himself have it, the fierce small thing he'd filed away on the road for when there was a *later.* Because this was the later, sitting wrung-out in the grass with Cael alive beside him and the brace finally, *finally* landed when it had to. It had cost him everything he had and it had held a maker's killing-bolt a hand's width off a good man's skull. He was getting better, and a man could stand on that. "No. It didn't fall apart."
 
-He looked back at the notch, at the Cull, at the old indifferent battery still sweeping its patient death over an empty road, the makers' machine that had no malice and no mercy and no idea the world had moved on, killing the slow because it had been built to and had never been told to stop. The same hands that built it had built him. His deadliest trick was a splinter of their war. And up in the sky, somewhere, was a power that looked at frightened children once and found them not worth a second glance, that funneled the un-papered toward the teeth and called it a toll road, that ran a whole country as this battery ran the notch, without malice, without mercy, just accounting.
-
-The makers were dust and their machine still killed. He wondered, cold under the warm sun, what that meant for the people who'd inherited their loop and their reading and their patient indifferent way of sorting the world into things worth keeping and things worth culling.
+He looked back at the notch, at the Cull, at the old indifferent battery still sweeping its patient death over an empty road. The same hands that built it had built him. His deadliest trick was a splinter of their war. The makers were dust and their machine still killed.
 
 But he didn't stand to leave.
 
@@ -90,7 +88,7 @@ It was all true. That was the trouble with Kessa; she was always all true.
 
 "The next person who can't afford the toll is a person," Cael said quietly, from the grass. "That's the whole of it, for me. I won't pretend it isn't." He didn't push. He just set it down beside Kessa's truth, the same as he set his body in gaps, and let the two of them sit there together.
 
-Oscar looked at the notch. He thought about a battery that had culled the slow and the poor and the un-papered for a thousand years because it had been told to and never told to stop, and about a power up in the sky that sorted the world the same way, keeping some and culling the rest, and about how the one inheritance these hands had left him was the gift to read how a thing was made—
+Oscar looked at the notch. The one inheritance these hands had left him was the gift to read how a thing was made—
 
 —and to take it apart.
 
@@ -100,21 +98,21 @@ Kessa held his eye a moment longer. Then she stepped aside—not agreement, exac
 
 He went to the mouth of the notch, to the edge of the sweep where the bolts didn't quite reach, and he looked.
 
-Not as he'd looked crossing it, fast and frightened, reading just enough of the rhythm to live. This time he opened the looking all the way, deeper than he had ever taken it, down past the bolts and the worn flawed beat and into the working itself: the thousand-year logic of the thing, read like a sentence in a language you were only beginning to dream in. It cost. It cost in a way that scared him, his reserve draining down and down, past tiredness, to the scraped bottom of what he'd brought, further than he had ever taken the looking on purpose. A season ago he could not have done this. A season ago he could read a lamp. Now he read a war-engine down to its bones—and somewhere in the depths of it he found the thing he was hunting: the keystone, the single anchoring figure the makers had tied first and hung everything else upon, the knot that held the whole battery in the world.
+Not as he'd looked crossing it, fast and frightened, reading just enough of the rhythm to live. This time he opened the looking all the way, deeper than he had ever taken it, down past the bolts and the worn flawed beat and into the working itself: the thousand-year logic of the thing, read like a sentence in a language you were only beginning to dream in. It cost. It cost in a way that scared him, his reserve draining down and down, past tiredness, to the scraped bottom of what he'd brought, further than he had ever taken the looking on purpose. A season ago he could not have done this. A season ago he could read a lamp. Now he read a war-engine down to its bones. And somewhere in the depths of it he found the thing he was hunting: the keystone, the single anchoring figure the makers had tied first and hung everything else upon, the knot that held the whole battery in the world.
 
 He set his grip to it, and pulled.
 
 For one terrible instant the working *fought*—not with malice, it had none, but as a structure fights, the whole vast weight of a thousand years of aimed force bearing down on the one stroke he was unpicking. The battery fired wild as it felt its center go, bolts screaming off the walls in every direction at once. Oscar held the unstitching, and did not flinch, and drew the knot the rest of the way loose.
 
-The Cull came undone. It didn't explode; it *stopped,* the way a held breath stops. The deep current that had been gathered and aimed in those stones since before there was a south to walk to simply let go—unwound, dispersed, sank back into the cold river it had been drawn from, and the notch went silent. Truly silent, after a thousand years. The sweep was gone. The road through was only a road.
+The Cull came undone. It didn't explode; it *stopped,* the way a held breath stops. The deep current that had been gathered and aimed in those stones since before there was a south to walk to simply let go: unwound, dispersed, sank back into the cold river it had been drawn from, and the notch went silent. Truly silent, after a thousand years. The sweep was gone. The road through was only a road.
 
 The last of his reserve went out with the working, and he would have fallen if Cael hadn't already been there—Cael, who was always there, who got to the gap first now that he'd learned it could be done, and the big man took his weight without a word.
 
 "It's dead," Wick said, almost reverent, come up beside them to stare down the quiet notch. "You killed it."
 
-"I unmade it," Oscar said, which felt like a different and more important verb, though he was too far gone to say why. "Anyone can walk it now. Toll or none. Papers or none." Down in the notch the light fell ordinary and clean on stone that had been a killing-field an hour before, and he thought, dimly, through the grey, that it was the first thing he'd done since the buried city that had nothing to do with running and everything to do with the kind of thing he wanted to be. "First road I've ever opened instead of run down. I think I needed to do one of those."
+"I unmade it," Oscar said, which felt like a different and more important verb, though he was too far gone to say why. "Anyone can walk it now. Toll or none. Papers or none." Down in the notch the light fell ordinary and clean on stone that had been a killing-field an hour before. "First road I've ever opened instead of run down. I think I needed to do one of those."
 
-They camped at the mouth of the silent Cull that night, because Oscar could not have walked another step, and Kessa took the first watch facing south down the dead notch and said nothing more about names written on roads. She'd spoken her piece. She'd let him do the thing anyway. That was the crew of it.
+They camped at the mouth of the silent Cull that night, because Oscar could not have walked another step, and Kessa took the first watch facing south down the dead notch and said nothing more about names written on roads. She'd spoken her piece. She'd let him do the thing anyway.
 
 In the morning he could stand, and they went on.
 

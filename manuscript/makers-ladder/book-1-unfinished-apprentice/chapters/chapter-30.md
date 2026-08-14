@@ -42,7 +42,7 @@ Not faded. Not crossed. Not stepped over or brushed out or lost on hard ground �
 
 Nothing after. No woman's print anywhere on the road, coming or going, and she had gone over it on her hands in the dark with her fingertips, twice, up and down sixty feet of dust. The woman had stood next to him — Kessa had watched her do it — and the road had no record that the woman had ever existed. Rain didn't do that. Brooms didn't do that. There was no trick in her whole life's kit that did that.
 
-She sat back on her heels in the middle of the empty road and let herself have ten seconds of the feeling. The ground was the one thing that had never lied to her. In the grey it had lied and she'd hated it and the hating had kept her upright. This was worse than lying. This was the ground saying, plainly, truthfully: *the man you're looking for stopped being anywhere.*
+She sat back on her heels in the middle of the empty road and let herself have ten seconds of the feeling. The ground was the one thing that had never lied to her. This was worse than lying. This was the ground saying, plainly, truthfully: *the man you're looking for stopped being anywhere.*
 
 Ten seconds. Then she put it down the same as she put everything down, because the feeling didn't track and the night was short.
 
@@ -92,9 +92,9 @@ Last light. They came down the lane in her order — herself first, Cael a pace 
 
 There was no village. There was no road but the lane that had not existed at dawn. There was nothing to feed this house for a day's walk in any direction, and Kessa stood at the edge of the gravel and read it as she'd read the empty hedges, and every line came back the same.
 
-No path worn from door to gate: gravel raked, then never walked on. Smoke rising from two chimneys, and no woodpile, no ash-heap, no cart-way to bring the cords in. Glass in forty windows, and no wagon had ever hauled glass down that lane. Grass growing right to the foot of the walls, green and unbruised, where any real house wore a drip-line and a beaten margin into the ground its first winter. Stone with no lichen. A roof with no moss, no sag, no mended patch. Every part of it finished, and none of it *used.* Houses are lived in the same as ground is walked on; it goes into them; it can't be helped and it can't be faked. This one had all of the life and none of the wear, a thing built complete this morning out of the idea of wealth.
+No path worn from door to gate: gravel raked, then never walked on. Smoke rising from two chimneys, and no woodpile, no ash-heap, no cart-way to bring the cords in. Glass in forty windows, and no wagon had ever hauled glass down that lane. Grass growing right to the foot of the walls, green and unbruised, where any real house wore a drip-line and a beaten margin into the ground its first winter. Stone with no lichen. A roof with no moss, no sag, no mended patch. Every part of it finished, and none of it *used.* A thing built complete this morning out of the idea of wealth.
 
-"That house shouldn't be here," she said, out loud, flat, because saying it was the only way to keep it from becoming one more thing the world did to her quietly.
+"That house shouldn't be here," she said, out loud, flat.
 
 "No," Cael said. He was looking at the open doors, and his hand had come off his shield strap. "But the light's real. Heat, too — feel it reach? That's a kept fire." He said it carefully, a man reporting, not trusting. "Whoever keeps it knew we'd come at dusk. That fire's been built up for arriving."
 
@@ -112,13 +112,13 @@ Nobody asked. Wick had stopped dead in the middle of the gravel, and the heat ca
 
 The woman from the road stood at the head of the steps.
 
-She hadn't come through the doors. Kessa would have staked — no. She was done staking things on this ground. The woman was simply in the doorway with the lamplight behind her, dressed plainly and well, her hands loose at her sides, empty, and shown empty, which Kessa read and resented in the same beat. She was letting the tracker see there was nothing in them. She knew what would be checked, and in what order, and she stood there patient while Kessa checked it, the same as she'd grown a lane where the tracker would trip on it. Every courtesy this woman dealt was a demonstration of how completely she did not need to deal any.
+She hadn't come through the doors. Kessa would have staked — no. She was done staking things on this ground. The woman was simply in the doorway with the lamplight behind her, dressed plainly and well, her hands loose at her sides, empty, and shown empty, which Kessa read and resented in the same beat. She knew what would be checked, and in what order, and she stood there patient while Kessa checked it, the same as she'd grown a lane where the tracker would trip on it.
 
 "You took longer than I guessed," the woman said. "The lane's been down since yesterday noon."
 
 "It's a good lane," Kessa said. "Empty hedges. Sloppy."
 
-Something crossed the woman's face, gone too fast to name. It might, on another face, have been the start of being pleased. "I'll tell the hedges," she said. Then, past Kessa, to all of them, easy, as though this were the yard of an inn: "You'll be wanting to see him before anything else. That's right and proper. He's at the table — he wouldn't eat till you came, which I'm bound to say has been trying, since supper's been holding two hours." She stepped back and to one side of the doorway, out of the line between them and the hall, which no captor in the history of holding anything had ever once done. "Come in. All five places are laid. Tell the man drifting to my stable block the stew is for him as well."
+Something crossed the woman's face, gone too fast to name. It might, on another face, have been the start of being pleased. "I'll tell the hedges," she said. Then, past Kessa, to all of them, easy, as though this were the yard of an inn: "You'll be wanting to see him before anything else. That's right and proper. He's at the table — he wouldn't eat till you came, which I'm bound to say has been trying, since supper's been holding two hours." She stepped back and to one side of the doorway, out of the line between them and the hall, which no captor in the history of holding anything had ever done. "Come in. All five places are laid. Tell the man drifting to my stable block the stew is for him as well."
 
 She went inside, unhurried, showing them her back.
 
@@ -132,7 +132,7 @@ Sat. Not bound to it. Not slumped at it. He sat at the table like a man sits at 
 
 Alive. Unhurt. At supper.
 
-Kessa had come here with the fight already run twenty times behind her eyes — the doors, the smoke, the hostage-math, the woman's throat under the knife if the numbers went to the worst place, everything her whole life had built her to spend on getting one of hers back out of the dark. She stood in the doorway of the house that shouldn't exist and watched the man she'd come to save wave them in — *wave,* half-sheepish, a man caught out at a party — and every sum she'd carried up that lane came apart in her hands at once. There was nothing here to cut. There was nothing here to break. There was a laid table, and a kept fire, and her wizard rested and fed and worried about *her,* and it was more frightening than the empty hedges and the unwalked gravel and the trail that ended mid-stride put together, because a trap she could read was Tuesday.
+Kessa had come here with the fight already run twenty times behind her eyes — the doors, the smoke, the hostage-math, the woman's throat under the knife if the numbers went to the worst place, everything her whole life had built her to spend on getting one of hers back out of the dark. She stood in the doorway of the house that shouldn't exist and watched the man she'd come to save wave them in — *wave,* half-sheepish, a man caught out at a party — and every sum she'd carried up that lane came apart in her hands at once. There was nothing here to cut. There was nothing here to break. There was a laid table, and a kept fire, and her wizard rested and fed and worried about *her.* A trap she could read was Tuesday.
 
 This she could not read at all.
 

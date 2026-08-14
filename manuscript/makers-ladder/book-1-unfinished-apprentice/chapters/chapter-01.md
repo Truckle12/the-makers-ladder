@@ -10,7 +10,7 @@ The thought stopped. Not faded; *stopped*, the way a sentence stops when someone
 
 He reached after it. It sat just behind his teeth and would not come forward, the way your own name will hide when a stranger asks for it. He had been somewhere. The spires of home, maybe, or the long cold galleries where the real work lived. There had been a reason—a brilliant, pressing reason—and a danger, and then a clean edge, and nothing past it.
 
-He had spent his life prying at the seams between one plane and the next, and he knew what such travel did to time and memory both, which was nothing kind. He had overreached. The details would surface once he had leisure to be clever about them. Until then he would proceed, which was the chief advantage of a lie told to oneself: it kept a man moving, while the truth only sat there being correct and watching him die.
+He had spent his life prying at the seams between one plane and the next, and he knew what such travel did to time and memory both, which was nothing kind. He had overreached. The details would surface once he had leisure to be clever about them. Until then he would proceed.
 
 He sat up. And looked at his hands.
 
@@ -22,11 +22,11 @@ The dark did not answer.
 
 He reached up to his shoulder for Quill.
 
-He did it without deciding to. Three hundred years had worn the gesture smooth: the hand lifting, the half-turn of the head, the expectation (older than several kingdoms) of a familiar weight already settling there. Talons finding their grip in the wool of his collar. The brush of feathers at his ear. Some small, vicious, perfectly timed observation about the state of him, in that dry rasp, because Quill had attended his every triumph and his considerably more numerous disasters and had never once let either pass without comment.
+He did it without deciding to. Three hundred years had worn the gesture smooth: the hand lifting, the half-turn of the head, the expectation (older than several kingdoms) of a familiar weight already settling there. Talons finding their grip in the wool of his collar. The brush of feathers at his ear. Some small, vicious, perfectly timed observation about the state of him, in that dry rasp.
 
 His hand closed on his own bare shoulder.
 
-No weight. No talons. No rasp. Only the cold, and the silver light, and the sound of his own breathing in a room built to swallow sound. He held the shoulder a moment longer than there was any reason to, fingers pressed to the place where the weight should have been, as if he might find it by touch where he could not by sight.
+No weight. No talons. No rasp. Only the cold, and the silver light, and the sound of his own breathing in a room built to swallow sound. He held the shoulder a moment longer than there was any reason to, fingers pressed to the place where the weight should have been.
 
 "Off sulking somewhere," he said. The words came out level. He made sure of it. "We'll discuss it."
 
@@ -42,7 +42,7 @@ He had no memory of putting it there. A man forgets the small marks on an old bl
 
 The voice came out of the walls.
 
-Not an echo off them. The script *itself* brightened to speak, silver figures flaring across the stone in time with the words, so that the room said the thing and the sound was only how it reached him. It was not a living voice. It had been made to be calm, and it was calm, the way a frozen lake is calm.
+Not an echo off them. The script *itself* brightened to speak, silver figures flaring across the stone in time with the words. It was not a living voice. It had been made to be calm, and it was.
 
 *"The master has fallen. The line endures. Rise, and be set."*
 
@@ -62,7 +62,7 @@ The room was coming down. That, at least, was a problem with a known shape.
 
 He raised his free hand, reached for the cold place in the air where the work waited, and scored the lance.
 
-It should be said what that meant to him, because it was the first thing his hands had ever learned and the truest thing he knew how to do. Magic, the way Oscar made it, was a matter of reaching past the warm everyday surface of things and down into the deep cold current that ran beneath, the place where the world kept the rules it could be argued out of, and writing, with will and motion, a figure the current would agree to carry. The lance was the simplest argument there was: *here, force, in a line.* He had made it ten thousand times. He could no more fail at it than he could fail to know his own name.
+It was the first thing his hands had ever learned and the truest thing he knew how to do. Magic, the way Oscar made it, was a matter of reaching past the warm everyday surface of things and down into the deep cold current that ran beneath, the place where the world kept the rules it could be argued out of, and writing, with will and motion, a figure the current would agree to carry. The lance was the simplest argument there was: *here, force, in a line.* He had made it ten thousand times. He could no more fail at it than he could fail to know his own name.
 
 He reached down for the current—
 
@@ -72,7 +72,7 @@ Not a barrier. Not resistance, which he would have understood, which he could ha
 
 For one full breath Oscar did not think anything at all.
 
-Then the fear came up through him, cold and total, from somewhere far below the centuries: the plain animal terror of reaching for the one thing you have always been able to do and finding the hand close on nothing. His breath loud in his ears. His heart going wrong. *It's gone. The well is gone. I am standing in a falling room and I cannot—*
+Then the fear came up through him, cold and total, from somewhere far below the centuries. His breath loud in his ears. His heart going wrong. *It's gone. The well is gone. I am standing in a falling room and I cannot—*
 
 He shut the thought off. He had to. He looked at the dead hand and made himself breathe once, slowly, and when he spoke his voice only shook a little.
 
@@ -80,7 +80,7 @@ He shut the thought off. He had to. He looked at the dead hand and made himself 
 
 The ceiling disagreed by dropping a piece of itself the size of a horse into the cradles where he had stood a breath before.
 
-He ran. There was no art in it and no remark to make about it; he simply ran, for the foot of a great stair that wound up the curve of the wall toward the dark and the noise, and went up, because up was where exits lived.
+He ran for the foot of a great stair that wound up the curve of the wall toward the dark and the noise, and went up, because up was where exits lived.
 
 He had climbed a third of it when the chamber sent something to stop him.
 
@@ -96,13 +96,11 @@ Built things fight the way they were built to fight: the same shapes, over and o
 
 The arm dropped off and burst on the stair. The light ran out of the rest of it like water from a tipped basin, and the warden went to statue and from statue to rubble in a single held breath.
 
-Oscar stood over the wreck of it, breathing hard. The Measure was already presenting its bill, a deep ache starting in the muscle, a draining at the edges. He could feel how little he had to pay it with. The blade had saved him. The blade burned the self to buy the seconds, and there was far less self here to burn than there used to be. He understood that now with a clarity he did not want.
+Oscar stood over the wreck of it, breathing hard. The Measure was already presenting its bill, a deep ache starting in the muscle, a draining at the edges. There was far less self here to burn than there used to be.
 
 He let the Measure go, the world snapping back to its dull speed, the heaviness flooding into his arms. He climbed over the ruin and went on up.
 
 Near the top, where the stair gave onto a vestibule of cracked arches, one cradle stood apart from the others, alone in an alcove of its own. And someone was rising out of it.
-
-Someone. Rising. Both words strained at more than they could carry.
 
 There was a figure sitting up in the cradle, reaching for the edge the way Oscar had reached for the edge. And it was coming apart in the doing of it. Not bleeding. Shedding. Where the hand gripped the stone it was going to frost, pale flakes lifting off and drifting unhurried up into the cold, and the arm above it was thinning, losing its grip on the argument for its own existence, the silver script that should have bound it flickering and letting go a thread at a time. The mouth was open on a word it could not get to the front of, a word it kept beginning and beginning and never reaching. The eyes found him across the vestibule and fixed there and held.
 
@@ -116,7 +114,7 @@ Below him, fainter now, the dying walls went on murmuring. *The master has falle
 
 "Be quiet," he said. It came out raw.
 
-The vestibule narrowed ahead to a single great seal of a door, round as a coin, graven edge to edge with the frost-script. When he laid his wrong new hand against it, the figures beneath his palm brightened, glad and eager, the greeting of a lock for the one hand that holds its key. And the small closed loop on the door's face, the knot drawn without ends, flared brightest of all, twin to the one on the blade, twin to the one healed into his own skin.
+The vestibule narrowed ahead to a single great seal of a door, round as a coin, graven edge to edge with the frost-script. When he laid his wrong new hand against it, the figures beneath his palm brightened, glad and eager. And the small closed loop on the door's face, the knot drawn without ends, flared brightest of all, twin to the one on the blade, twin to the one healed into his own skin.
 
 The door knew him. It had been waiting for him. The cold notion he had trodden on twice now got to its feet, walked to the center of his mind, and sat down where he could not look away from it.
 
@@ -142,13 +140,13 @@ A woman crouched on the broken lip of the balcony, not six feet off. Weathered, 
 
 "Don't," she said, "do any of that with your hands."
 
-He kept the hands still. He did it without being told twice, and without a word, because the part of him that had survived three hundred years recognized the part of her that had survived whatever she had survived, and knew better than to test it.
+He kept the hands still, because the part of him that had survived three hundred years recognized the part of her that had survived whatever she had survived.
 
 "My good woman." He found the warm, reasonable voice, the one that had talked him past border guards and customs officials and one regrettably literal-minded demon. "I think you'll find this is all a considerable misunder—"
 
 Her eyes dropped to the sword. To the small closed loop struck into the steel below the guard.
 
-The change in her was not large and not loud, and that was what put the bottom out of him. Her face simply closed, the way a door settles when it has decided to stay shut. And under the closing was something he had not expected to find pointed at him down the length of a crossbow bolt. Something that looked, impossibly, like grief.
+The change in her was not large and not loud, and that was what put the bottom out of him. Her face simply closed. And under the closing was something he had not expected to find pointed at him down the length of a crossbow bolt. Something that looked, impossibly, like grief.
 
 "You came up out of the dead-house," she said. Flat. Not a question. "Through a door that doesn't open. Carrying *that*."
 

@@ -2,7 +2,7 @@
 
 Below, in the dead streets, the sound came again: a long dragging shift of weight, stone on stone, or something worse than stone. Closer than before.
 
-The woman did not look down at it. That told Oscar more than the crossbow did. A person who could keep her eyes on a stranger while something that size stirred beneath her had already decided which of two threats she could afford to ignore, and she had decided it was not him. He filed that away. It was not flattering, but it was information, and he had survived longer on information than on flattery, whatever his enemies liked to claim.
+The woman did not look down at it. That told Oscar more than the crossbow did. A person who could keep her eyes on a stranger while something that size stirred beneath her had already decided which of two threats she could afford to ignore, and she had decided it was not him. He filed that away. It was not flattering, but it was information.
 
 "I'm going to lower my hands," he said. "Slowly. You'll find I'm very dull to look at once you've got past the dramatic entrance."
 
@@ -44,7 +44,7 @@ Instead the big man's careful face had gone gentle, which was worse. It was the 
 
 He shut his mouth.
 
-For a moment he reached, by old reflex, for the small dry voice that would have made this bearable: Quill, perched and unimpressed, ready to cut the thing down to a size a man could carry. The shoulder was as empty as it had been an hour ago. He had simply not yet learned to stop reaching for it, and there was no one left to mock him for that, either. There was only the silence of the dead city and three strangers watching him discover, in real time, that something was wrong with him that ignorance could not explain.
+For a moment he reached, by old reflex, for the small dry voice that would have made this bearable: Quill, perched and unimpressed, ready to cut the thing down to a size a man could carry. The shoulder was as empty as it had been an hour ago. He had simply not yet learned to stop reaching for it, and there was no one left to mock him for that, either.
 
 "How long," he said, finally, and the question came out without any of the voice in it at all. "How long is longer than the maps go back."
 
@@ -70,7 +70,7 @@ And there it was.
 
 Oscar looked at the girl, and at the gentle dangerous man, and at the woman who would shoot him the moment the arithmetic came out wrong, and at his own right hand, the new and wrongly smooth hand with the wheel-mark healed into the web of it, the hand that had reached an hour ago for the simplest figure he knew and closed on nothing.
 
-He could call the Measure. He could feel it there, the one well that hadn't run dry, waiting under his skin. But the Measure was not what they meant by magic; the Measure was a blade and a body moving faster than they had any right to, and a man who answered *prove you're not a monster* by suddenly moving like one would not improve his standing here. And he had so little of it to spend. He had felt the bill it presented, downstairs, and felt how thin the purse was.
+He could call the Measure. He could feel it there, the one well that hadn't run dry, waiting under his skin. But the Measure was not what they meant by magic; the Measure was a blade and a body moving faster than they had any right to, and a man who answered *prove you're not a monster* by suddenly moving like one would not improve his standing here. And he had so little of it to spend.
 
 The deep work, the great work, the work that had made him what three centuries of people had feared and courted and underestimated—
 
@@ -80,7 +80,7 @@ It was nothing. It was the magic equivalent of clearing one's throat.
 
 Wick's whole face lit up. "*There* it is," she breathed. "I knew it."
 
-She had no idea. None of them had any idea what they had just watched, which was a man find out, in front of an audience, exactly how far he had fallen. He had meant to call down a working that could have unroofed a keep. He had produced a candle.
+She had no idea. None of them had any idea what they had just watched. He had meant to call down a working that could have unroofed a keep. He had produced a candle.
 
 "Yes," Oscar said. The word cost him. "Well. There's rather more where that came from."
 
@@ -100,7 +100,7 @@ Kessa watched the dead light wink out, and something in her shifted. Not trust, 
 
 "Kessa. I have spent a very long time being many people's worst day. I have no intention of being yours." He found, to his mild surprise, that he meant it. "Lead on. I'll be charming and useful in roughly that order."
 
-Wick fell into step beside him as the woman turned for the stair down off the balcony, the heat still crawling at her fingers, looking up at him with an expression he had not been on the receiving end of in longer than he could—than he could remember, he made himself finish, because the longer he was honest about the gaps the less they could ambush him.
+Wick fell into step beside him as the woman turned for the stair down off the balcony, the heat still crawling at her fingers, looking up at him with an expression he had not been on the receiving end of in longer than he could—than he could remember, he made himself finish.
 
 "Can you teach me?" she said, low, conspiratorial. "Cael won't let me near a real teacher, says my—says it's too much, that I'll burn something down. But you came out of the deep house. You're not scared of anything down here, I can tell." She said it as a compliment and as a fact, with the total faith of the young. "Will you teach me to do it properly?"
 
@@ -112,6 +112,6 @@ They went down off the balcony into the dead city, four of them now, into street
 
 They had gone perhaps three streets when the first of the dead stood up.
 
-It came out of a doorway directly ahead of Cael: what had been a man, once, before the cold and the years had had their long quiet conversation with it. Grey, and rimed white, the frost growing on it the way frost grows on a thing that has held still for a very long time. It rose without hurry, the way everything down here did, joints cracking the ice that had sealed them, and it turned its furred and eyeless face toward the four warm bodies that had walked into its street, and from every doorway down the length of the low quarter, from every black window and every frozen stair, the city began, unhurriedly, to do the same.
+It came out of a doorway directly ahead of Cael: what had been a man, once, before the cold and the years had had their long quiet conversation with it. Grey, and rimed white. It rose without hurry, joints cracking the ice that had sealed them, and it turned its furred and eyeless face toward the four warm bodies that had walked into its street, and from every doorway down the length of the low quarter, from every black window and every frozen stair, the city began, unhurriedly, to do the same.
 
 "Right," said Kessa, very flat, raising the crossbow. "There it is."

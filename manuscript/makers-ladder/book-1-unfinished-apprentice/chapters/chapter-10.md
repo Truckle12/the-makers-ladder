@@ -2,7 +2,7 @@
 
 It took six days to walk out of winter.
 
-Oscar had not expected that to be a thing a person could do on foot, but the high country gave way to lower country the way a fever breaks, by degrees and then all at once, and on the sixth morning he woke in the lee of a stand of black pines to find the snow gone patchy and grudging and a smell on the wind that was not cold at all. Wet earth. Green things deciding whether to risk it. He lay still a moment and breathed it and felt, under the ordinary relief of not being about to freeze, a smaller and stranger relief he did not examine too closely: that the world had more than one weather in it, and that he had lived long enough now (a week, give or take, with three centuries stacked behind it like someone else's library) to have seen it change.
+Oscar had not expected that to be a thing a person could do on foot, but the high country gave way to lower country the way a fever breaks, by degrees and then all at once, and on the sixth morning he woke in the lee of a stand of black pines to find the snow gone patchy and grudging and a smell on the wind that was not cold at all. Wet earth. Green things deciding whether to risk it. He lay still a moment and breathed it.
 
 They had become, in those six days, something that resembled a crew.
 
@@ -22,11 +22,11 @@ Kessa stopped them with a raised fist a full minute before Oscar saw anything, w
 
 "Pale things. Lean. They take the weak off the back of a herd and they run from anything that stands its ground." Kessa's eyes never stopped moving. "So no. Not usually. But these have come forty miles off their range with the snow melting under them, and they're hunting in the open, in the light, toward four people who are very much standing their ground. Which means something's wrong with them, or something's driven them, and I don't love either."
 
-Oscar felt it before he could have said what it was: a thinness in the day, a wrongness he was coming to know the shape of. "The pulse," he said. "When the city woke. It will have rung out a long way through everything that lives near the old places. I imagine a great many things have come a long way from where they ought to be, lately, with the wrong ideas in their heads." He did not add *and I'm the reason*, because he had decided, somewhere in the last six days, to stop confessing things no one had asked him to confess. It was a new discipline. He was bad at it.
+Oscar felt it before he could have said what it was: a thinness in the day, a wrongness he was coming to know the shape of. "The pulse," he said. "When the city woke. It will have rung out a long way through everything that lives near the old places. I imagine a great many things have come a long way from where they ought to be, lately, with the wrong ideas in their heads." He did not add *and I'm the reason*, because he had decided to stop confessing things no one had asked him to confess. It was a new discipline. He was bad at it.
 
 Then the drift-cats came out of the rocks, and there was no more time for discipline.
 
-They were beautiful and they were wrong, both at once: long pale bodies the grey-white of old snow, moving low and fast and utterly silent. And their eyes caught the light and threw it back wrong, a flat reflective shine like a frozen pond, and their breath did not fog. Whatever the pulse had done to them had taken the warmth out somewhere it shouldn't have come out. They did not howl. They did not slow. They came in a fan, the way clever pack things come, two wide to flank and the rest driving straight up the middle at the softest target, which their flat shining eyes had correctly identified as the girl.
+They were beautiful and they were wrong, both at once: long pale bodies the grey-white of old snow, moving low and fast and utterly silent. And their eyes caught the light and threw it back wrong, a flat reflective shine like a frozen pond, and their breath did not fog. They did not howl. They did not slow. They came in a fan, two wide to flank and the rest driving straight up the middle at the softest target, which their flat shining eyes had correctly identified as the girl.
 
 "Wick, *behind* Cael—" Oscar started.
 
@@ -42,33 +42,33 @@ He reached. Not for the great deep work, he knew better now than to grab for the
 
 —and it *took.*
 
-It cracked out of his open palm as a short hard bar of white light, no longer than his forearm and bright as a struck nail, and it caught the drift-cat across the ribs in the air and *threw* it. Lifted the whole silent pale length of it sideways off its leap and slammed it into the rocks with a sound like a dropped door. It did not get up. The lance winked out, spent, a curl of cold light unraveling off his fingers, and his hand was steady, and the figure had held.
+It cracked out of his open palm as a short hard bar of white light, no longer than his forearm and bright as a struck nail, and it caught the drift-cat across the ribs in the air and *threw* it. Lifted the whole silent pale length of it sideways off its leap and slammed it into the rocks with a sound like a dropped door. It did not get up. The lance winked out, spent, a curl of cold light unraveling off his fingers, and his hand was steady.
 
 It had *held.*
 
-He had perhaps half a breath to feel it, in the middle of everything: the clean savage joy of his own craft answering him again, the well in him real and deep enough now to bear a little weight, the proof in white light that he was getting *back* what the tower had scraped out of him. *There,* said the part of him that had been so afraid. *You see. The power comes back. The power was always going to come back, because it's yours, because you're him, because nothing is really wrong that a little time won't—*
+He had perhaps half a breath to feel it: the clean savage joy of his own craft answering him again, the well in him real and deep enough now to bear a little weight. *There,* said the part of him that had been so afraid. *You see. The power comes back. The power was always going to come back, because it's yours, because you're him, because nothing is really wrong that a little time won't—*
 
-He shut that thought off too. It was getting to be a habit, the shutting-off. But he had noticed, lately, the particular shape of the lies he liked best, and that one—*you're him, nothing's wrong*—was the one he reached for every time the power answered, the way a tongue goes to a sore tooth. The stronger he got, the easier it was to believe the font had been a bad dream. He filed that away too, in the growing private list, under *things to be suspicious of in myself.*
+He shut that thought off too. The stronger he got, the easier it was to believe the font had been a bad dream. He filed that away too, in the growing private list, under *things to be suspicious of in myself.*
 
 Wick finished the last of them.
 
-He turned in time to see it: the final cat breaking past Kessa, and Wick not flinching, not spilling, not loosing a wall of panic in every direction the way she would have a week ago, but lifting one hand and putting a single tight lash of heat into one fist-sized place on the thing's flank, exactly the way he'd taught her in a ruined street, and the drift-cat dropped mid-stride and slid to a stop at her feet and was still. She stood over it breathing hard, the mark at her throat fading from its brief warm glow, and looked at her own hand with an expression caught precisely between terror and delight.
+He turned in time to see it: the final cat breaking past Kessa, and Wick not flinching, not spilling, not loosing a wall of panic in every direction, but lifting one hand and putting a single tight lash of heat into one fist-sized place on the thing's flank, exactly the way he'd taught her in a ruined street, and the drift-cat dropped mid-stride and slid to a stop at her feet and was still. She stood over it breathing hard, the mark at her throat fading from its brief warm glow, and looked at her own hand with an expression caught precisely between terror and delight.
 
 "Did you see," she said. "Oscar. Did you *see* it. I aimed."
 
-"I saw," he said, and meant it, and the meaning of it surprised him a little, the way her small triumph mattered to him more than his own. "Textbook. Better than textbook. I never wrote anything that clean at your age." Which was a lie, since he had no idea what he'd written at her age, since the age behind him belonged to someone else; but it was the kind of lie a teacher is supposed to tell, and he found he didn't mind that one.
+"I saw," he said, and meant it. "Textbook. Better than textbook. I never wrote anything that clean at your age." Which was a lie, since he had no idea what he'd written at her age; but it was the kind of lie a teacher is supposed to tell, and he found he didn't mind that one.
 
 Kessa was already among the bodies, knife out, checking them with a frontier thoroughness. "Don't eat these," she said, to no one, to all of them. "Whatever's in them, it's not for eating." She rolled one with her boot, studied the flat dead shine of its open eye, and her mouth went thin. "Forty miles off range, in daylight, with no fog to their breath. I've worked this country thirty years." She stood. "I've never seen that. Things are coming loose out here. Let's get behind a wall before we find out what else has."
 
 The wall they found, two days on, was Marrow.
 
-It announced itself first as smoke, then as smell, then as sound, in that order: a smudge on the horizon, the reek of forge-coal and tanning and too many people, the low working din of a place that did something for a living. And then they came over the last rise and there it was below them in a river valley, and Oscar stopped, because he had been picturing a frontier hold, a stockade and a well and a hundred hard people, and Marrow was not that.
+It announced itself first as smoke, then as smell, then as sound: a smudge on the horizon, the reek of forge-coal and tanning and too many people, the low working din of a place that did something for a living. And then they came over the last rise and there it was below them in a river valley, and Oscar stopped, because he had been picturing a frontier hold, a stockade and a well and a hundred hard people, and Marrow was not that.
 
 Marrow was built on bones.
 
 The old world had left something enormous in that valley: the broken half of a structure so vast that the living town had simply moved into the corpse of it, the way wasps move into a skull. Stone arches the size of hills marched down the valley in a long shattered colonnade, and between and beneath and inside them the town had grown, timber and tile and tarp packed into the ribs of a thing no one now living could have built, smoke rising through gaps that had been windows for giants. Carts moved on roads that had been the floors of halls. And everywhere, on every approach, on the broken stone and the new timber both, salvagers worked, hauling up out of the deep places of the ruin the relics of the dead world and bringing them, in barrows and on backs, down to the town that ate them.
 
-"They live *on* it," Oscar said. He could not quite keep the thing out of his voice. Not horror, exactly, but a cousin of it. He thought of a frost-shedding figure in a lonely cradle. He thought of a font, and what a font was for, and what the dead world had built its dead cities to do. "They live on the bones of the old places and they don't—they can't know what's in them. What they're built on top of."
+"They live *on* it," Oscar said. He could not quite keep the thing out of his voice. Not horror, exactly, but a cousin of it. He thought of a font, and what a font was for, and what the dead world had built its dead cities to do. "They live on the bones of the old places and they don't—they can't know what's in them. What they're built on top of."
 
 "They know there's coin in them," Kessa said, not unkindly. "That's most of what anybody knows about anything, in my experience. Come on. And let me do the talking at the gate, because you, with respect, talk like a man who's never paid for anything in his life."
 
@@ -98,7 +98,7 @@ It was a small thing. It was nothing; he told himself it was nothing, the way he
 
 "It was a gift," Oscar said, which was the first thing that came to him and was, he realized as he said it, possibly true in a way he did not enjoy.
 
-"Mm," said the accountant, and made another small mark in the ledger, and did not explain what it was for, and went back to being bored. But Oscar felt the eyes on his back the whole long walk down into the bones of the town, and the old animal part of him, the part that had bolted from a frost-shedding figure without waiting to ask why, was wide awake now and did not like it at all.
+"Mm," said the accountant, and made another small mark in the ledger, and did not explain what it was for, and went back to being bored. But Oscar felt the eyes on his back the whole long walk down into the bones of the town, and the old animal part of him was wide awake now and did not like it at all.
 
 "Made a friend?" Kessa murmured, not turning her head.
 

@@ -12,13 +12,13 @@ Two days. Wick had spent two days learning what the inside of her own chest look
 
 And he'd been here. Eating bread that cracked.
 
-The relief was still in her, that was the confusing part, huge and real, the first sight of him at that table had gone through her like drinking something hot. He was alive. Nobody had hurt him. She'd have died for that an hour ago, cheap, no haggling.
+The relief was still in her, huge and real, the first sight of him at that table had gone through her like drinking something hot. He was alive. Nobody had hurt him. She'd have died for that an hour ago, cheap, no haggling.
 
-It was just that right behind the relief, wearing its clothes, came the other thing, the one she was too ashamed to look at straight: *he didn't need you.* Nobody had needed her. She'd held the whole crew's fear in her two burnt hands for two days and the whole time there was a fire here the right size, and supper, and him, laughing at something. She could've not come and it would've changed nothing. She sat there with her third bowl going cold and understood she was furious, and that she couldn't tell anybody why, because *you got kidnapped wrong* wasn't a thing a person could say out loud.
+It was just that right behind the relief, wearing its clothes, came the other thing, the one she was too ashamed to look at straight: *he didn't need you.* She'd held the whole crew's fear in her two burnt hands for two days and the whole time there was a fire here the right size, and supper, and him, laughing at something. She could've not come and it would've changed nothing. She sat there with her third bowl going cold and understood she was furious, and that she couldn't tell anybody why, because *you got kidnapped wrong* wasn't a thing a person could say out loud.
 
 So she ate. Eating was the other thing she was good at. You never left food; you didn't know when food came back.
 
-Nobody talked much, that first stretch. Kessa sat where she could see both doors and didn't touch her bowl for a long time and then ate it all, fast, like a woman banking fuel. Cael said a thing over the bread, quiet, not showing off about it, and then did a thing Wick couldn't sort: nodded to the woman after, once, civil, thanks-for-the-roof, and the woman nodded back like the two of them had agreed on something the rest of the table hadn't been told about. Tarn ate with his knife hand and kept the strapped arm in his lap and watched the woman the whole time without once looking like a man watching. Counting what the room owed him. Waiting to see the bill.
+Nobody talked much, that first stretch. Kessa sat where she could see both doors and didn't touch her bowl for a long time and then ate it all, fast, like a woman banking fuel. Cael said a thing over the bread, quiet, not showing off about it, and then did a thing Wick couldn't sort: nodded to the woman after, once, civil, thanks-for-the-roof, and the woman nodded back like the two of them had agreed on something the rest of the table hadn't been told about. Tarn ate with his knife hand and kept the strapped arm in his lap and watched the woman the whole time without looking like a man watching. Counting what the room owed him. Waiting to see the bill.
 
 The owl sat on the back of the empty chair at the woman's left and watched them all eat, and didn't blink near enough for Wick's liking.
 
@@ -38,9 +38,7 @@ Her name was Ash. She gave it out flat, like a coin she didn't expect change fro
 
 "Thanks come after the bill," Tarn said. "Nobody's seen the bill."
 
-"No," Ash agreed, easy. "You haven't. Here it is, then." And she set her cup down and looked at them each in turn, and last and longest at Oscar, who — and Wick was watching for exactly this, she'd been watching for it since the door — did not look surprised. Did not look braced. Looked like a man hearing the second telling of a story, checking it against the first.
-
-He already knew. Whatever was coming, he'd had it two days already, with bread.
+"No," Ash agreed, easy. "You haven't. Here it is, then." And she set her cup down and looked at them each in turn, and last and longest at Oscar, who — and Wick was watching for exactly this — did not look surprised. Did not look braced. Looked like a man hearing the second telling of a story, checking it against the first.
 
 "I'm not a hunter," Ash said. "I'm family."
 
@@ -52,7 +50,7 @@ The word went through the room and nobody moved.
 
 "To what he was made from. What that makes me to *him*—" Ash lifted one shoulder. "There isn't a word. Nobody ever needed one before. Aunt of a copy. Keeper of an echo. My uncle's grief, twice removed. Take your pick; I've stopped shopping."
 
-Nobody smiled. The line had the worn-round shape of a joke a person keeps for themselves, handled a long time alone, and it fell into the middle of the table and lay there, and for a moment the woman who had not put a foot wrong all evening looked like someone who had spent a hundred years saying her best lines to an owl. She turned her cup a quarter-turn.
+Nobody smiled. The line had the worn-round shape of a joke a person keeps for themselves, and it fell into the middle of the table and lay there, and for a moment the woman who had not put a foot wrong all evening looked like someone who had spent a hundred years saying her best lines to an owl. She turned her cup a quarter-turn.
 
 "There isn't a word," she said again, quieter, and it wasn't a joke the second time.
 
@@ -68,7 +66,7 @@ Ash looked at her for a while. Not unkind. Worse than unkind: *interested,* like
 
 "No," Ash said to him, mild. "Let her. She's the only one of you asking the questions in their right order." She turned back to Wick, and set both hands flat on the table, and gave her, for no reason Wick could find, the truth in plain words the same as you'd hand someone a knife handle-first. "It cost him something, those two days. Not hurt. Never hurt — the first meal I set in front of him he wouldn't touch till I'd told him what road you'd likeliest be on, and whether the finder had cause to double back on you, and whether my lane would be down before the weather turned. He made me hang a lamp in the north window in case any of you came at the house in the dark and needed to know which one it was." Something almost smiled at the corner of her mouth. "He is very bad at being kept. Two days of *is there word, is there sign, they'll come, you don't know her, she reads country like I read script.* If you came here thinking you weren't needed, child, you can leave that in the bowl with the rest of what you didn't finish."
 
-Wick stared at her plate. The shame and the relief got into each other and made something with no name, hot behind the eyes. *He made her hang a lamp.* She was not going to cry in the witch's house. She'd decided that on the lane. She held it the same as she held everything, and when she looked up her eyes were dry, mostly, and nobody made a thing of it, which was the one mercy the whole table agreed on without voting.
+Wick stared at her plate. The shame and the relief got into each other and made something with no name, hot behind the eyes. *He made her hang a lamp.* She was not going to cry in the witch's house. She'd decided that on the lane. When she looked up her eyes were dry, mostly, and nobody made a thing of it, which was the one mercy the whole table agreed on without voting.
 
 "So that's what you are," Kessa said. Ground level. "It's not what you want. Family's a fact. It isn't a reason. You've spent, by your own count, centuries' worth of a head start and however much it costs to grow a house on a heath, on a man you call your uncle's echo. Nobody spends like that on sentiment." A beat. "What do you want from him."
 

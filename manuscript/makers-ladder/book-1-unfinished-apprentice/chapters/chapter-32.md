@@ -12,7 +12,7 @@ He lay still for a moment with that.
 
 "Huh," he said, to the ceiling that was already, in some grammatical sense he decided not to think about before breakfast, gone.
 
-He found her in the long room downstairs, and she was awake; he had given up modeling when the woman slept. The shutters stood open on the blue hour. There was tea. There was no baggage anywhere, no cloak over a chair, none of the small luggage of departure, and that was how he knew for certain it was today — she had nothing to pack because nothing here was hers, or everything was, which amounted to the same thing. The house would carry itself out. She'd walk away exactly as heavy as she'd arrived.
+He found her in the long room downstairs, and she was awake; he had given up modeling when the woman slept. The shutters stood open on the blue hour. There was tea. There was no baggage anywhere, no cloak over a chair, none of the small luggage of departure. She had nothing to pack because nothing here was hers, or everything was, which amounted to the same thing. The house would carry itself out.
 
 "You read it," she said, not looking up from her cup. "The term."
 
@@ -36,13 +36,13 @@ He put his cup down before his hand could shake it. Body first; his mind ran a h
 
 His left shoulder. Three centuries of a weight that wasn't there.
 
-He had carried it since the ice: a specific absence, shoulder-shaped, talon-shaped, the phantom press of a grip that arrived in memory only as its own missing. He'd even had the name for it: he'd reached for Quill his first morning under the dead city and closed his fingers on an empty coat, and having the name had never made the missing weigh less. In the buried city he'd caught himself bracing before sleep as though for something to land. It was the oldest note in the oldest margin he owned. And here was the weight, standing on a table, looking at him with its face full of a dead man Oscar happened to be wearing.
+He had carried it since the ice: a specific absence, shoulder-shaped, talon-shaped, the phantom press of a grip that arrived in memory only as its own missing. He'd even had the name for it: he'd reached for Quill his first morning under the dead city and closed his fingers on an empty coat, and having the name had never made the missing weigh less. It was the oldest note in the oldest margin he owned. And here was the weight, standing on a table, looking at him with its face full of a dead man Oscar happened to be wearing.
 
 "Quill," he said. His voice came out wrong. Smaller than the joke he'd meant to fit in it.
 
 "Quill," Ash agreed, quietly. "The line's bird. My uncle's bird, and his mother's before him, and back and back — nobody wrote down the beginning; the bird's outlived every record of itself, which used to enrage the family archivists, which I believe it enjoyed." She put out one finger and ran it down the owl's back, and the owl allowed it without moving its eyes off Oscar. "It's been mine to keep since the line finished dying. And it is the last thing I have that was *his,* and I am giving it to you, and now you know what I've been putting off, so drink your tea and let me do this in my own order."
 
-Oscar did not touch his tea. The owl watched him. He was being read: he knew the feeling from the inside, knew exactly the quality of that attention, the same square regard he turned on seals and wards and other people's locks — and for once in his borrowed life he had not the least idea what the reader was finding.
+Oscar did not touch his tea. The owl watched him. He was being read: he knew the feeling from the inside, the same square regard he turned on seals and wards and other people's locks — and for once in his borrowed life he had not the least idea what the reader was finding.
 
 "Why," he said. Not clever. There wasn't a clever version.
 
@@ -120,7 +120,7 @@ She stepped back. The morning stood still around her, and then it didn't. The ai
 
 The house lapsed at two hours past noon, and it was the politest thing Oscar had ever felt.
 
-They were a mile south when it reached the end of itself. There was no sound. There was no smoke. There was only, all at once, behind them, a heath with nothing in it — no roofline against the sky, no lane, no hedges, the whole long argument concluded, *and then it never was* arriving right on schedule like the last payment on an honest debt. The warmth of its fire was still in his coat. That was the part that stayed with him: the wool holding the heat of a hearth that had, as of two hours ago, never burned. Kessa called a halt and stood looking back for a slow minute, tallying the missing house against whatever ledger she kept for the world's behavior, and then turned south and said, "That's that," which was as close to a eulogy as the manse was going to get out of her.
+They were a mile south when it reached the end of itself. There was no sound. There was no smoke. There was only, all at once, behind them, a heath with nothing in it — no roofline against the sky, no lane, no hedges, the whole long argument concluded, *and then it never was* arriving right on schedule like the last payment on an honest debt. The warmth of its fire was still in his coat, the wool holding the heat of a hearth that had, as of two hours ago, never burned. Kessa called a halt and stood looking back for a slow minute, tallying the missing house against whatever ledger she kept for the world's behavior, and then turned south and said, "That's that," which was as close to a eulogy as the manse was going to get out of her.
 
 The owl went with them.
 
@@ -138,4 +138,4 @@ The owl looked down at him. Its face did the thing, the whole-face thing, both d
 
 — and settled back, and looked away south, at nothing, at the dark, embarrassed for them both.
 
-"Noted," Oscar said, and his voice came out level, and he wrote it in the margin where he kept the oldest absence he owned: *day one. The perch is not open. Reach: faulty. Fault: undetermined.* Then he picked up his entirely unnecessary armload of wood and went back to the fire, past the owl that was his and could not be his, one more well-made thing waiting, with more patience than he deserved, for somebody to believe in the person it was supposed to land on.
+"Noted," Oscar said, and his voice came out level, and he wrote it in the margin where he kept the oldest absence he owned: *day one. The perch is not open. Reach: faulty. Fault: undetermined.* Then he picked up his entirely unnecessary armload of wood and went back to the fire, past the owl that was his and could not be his.

@@ -66,13 +66,13 @@ The word came from the tree line and it was not loud and the whole hollow obeyed
 
 The pale thing froze with Wick's throat in its grip and the girl's toes off the ground.
 
-Froze completely, mid-motion, mid-lift, every wrong joint locked, because the woman walking out of the dark had told it to, and out here, Kessa understood with a lurch that rearranged her whole sense of the danger in the clearing, the wild did what this woman said.
+Froze completely, mid-motion, mid-lift, every wrong joint locked, because the woman walking out of the dark had told it to, and out here, Kessa understood with a lurch, the wild did what this woman said.
 
 She came barefoot and unhurried and the ground seemed glad of her feet. Old, or young, or neither; Kessa's threat-sense, which had a verdict on everyone within a heartbeat of meeting them, returned the most unwelcome verdict it knew: *can't fight this. Can't outrun it either. Don't try.* A fox walked at her heel like a held breath. She did not look at the crew. She looked at the frozen thing with Wick hanging in its grip, and her face was grim and unsurprised and, underneath, something that might have been grief.
 
 "Who," she said, "comes knocking at my door"—and now she did look at them, and the look went from Wick, choking and white in the monster's locked grip, to the gray swaying wizard with the wrong edges, and back—"with a wild-touched girl and a made thing."
 
-Nobody answered her. Kessa's mouth was dry. *Made thing.* She'd known what Oscar was for a long time and she'd never heard it said out loud by a stranger like a fact about the weather, and she watched the word land on the others. Tarn, bleeding, going still; the new man hadn't known. She set *that* aside for later, the same as she set aside everything that wasn't trying to kill her this minute, because sorting the killing things first was how you lived long enough to get to the rest.
+Nobody answered her. Kessa's mouth was dry. *Made thing.* She'd known what Oscar was for a long time and she'd never heard it said out loud by a stranger like a fact about the weather, and she watched the word land on the others. Tarn, bleeding, going still; the new man hadn't known. She set *that* aside for later, the same as she set aside everything that wasn't trying to kill her this minute.
 
 The woman studied Oscar a moment longer than was comfortable, the way you'd study a coin you suspected was forged. "I thought I knew every made thing the south ever pushed out into the dark to die," she said, half to herself. "You're a new one. They're getting better at you." And Kessa, who didn't know what the words meant exactly, knew the shape of them well enough to hate it: *others. There have been others.*
 
