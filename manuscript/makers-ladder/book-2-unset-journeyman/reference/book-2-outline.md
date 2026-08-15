@@ -56,6 +56,14 @@ the same wall from within.
 13. **Fraying** = loss of self-cohesion, rare, catastrophic, "a loaded gun for later books."
     Book 2 is where the gun goes on the table (see Arc 4).
 14. **Wick's pressure gauge resolved at ZERO** — there is no wall for anything to press on now.
+15. **The Redactor is still loose** (Ch6 — it lost the thread and never returned). The reader
+    gauntlet flagged it as the book's biggest unfired gun: Book 2 must fire it. Proposal: the
+    Provost's restoration recovers and re-deploys it as Everset's corrector during Arc 3 — the
+    same monster, now on a leash of House paper, correcting a city instead of a ruin.
+16. **The copy count is legible on the page and readers extract it:** the Setter is the fourth;
+    copies five through ten "never arrived"; **Oscar is the eleventh** (three of five cold
+    readers stated this unprompted). The rival, if woken, is **the twelfth** — and "never
+    arrived" now has a destination: the far side (Wick's Ch43 footprints candidate (b)).
 
 ## Theme / spine
 
@@ -331,8 +339,10 @@ spends Arc 1 earning the reunion. Wick's interludes run through all four arcs on
    *Note: if (a), then Wick has spent Book 2 walking in the architect's footsteps while Oscar
    builds with his handwriting — the two protagonists each inherit him without knowing it.*
 2. **The rival copy: yes/no, and nature.** ★ Yes, as designed above (half-made, method-less,
-   starving for a self; immune to refusal). Alternative: purely institutional antagonist
-   (Provost + binder school) — cleaner but repeats Corwen's flavor at lower heat.
+   starving for a self; immune to refusal) — **the twelfth**, per the on-page count (Setter =
+   fourth, five-through-ten never arrived, Oscar = eleventh). Alternative: purely institutional
+   antagonist (Provost + binder school + the recovered Redactor) — cleaner but repeats Corwen's
+   flavor at lower heat.
 3. **What exactly the workroom reveals about "what the marked are for."** ★ As written: the
    copies are the line's property, made to be finished into the master's continuation — the
    writ-economy is *estate law*. (Confirms and completes Ch13's dread without touching Book 3.)

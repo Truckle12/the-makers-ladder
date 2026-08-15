@@ -218,7 +218,11 @@ It stepped back one pace and stood in Cael's gold light and looked down at the h
 
 "Oh," it said.
 
-And then it looked at the man with the owl on his shoulder, and everything about it had gone strange.
+Quill came off its turn above the wreck of the light, and dropped, and landed on Oscar's shoulder.
+
+It weighed what it had always weighed. Talons in the wool, a brush of feathers at his ear. It settled into the grip his body had kept a place for since the stone box at the bottom of the world, and it looked out at the dying room from there, and did not go.
+
+And then the Setter looked at the man with the owl on his shoulder, and everything about it had gone strange.
 
 "You *called* it."
 
