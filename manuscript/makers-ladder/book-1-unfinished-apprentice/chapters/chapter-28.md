@@ -16,7 +16,7 @@ And it heard her.
 
 ---
 
-It came up the line of her like cold water finding a crack, and she did the dumb brave thing she'd come down to do: she reached for it. Cracked her own door, just a finger's width, the same as the Warden's brother had cracked his to let the otter in, because you couldn't grab a thing like this from the outside. You had to meet it. She'd known that without anybody telling her. It was the one thing out here she understood better than Oscar with all his reading and Kessa with all her tracking. This was hers.
+It came up the line of her like cold water finding a crack, and she did the dumb brave thing she'd come down to do: she reached for it. Cracked her own door, just a finger's width, because you couldn't grab a thing like this from the outside. You had to meet it. She'd known that without anybody telling her. It was the one thing out here she understood better than Oscar with all his reading and Kessa with all her tracking. This was hers.
 
 She got a grip on it.
 

@@ -106,7 +106,7 @@ It had not been made.
 
 "I can't end it." Plain and ugly, and better that way. "There's nothing to cut. Nothing to correct. It isn't holding the animal. It's *become* the animal." He made himself say the rest with his own mouth. "It's the wrong tool. I'm the wrong tool."
 
-Nobody said anything kind, which he was grateful for.
+Nobody said anything, and he was grateful.
 
 The thing at the bottom of the hollow, which had not moved the whole time, moved. Not toward him. There was nothing in him for it to climb, and being beneath a monster's notice landed on Oscar cold and total. It turned, slow and certain, toward the one of them it had come up out of the spring to find. The one it had been reaching for since the pit. Since before any of them learned her name.
 

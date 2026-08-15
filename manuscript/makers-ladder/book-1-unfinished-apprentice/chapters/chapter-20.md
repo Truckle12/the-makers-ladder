@@ -60,7 +60,7 @@ But it had been so *fast.* Faster than a month ago. The reaching for the coal wa
 
 She walked the rest of that day wet and quiet and scared, and the stupid part was she couldn't even say of what. Not the road, not the cord, nothing out there she could hit. Just her. Just the thing she was. And by the time they made camp she was so sick of being the only one who knew it that she'd nearly stopped being able to carry it.
 
-When Oscar came to take the second watch and folded himself down beside her by the banked fire, reaching, the way he did, for some dry joke about the cold to put them both at ease. She didn't let him get to it.
+Oscar came to take the second watch and folded himself down beside her by the banked fire, reaching, the way he did, for some dry joke about the cold to put them both at ease. She didn't let him get to it.
 
 "It's getting harder," Wick said. Her voice came out smaller than she wanted and she let it. "The holding. Everybody thinks I fixed it after the pit—I held in the square, didn't reach for anything I shouldn't, and you all looked at me like I'd *solved* something, and I let you, because it was nice, being looked at like that." She made herself look at him, this once, instead of away. "But it's not fixed. It's just *held.* And it takes more to hold every day, and tonight it nearly got off its leash in a stupid little stream over nothing, and I don't understand why it keeps getting heavier, and I'm scared of the day it's heavier than I can lift." The last of it came out in a rush, because a rush was the only way it was coming at all. "And I'm telling you because I'm tired of being the only one who knows when I'm scared. So. There. Now you know a thing about me too."
 
