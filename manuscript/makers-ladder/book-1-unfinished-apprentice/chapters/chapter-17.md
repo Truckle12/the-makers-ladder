@@ -38,7 +38,7 @@ Then Sarn made the mistake that ended them.
 
 "Kill the woman," Sarn said to the two on the stage. "Now. Where they can see. Remind them what the cord *is.*"
 
-It was meant to restore the fear. It did the opposite. The held breath of the crowd became a roar, and the roar became a surge, and Marrow stopped being a crowd and became a tide.
+The held breath of the crowd became a roar, and the roar became a surge, and Marrow stopped being a crowd and became a tide.
 
 After that it happened very fast, and the crew's whole job was to keep the spark alive long enough for the fire to catch.
 
@@ -64,7 +64,7 @@ Oscar found them at the edge of it, at the mouth of a side-lane, in the last min
 
 "Will you," Sarn said. "Run south, then, where the answers are and the house is. Or run north, into the ice, where there's nothing." A shrug, almost kind. "Either way you're running toward them or away from everything. That's the writ. That's what it does. I almost feel for you." They stepped back into the dark of the lane. "I'd wish you luck, but you've cost me a fortune. I'll settle for watching what finds you."
 
-And then Sarn was gone, into the under-town, the way the cord knew and the crew didn't, and Oscar let them go, because chasing one tallyman through the bones while a town burned its chains was a fool's errand, and because some cold honest part of him knew Sarn was right, and right was worse than any blade.
+And then Sarn was gone, into the under-town, the way the cord knew and the crew didn't, and Oscar let them go, because chasing one tallyman through the bones while a town burned its chains was a fool's errand, and because some cold honest part of him knew Sarn was right.
 
 When he came back into the square, it was over, and it was beginning.
 
@@ -76,7 +76,7 @@ Brida found him. Her bad arm was worse for the day and her face was wet and she 
 
 "Thank Cael," Oscar said, because it was true and because he couldn't carry her gratitude just then, not with Sarn's voice still cold in his ears. "He's the one who stood between."
 
-Cael, hearing it, looked up from where he knelt among the freed and the hurt, the warm shield quiet on his arm, and for the first time since Oscar had known him there was no guilt in his face at all, just a bone-deep, weary peace. *The one who stands between.* He'd held the door, and this time the whole town had walked through it, and lived.
+Cael, hearing it, looked up from where he knelt among the freed and the hurt, the warm shield quiet on his arm, and for the first time since Oscar had known him there was no guilt in his face at all, just a bone-deep, weary peace. *The one who stands between.*
 
 They gathered on the scale-house steps as the sun went long, the four of them, with a freed town moving around them and a fortune in old-world workings to put into the hands of the people it had been stolen from. Wick sat close against Oscar's side, worn to nothing, her hand in her pocket on the worthless grey token, her eyes far away again now that the fighting was done. Kessa stood watch out of habit, though there was nothing left to watch for. And Oscar looked south, down the long valley, the way the relics went and the writ came from and Sarn had promised the reckoning would follow.
 

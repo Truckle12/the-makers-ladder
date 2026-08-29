@@ -12,7 +12,7 @@ Wick wasn't looking at the cord, or the lanes, or him. She'd been somewhere else
 
 "Yeah," she said. "Nothing. I'm good at nothing."
 
-She wasn't, and they both knew it, and Oscar let it go because there wasn't time and because he didn't have words yet for what he'd felt at the edge of that pit. He knew it had wanted her, and that she'd come back, and that something in her hadn't entirely come back with her. He filed it with the rest.
+She wasn't, and they both knew it, and Oscar let it go because there wasn't time and because he didn't have words yet for what he'd felt at the edge of that pit. He filed it with the rest.
 
 Brida's boarding house was dark in the middle of the day, the shutters drawn: the first wrong thing. The second was the cord on the corner watching it, two of them, not bothering to hide it. The third was Brida herself, when she cracked the door at Cael's careful knock. Gray-faced, her bad arm held tight to her side, her eyes going past them to the watchers on the corner before she pulled them in.
 
@@ -24,7 +24,7 @@ Brida went still.
 
 "We went down the back way," he said, gently, because the next part was the part that mattered. "We killed the thing that guards it. We walked out with the season's haul." He swung the pack down, careful, and worked the branded board free, and laid it on her scarred table where the lamplight could find the seal. "And we found this. On every crate. Brida—the good claim isn't theirs by any right. There's a monster down there, a real one; it near killed the four of us getting past it. But the Tithe told this valley it couldn't be killed: that the deaths were the price of the deep, fixed as the cold, and only the Tithe brave enough to pay it for you. *That's* the lie. Not the danger; the danger was always real. The lie is that it was *forever.* That thing could die. We killed it in a single day. And in a hundred years the Tithe never tried, because a horror guarding their richest claim for free was worth more to them than every soul it ate. Your husband didn't die because the deep is unbeatable, Brida. He died because a living monster made the Tithe rich, and they were never going to give that up."
 
-He watched it land on her. He watched four winters of debt and grief and a hole in the ground that ate her man rearrange themselves into a single white-hot line.
+He watched it land on her.
 
 "You're saying," Brida said slowly, "it was never the claim. It was them. All of it. The debt, the terms, the—" her voice cracked and she mastered it "—the going down at all. Them."
 
@@ -40,7 +40,7 @@ The tallyman looked, if anything, mildly disappointed. "You made me come into th
 
 "*Oscar*—" Kessa started, low and furious.
 
-"No," said Sarn, almost kindly, and that was the thing that turned Oscar's blood to water—the *almost kindly*—because Sarn wasn't a brute, Sarn was a mind, and a mind had already worked out the move that hurt most for the least. "You misunderstand the arithmetic. I don't want you handed to me in a back room by a crew of killers I'd lose half my people taking. I want you to walk out into the square tomorrow at noon, in front of this whole town, and give yourself up to the cord like a debt being paid, so that every soul in Marrow watches the marked man kneel, and learns again, in their bones, what happens to anyone who thinks the deep belongs to them." They smiled, the scar twisting. "And to make sure you come, I'll be holding the boarding-house woman against your good behavior. She fed strays. There's a price for that. You can pay it, or she can." The ledger snapped shut. "Noon. The square. Come alone, come kneeling, and she lives. Bring your killers, or don't come, and the town watches her pay your bill instead." Sarn turned for the ruined door. "Either way, I get my example. You only get to choose whose face it wears."
+"No," said Sarn, almost kindly, and that was the thing that turned Oscar's blood to water—the *almost kindly.* "You misunderstand the arithmetic. I don't want you handed to me in a back room by a crew of killers I'd lose half my people taking. I want you to walk out into the square tomorrow at noon, in front of this whole town, and give yourself up to the cord like a debt being paid, so that every soul in Marrow watches the marked man kneel, and learns again, in their bones, what happens to anyone who thinks the deep belongs to them." They smiled, the scar twisting. "And to make sure you come, I'll be holding the boarding-house woman against your good behavior. She fed strays. There's a price for that. You can pay it, or she can." The ledger snapped shut. "Noon. The square. Come alone, come kneeling, and she lives. Bring your killers, or don't come, and the town watches her pay your bill instead." Sarn turned for the ruined door. "Either way, I get my example. You only get to choose whose face it wears."
 
 They took Brida. She didn't scream. She looked back once, at Oscar, and there was no blame in it. And then the cord were gone, and the door was a wreck of light on the floor, and the four of them stood in the wrecked dark of a kind woman's house with a fortune they couldn't spend and a deadline they couldn't meet.
 

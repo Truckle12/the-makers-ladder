@@ -148,9 +148,9 @@ Kessa nodded slowly, and for the second time since he'd known her, something dan
 
 "That," Cael said, gathering a fallen salvager's name-tags from the grit with hands that still shook, "would be a hard thing worth doing." He closed his fist around the dead. "Brida's man came down here for a debt and a lie. Let's carry both back up into the light."
 
-So they climbed, lighter in spirit, heavier in pack, a crew that had gone into the grave the good claim kept and come out whole and pointed in a single direction.
+So they climbed, lighter in spirit, heavier in pack.
 
-It was Wick who put the cold back in the day, because it was always Wick, and because she was right.
+It was Wick who put the cold back in the day, because it was always Wick.
 
 "They'll know," she said, plainly, as they climbed toward the distant light. She didn't look back at the dark they'd robbed. "When their crew comes down for the haul and finds the hush dead and the best of it gone. They'll know somebody got in where nobody gets in. And there's only one somebody in this whole town worth that kind of trouble." She glanced at Oscar, sixteen and unflinching. "We just killed the thing that kept the Tithe's secret. And took its money. They're going to come for us with everything they've got."
 
