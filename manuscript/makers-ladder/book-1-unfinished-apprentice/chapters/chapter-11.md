@@ -14,7 +14,7 @@ She had a point. He was working on it. It was, like not-confessing, a discipline
 
 The relic trade itself was the part that turned his stomach, once he understood it, and he understood it standing at a factor's stall watching a salvager, a gaunt woman with frost-scar up one arm, sell a season's haul for a price that wouldn't winter her family. Most of what came up out of the dead places was just stone and dead metal, worth its weight and no more. But every so often the deep digging turned up something that still *held:* a worked thing, an old-world figure still live in some object, a lamp that lit without flame or a lock that knew one hand or a small grey box that kept whatever you put in it from ever growing cold. Those were what the salvagers broke their backs and buried their dead for. And those, the factor explained to the gaunt woman in a bored voice, "go south, to the proper buyers," at a price the factor named and she could not argue.
 
-*South. The proper buyers.* Oscar filed it away. Somebody, somewhere up the long chain of red cord, was paying well for old-world workings. Paying well enough that an entire town could be made into a machine for digging them up. And he found he was very curious who, and what they wanted them for, and decided this was a curiosity to keep behind his teeth for once.
+*South. The proper buyers.* Oscar filed it away. Somebody, somewhere up the long chain of red cord, was paying well for old-world workings. And he found he was very curious who, and what they wanted them for, and decided this was a curiosity to keep behind his teeth for once.
 
 They got their roof through luck and through Cael, in that order.
 
@@ -30,7 +30,7 @@ The room was quiet. Wick had stopped fidgeting. Cael's thumb had found the littl
 
 —and, for once, closed it again. Because the thing he had been about to say, the clever bitter true thing about the elegance of a debt that outlives the body it killed, was not a thing this woman needed to hear said cleverly.
 
-"Thank you," he said instead. Just that. It came out plainer than anything he'd said in days, and Brida nodded as if it were the right thing.
+"Thank you," he said instead. Just that. Brida nodded as if it were the right thing.
 
 It was the lamp that undid the morning's small peace.
 
@@ -43,8 +43,6 @@ He mended it. He barely had to reach for the work; a touch, a single small true 
 "That's—" she started. "How did you—nobody can do that. The factors say it can't be done, that when they die they're dead, that's why you have to keep buying—" She stopped. Her tired eyes went sharp, and then, a half-second later, afraid. "You can *read* them. The old work. You can read it and you can mend it."
 
 "It's not difficult," Oscar said, which was the wrong thing, and which he knew was the wrong thing the instant Kessa's head came up.
-
-Because it *was* difficult. It was, he understood a beat too late, watching the fear arrive on Brida's face, very possibly the most valuable thing a person could do in a town built on dying old-world relics, and the most dangerous thing to be known for.
 
 "You can't let anyone see that," Brida said, very low, pressing the warm bright lamp into his hands as if to hide it. "You understand? Not anyone. There are people in this town who'd pay a great deal to own a man who can do that. And there are people who'd pay more to be sure no one else could."
 
@@ -64,7 +62,7 @@ They moved. And as Oscar went down the back stair of a kind stranger's house wit
 
 The first was that somebody had wanted him specifically enough to put it on paper and pay the cord to read it.
 
-The second was that he had no idea why. Not the faintest idea. He knew he was made. He knew, now, that he was wanted. But the line between those two facts, the *why* of it, the *what it meant,* was a dark he could not see the bottom of.
+The second was that he had no idea why. Not the faintest idea. He knew he was made. He knew, now, that he was wanted. But the line between those two facts was a dark he could not see the bottom of.
 
 He found he liked that least of all. He had spent three centuries—
 

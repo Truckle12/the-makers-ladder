@@ -10,9 +10,9 @@ It had happened without anyone deciding it, which was apparently the only way th
 
 "How old are you, though," Wick said, on the fourth day, apropos of a long argument about whether a particular river had always been where it was. "Actually. You keep saying old. Old like Cael, or old like a tree?"
 
-"Older than the river, evidently," Oscar said, "since the river's in the wrong place." Which was a deflection, and she let him have it, but he noticed he had not given her the number. Lately it sat in his mouth like a coin he wasn't sure was his to spend.
+"Older than the river, evidently," Oscar said, "since the river's in the wrong place." Which was a deflection, and she let him have it, but he noticed he had not given her the number.
 
-He said none of that. He said, "Old enough to know better and young enough to keep not doing it," which made Wick laugh, and which had the additional virtue of being, for once, entirely true.
+He said, "Old enough to know better and young enough to keep not doing it," which made Wick laugh, and which had the additional virtue of being, for once, entirely true.
 
 The drift-cats came on the sixth afternoon.
 
@@ -32,7 +32,7 @@ They were beautiful and they were wrong, both at once: long pale bodies the grey
 
 Cael was already moving. He stepped into the lane the cats had chosen and planted himself there with the long hammer up, a wall where a girl had been, and the first cat hit him and learned what a wall costs. The hammer came down across its shoulders and the silence of the thing broke at last into a short ugly sound, and it folded and did not rise, and Cael was already turning for the next.
 
-Kessa's bow spoke twice. The first bolt took a flanker through the chest mid-leap and dropped it in the dirt; the second missed, which Oscar had not known she could do, and told him more about how fast the things were than any amount of watching.
+Kessa's bow spoke twice. The first bolt took a flanker through the chest mid-leap and dropped it in the dirt; the second missed, which Oscar had not known she could do.
 
 And then one was inside the line, low and pale and silent, going past Cael's hip for the soft middle of the group with its flat eyes fixed on Wick, and there was no one between it and her but Oscar.
 
@@ -48,7 +48,7 @@ It had *held.*
 
 He had perhaps half a breath to feel it: the clean savage joy of his own craft answering him again, the well in him real and deep enough now to bear a little weight. *There,* said the part of him that had been so afraid. *You see. The power comes back. The power was always going to come back, because it's yours, because you're him, because nothing is really wrong that a little time won't—*
 
-He shut that thought off too. The stronger he got, the easier it was to believe the font had been a bad dream. He filed that away too, in the growing private list, under *things to be suspicious of in myself.*
+He shut that thought off too. He filed that away, in the growing private list, under *things to be suspicious of in myself.*
 
 Wick finished the last of them.
 
@@ -68,7 +68,7 @@ Marrow was built on bones.
 
 The old world had left something enormous in that valley: the broken half of a structure so vast that the living town had simply moved into the corpse of it, the way wasps move into a skull. Stone arches the size of hills marched down the valley in a long shattered colonnade, and between and beneath and inside them the town had grown, timber and tile and tarp packed into the ribs of a thing no one now living could have built, smoke rising through gaps that had been windows for giants. Carts moved on roads that had been the floors of halls. And everywhere, on every approach, on the broken stone and the new timber both, salvagers worked, hauling up out of the deep places of the ruin the relics of the dead world and bringing them, in barrows and on backs, down to the town that ate them.
 
-"They live *on* it," Oscar said. He could not quite keep the thing out of his voice. Not horror, exactly, but a cousin of it. He thought of a font, and what a font was for, and what the dead world had built its dead cities to do. "They live on the bones of the old places and they don't—they can't know what's in them. What they're built on top of."
+"They live *on* it," Oscar said. He could not quite keep the thing out of his voice. He thought of a font, and what a font was for, and what the dead world had built its dead cities to do. "They live on the bones of the old places and they don't—they can't know what's in them. What they're built on top of."
 
 "They know there's coin in them," Kessa said, not unkindly. "That's most of what anybody knows about anything, in my experience. Come on. And let me do the talking at the gate, because you, with respect, talk like a man who's never paid for anything in his life."
 

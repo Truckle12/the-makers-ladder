@@ -104,9 +104,11 @@ Cael put the two men off his shield and left the door.
 
 He was slow. He'd never minded being slow; slow had always been the price of the rest of him. He crossed the room at the pace the room allowed, one man's grasp broken over his forearm on the way, and the whole time some back shelf of him was reaching down the hall as he'd reached ten thousand times, for warmth, for the granted thing, for anything of his sworn trade that answered this. And it answered. That was the horror he'd keep. The hall was short, the hearth was near, the warmth came willing into his hands, all of it, and none of it was any use, because warmth wards and warmth mends and there is no mending a sentence while the writer holds the pen, and Oscar had perhaps five breaths left in him none of which he was being permitted to take, and the only tool in the room that answered *that* was the oldest one, the one from before all vows.
 
+His thumb found the iron at his throat on the way, the old touch. For the first time in his life there was no comfort in it.
+
 "Put him down," Cael said, at the finder's shoulder, one last time, because he had to. "He's a person."
 
-"He's a name," Corwen said, patient, not turning, two fingers holding his place. "They're rarely persons, this deep in the paper. You'd be surprised."
+"He's a name," Corwen said, patient, not turning, two fingers holding his place. "They're rarely persons, this deep in the paper. You'd be surprised." And then, in the same mild bookkeeping voice, to the man at his shoulder: "You keep doors, priest. Your page says so. *Wards. Mends. Buries other men's dead with their boots on. Does not kill.* Forty years of sound paper is why you're still standing there, and why I haven't turned around."
 
 The shield had failed a person once, and been carried anyway, and fed with oil, and kept. It came around flat and full, with all of Cael behind it, the whole slow weight that things landed on first, and it caught the finder below the ear where the coat's cleverness didn't reach, and Cael felt through his arm precisely what it did, because feeling what bodies did was his trade too, the mending half of him reading the breakage as surely as Oscar read script. He could have told anyone who asked, to the smallest bone, what the shield's rim wrote there. Nobody would ever have to ask.
 

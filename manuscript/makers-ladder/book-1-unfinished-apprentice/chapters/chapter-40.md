@@ -152,7 +152,7 @@ He lost thoroughly, at length, and in front of everyone. He went for the composi
 
 It took him apart the way a tutor takes apart an essay: patiently, without heat, marking each error as it arrived.
 
-And it got a hand round his throat and stood him against the plinth without effort, and the font's light bent down toward him, and Oscar Alberich understood with total clarity and no bitterness at all that he was going to lose the magic.
+And it got a hand round his throat and stood him against the plinth without effort, and the font's light bent down toward him, and Oscar Alberich understood with total clarity and no bitterness at all that the duel was already lost. It had been lost before it started, because it was a duel of the work, and the thing holding him was better at the work than he would ever live to be.
 
 So he stopped doing magic.
 

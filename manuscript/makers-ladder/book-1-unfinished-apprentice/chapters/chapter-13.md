@@ -36,7 +36,7 @@ He read it twice. The first time for the words. The second time because the firs
 
 The fire cracked. No one said anything.
 
-He knew that word. That was the thing. He did not know what the contract meant by it, did not know what it was to be *set,* in the sense a southern lawyer meant it. But he knew the *word,* knew it in his teeth, because a dying city had said it to him at the bottom of the world. *Be set, and be whole, and inherit what is yours.* The font had wanted to set him. And here was a contract, copied a hundred times and carried by a hundred thugs, that wanted him taken *before* it could. And the two facts sat side by side in his head and would not, would not, combine into anything he could understand, and the not-understanding was a worse fear than any monster in any tunnel, because the monster he could at least see.
+He knew that word. That was the thing. He did not know what the contract meant by it, did not know what it was to be *set,* in the sense a southern lawyer meant it. But he knew the *word,* knew it in his teeth, because a dying city had said it to him at the bottom of the world. *Be set, and be whole, and inherit what is yours.* The font had wanted to set him. And here was a contract, copied a hundred times and carried by a hundred thugs, that wanted him taken *before* it could. And the two facts sat side by side in his head and would not, would not, combine into anything he could understand.
 
 "You'd know what to do with this," he said, very low, to no one, to the cold spot on his shoulder where a dry voice would once have said something unforgivable and made the whole crushing thing a size a person could carry. There was no weight there. There hadn't been since he woke. But it was nearer now, that absence; he'd felt it for days, a pull at the edge of him like a word on the tip of a tongue, closer every time, and never close enough to reach. He let it ache. He'd stopped pretending it didn't.
 
@@ -46,7 +46,7 @@ Kessa let the quiet stretch, and then she set down the thing she'd carried into 
 
 "I've heard it too," Cael said. The quiet way of it turned every head; he was not a man who volunteered. "A different road, a different mouth, the same bones to the thing." His hand rested on the iron at his throat. "My order keeps a saying for stories shaped like that one. *A true thing in a liar's coat, so the world won't look straight at it.* I always took it for a comfort. I am less comforted tonight."
 
-Not unknown, then, Oscar thought. *Worse* than unknown. Known at every fire in every town from the ice to the south: as a story, a shiver, a pleasant impossible thing that befell no one and never would. The whole world had heard of him. Not one soul had believed in him. And in all those tellings, across all those years, no single voice had ever carried the answer to the one question that had him by the throat, which was *why.*
+Not unknown, then, Oscar thought. *Worse* than unknown. Known at every fire in every town from the ice to the south: as a story, a shiver, a pleasant impossible thing that befell no one and never would. The whole world had heard of him. Not one soul had believed in him.
 
 "All right," Kessa said at last, the story put away and the working flatness back in her voice. "So somebody rich and far away wants you in a box, unbroken, for reasons that'd probably turn the stomach. That's bad. But it's also two hundred miles away and slow, and the people who actually want to put you in that box are *here.*" She tapped the paper. "This came up from the south through the cord. The Tithe's the hand that'd grab you. Which means the Tithe is the thing in front of us, and the south is the thing behind it, and we've only got the one of those we can punch."
 
@@ -60,15 +60,13 @@ That landed in the middle of them and sat there.
 
 Oscar looked up.
 
-It was, he thought, the most pointed kindness anyone had done him in a week: Kessa handing him back his own worst trait and asking him to use it.
-
 "We're not going to run," he said.
 
 He said it plainly, and he felt the whole chamber turn toward the plainness of it, the way they'd turned toward him on a glacier when he'd told them to move. He was doing the thing again, stepping into the wheel-shaped gap at the head of a crew that had been lurching without a head since they lost the one who used to fill it. He felt the gap take his weight. He let it.
 
 "Here is the arithmetic, since we're being honest about arithmetic." He laid his hand flat on the writ. "I cannot outrun a contract that renews itself every season for the rest of a very long life. I cannot hide from a mark that's healed into my own skin. The only place the answer to *why* lives is south, behind the cord, in a house I can't reach. And the only road south that doesn't end with me in a box runs straight through the thing that owns this town. So. The Tithe is between me and the truth, and it's between Brida and a free breath, and it's between every soul in this valley and a life that isn't a ledger. That's a great many reasons pointing the same direction, and I have learned to be suspicious of my own cleverness, but even I can't argue with a sum that clean." He looked around the fire, at the woman who read slopes, the man who'd run out of *no,* the girl who'd nearly come apart in the dark and told no one. *His* crew. He hadn't meant to start thinking of them as his. "We break the Tithe. We free the town that sheltered us, we cut the hand that reaches for me, and somewhere in the breaking we find the thread that runs south, and I follow it until I know what I am." A breath. "I'd rather do it with you. But I'll understand the one who'd rather not."
 
-Wick said "I'm in" before he'd finished the sentence, which he'd expected. Cael set his big hand over the iron token at his throat and said, "I came down here to do a hard thing and went home having done a shameful one. I'd like to swap those, if it's all the same," which he hadn't expected, and which cost the man something to say, and which Oscar would not forget.
+Wick said "I'm in" before he'd finished the sentence, which he'd expected. Cael set his big hand over the iron token at his throat and said, "I came down here to do a hard thing and went home having done a shameful one. I'd like to swap those, if it's all the same," which he hadn't expected, and which Oscar would not forget.
 
 And Kessa looked at the three of them for a long moment, the firelight working in the lines of her weathered face, and then she reached out and turned the writ over so the loop didn't have to look at them anymore.
 

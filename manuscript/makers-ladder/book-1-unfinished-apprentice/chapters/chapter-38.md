@@ -170,6 +170,8 @@ He stopped walking, and put his palm flat on a perfectly ordinary bollard, and r
 
 *The master has fallen. Ascend. Be set. Inherit what is yours.*
 
+And under that, faint enough that he chose to believe he'd imagined it, the stone gave back something the buried city never had. Not the cold greeting of a made thing knowing his make; he had that from every keystone in the north. Something lower, older, and much worse, which would not resolve, and which he did not say out loud: the way a doorstep knows a foot. He left his hand where it was a moment longer than he meant to.
+
 "Oscar." Wick's hand was on his sleeve. "You've gone the colour of the wall."
 
 "The place they woke me in," he said. His mouth was dry. "It's the same building."
@@ -234,7 +236,7 @@ The old man beamed at him as though he'd asked something charming.
 
 Oscar did not say anything for the rest of the climb, which the crowd took for reverence.
 
-The Fair House stood at the crown of Everset behind a court of pale stone, and it was, without any argument that Oscar could raise, the most beautiful building he had ever seen. Not the vastness that bullies. The vastness that *welcomes*: a long low front, a flight of shallow steps worn into dishes by feet, three great doors standing open because they were always standing open, and above them no statue, no seal, no name — just a smooth stone tympanum where a name plainly used to be and had been taken off.
+The Fair House stood at the crown of Everset behind a court of pale stone, and it was, without any argument that Oscar could raise, the most beautiful building he had ever seen. Not the vastness that bullies. The vastness that *welcomes*: a long low front, a flight of shallow steps worn into dishes by feet, three great doors standing open because they were always standing open, and above them no statue, no seal, no name — just a smooth stone tympanum where a name plainly used to be and had been taken off. Only one mark anywhere on it, small, cut into each door-post at shoulder height where a hand would fall: the loop. The knot tied in a circle. The mark off the writ, the coin, the crates of the good claim, the sword on his own back — every loop in the country, ending at a door with its name removed.
 
 The crowd stopped at the edge of the court. All of them. In one motion, like water finding a level, and not one of them came a step further.
 

@@ -28,6 +28,12 @@ He moved on, and didn't explain the joke to anyone, because it wasn't funny, and
 
 ---
 
+Wick had drifted up at his shoulder to stare at the bowl, doing sums that would not come out. "In Marrow," she said, low, "Brida gave three days' bread for a lamp with a crack in it."
+
+"Aye," Kessa said, not slowing. "And every lamp in that bowl came up a shaft in the north on somebody's husband's back. Keep walking."
+
+He kept walking, and read the whole country in a chipped wooden bowl as he went. The north dug, and bled, and was taxed for the shovel; the wagons rolled south under bond and seal; and here at the mouth of the pipe the House sold the flood at flood prices, cheap as eggs, to people who had never seen the hole.
+
 The town was called Hollet's Cross, and it was the first real town of the south, and it ran on the House the way a mill runs on water.
 
 You couldn't not see it. Oscar had thought, back in Marrow, that "a southern house" meant a family, a faction, a rich name among rich names. He understood within an hour of walking into Hollet's Cross that he'd had the scale wrong, as he kept getting the scale wrong about everything. Here, *the House* was not a family. It was the air. Its mark was over the door of the assay office and the broker's and the lending-house and the bonded warehouse where the relic-wagons offloaded under guard; its mark was on the weights the grain-sellers used and the licenses pinned to the readers' stalls and the very coin that changed hands, because the House minted it. People didn't say its name. They didn't need to. They said *the House,* the way you'd say *the sky,* and they said it with a particular tone: not love, not hate, but the flat respect you give a thing too large to have feelings about.
@@ -106,6 +112,12 @@ Oscar folded the note back along its creases, slowly, because his hands wanted s
 And there was the thread that pulled the whole thing loose, sitting in the corner with the note going cold in his hand. *He's never seen her.* Six days ahead the entire way. Corwen had never been in a room with any of them. So what he knew about Wick hadn't come from his own eyes; it had come from whoever sent him. Oscar thought of the licensed readers in the market, hands flat on their relics, reading label-deep, and understood that was only the small end of the trade. Somewhere was the large end: a reach that needed no hand, no room, no face in front of it. The House had looked at them once, he'd have wagered, one long cold look from very far off, and seen everything it cared to, and handed the picture to its hound like a scent, then gone back to running a country.
 
 "He's not chasing us," Oscar said, for the second time in two days, and found the thought had grown teeth since the Throat. "He's not even *moving.* He's sitting at the bottom of the only road there is, at Everset, I'd wager; the seat Brida named, the House's own city, pouring wine, certain as winter, because the country itself does his walking for him. The road goes south. The answers are south. The House is south. And he's south, waiting, because he knows the writ leaves us nowhere else to go." He looked up at his crew. "He's right that there's nowhere else the road goes. He's wrong about why we're walking it."
+
+"Then why duck the cord at all?" Wick had her arms wrapped round herself. "If he's just going to *sit* there with his wine. Why not walk down the middle of the road and spit in his eye?"
+
+"Because there are two ways to arrive," Oscar said. "On our feet, together, with everything we own and everything we know. Or in a House wagon, in pieces. The cordon isn't his; it's theirs, and it doesn't deliver crews, it delivers *goods* — me in a box, and the rest of you in whatever drawer the paper says. The paper has a line for unregistered wild-touched, Wick. It is not a kind line." He folded the note away. "He's promised us the destination. He has not promised us the terms. Every patrol we slip between here and Everset is *terms.*"
+
+Kessa nodded once. "Walk in armed," she said, "or get carried in sorted."
 
 "Which is?" Kessa said.
 

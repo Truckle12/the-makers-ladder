@@ -116,6 +116,8 @@ She flicked her fingers a final time, and the frozen pale thing that had been an
 
 "Sleep," the Warden said. "Bind the fighter's arm. At first light I'll walk you to the edge of the grey, as far as I dare, and after that the wood is yours to cross and the thing is yours to end." She was already at the tree line, already half wild again. "Mind your wizard. He spent more of himself on that shove than he has to spare, and there's a way a made thing can spend until there's not enough of him left to hold the shape, and no one grows that back." Her eyes found Kessa's in the dark, one tracker to one keeper. "You'll watch him. You watch all of them. I know your kind."
 
+"Marked," Kessa said.
+
 Then she was gone, and the wood's hundred small night-sounds came creeping back into the hollow one at a time, and Kessa sat down with her back to the stone and Doss's knife across her knees and did the only thing she trusted herself to do with a night like this one.
 
 She counted them. Five, breathing, bleeding, hers. Tarn letting Cael wrap his arm. Wick small and awake and decided. The wizard gray and hollowed out, watching the dark where the Warden had gone with a look Kessa didn't like: a man who'd just met the only other person who spoke his language, and was already counting how little of it he'd get.

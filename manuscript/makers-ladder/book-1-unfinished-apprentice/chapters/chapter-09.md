@@ -46,7 +46,7 @@ He had been offered a great many things across three centuries: thrones and appr
 
 He took the hand. Cael hauled him up out of the snow, and did not let go at once, and the two of them stood a moment in the starlight with the dead city under their feet, and then Cael clapped him on the shoulder, the empty shoulder, the one that ached, and let go.
 
-"Right," Kessa said, already turning, already reading the slope, already the eyes of the crew whether anyone had voted on it or not. "Single file, in my steps, and nobody touches anything that glows. We've had enough of things that glow."
+"Marked," Kessa said, already turning, already reading the slope, already the eyes of the crew whether anyone had voted on it or not. "Single file, in my steps, and nobody touches anything that glows. We've had enough of things that glow."
 
 They went down off the glacier into the long blue dark, four of them, into a world Oscar did not recognize and would have to learn from the snow up, and he walked where he was put, in the steps of a mortal woman who would never trust him and had decided to keep him anyway, behind a wild girl who hummed under her breath now instead of crackling, beside a kneeling kind of man who had run out of *no* and offered him a hand instead.
 

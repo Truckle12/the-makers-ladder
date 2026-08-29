@@ -40,8 +40,11 @@ the same wall from within.
    must always be filled" = Book 3.** The architect: the fourth had it burned out of him; Ash
    left without saying; **Ash's uncle — the original Oscar Alberich — devised the cycle** (bible,
    Ash entry; Book-2 reveal).
-7. **The grimoire is in the original Oscar's own hand** — the source of every new figure Oscar
-   has learned since Marrow, and a window into the original's history. Oscar carries it.
+7. **The grimoire is the THIRD copy's book** (author ruling 2026-08-29, on-page Ch39) — an
+   earlier copy caching figures and help for later wakers, against the design, written in the
+   line's shared hand. The ORIGINAL's day-book (Ash's Arc-1 gift below) is a separate object.
+   The third's fate is live Book-2 material. Oscar carries the grimoire; **Tarn carries
+   Corwen's made coat** (Ch35 — quiet work, sheds rain and cold, never looks like money).
 8. **Quill is bonded** and travels with Oscar. It scouts and warns at its own discretion; it
    plainly loves him; he finds that hard.
 9. **Tarn's blood-debt transferred from Oscar to Wick** on the page (Ch42 canon). His ~40-year

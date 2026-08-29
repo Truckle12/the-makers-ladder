@@ -82,7 +82,7 @@ He sat with that a while.
 
 "That sounds like her."
 
-"It sounds exactly like her." He wiped his face with the flat of his hand, once, businesslike. "It's come to me now. The words. Sat up out of the dark whole and easy the way they always do." A short ugly breath. "Hours late. And I can't use them, Kessa, and I want you to understand why, because it isn't grief and it isn't cowardice." He looked at her steadily. "The words are for the dead. I don't know that she's dead. I've stood over a great many people and every single time I knew which thing I was standing over. This is the first time in my life I've had the words in my mouth and no idea whether they're a lie."
+"It sounds exactly like her." He wiped his face with the flat of his hand, once, businesslike. His other hand was at his throat, on the iron, not rubbing it, just holding on. "It's come to me now. The words. Sat up out of the dark whole and easy the way they always do." A short ugly breath. "Hours late. And I can't use them, Kessa, and I want you to understand why, because it isn't grief and it isn't cowardice." He looked at her steadily. "The words are for the dead. I don't know that she's dead. I've stood over a great many people and every single time I knew which thing I was standing over. This is the first time in my life I've had the words in my mouth and no idea whether they're a lie."
 
 Kessa thought about that. She was not a woman who did much with words; she read ground, and there was ground here, and the reading was plain.
 

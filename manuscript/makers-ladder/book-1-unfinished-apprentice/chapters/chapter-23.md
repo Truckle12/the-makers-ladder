@@ -98,6 +98,10 @@ It was, if he was honest (and a small vain corner of him always was), a puzzle h
 
 "Set it," he said.
 
+"Then hear the terms," Hauk said, and the delight in his face put on procedure like a coat. "The card is fists. That's the sport; that's the law of the sand. But a *called wager* fights at the house's pleasure, friend, with what the house gives it." He let that land. "The house gives steel."
+
+Somewhere behind them Tarn said, flat, to nobody: "Steel's for burials."
+
 ---
 
 They gave Oscar back his sword, which was Hauk's notion of a joke: a scholar's blade against the house champion made for a richer kind of laughter, and Hauk liked his cruelty with a garnish. They gave the champion a falchion as long as Oscar's arm and a body built like a barn door. *Borr,* the crowd chanted, and they loved him the simple way they had never loved Tarn: he killed, and he killed quickly, and he gave them precisely what they paid for.
