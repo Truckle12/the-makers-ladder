@@ -34,7 +34,7 @@ Cael wasn't listening to the lecture. He was looking at the warm shield, and the
 
 "It didn't save them," Cael said quietly.
 
-And there it was, the cold under the wonder. Whatever was down there, the shield had not been enough. Oscar watched Cael understand that, and watched him decide to carry the thing anyway: a man who would shoulder a shield *because* it had failed the last hand that held it, as if to argue with the fact.
+Oscar watched Cael understand that, and watched him decide to carry the thing anyway: a man who would shoulder a shield *because* it had failed the last hand that held it, as if to argue with the fact.
 
 Kessa, meanwhile, had been doing what Kessa did, which was robbing the dead with brisk unsentimental respect, and she came up from a fourth body, red cord at the wrist, a Tithe man, gone the same way as all the rest, holding a pair of boots.
 
@@ -66,7 +66,7 @@ When it was done, the gallery was littered with pale dead, and Cael let the dome
 
 "You held us," Oscar told him.
 
-"It held us," Cael said, one hand flat on the dark warm metal, and didn't argue further, which was as close to taking the credit as he came.
+"It held us," Cael said, one hand flat on the dark warm metal, and didn't argue further.
 
 They did not talk much after that. The spiders had been running from something, and they were going the way the spiders had come.
 
@@ -80,7 +80,7 @@ It was a monstrosity.
 
 It was vast and low and pale, the grey-white of a thing that had never needed color, bigger than a house, and it had no eyes anywhere upon it because it had long since had no use for them. There was only, where a face should have been, two great trembling fans of membrane spread wide to drink the dark for sound. Its hide was not hide. It was armor, and the armor was *made of the dead:* picks and shovels and salvager's iron, ribs and skulls and the long bones of crews beyond counting, all of it swallowed and fused and grown into the thing's grey flesh over an age of feeding, a carapace of everyone it had ever eaten, worn like plate. And its whole vast front, where the worst of any animal's hunger lives, was a *maw*—a slow grinding cavern of a mouth, ringed in plates that turned against each other like millstones, wide enough to take a person whole and never hurry about it.
 
-It made no sound. That was the horror Oscar's mind kept circling even as the rest of him went cold: a thing that size, breathing, moving its bulk among the bones, and *silent.* It had spent ten thousand years learning to make no noise, so that the only noise in its dark would ever be the prey.
+It made no sound. It had spent ten thousand years learning to make no noise, so that the only noise in its dark would ever be the prey.
 
 The haul was thirty feet past it. There was no way to the haul that did not go through it. And it had not yet heard them, because they had not yet, by some grace, made a sound it could love.
 

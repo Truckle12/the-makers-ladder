@@ -76,11 +76,11 @@ It dropped into the black with a roar that swallowed even the hush's scream: a h
 
 And Wick was still pouring.
 
-That was the thing Oscar would not forget, the thing that turned the win to ice in his chest: the floor was down, the monster was dead, and the fire would not stop coming out of her. She stood at the very lip of the new gulf with that white blaze roaring out of her and her face gone slack and strange and *frightened* in a way that had nothing to do with the pit, and she was leaning toward it, leaning *out,* as if something down in the dark she'd just made had reached up and taken hold of her, as if it would not let go, and her boots were already sliding on the broken edge.
+She stood at the very lip of the new gulf with that white blaze roaring out of her and her face gone slack and strange and *frightened* in a way that had nothing to do with the pit, and she was leaning toward it, leaning *out,* as if something down in the dark she'd just made had reached up and taken hold of her, as if it would not let go, and her boots were already sliding on the broken edge.
 
 Oscar did not think. He lunged.
 
-He got an arm around her as the last of the broken shelf gave under her feet, and then they were both going, both sliding toward the black, and for one heartbeat at the edge of the pit he was close enough to whatever had hold of her to *feel* it. Not see it, feel it: a vastness, a heat, an ancient terrible attention rising up toward the light through her, through the girl herself, as if she were the one thin place left in a sealed world—glad, so glad, reaching—and it was nothing he had words for, nothing in any grammar he knew, and it terrified him more than the monster had.
+He got an arm around her as the last of the broken shelf gave under her feet, and then they were both going, both sliding toward the black, and for one heartbeat at the edge of the pit he was close enough to whatever had hold of her to *feel* it. Not see it, feel it: a vastness, a heat, an ancient terrible attention rising up toward the light through her, through the girl herself, as if she were the one thin place left in a sealed world—glad, so glad, reaching—and it was nothing he had words for, nothing in any grammar he knew.
 
 "*Wick!*" He didn't reason with it. He couldn't. He just grabbed the only thing he understood, which was her. "Wick, it's me, come *back*—let it go, you can let it go, come back to me—come *back*—"
 
@@ -98,7 +98,7 @@ For a while nobody said anything. Below them, very far down, something enormous 
 
 Wick laughed, a cracked, wet, half-hysterical sound, and didn't explain herself, and Oscar didn't ask, and Cael lay flat on his back with his ruined shield warm against his chest and said, to no one, "We pulled her back." Just that. Like he was checking it was true. "This time we pulled her back."
 
-Nobody had to ask what other time he meant. They let it sit there, the dead man's name nobody said, and for once it didn't poison anything. They'd lost one once. They hadn't lost one today.
+Nobody had to ask what other time he meant. They let it sit there, the dead man's name nobody said, and for once it didn't poison anything.
 
 The haul was everything Brida had said, and the cost of reaching it was written all around them in the bones, and Oscar made himself walk to it slowly, with respect.
 
