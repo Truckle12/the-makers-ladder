@@ -1,6 +1,7 @@
 ---
 id: b1-ch29-draft
-status: ready
+status: rejected
+rejected_reason: superseded by b1-ch29-draft-rev1; PR closed without merge and Ch29 drafting moved to a separate thread
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-29.md

@@ -1,6 +1,7 @@
 ---
 id: b1-ch29-draft-rev1
-status: ready
+status: rejected
+rejected_reason: Ch29 drafting moved to a separate thread; draft remains on agent/book/b1-ch29-draft-rev1/2026-07-07_10-18-31
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-29.md
