@@ -165,6 +165,71 @@ function addItem(rest) {
   return { id, file: `${queueDir()}/${id}.md`, status, title };
 }
 
+// The ideas lane's queue dir, where proposals land.
+function ideasDir() {
+  try {
+    const cfg = JSON.parse(readFileSync(path.join(ROOT, "config.json"), "utf8"));
+    return cfg?.lanes?.ideas?.queueDir || "ideas";
+  } catch {
+    return "ideas";
+  }
+}
+
+// Next free 4-digit id in the ideas lane, matching the existing 0001/0002 style.
+function nextIdeaId() {
+  const abs = path.join(ROOT, ideasDir());
+  let max = 0;
+  if (existsSync(abs)) {
+    for (const f of readdirSync(abs)) {
+      const m = f.match(/^(\d{4})-/);
+      if (m) max = Math.max(max, Number(m[1]));
+    }
+  }
+  return String(max + 1).padStart(4, "0");
+}
+
+// Write a PROPOSAL into the ideas lane. Always "draft": a proposal is a thing to
+// look at, never a thing that runs. Promoting it to "ready" stays a human action
+// in the app, which is what keeps a chat surface from causing spend or edits.
+function proposeItem(rest) {
+  const title = flag(rest, "title");
+  const body = flag(rest, "body");
+  const acceptance = flag(rest, "acceptance"); // newline-separated bullets
+  const source = flag(rest, "source", "cli");
+  if (!title) throw new Error("A --title is required.");
+  if (!body) throw new Error("A --body is required.");
+
+  const num = nextIdeaId();
+  // Lowercase + collapse dashes to match the lane's existing 0001-loot-table-schema
+  // style. Done here rather than in the shared slug(), which the book lane's ids use.
+  const titleSlug = slug(title).toLowerCase().replace(/-+/g, "-").replace(/^-|-$/g, "").slice(0, 48).replace(/-$/, "");
+  const id = `${num}-${titleSlug}`;
+  const bullets = acceptance
+    .split("\n")
+    .map((l) => l.replace(/^\s*[-*]\s*/, "").trim())
+    .filter(Boolean);
+
+  // YAML folded block: bullets separated by a blank line, indented two spaces.
+  const acceptanceBlock = bullets.length
+    ? "acceptance: >\n" + bullets.map((b) => `  - ${b}`).join("\n\n") + "\n"
+    : "";
+
+  const fm =
+    "---\n" +
+    `id: '${num}'\n` +
+    `title: ${title.replace(/\n/g, " ")}\n` +
+    "status: draft\n" +
+    "max_turns: 25\n" +
+    `forge_source: ${source}\n` +
+    acceptanceBlock +
+    "---\n";
+
+  const dir = path.join(ROOT, ideasDir());
+  const file = path.join(dir, `${id}.md`);
+  writeFileSync(file, `${fm}\n${body.trim()}\n`);
+  return { id, num, file: `${ideasDir()}/${id}.md`, status: "draft", title };
+}
+
 function main() {
   const [cmd, ...rest] = process.argv.slice(2);
   const asJson = rest.includes("--json");
@@ -182,8 +247,17 @@ function main() {
       );
       break;
     }
+    case "propose": {
+      const r = proposeItem(rest);
+      console.log(
+        asJson
+          ? JSON.stringify(r, null, 2)
+          : `Proposed (draft): ${r.id}\n${r.title}\n${r.file}`
+      );
+      break;
+    }
     default:
-      console.log("Usage:\n  node tools/forge.mjs queue [--json]\n  node tools/forge.mjs add --workflow <id> --target <path> [--title <t>] [--direction <d>] [--status draft|ready]");
+      console.log("Usage:\n  node tools/forge.mjs queue [--json]\n  node tools/forge.mjs add --workflow <id> --target <path> [--title <t>] [--direction <d>] [--status draft|ready]\n  node tools/forge.mjs propose --title <t> --body <b> [--acceptance <bullets>] [--source <s>]");
       process.exit(cmd ? 1 : 0);
   }
 }
