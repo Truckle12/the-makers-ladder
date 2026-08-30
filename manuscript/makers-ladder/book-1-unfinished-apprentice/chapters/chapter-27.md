@@ -6,7 +6,7 @@ The Warden walked them to the edge stones and no further.
 
 They knew they were in it when the bark-light went out.
 
-For three nights the old trees had glowed, a slow green seep Oscar had stopped seeing. Now the trunks were dark, and cold, and a little soft under the palm. So he did the thing he had done every day since he woke under the ice. He read. He reached for the deep current in the wood, the slow written warmth that ran under everything made and grown alike, the one language he had never once failed to find.
+For three nights the old trees had glowed, a slow green seep Oscar had stopped seeing. Now the trunks were dark, and cold, and a little soft under the palm. So he did the thing he had done every day since he woke under the ice. He read. He reached for the deep current in the wood, the slow written warmth that ran under everything made and grown alike, the one language he had never failed to find.
 
 It wasn't there.
 
@@ -38,11 +38,11 @@ She'd read ground her whole life. Out here the ground had stopped telling the tr
 
 "I can't read this," she said. Flat. It cost her. "Ground won't hold still. Tarn's got the point. I'm no use in a place that won't stay where I put it."
 
-Nobody argued, and that was the worst of it. The two people on the crew who knew how to find a way through the world had both just said the world had stopped making sense.
+Nobody argued.
 
 Wick got worse by the mile, and quietly, which was how Oscar knew how bad it was.
 
-The heat had gone out of her. For weeks she'd run hot, the coal in her always wanting to climb. Now the deeper they went the colder she got, the mark at her throat gone from angry red to a tight pale white, and she kept her hand flat over it like a woman holding a cut closed. She drifted. Twice she wandered off Tarn's line toward the worst of the dark without seeming to choose it, and the second time Oscar caught her arm.
+The heat had gone out of her. For weeks she'd run hot, the fire in her always wanting to climb. Now the deeper they went the colder she got, the mark at her throat gone from angry red to a tight pale white, and she kept her hand flat over it like a woman holding a cut closed. She drifted. Twice she wandered off Tarn's line toward the worst of the dark without seeming to choose it, and the second time Oscar caught her arm.
 
 She rounded on him. "I can feel it," she snapped. "Exactly where it is. It's the only thing out here I *can* feel. So don't grab me. You grabbing my arm doesn't do anything—nothing you do out here does anything, and you know it, so don't pretend the hand's for me when it's for you."
 
@@ -106,7 +106,7 @@ It had not been made.
 
 "I can't end it." Plain and ugly, and better that way. "There's nothing to cut. Nothing to correct. It isn't holding the animal. It's *become* the animal." He made himself say the rest with his own mouth. "It's the wrong tool. I'm the wrong tool."
 
-Nobody said anything kind, which he was grateful for.
+Nobody said anything, and he was grateful.
 
 The thing at the bottom of the hollow, which had not moved the whole time, moved. Not toward him. There was nothing in him for it to climb, and being beneath a monster's notice landed on Oscar cold and total. It turned, slow and certain, toward the one of them it had come up out of the spring to find. The one it had been reaching for since the pit. Since before any of them learned her name.
 
@@ -116,7 +116,7 @@ Wick had gone still. Her hand had come off the cold mark at her throat. She had 
 
 And then—because she was sixteen and stubborn and done being only the one who fell apart—she tried it.
 
-She didn't ask. She put her hand out toward the hollow, palm open, and reached for it the same as she reached for the coal inside herself, and Oscar felt it even half-blind: the door in her cracked, and a thread of whatever lived behind it went out across the basin.
+She didn't ask. She put her hand out toward the hollow, palm open, and reached for it the same as she reached for the held fire inside herself, and Oscar felt it even half-blind: the door in her cracked, and a thread of whatever lived behind it went out across the basin.
 
 For one breath it worked.
 
@@ -162,6 +162,6 @@ Wick looked back at him. Once. Afraid now, and he was glad of it, because the no
 
 She turned and walked down into it on her own two feet, small and cold and burning somewhere underneath.
 
-And Oscar stayed at the rim with his gift shut and his hands empty, doing the new work in place of the old—not reading the thing he couldn't help, but holding the four people he could move: Kessa's eyes on the dark, Tarn clear of the line, Cael's last gold banked and waiting, the girl going down. He held all of it at once, ready to spend the only things he had left, which were not power and were not knowing but timing and four people who trusted him. He had been so good, for so long, at knowing.
+And Oscar stayed at the rim with his gift shut and his hands empty, doing the new work in place of the old—not reading the thing he couldn't help, but holding the four people he could move: Kessa's eyes on the dark, Tarn clear of the line, Cael's last gold banked and waiting, the girl going down. He held all of it at once. He had been so good, for so long, at knowing.
 
 This was the other thing. He had no idea yet whether he had it.

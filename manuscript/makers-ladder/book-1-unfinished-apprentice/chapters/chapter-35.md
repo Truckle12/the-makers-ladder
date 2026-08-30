@@ -1,0 +1,97 @@
+## Chapter Thirty-Five — Thin Country
+
+They buried the finder at first light, off the old road, in ground nobody would ever read.
+
+Kessa chose the spot the same as she chose campsites, by what it gave away, which was nothing: a shallow fold behind the scarp, screened, stony, no reason for a living soul to cross it twice. It wasn't hiding, exactly. The seat already knew; the not-smoke had gone south with the news before the body was cold. It was habit, and it was for the crew, because you didn't leave your people's work lying where the road could look at it.
+
+Cael dug. He'd started before she was awake, and when Tarn picked up the second spade Cael said, "No," not sharp, just final, a door closed from the inside, and Tarn set the spade down and walked back to the walls without a word. So it went one big man, one spade, one hole, two hours. Kessa stood her watch on the scarp and let herself look down at it only on the turns of her circuit. He dug like he mended: thorough, unhurried, nothing wasted. He filled it back in the same. When it was done there was no marker, because who would it be for, and Cael stood over the blind ground a while with his lips not moving, and whatever he did instead of the words he'd have said over anyone else, he did it standing, and came up the scarp after, and took the glass from her without being asked, and stood the rest of her watch beside her not talking.
+
+She let him. She'd sat enough long nights beside enough hurt bodies to know which kind you filled with talk and which kind you just kept company. This was the other kind. He hadn't taken a wound in that room, not a mark on him. He mended them all before dark, same as ever, hands steady, warmth true — and then had sat by the well the whole evening with those hands open on his knees, turning them over now and again, reading the palms like a man checking a tool he wasn't sure had come back from the lender the same.
+
+She added it to the column she'd opened for him and kept her mouth shut. Some sums you didn't say over a man. You just carried them where he could see you carrying them.
+
+They went through the finder's effects before they left, because Kessa insisted, over nobody's objection but her own stomach. You didn't walk away from a dead hunter without learning him. It was a thin kit for a man who'd owned half the roads in the south. The cane: made, Oscar said, made all through, and he said it the flat careful voice he'd been using since the floor, and nobody suggested keeping it, and Tarn broke it in two against the doorstep, and both halves went into a stream pool a mile south, separately. "Made all through," Tarn said, weighing the second half before it went in the water, and then, in the same voice, because with Tarn a fact and a debt got identical handling: "So are you. You settle up like a man, though." He walked on. Oscar stood a moment with the look of a man paid something he hadn't known was owed. The coat Oscar read and pronounced made — quiet old work, deep in the weave: a coat that would shed rain, shrug cold, and never look like money. Tarn took it off the pile and rolled it under one arm. "Dead men keep warm enough," he said. "And he'd have priced it the same." Nobody argued the ledger. The paper — the private-waxed square, the old House mark that never shows itself on the road — Oscar sat with a long time, turning it, reading the crack in the seal where the term had discharged.
+
+"It's spent," he said at last. "It was three things: his warrant, his leash, and his — " a pause, the careful voice picking its footing " — his report. The last one wrote itself the moment he died, and went home. What's left is paper." He didn't burn it, though. He folded it into his coat, and Kessa marked that too, the wizard keeping the dead man's blank warrant against his chest like a tally-stick of what the seat had spent on him so far.
+
+"Anything owed here?" she asked Tarn, last thing, at the edge of the site. Meaning the wage-men's dead, except there were none; meaning the whole ugly ledger of the day before.
+
+Tarn looked back at the waypost, grey and kept and clean of them already, and at the blind fold of ground behind the scarp.
+
+"Owed him nothing," he said. "Buried him anyway. Rather be in debt to the ground than to him." He shouldered his pack. "Ground collects fair."
+
+---
+
+The country south of the waystation should have thickened, and it thinned instead, and it took Kessa three days to trust what her own counts were telling her.
+
+By every law of roads she knew, walking toward a great seat meant walking into the world getting louder: more carts, more inns, more mud churned at the fords, more dogs, more smoke on more skylines. The land obliged for one day. Farms in their neat valleys, a mill with its wheel turning, a market village she skirted at dawn whose bread-ovens she could smell from the ridge line, and the first paved House road they'd seen since Oressa, white and ruler-straight across the far side of a valley, carrying its little beads of traffic. All of it in order. All of it as mapped.
+
+And all of it, she began to notice, facing the other way.
+
+It was nothing she could have put in front of a magistrate. It was a hundred small entries that each had an innocent answer and together didn't. The carts on the white road ran heavier north than south. The market village's droving lanes were worn deep on the north side and grassing over on the south. At the third farm the muck-heap steamed by a barn with room for forty beasts and stalls smelling of maybe twelve. Fields plowed to the northern hedge and left to rough grass on the southern margins, a boundary nobody had drawn on any map, as if the farms themselves were leaning away from something, weight on the back foot, the whole country standing the way Corwen had stood.
+
+The wild sign thinned worse. That was the count that got under her guard, the oldest tally she owned. Three days south of the waystation she crossed ground that should have been printed over with a night's traffic — good browse, water near, cover thick — and read it in the grey light and found it skimmed. Not empty as poisoned ground goes empty, not fled as ground empties ahead of a fire. Skimmed. A deer's line here, old. One badger's habit, older. The birds went over high and kept going, the same as they'd kept clear of Ash's hedges, and it had taken a conjured house to make them do that, and here it was the whole sky south.
+
+The grey had lied to her, in the wild. Tracks that doubled, ground that wouldn't hold still, down that wasn't down. This was a different wrongness, and in the nights she got the difference by the throat and made herself look at it: nothing here lied. Every sign she cut was true. The land was honest, and orderly, and *short.* Life added up smaller the farther south she counted, a ledger with no false entries and a page quietly missing, and no smell of rot anywhere, no sickness, no burnt line, nothing to point at. Just less. As if something to the south had been, for a long time and without any hurry, keeping the count down.
+
+She didn't have a word for a thing that did that. She put it in the nameless column, and the nameless column was most of the book now.
+
+Oscar was no help on it, and that was its own entry.
+
+The made country he read them like a crier. The white road: he named the House crew that had laid it within fifty years, by the dressing of the kerbs. The waymarks: he pulled generations of resettings out of one leaning stone at a crossroads and was insufferable about it until Wick threw a heel of bread at him. His gift ran ahead down anything written and came back fat with news. But twice Kessa walked him to a rise at dusk and pointed him south at the land itself, the thinning, breathing, wrong-weighted country, and asked him what he read.
+
+"Nothing," he said, the second time, and the word had started to bother him. "Which is correct. It's alive; the living's not mine; nothing is what I *should* get." He stood looking south with his coat collar up, and the snag took him again while she watched, the little check she'd been logging since the heath, his eyes catching on the far hills like cloth on a nail head. Closer together now, those checks. She'd started counting them per day instead of per week. "But it's the wrong nothing," he said, lower, mostly to himself. "There are two silences. There's the silence of a page I can't read, and there's the silence of a room where someone stopped talking because you came in. I can't tell which this is. I keep trying to tell, and it keeps being important, and I keep failing, and I don't say so because there's nothing any of you could do with it except worry with better information."
+
+"Say so anyway," Kessa said. "Worry travels lighter when it's shared out. Like weight."
+
+He looked at her sidelong. "You've been talking to Cael."
+
+"Cael doesn't talk," she said, and that was the wrong joke three days after that room, and both of them let it lie where it fell, and Oscar looked back south at the hills that were doing nothing, to anybody's eye or gift, at all.
+
+Wick was the third column, and Wick was the one Kessa watched with her stomach.
+
+It had started at the river, two days south of the grave. A good ford, gravel bar, low water; Kessa had been mid-stream reading the far bank when she caught it in the tail of her eye: Wick, knee-deep in the current, stopped dead, head cocked, one hand rising slow to the mark at her throat. Listening. Except there'd been nothing to hear — water, a jay somewhere north, wind in the alders. The girl had stood there a full breath, two, with her fingers on her own throat and her face gone somewhere private, and then flinched, whole-body, the flinch of a hand jerked back off a kettle a half-second late, and looked around fast to see who'd seen.
+
+Kessa had been reading the far bank by then. You gave a kid that much.
+
+But it went in the column, and the column grew. At wells. At a rain-pond in a field bottom. At stream crossings mostly, anywhere the water sat close to the skin of the world; Wick would check, and cock, and touch the mark, and once she said "what" out loud to nobody, angry, and caught herself, and marched on red-eared, daring anyone to have heard. She wasn't drifting, not as she'd drifted in the grey; her feet stayed in the line of march, her jokes still came, she ate like a stable. Whatever was reaching her, it wasn't pulling. It was more like knocking. Far-off, patient, at long intervals, the knuckle-tap of something that knew the house was occupied and could wait for the door.
+
+On the fourth evening Kessa put herself on water-fetching with her, the two of them alone at a spring under a hazel bank, and asked it straight, because straight was the only shape Wick trusted.
+
+"The river. The wells. What's it doing?"
+
+Wick's shoulders came up. For a second Kessa watched her build the lie, *nothing, I'm fine,* the kid reflex, wall it and hold it; and then watched her set it down, which was new, which was a thing the hollow in the wild had bought and paid for.
+
+"Nothing yet." Wick looked at the spring, not her. "It's like — you know when someone's watching you across a market? Not doing anything. Just, you turn around, and you know." She filled a skin, capped it, her hands very steady in the deliberate manner of hands being made to be steady. "It's far off. It's really far off. But we keep walking at it, so." A shrug that didn't come off. "It's fine. I'm good at doors."
+
+"You are," Kessa said, because it was true and because the girl had earned having it said, and left the rest alone. But she ran her own sum on it that night, on watch, cold: the thing in the wild had wanted Wick, and it had been one sick root of one wood. Whatever sat south of all this thin honest country and tapped at the girl through every water — that was no root. They were walking the last of them, her whole count, four and her, five, straight down its road, at its seat, on its ground, and every step made the knocking shorter.
+
+---
+
+She called it at the fire on the fifth night, because it had ripened and because pretending at her own crew was a coin she'd never spent and wasn't starting now.
+
+"I'll say where we stand," she said, when the food was down and the watches were set. "Then the order changes for what's ahead."
+
+Nobody moved. The fire was small and dry-wood, next to no light, banked in a hollow she'd picked for its dead ground. Old habits. Wrong enemy, maybe. She no longer knew what habits were for the thing they had, and that was part of what needed saying.
+
+"We won at the waystation. I'd fight that fight again on those terms every time; those terms will never come again. Here's what we bought." She held up one finger. "The roads stopped closing. I've cut no new watch-sign in five days; the pickets are gone off the fords; the net's been let drop. That's real. Don't spend it cheap — it means nobody's herding us now." A second finger. "And here's the price on the far pan. Nothing else changed." She let that sit in the little light. "I killed a man's story once in Oressa: don't run the cordon, sit still, be collected. Killing Corwen was meant to break a story like that. The one where the paper always arrives. And we broke it, and I've watched five days of country to see the House feel it, and you know what I've seen. Carts running north. Farms leaning away. A hunting country with the game counted out of it. That's not a south missing its finder. Whatever's carrying this country never leaned on Corwen in the first place. We took its hand off at the wrist, and the arm didn't notice."
+
+"It noticed," Oscar said, quietly, from the far side of the fire. "The report went south, remember. It knows to the hour." He had the dead warrant out of his coat, turning it in the low light, the cracked seal catching dull red. "It noticed the way a ledger notices. A line was struck. Nothing that breathes flinched anywhere, because I don't think anything that breathes was holding him." He looked up, and did them all the courtesy he'd promised her on the rise, worry with better information, said plain: "Ash told us at her table. The finder was the hand; the seat is what wants; kill the hand and it sends the next thing. I've been running her grammar for five days against everything Kessa's counted, and I'll say the conclusion out loud because we're all lying awake with it anyway. Nothing is coming north to avenge him. Nothing needs to. We're carrying ourselves to it. It sits where every road ends, it has wanted me home since before I woke, and its whole answer to losing the best finder in the south was to open the doors wider." He folded the paper away. "The next thing it sends is the road itself. Is nothing. Is *welcome.*"
+
+"Then we walk in ready," Wick said, into the quiet, fierce and too fast, the heat right under it. "Whatever it is. We walked into the grey ready and the grey wanted me and we—" she stopped herself, hand flat on her own knee, held. "We do it again. Bigger. Fine."
+
+"It's not the grey," Kessa said, level. "I want that in everyone's bones before we're another day south, so I'll count the differences once." She did it on her fingers, plain, no drama; drama was for people who could afford to be wrong big. "The grey lied. This thing hasn't lied to me once; the country's all true and all wrong, and I can't learn a liar's habits off a thing that doesn't lie. The grey was hungry. This thing isn't hungry; it's *patient,* and patient is worse; hungry things lunge and lunging things miss. And the grey was blind — it wanted, and wanting was all it was. This thing *plans.* It planned Corwen, it planned the net, and when we cut both out of its hands it didn't so much as shift its weight." She closed her fist. "In the wild, the Warden gave us the shape of the fight and walked us to the edge of it. There's no Warden here. Nobody's walking us in and nobody knows the shape, not even him—" a nod across the fire at Oscar "—because its ground is the one page he can't read ahead on. So. That's where we stand. Anyone wants to say turn around, say it tonight, and I'll hear it out like it was my own idea."
+
+The fire ticked. Nobody said turn around. She'd known nobody would, and she'd needed it offered anyway, needed it on the record of the five of them, because south of here she was done pretending anyone had been dragged.
+
+"All right." She banked the little fire lower and began setting the order, the only spell she'd ever owned. "Then here's how we walk into a country that doesn't lie and doesn't hunger and doesn't hurry. Tarn takes point from tomorrow; his eyes are freshest for ground that's almost right. I take the back-trail, because if the doors are open behind us I want to know the day they close. Wick walks the middle," and she caught the girl's look and answered it straight, "not because you're cargo. Because you're the only one of us with a bell on this thing, and the middle's where the whole line can hear you ring. Anything knocks, however far off — you say it. Every time. That's your watch, and it never comes off. You sing out, and you'll hear me answer it. *Marked.* Every time, so you know it landed." Wick, caught between scowl and salute, nodded once, jaw tight, deputized. "Cael keeps the camps. Warmth stays banked unless bodies need it; we don't know what down here reads a lit hearth, so we stay a cold, quiet, boring little crew as long as boring's on offer." Cael nodded, slow, and his open hands finally closed, having been given something to hold. "And Oscar reads everything made between here and the walls — every stone, every mark, every dead crew's good work — because that's the one language this country can't help speaking to us, and somewhere in it somebody will have written something they shouldn't have. But nobody," she looked around the small dark circle, one face at a time, the count made flesh, "goes looking down any deep thing alone. Whatever wants us south gets us the same as every bad room since Oressa got us. Together, in order, on our own feet."
+
+Tarn took the first watch, because the new order started now, not at whatever walls were waiting. Kessa slept the sleep she kept for the nights before bad country, shallow and fast and all the way down, and woke on her own an hour before light, and did the last thing on her list.
+
+She walked their back-trail out alone, half a mile up the old road in the grey, because the back-trail was hers now and she meant to know it cold. The night handed her the country a piece at a time. No pickets. No smoke. No riders on the white road where it cut her line, no new sign at the ford, nothing moving from horizon to horizon behind them. The net that had herded them south for a week lay slack across the whole north country, left where it fell.
+
+Nobody was closing the doors anymore. Nobody needed to.
+
+She stood a moment on the empty road with the light coming up, and then went back down into the hollow and woke her people one at a time, oldest habit she owned, a hand to the boot, a name, up. Five, breathing, hers. She had them fed and moving while the mist was still on the ground, and took her own place at the back of the line, and all that long day, walking last through the thin true country, she caught herself not once checking the road behind them.
+
+There was nothing behind them anymore. Everything the road had left was ahead.

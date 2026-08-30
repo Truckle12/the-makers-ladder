@@ -1,7 +1,7 @@
 ---
 id: b1-ch29-draft
 status: rejected
-rejected_reason: superseded by b1-ch29-draft-rev1; PR closed without merge and Ch29 drafting moved to a separate thread
+rejected_reason: Superseded — Ch29 was drafted via PR #28/#42 and then finalized directly on the claude/session-cass6g session branch (reconciled to the rev2 outline). Item retired so it can't re-run.
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-29.md

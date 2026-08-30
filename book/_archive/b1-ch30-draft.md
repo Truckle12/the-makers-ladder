@@ -1,7 +1,7 @@
 ---
 id: b1-ch30-draft
 status: rejected
-rejected_reason: PR closed without merge; Ch30 drafting moved to a separate thread; draft remains on agent/book/b1-ch30-draft/2026-07-02_09-51-31
+rejected_reason: Superseded — Ch30 drafted directly on the claude/session-cass6g session branch to the rev2 outline (prior PRs #13/#29 were closed for sequencing).
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-30.md

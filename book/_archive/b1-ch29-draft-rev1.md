@@ -1,7 +1,7 @@
 ---
 id: b1-ch29-draft-rev1
 status: rejected
-rejected_reason: Ch29 drafting moved to a separate thread; draft remains on agent/book/b1-ch29-draft-rev1/2026-07-07_10-18-31
+rejected_reason: Superseded — the PR #42 draft was used as the base for the final Ch29 on the claude/session-cass6g session branch (rev2 reconciliation: villain seed added, POV hard-cut on the blink). Close PR #42 without merging.
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-29.md

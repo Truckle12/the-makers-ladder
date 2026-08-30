@@ -1,7 +1,8 @@
 ---
 id: b1-ch21-revise
 title: Arc 3 review+revise — Book 1 Ch21
-status: done
+status: rejected
+rejected_reason: Superseded by b1-ch21-revise-rev1, which merged as PR #51. This item stayed status: ready on disk and would have re-spent Opus on chapter-21 every scan. Archived 2026-08-03 (author-approved).
 persona_name: chapter-revise
 persona_file: prompts/personas/chapter-revise.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-21.md

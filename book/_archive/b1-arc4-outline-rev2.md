@@ -1,7 +1,8 @@
 ---
 id: b1-arc4-outline-rev2
 title: Arc 4 storyboard — revise rev1 against the storyboard-architect critique (Ch29-42)
-status: done
+status: rejected
+rejected_reason: Superseded. Its rev1 (b1-arc4-outline-rev2-rev1) merged as PR #49, and the arc-4 outline has since been driven to completion in-session: Ch29-42 are DRAFTED and the outline now carries [DRAFTED]/AS-DRAFTED blocks plus the locked Setter villain and finale design. Re-running a storyboard pass on it would rewrite the outline for a book that is already written. Archived 2026-08-03 (author-approved).
 persona_name: storyboard-architect
 persona_file: prompts/personas/storyboard-architect.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/reference/arc-4-outline.md

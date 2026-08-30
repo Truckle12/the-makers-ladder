@@ -23,7 +23,7 @@ Heat, hunger, fear, speed, shame, wanting, fierce loyalty. Blunt kid logic. The 
 
 ## Private terms (Wick's POV only)
 - **The coal** — her held fire, internal.
-- **The door** — the vast, hungry thing in the deep that has noticed her. Available in other POVs' narration only **after** the Warden names it aloud (post-Ch26).
+- **The door** — opens on **the far side** (her word): the vast, hungry elsewhere that has noticed her. NOT the deep current (see bible Cosmology; renamed 2026-07-13). Available in other POVs' narration only **after** the Warden names it aloud (post-Ch26).
 - **Holding** — what she does with the coal, and eventually with the door.
 - **The deep** — the source/substrate she touches.
 
