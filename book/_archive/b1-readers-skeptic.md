@@ -1,7 +1,8 @@
 ---
 id: b1-readers-skeptic
 title: Reader review (skeptic) — Book 1 Ch1–28
-status: draft
+status: rejected
+rejected_reason: 'Superseded: the five-persona cold-read gauntlet ran in the chief-editor session (5/5 finished, zero DNFs). Findings + fixes in notes/b1-reader-gauntlet.md. Next reader pass should be real humans.'
 persona_name: reader-skeptic
 persona_file: prompts/personas/reader-skeptic.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/

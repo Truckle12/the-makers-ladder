@@ -1,7 +1,7 @@
 ---
 id: b1-ch20-wick-voice
 title: Wick voice/attitude pass — Ch20
-status: review
+status: done
 persona_file: prompts/personas/chapter-revise.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-20.md
 max_turns: 25

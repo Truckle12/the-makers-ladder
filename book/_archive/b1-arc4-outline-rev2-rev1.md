@@ -3,7 +3,7 @@ id: b1-arc4-outline-rev2-rev1
 title: >-
   Arc 4 storyboard — revise rev1 against the storyboard-architect critique
   (Ch29-42) (revision)
-status: review
+status: done
 persona_name: storyboard-architect
 persona_file: prompts/personas/storyboard-architect.md
 target: >-

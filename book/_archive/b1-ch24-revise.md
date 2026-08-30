@@ -1,7 +1,8 @@
 ---
 id: b1-ch24-revise
 title: Arc 3 review+revise — Book 1 Ch24
-status: draft
+status: rejected
+rejected_reason: 'Superseded: this chapter was revised directly in the chief-editor session (Batches 3-5, merged to main 2026-08-30) - cadence pass, compression, tic rations, and the author audiobook notes. See notes/b1-chief-editor-review.md and the bible Decisions Log.'
 persona_name: chapter-revise
 persona_file: prompts/personas/chapter-revise.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-24.md
