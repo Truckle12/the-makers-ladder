@@ -1,59 +1,62 @@
-# CHECKPOINT — Theme bake-off (tabletop-theme-integrator pass)
+# CHECKPOINT — Component manifest and COGS (tabletop-producer pass)
 
-**Run:** tabletop lane, tabletop-theme-integrator persona, AUTHOR. Item `t-0001-theme-bakeoff`.
+**Run:** tabletop lane, tabletop-producer persona, AUTHOR. Item `t-0004-component-manifest-and-cogs`.
 
 ## What I did
-Authored `games/pretzels-and-beer/design/Theme.md` — ran every action, resource, suit, chapter, and
-named mechanism in `Systems.md`/`Balance.md` through the skin test, then fixed everything that didn't
-pass with a rename (never a mechanism or number change).
+Authored `games/pretzels-and-beer/design/Components.md` — priced the game that actually exists: the
+locked card list (D-024) and the locked theme names (D-032–D-038), not an imagined one. No card, Wish,
+or Life Happens count added or cut.
 
 ## Inputs read
-1. `games/pretzels-and-beer/game-bible.md` — pillars, D-008 theme lock, D-009–D-010 constraints, full
-   Decisions Log through D-031.
-2. `games/pretzels-and-beer/design/Systems.md` (`t-0002`) — the authoritative spine: actions, chapters,
-   resources, endgame scoring.
-3. `games/pretzels-and-beer/design/Balance.md` (`t-0003`) — the real card list, Wishes, and Life Happens
-   deck at D-024's locked counts.
-4. `games/pretzels-and-beer/design/Concept.md` — superseded seed, quoted where still the clearest
-   statement of an idea (e.g. "saying yes to something" as the Take-an-Opportunity reading).
+1. `games/pretzels-and-beer/game-bible.md` — pillars (especially 5, the photogenic component, and 6,
+   component creep as the failure mode), the full Decisions Log through D-038, and OQ-003/OQ-004.
+2. `games/pretzels-and-beer/design/Concept.md` — the per-player Mantelpiece/Keepsake/Year-token seed.
+3. `games/pretzels-and-beer/design/Systems.md` (`t-0002`) — the Friend-marker component delta (8 discs).
+4. `games/pretzels-and-beer/design/Balance.md` (`t-0003`) — the real counts: 53 Opportunity + 11 Wish +
+   18 Life Happens cards, 6 Keepsake types across 14 grant-source cards (D-024).
+5. `games/pretzels-and-beer/design/Theme.md` (`t-0001`) — art brief §7 (silhouettes, palette, 10-icon
+   ceiling) and the locked names (Say Yes, Livelihood, Fair Skies/Changing Weather/Storm Season, the six
+   Keepsake box-copy names, the Mantelpiece tier labels).
+6. `business/b-0005-pretzels-and-beer-publication-plan.md` — confirmed it inherits this doc's numbers
+   and co-owns OQ-003; wrote §2/§3 so the two docs can agree (landed cost vs. fulfillment kept as
+   separate lines, not blended, since b-0005's crowdfunding math needs them apart).
 
 ## Deliverable
-`games/pretzels-and-beer/design/Theme.md` — full contents:
-- Fantasy/anti-fantasy restated, back-of-box blurb, one rulebook-voice paragraph.
-- A marriage table covering all 3 base actions + the Friend marker, all 3 resources, all 4 suits, all 4
-  chapters, and 6 other named mechanisms (Wish, Timeline, Keepsake/Mantelpiece, Life Happens, Payday,
-  the Vote) — each scored pass/partial/fail with a fix where needed.
-- Naming: a concrete BGG + trademark collision-check plan for *Years and Years* (D-015, not relitigated)
-  plus 3 ranked fallbacks + 1 new option; real names for the 4 suits (Work→Livelihood, fixing an
-  action/suit homograph collision), the 3 actions (Take an Opportunity→Say Yes), confirmed chapter names,
-  6 Keepsake display names, and the 3 Life Happens modes (Fair Skies/Changing Weather/Storm Season,
-  matching the decks' own weather-themed cards).
-- Two collision/tone fixes found during the pass: a genuine name collision (Wish "Late Bloomer" vs. a
-  Life Happens card of the same name — renamed the latter to "A Second Wind") and a tone fix ("Medical
-  Bills" renamed to "The Roof Needs Fixing" — same trigger/value, removes a real-world health-precarity
-  reference from the game's hardest difficulty mode).
-- Table picture at 20 minutes and at game end, naming the Mantelpiece as the photogenic component; a
-  full art brief (palette tied to chapter escalation, illustration register with a hard "no human
-  figures" rule following from D-011, component silhouettes, a 10-icon ceiling, 5 named references).
-- Inclusivity/tone check: confirmed D-011+D-017 hold under the theme's "no life is the wrong answer"
-  promise; audited all 11 Wishes and all 18 Life Happens cards individually; recommended Wishes stay
-  private through "Tell Your Life" rather than a public Y/N report; locked exact vote-framing script
-  wording (pre-vote and post-reveal lines) so a unanimous vote can't read as "everyone else's life lost."
-- Chapter-by-chapter escalation notes showing the Year schedule (5/4/4/3) and D-023 (unspent resources
-  score zero) carry the arc mechanically, not through flavor text.
-- 3 `[FOR THE AUTHOR]` flags (Self-Made's name, the Livelihood rename's ripple into one Wish's condition
-  text, the Live action's residual partial-pass) and a Proposed Decisions block (D-032–D-037).
+`games/pretzels-and-beer/design/Components.md` — full contents:
+- A 14-SKU component manifest table (component/count/material/size/print spec/why), totaling 53+11+18
+  cards, 4 Mantelpiece boards, 14 Keepsake tokens, 20 Year tokens, 60 Savings/Spark chits, 1 first-player
+  marker, 8 Friend markers, 4 player aids, a 12-page rulebook, an insert, and a box — ~193 pieces/copy.
+- Ranged (never-a-quote) per-unit cost estimates at 1,500/3,000/5,000 copies, split into manufacturing,
+  freight, duty, landed cost, and fulfillment kept as a separate line — plus what a Chinese full-service
+  factory vs. an EU short-run house vs. a POD service would each change.
+- A pricing sanity check: landed cost × 5 (retail) / ×3–4 (crowdfunding) at all three run sizes, sharpening
+  OQ-003 toward a $35–$39 recommendation (Cascadia/Parks tier) contingent on run size and the reduction
+  pass, with $55 deluxe-adjacent flagged as achievable now with zero cuts if that's the preferred shelf.
+- A component reduction pass on the three most expensive lines (Keepsake tokens, Mantelpiece board, Year
+  tokens), each with an honest play-experience cost and a stated savings estimate, sequenced by which to
+  cut first if $35 must be hit at a small print run.
+- Weight (~780g/copy) and box footprint (~23×23cm small-square format).
+- A teach/rulebook plan (12-page section order, player-aid vs. rulebook split, and the "current job pays"
+  rule flagged as most likely to be misread, with a zero-component diagram fix).
+- An accessibility spec (icon-shape encoding beyond color for every suit/trait/resource/mode, minimum
+  type sizes, contrast, and token grip sizing).
+- A prototype path: a $10–$25 DIY print-and-play for Balance.md's sessions 1–3, upgrading to a $25–$45
+  POD proof only once those playtests stop moving numbers.
+- 5 `[FOR THE AUTHOR]` flags (OQ-003's price tier, resource-token denomination, a Keepsake spares buffer,
+  the current-job-pays fix escalation, and skipping a dedicated scorepad) and confirmation of two items
+  both Systems.md and Balance.md asked this pass to check (Friend-marker cost is a rounding error).
+- Proposed Decisions D-039–D-041 (manifest lock, single-denomination resource tokens, Friend-marker cost
+  confirmed).
 
 ## Held for later passes
-The Livelihood-suit ripple into Balance.md's *Career Ladder* wording, and the two card renames (Late
-Bloomer, Medical Bills), all need an edit inside `Balance.md`'s tables — that file is `t-0003`'s to own;
-this pass could only propose the renames, not apply them. The title collision-check itself (running the
-actual BGG/trademark searches) is the author's/`business` lane's to execute.
+The actual manufacturer quote (§2's Top-3-next-steps item 3) and the OQ-003 price-tier decision itself
+are the author's/`business` lane's to make jointly — this pass sharpens the number, doesn't close it,
+per the task's framing that OQ-003 is shared with `b-0005`.
 
 ## Confidence
-High on the marriage-table calls and the three concrete rename fixes (Livelihood, Say Yes, Late
-Bloomer/Medical Bills collisions) — each traces to a specific line in Systems.md or Balance.md. Medium
-on the Live-action fix landing at the table — it's a presentational fix (icon + rulebook framing) for a
-mechanism question that belongs to Systems.md if it recurs in playtesting. Medium on Self-Made — flagged
-to the author rather than renamed unilaterally, since only the label is in question and the scoring
-condition itself is sound.
+High on the manifest, SKU count, and accessibility spec — these follow directly from the locked card
+list and theme names. Medium on the dollar figures in §2/§3 — every band is a stated industry-rule-of-
+thumb assumption, not a quote, with freight/tariff named as the least stable inputs. Medium on the
+reduction-pass savings deltas — directionally right, exact numbers will move once a real quote exists.
+High on sequencing a cheap DIY prototype before a nicer proof, following directly from Balance.md's own
+medium-confidence rating on its numbers.
