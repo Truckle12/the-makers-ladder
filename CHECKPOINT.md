@@ -1,62 +1,93 @@
-# CHECKPOINT — Component manifest and COGS (tabletop-producer pass)
+# CHECKPOINT — b-0005 Pretzels & Beer publication plan
 
-**Run:** tabletop lane, tabletop-producer persona, AUTHOR. Item `t-0004-component-manifest-and-cogs`.
+## 1. What changed
 
-## What I did
-Authored `games/pretzels-and-beer/design/Components.md` — priced the game that actually exists: the
-locked card list (D-024) and the locked theme names (D-032–D-038), not an imagined one. No card, Wish,
-or Life Happens count added or cut.
+- **`business/pretzels-and-beer-publication-plan.md` (new)** — the full decision-grade publication plan:
+  licensing vs. self-publish comparison, royalty-base-vs-rate analysis, a crowdfunding funding-goal
+  model built on Components.md's inherited landed-cost bands, low/base/high scenarios and break-even
+  tables for both routes, a 5-title comparable scan, a 12-month parallel audience/playtest milestone
+  plan (with OQ-014's title collision-check steps and OQ-015's manufacturer-quote trigger made
+  concrete), a recommendation with a named decision date (2027-06-30) and flip triggers, risks, and
+  open questions.
 
-## Inputs read
-1. `games/pretzels-and-beer/game-bible.md` — pillars (especially 5, the photogenic component, and 6,
-   component creep as the failure mode), the full Decisions Log through D-038, and OQ-003/OQ-004.
-2. `games/pretzels-and-beer/design/Concept.md` — the per-player Mantelpiece/Keepsake/Year-token seed.
-3. `games/pretzels-and-beer/design/Systems.md` (`t-0002`) — the Friend-marker component delta (8 discs).
-4. `games/pretzels-and-beer/design/Balance.md` (`t-0003`) — the real counts: 53 Opportunity + 11 Wish +
-   18 Life Happens cards, 6 Keepsake types across 14 grant-source cards (D-024).
-5. `games/pretzels-and-beer/design/Theme.md` (`t-0001`) — art brief §7 (silhouettes, palette, 10-icon
-   ceiling) and the locked names (Say Yes, Livelihood, Fair Skies/Changing Weather/Storm Season, the six
-   Keepsake box-copy names, the Mantelpiece tier labels).
-6. `business/b-0005-pretzels-and-beer-publication-plan.md` — confirmed it inherits this doc's numbers
-   and co-owns OQ-003; wrote §2/§3 so the two docs can agree (landed cost vs. fulfillment kept as
-   separate lines, not blended, since b-0005's crowdfunding math needs them apart).
+## 2. How the work meets each acceptance criterion
 
-## Deliverable
-`games/pretzels-and-beer/design/Components.md` — full contents:
-- A 14-SKU component manifest table (component/count/material/size/print spec/why), totaling 53+11+18
-  cards, 4 Mantelpiece boards, 14 Keepsake tokens, 20 Year tokens, 60 Savings/Spark chits, 1 first-player
-  marker, 8 Friend markers, 4 player aids, a 12-page rulebook, an insert, and a box — ~193 pieces/copy.
-- Ranged (never-a-quote) per-unit cost estimates at 1,500/3,000/5,000 copies, split into manufacturing,
-  freight, duty, landed cost, and fulfillment kept as a separate line — plus what a Chinese full-service
-  factory vs. an EU short-run house vs. a POD service would each change.
-- A pricing sanity check: landed cost × 5 (retail) / ×3–4 (crowdfunding) at all three run sizes, sharpening
-  OQ-003 toward a $35–$39 recommendation (Cascadia/Parks tier) contingent on run size and the reduction
-  pass, with $55 deluxe-adjacent flagged as achievable now with zero cuts if that's the preferred shelf.
-- A component reduction pass on the three most expensive lines (Keepsake tokens, Mantelpiece board, Year
-  tokens), each with an honest play-experience cost and a stated savings estimate, sequenced by which to
-  cut first if $35 must be hit at a small print run.
-- Weight (~780g/copy) and box footprint (~23×23cm small-square format).
-- A teach/rulebook plan (12-page section order, player-aid vs. rulebook split, and the "current job pays"
-  rule flagged as most likely to be misread, with a zero-component diagram fix).
-- An accessibility spec (icon-shape encoding beyond color for every suit/trait/resource/mode, minimum
-  type sizes, contrast, and token grip sizing).
-- A prototype path: a $10–$25 DIY print-and-play for Balance.md's sessions 1–3, upgrading to a $25–$45
-  POD proof only once those playtests stop moving numbers.
-- 5 `[FOR THE AUTHOR]` flags (OQ-003's price tier, resource-token denomination, a Keepsake spares buffer,
-  the current-job-pays fix escalation, and skipping a dedicated scorepad) and confirmation of two items
-  both Systems.md and Balance.md asked this pass to check (Friend-marker cost is a rounding error).
-- Proposed Decisions D-039–D-041 (manifest lock, single-denomination resource tokens, Friend-marker cost
-  confirmed).
+- **Route comparison (money/timeline/personal work):** §2 (at-a-glance table), §3 (licensing detail),
+  §4 (self-publish detail), §5.5 (side-by-side summary).
+- **Licensing mechanics, royalty terms, advance, designer earnings:** §3.1–§3.6. The royalty-base-vs-rate
+  point is built as an explicit illustrative table (§3.2) per the brief's instruction that the base
+  matters more than the rate.
+- **Crowdfunding model with explicit inputs + honest funding-goal-as-floor:** §4.2 (backers, fees, landed
+  COGS, region-by-region fulfillment, VAT/duty, failure buffer) and §4.3 (the goal built on high-end cost
+  assumptions, explicitly stated as a floor, not a target).
+- **Break-even table + low/base/high scenarios + capital on hand:** §5.1–§5.4, tied directly to
+  Components.md's three run-size tiers (1,500/3,000/5,000).
+- **Named comparable scan:** §6, five titles (Everdell, Flamecraft, Parks, Cascadia, Wingspan), every
+  figure labeled `[ESTIMATE]`/`[UNVERIFIED]` with a verification path (Kicktraq / the platform's own page).
+- **Audience-building plan with concrete first-12-month milestones:** §7.1 (month-by-month table covering
+  BGG, PnP/TTS, conventions/Protospiel, reviewer outreach, email list), run explicitly in parallel with
+  Balance.md §9's five playtest sessions rather than after them.
+- **Recommendation with decision date and triggers:** §8.
+- **Risks with mitigations:** §9.
+- **OQ-004 / OQ-014 / OQ-015 ownership:** OQ-004 addressed in §8 (recommendation + trigger, left open for
+  the author's actual call, matching how D-042 was handled); OQ-014 given concrete, ordered steps in §7.2;
+  OQ-015 given a concrete trigger condition in §7.3.
 
-## Held for later passes
-The actual manufacturer quote (§2's Top-3-next-steps item 3) and the OQ-003 price-tier decision itself
-are the author's/`business` lane's to make jointly — this pass sharpens the number, doesn't close it,
-per the task's framing that OQ-003 is shared with `b-0005`.
+## 3. Self-critique and what changed in response
 
-## Confidence
-High on the manifest, SKU count, and accessibility spec — these follow directly from the locked card
-list and theme names. Medium on the dollar figures in §2/§3 — every band is a stated industry-rule-of-
-thumb assumption, not a quote, with freight/tariff named as the least stable inputs. Medium on the
-reduction-pass savings deltas — directionally right, exact numbers will move once a real quote exists.
-High on sequencing a cheap DIY prototype before a nicer proof, following directly from Balance.md's own
-medium-confidence rating on its numbers.
+The strongest points found in stage 3, and the fix applied in the final document:
+
+1. **Art budget was invisible everywhere.** No design doc budgets final illustration — Theme.md D-006
+   defers image generation and Components.md's prototype path is explicitly flat-color. A crowdfunding
+   campaign cannot launch on flat-color prototype art. **Fix:** added an explicit $10K–$15K art & design
+   line into the funding-goal math (§4.3, §5.1) and flagged it as the single largest unbudgeted gap in
+   §1.4 and again in §10's open questions — this is arguably the most load-bearing finding in the whole
+   pass.
+2. **International fulfillment was originally hand-waved as "a separate zone-priced line" with no
+   numbers**, even though the acceptance criteria explicitly asks for fulfillment by region and VAT/duty
+   exposure. **Fix:** built an actual region-by-region table (§4.2) covering US/Canada/EU-UK (DDP vs.
+   DDU trade-off, with the VAT/handling-fee mechanic explained)/rest-of-world, each labeled as a ranged
+   assumption.
+3. **The "failure buffer" acceptance criterion was under-addressed** beyond a generic manufacturing
+   contingency. **Fix:** added an explicit distinction between pre-launch at-risk capital (100% lost if
+   the all-or-nothing campaign doesn't fund) and post-funding manufacturing capital (§5.3's table), plus
+   a named stress test on the Low scenario showing a "funded" campaign can still be barely profitable.
+4. **Scenario numbers initially risked being picked to make the math look clean** rather than being
+   independently anchored. **Fix:** rebuilt the low/base/high scenarios as explicit multiples (105%/
+   230%/430%) of the calculated funding goal, so the scenario story and the goal math are internally
+   consistent rather than two independently-invented sets of numbers, and tied run-size selection
+   directly to Components.md's own three tiers.
+5. **The recommendation risked being a non-committal "it depends."** **Fix:** gave a specific decision
+   date (2027-06-30) tied to the milestone calendar, with named trigger conditions in both directions
+   (flip to self-publish vs. take a licensing offer), rather than leaving the choice open-ended.
+6. **A real cross-document tension was going unnoticed:** `yinzer-games-business-plan.md` models the same
+   founder as a full-time, 3-year solo video-game studio; this tabletop plan's own timeline (10–16 months
+   of real personal labor) is not free time. **Fix:** stated this explicitly in §1.3 and again in §10 as
+   an open question neither document resolves, rather than silently assuming it away.
+
+## 4. Key assumptions and numbers a human must verify before relying on them
+
+- **Everything in §6 (comparable campaign backers/dollars)** — drawn from general knowledge, not checked
+  against each campaign's own Kickstarter/Kicktraq page. Verify before citing any of these numbers
+  publicly (e.g., in a sell sheet).
+- **Royalty rate (3–8%) and its base ($14–$19.50/unit)** — industry-cited but unverified; the actual
+  number in any real offer supersedes this entirely.
+- **Average pledge ($36), backer counts, and platform/fee percentages (~10%)** — Kickstarter's own
+  current fee schedule should be checked at kickstarter.com before finalizing a funding goal.
+- **The art & design budget ($10K–$15K)** — this plan's own estimate, with no real quote behind it at
+  all; get 2–3 real illustrator quotes before treating this as more than a placeholder.
+- **The title collision-check (OQ-014) and the manufacturer/fulfillment-partner quotes (OQ-015)** — not
+  run by this pass; scheduled with concrete steps and trigger dates only.
+
+## 5. Open questions / decisions left for the human
+
+See §10 of the plan document directly:
+1. Whether $6K–$13K in self-publish risk capital exists separately from the video-game studio's own
+   savings runway.
+2. Who illustrates the game and at what real price.
+3. Whether this tabletop track runs alongside or instead of the video-game studio's full-time timeline.
+4. The three `[VERIFY]` items (title search, manufacturer quote, fulfillment-partner quote) — scheduled,
+   not resolved.
+
+**Suggested next step:** run the OQ-014 title collision-check (§7.2) this month — it's the cheapest,
+fastest-to-resolve item in the whole plan and blocks any public use of the working title.
