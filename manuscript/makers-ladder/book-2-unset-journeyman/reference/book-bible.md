@@ -15,12 +15,15 @@
   through Batch 5 (2026-08-29) and the Ch20 fold (2026-09-10). Its final chapter is now **Ch42**
   "The Far Side"; Book 1 chapter numbers quoted in the outline's promises ledger predate the fold
   (subtract one from any Book 1 reference ≥ Ch21). It is the immediate antecedent of every Book 2 chapter.
-- **Book 2 outline:** `reference/book-2-outline.md` — chief-editor proposal, rev2 (chapter
-  entries individualized for the drafting pipeline). **RATIFICATION STATE: PENDING.** Its ten
-  numbered Open Decisions have not yet been ruled on by the author. Per the locked workflow
-  (shape agreement before drafting), **no chapter may be drafted to a decision that is still
-  open** — a drafter that reaches an un-ruled decision must flag `[FOR THE AUTHOR]` and stop
-  rather than invent canon. Decisions that are ruled will appear in the Decisions Log below.
+- **Book 2 outline:** `reference/book-2-outline.md` — **rev3, RATIFIED 2026-09-10.** The
+  author ruled on all ten Open Decisions (rulings recorded in the outline's §"The ten rulings"
+  and in the Decisions Log below). rev3 is the approved shape: **46 chapters**, ~140k words at
+  the house chapter length. Drafting is open. A drafter drafts *to* the chapter entry — it does
+  not redesign it. Anything the outline marks **[proposal]** (currently: the third's chosen name
+  "Aldous"; the cousin "Ambry"; the estate "Greymere"; Ash's metaphor field) is a chief-editor
+  suggestion the author has NOT yet approved — a drafter that reaches one flags it
+  `[FOR THE AUTHOR]` and writes around it (a name can be withheld on the page for a chapter
+  without inventing canon).
 - **Chapter files:** `manuscript/makers-ladder/book-2-unset-journeyman/chapters/chapter-NN.md`
   (none drafted yet). Drafting is sequential — one chapter at a time, in order, via the
   `draft` / `next` pipeline labels on the `book2` lane (`config.json`).
@@ -45,3 +48,35 @@ history — only add.*
 - [2026-09-10] Book 2 lane (`book2`) created; outline rev2 filed; **ten Open Decisions
   awaiting the author's ruling** (see outline §Open Decisions — chief-editor recommendations
   marked ★). Drafting gated on ratification.
+- [2026-09-10] **Outline rev3 RATIFIED.** The author ruled on the ten Open Decisions one by one
+  (rulings verbatim in the outline §"The ten rulings"; summarized here as Book-2 canon):
+  - **OD1** The far-side bootprints are the **original Oscar Alberich's** — he fell *through*;
+    his last print faces the wall, waiting for a door. Identity lands at Ch41.
+  - **OD2** The living antagonist is **the third copy, alive** (the grimoire's author; refused
+    Setting an age before Oscar; hidden from the line since). Woven in as further dimensions, per
+    the author ("multi-dimensional… lots going on as we leave Book 1… a world that supports
+    exploration if the series does well"): **the Redactor re-leashed** as the Provost's corrector
+    at Everset, and **the line's living heirs** (Ash's kin, who run the estate's paper and have
+    provisioned a twelfth cradle). Three tiers of opposition, three reasons to want the door.
+  - **OD3** What the marked are for: **estate law.** The copies are the line's property, made to
+    be finished into the master's continuation; the writ economy is inheritance paperwork.
+  - **OD4** Wick returns with **the coal gone for good**; **the door survives, closed and hers.**
+    No fire; she is the only living key to the far side.
+  - **OD5** Door mechanics **ratified as designed** (the Fair House wound + the token as key +
+    Cael's door-rite + Oscar fraying to hold it). **Nobody crosses.** The rescue is a call.
+  - **OD6** Book 3 hook: **the master's twin blank comes out in Wick's pocket and leans AWAY
+    from her, toward the sealed wound.**
+  - **OD7** **Ash gets her own POV chapters** (Ch10, 17, 26, 33, 45) — a separate thread that
+    does not clearly connect to the crew's at first and connects later (meets theirs at Ch26).
+    The 2026-06-30 lock stands: **she never travels with the crew**; her thread happens elsewhere.
+  - **OD8** **Tarn gets two POV chapters** (Ch6, Ch35) — "fewer, one or two."
+  - **OD9** **The Provost of the Seat is named Polperro.**
+  - **OD10** Length decided by rev3: **46 chapters.**
+  - POV ledger, rev3: Oscar 15 · Wick 10 (Ch1, 7, 14, 20, 28, 32, 38, 41, 42, 46) · Kessa 10 ·
+    Ash 5 · Cael 4 · Tarn 2. One POV per chapter (series lock).
+  - **Still [proposal], not canon:** the names "Aldous" (the third), "Ambry" (the heir cousin),
+    "Greymere" (the estate), and Ash's metaphor field. The author rules on these before first
+    page use; until then a drafter withholds the name on the page rather than invent one.
+- [2026-09-10] `b2-ch01-draft` flipped to `status: ready` on the author's instruction ("ready it
+  now") — the first Book 2 chapter drafts on the next `book2` run. Sequential from here via the
+  `next` label.
