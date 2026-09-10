@@ -1,122 +1,110 @@
-## Chapter Twenty-One — The Cull
+## Chapter Twenty-One — The Bright Market
 
-The country stopped pretending to be on anyone's side three days south of the camp where Wick had handed Oscar the first piece of her fear.
+They came down into Oressa at dusk, and Oscar understood within a hundred paces that he had never really seen what the dead world could do.
 
-They'd been climbing a long bare ridge since morning, the green country falling away behind them and a harder, older land rising ahead, stone bones breaking through the turf, the makers' work everywhere now, not buried under ice as it had been in the north but lying open under the southern sun, weathered and silent and vast. And at the top of the ridge the road did a thing roads do when they reach a place people are afraid of: it split.
+He'd thought he had. Then the switchback brought them around the shoulder of the valley and the city opened below, wall to wall, tier on tier of white stone climbing both slopes of a river gorge. Oscar saw a place that should not have been able to stand, standing anyway, because the makers' work was holding it up.
 
-The right fork was new-cut and well-kept and ran down toward a gate. A real gate, a House toll-house, squat and clean, with a banner and a brazier and a short queue of wagons, and beyond it the road carried on smooth and safe and southward through a cutting in the hills. The left fork was old. It was the maker-road itself, the original, dead straight and dead level, running into a deep notch in the ridge where the stone bones clustered thick, and across its mouth someone had long ago set a leaning post with a board nailed to it, and the board said, in faded paint, in three languages, the same short word.
+The bridges stopped him first. There were dozens of them strung across the gorge, and every one was *wrong*: too long, too slight, arcing over spans no stone could have carried, some no wider than a footpath and leaping a quarter-mile of open air with nothing beneath them at all. They did not stand on stone. He could see it even with his looking clamped shut. Each bridge stood on a *figure,* an old working sunk into its first course and never allowed to fail, holding up a road full of carts and evening crowds on nothing but the deep current's patient insistence that it remain a bridge. The makers who'd made the promise were dust. The promise was still keeping.
 
-Kessa read it. "*Cull.*"
+And the bridges were only the start of it. Coming down into the streets, Oscar found the dead world doing Oressa's every labor, casual as breathing. Barges climbed the river against its own current with no oar and no sail, hulls humming with something worked deep in the keel. A florist's whole shopfront of cut blooms stood in the warm dusk refusing to wilt, each petal held in the hour it was picked by a working that would not let time touch it. Along the quay, water ran *upward* in tall glass columns, climbing to the cisterns at the top of the tiers in flat defiance of everything water was meant to do. A bell somewhere counted the hour with no hand on its rope. A bakery down a side lane breathed out heat from an oven that had not been lit in living memory and never would be lit again. In the north a single working had been a miracle a whole crew died to drag out of the ice; here there were thousands of them doing the chores, and the city stepped over them and under them and past them without a glance, the way a man walks past his own heartbeat and never thinks to thank it for the work.
 
-The toll-keeper had come out to watch them choose, a bored man with a ledger, and he called up the slope, friendly enough. "Toll road's two bits a head, and your papers. Quick and clean, in by dark. Or you take the free road, but it's free for a reason. Folk call it the Cull. Old maker-place in the notch, still lit, still mean—it'll let some through and keep some, and it don't take coin or papers, just whoever's slow." He tipped his head at a heap against the toll-house wall, casual as firewood: buckles, a wheel-rim, a hand-barrow with its front end gone, a boot stiff with weather. "House sends a cart up spring and fall for what the notch leaves. Waste not." He shrugged, the shrug of a man who'd watched the choice made a thousand times. "Papered folk take the toll. Everybody else takes their chances with the old gods' leavings. Your road, friends."
+"Hearth keep us," Cael said, very quietly, and for once he didn't sound comforted by his own faith. He sounded like a man doing a sum he didn't like the answer to.
 
-*Papered folk take the toll.* Oscar looked down at the clean House gate and its short polite queue, at the brazier and the banner and the ledger waiting to write down every face that passed, and understood the country in one cold glance of his own. The safe road was the House's road. It cost coin, which they had, and papers, which they did not. And even if they'd forged papers, it cost a slow walk past a brazier and a clerk and a board where, for all Oscar knew, a description was pinned of a silver-haired man with a young face. The toll road was a net with manners. And the only alternative the country offered the un-papered, the marked, the poor, the running, was a notch in the hills the locals had named for what it did to the slow.
+Wick said nothing at all. She'd stopped at the lip of the descent and was staring down at all of it with an expression Oscar was learning to read on her, the one that wasn't wonder anymore and wasn't quite rage, the one that had started at a bowl of lamps in Hollet's Cross and had been getting heavier ever since. He didn't tell her it wasn't fair. She knew. They both knew. There wasn't anything to do with the knowing except carry it down the hill into the lights.
 
-Nobody was chasing them. They didn't need to.
+"We need money, and we need to know the road on past here, and we need both without anybody looking at us twice," Kessa said, pulling them back to the only thing that helped, which was the next small task. "So we keep the cloaks up, we keep the sword wrapped, and we keep our heads down. In, and through, and out." She glanced at Oscar. "And you keep your eyes down. Especially you."
 
-"We can't take the toll," Kessa said. Flat. She'd made the same call. "Brazier, clerk, a look at every face. That's exactly the kind of slow, careful look we can't sit still for."
-
-"No," Oscar agreed.
-
-Wick was staring at the board with the word on it. "So we take the one called *Cull.*"
-
-"We take the one called Cull," Oscar said, "and we don't be slow."
+"Especially me," Oscar agreed, and meant it, and discovered within the first hundred paces of the city proper that it was going to be the hardest thing he'd done since the Cull.
 
 ---
 
-The notch swallowed the daylight by degrees, and the working woke when they were well inside it, and Oscar felt it before it fired, because feeling the shape of made things before they bit was the one talent that had never let him down.
+Because Oressa, to a reader, was not a city. It was a scream.
 
-It came up out of the stone all around them as a *pressure*: the deep current gathered and braced and aimed, an old, old figure folded into the walls of the notch and still running after centuries the way a heart runs, without thought, without mercy, without the faintest idea that the makers who'd set it here were dust and the war it guarded against was over. He'd half-expected a trap, a deadfall, a pit. This was worse and stranger and, the instant he read it, horribly familiar.
+He hadn't understood that it would be like this. Up north a worked thing had been rare enough that reading one was like hearing a single clear bell in a silent room. Here there were ten thousand of them packed shoulder to shoulder: the strongboxes and the cold-boxes, the locks that knew their own owners, the unwilting flowers and the self-tolling bells and a thousand workings he had no name for, every single one a small insistent voice saying *read me, read me, here is how I'm made, here is my seam, here is the clever thing the maker did.* And Oscar's gift, which had spent a lifetime starved, wanted to answer all of them at once. Keeping it shut was like keeping his eyes closed in a room where everything was screaming his name. It could be done. It just took everything, every step, a constant clenched effort not to *look,* and within an hour he had a headache like a spike through the eye.
 
-"Down," he said, and then it fired, and he knew the working the way you know your own voice played back wrong.
+The money was the first wall they hit, and it taught Oscar something the lights hadn't.
 
-It was the lance.
+They'd given Marrow's haul back to Marrow, which had been right and had left them poor, and four travelers who couldn't buy bread drew more eyes than four who could. So before anything else Kessa took them to the low end of the bridge district, where the bonded lenders kept their narrow bright shops, to turn what little they had into coin. The little was the trouble.
 
-His lance, the first figure he'd ever made, the one that had failed him in a buried tower and worked at last in Marrow, the bolt of written force that flew true and struck hard. This was that, and it was that as a war-galley is a rowboat: the same figure, the same clean hateful logic, scored vast and deep and permanent into the bones of the world by hands that had built it to kill for a thousand years without tiring. A bolt of cold force lashed down the notch from a seam in the high stone, faster than a thrown spear, and blew a fist-sized crater in the road where Cael had been standing a half-second before he threw himself flat.
+She laid it on the lender's counter while Oscar and Wick stood back with their hoods up: a few honest northern coins, a twist of good furs, and the small old-world oddments of a salvage crew: a striker that needed no flint, a clasp off a dead man's cold-box, the everyday miracles of people who lived off the dead world's leavings.
 
-"It's a battery," Oscar said, flat on the cold stone, his heart going like a hammer, his reader's eye already racing over the working because that was the only thing that was going to get them out. "Defensive. It fires at movement—down the length of the notch—" another bolt, from a different seam, and a third, the air cracking with them, the stone smoking where they struck "—in a *sweep,* there's a rhythm, it's old and it's stupid and it can't think, it just *sweeps*—"
+The lender was a precise, soft-handed woman with a House license framed behind her and a loupe on a chain, and she went through it all with the bored courtesy of someone who'd seen every kind of desperate. The furs she would take. The coin she would change, at a bite. The oddments she turned to the light one at a time, and on each of them, near a seam, the loupe found the same small thing.
 
-He read it as he'd read the tree and the hush and the lamp, only faster than he'd ever read anything, because the cost of a slow read here was one of them in a crater. And it gave itself up to him, because it was old and simple and built before subtlety: the battery fired in a sweeping sequence, seam to seam down the notch, a wave of bolts that crossed the road in a pattern as fixed as a millwheel, lethal where the wave was, and for a breath behind it, dead empty.
+The loop. The House's seal, stamped into the striker and the clasp the way it was stamped into the city's coin and Oscar's own sword, because the loop was on everything the House had ever touched, and the House had touched all of it.
 
-"On me," he said. "When I say, and only when I say, and *fast.* It can't see. It can't think. It only sweeps. We go behind the wave." He found the count of it, the awful patient millwheel beat of a thing that had been killing the slow in this notch since before his oldest borrowed memory. "Now—*move*—"
+"Sealed stock," the lender said, and her courtesy didn't waver, which was its own kind of warning. "Every worked thing that comes out of the ground is registered to the House before it's ever sold. That's what the seal is for. I can't take sealed stock across my counter without filing the transfer: where it came from, whose hands it passed through, who's selling it now." She set the striker down the way you'd set down something catching. "It's the law. Everything sealed belongs to a ledger somewhere, and the ledger does like to know when a thing changes hands. Have you papers? A bill of sale, a salvage license, a chain of names?"
 
-They moved. He took them down the notch in lurches, a dozen frantic strides and then flat against the stone while the wave of force cracked past overhead close enough to feel the cold of it, then up and on, his whole mind given over to the count, to the millwheel, to the gaps: Kessa silent and fast in her stolen boots, Wick low and quick and holding her fire banked even now, even here, Cael bringing up the rear with his bulk that was never quite fast enough.
+"Lost on the road," Kessa said, smooth.
 
-In the flat-press gaps, waiting for the wave, there was nothing to do but breathe and look, and what there was to look at was the lee of the stone: old strikes pocking the walls, and under them the leavings no House cart had thought worth the climb — a sledge fused to the rock at one corner, shafts gone to grey splinters; a cook-pot burst open like fruit; one shoe, small, stiff as bark. The slow. Nobody had ever come back for any of it, because coming back meant being slow twice.
+"Of course they were." The lender's smile was small and held no malice and no help at all. "Then I can't touch them, and no licensed house in Oressa can either, and were I you I'd tuck them well out of sight before someone less kind than I am asks why a party of northerners is carrying the House's property with no chain behind it. The furs and the coin, I'll take. The rest is worth something only to people who don't keep ledgers." A delicate shrug. "I am not one of those."
 
-And on the last gap, the one that should have carried them out into the light, the rhythm changed.
+It wasn't only Oscar's reading that marked them. Everything they'd carried south wore the loop, and the seal that made a thing precious in the north made it poison here. They walked back out of the lender's shop with a fistful of bitten coin and a warning, which Oscar was beginning to suspect were the city's two great exports.
 
-The thing had no malice; it had a flaw, a worn place in a working a thousand years old, and on that one beat a seam that should have fired late fired early instead, out of sequence, a single bolt screaming down the notch into the gap that was supposed to be safe. Into the gap where Cael was, a half-step behind, too slow, his slow kind body that had spent its whole life a half-step toward other people's danger now a half-step short of his own.
+He found Wick watching him as they came back out onto the bridge.
 
-There was no time to think and Oscar didn't. He had failed this figure twice on the open road and gone cold and gasping for the failure, and there was no part of his mind that had time to remember that, which was, he understood later, the only reason it worked. He flung out his hand and he *wrote*: the guard, the brace, the snap of force between a man and the blow he couldn't dodge—and where two days ago the figure had come apart in his fingers, now, with Cael's death a finger's breadth and a heartbeat away, it held.
+"You've got the face," Wick said.
 
-It came into being in the air in front of Cael as a hard cold plane, edge-on to the bolt, no bigger than a door, there for less than an instant—and the maker-lance struck it and *skidded,* a screaming line of force turned a hand's width wide, close enough that it scorched Cael's sleeve and blew a crater in the wall beside his head instead of through it. Then the plane was gone, and the wave had passed, and the gap was empty and safe as it should have been, and the cost arrived all at once.
+"What face."
 
-It took Oscar at the knees. The brace had cost more than anything he'd made, more than the binding in the square, and a good part of his reserve went out of him like water out of a cracked jug, so that he was suddenly on the stone without remembering having fallen, the notch tilting, his hands numb. Not the bottom. Close enough to it, though, and fast enough, that the light swam for a breath before it steadied. But he was awake. And down the notch, in the returned light at the far mouth of the Cull, Cael was alive, on his feet, staring at the scorched stone where his head had been and then at Oscar with an expression Oscar had never seen on him.
+"The one I have." She wasn't smiling, quite, but there was something in it, a grim little flicker of fellow-feeling. "The holding face. Like there's something in you that wants out and the only thing standing in its way is you being stubborn about it every single second." She nodded at the screaming bright city. "It's worse here, isn't it. For you. All of this."
 
-They got out of the notch the rest of the way at a stagger, Kessa under one of Oscar's arms and Wick under the other, the battery sweeping its empty patient death behind them at things that were no longer there.
+"It's a great deal worse here," Oscar admitted, because he didn't lie to her, and because she'd handed him a true thing first, and he could do the same. "Every worked thing in this city is asking to be read, and I have spent my whole short stupid life wanting nothing so much as to read things, and I have to walk through the middle of it pretending I'm a man who can't." He pressed the heel of his hand against his eye. "I keep thinking it'll get easier. It does not get easier."
+
+"No," Wick agreed, with the flat authority of an expert. "It doesn't. You just get better at being tired." And she said it without any self-pity at all, just one professional to another. It should have been lonely. Somehow, sharing it, it was almost the opposite.
+
+It lasted until the glass.
 
 ---
 
-They sat in the grass on the far side a long time while Oscar's hands came back.
+He never did decide, afterward, whether it was vanity or instinct, and he suspected the honest answer was that for him there had never been much daylight between the two.
 
-"You stood between," Cael said, finally. He said it quietly, looking at his scorched sleeve, at the place on his arm where the cloth had burned. "That's—I'm the one who does that. That's the only thing I'm for. And you—" He stopped. Started again. "Thank you. The last person who held a door for me was Doss. You know how that ended for him."
+They'd come into a square of high-end brokers, the kind of street where relics didn't sit in bowls but behind glass, lit and labeled and priced like jewels, each with its little House-stamped certificate of assay. Oscar kept his eyes down and his looking shut and his headache roaring, and he was doing fine, he was doing genuinely fine, right up until they passed a window where a single object sat alone on black velvet under its own private light: a small, plain, ancient ring of grey metal, unlovely, unjeweled, the cheapest-looking thing on the whole gleaming street.
 
-"You'd have done it for any of us," Oscar said, his voice thin. "I just got there first, the once."
+And it was *wrong.*
 
-"You got there first," Cael repeated softly. He looked at Oscar a while—grey and worn through, hands not yet steady, and *breathing*—and something eased in him, as it had eased in the square, another inch of the old weight setting down. "Well," he said, rough. "There's a thing I didn't think I'd see. I'll have to get used to that one too."
+He felt it before he looked, the way you feel a missing stair. Everything else in the city was screaming *read me*; this one thing was screaming nothing at all. It sat behind the glass being a hole in the noise, a worked thing that gave back silence, and that silence was so strange, so against everything the city was, that his whole reader's soul lurched toward it before his discipline could close the door—*what are you, why are you quiet, how is a worked thing quiet*—and for less than a heartbeat, less time than it had taken the maker-battery to misfire, Oscar looked. Really looked. Deep, the way he'd looked into the Cull.
 
-Wick was looking at Oscar with frank professional interest, one student grading another. "That was the new one. The wall you've been trying for, that keeps falling apart on you."
+He got almost nothing. The thing was a blank, a beautifully made nothing, beautiful precisely in the way it gave back nothing, and the not-getting was so fascinating that he'd have stood there reading the absence of it for an hour if a hand hadn't closed on his arm.
 
-"It was."
+"Eyes," Kessa breathed, and pulled, and Oscar surfaced into the bright street to find that he had made a mistake.
 
-"It didn't fall apart."
+Two stalls down, a woman in a House-stamped reader's apron had gone rigid over the relic she'd been assaying for a customer. She'd dropped it. She was turning, slowly, scanning the street, her face wearing the exact expression Oscar imagined his own wore when he felt a working go off nearby—*someone just read something, read it deep, read it the way the licensed careful label-deep readers of this careful city never read anything*—and her eyes were moving stall to stall, face to face, hunting for the source of the noise that no one but another reader could have heard.
 
-"No," Oscar said, and let himself have it, the fierce small thing he'd filed away on the road for when there was a *later.* Because this was the later, sitting wrung-out in the grass with Cael alive beside him and the brace finally, *finally* landed when it had to. It had cost him everything he had and it had held a maker's killing-bolt a hand's width off a good man's skull. He was getting better, and a man could stand on that. "No. It didn't fall apart."
+He'd told himself the city was too loud for one more voice to matter. He'd been wrong; a whisper in the right register cuts straight through a roar.
 
-He looked back at the notch, at the Cull, at the old indifferent battery still sweeping its patient death over an empty road. The same hands that built it had built him. His deadliest trick was a splinter of their war. The makers were dust and their machine still killed.
+"Walk," Kessa said, low and even, already steering them, not fast, fast was what got you caught. "Don't look at her. Don't look at anything. Walk like four bored people who are late for supper." Her grip on Oscar's arm was iron. Cael had drifted to put his bulk between them and the reader's line of sight without seeming to. Wick had her hand in her pocket on the token and her chin down. They walked.
 
-But he didn't stand to leave.
+The reader's gaze swept the street. Oscar felt it pass over them, just a frightened licensed professional looking for a colleague who shouldn't exist, and he did the only thing he could think of, which was to throw the door shut so hard and so completely that for the first time since they'd entered the city he wasn't reading anything at all, made himself a blank, a hole in her noise the way the grey ring had been a hole in his. He didn't know if it worked the way he meant it to. He only knew the gaze passed over the four bored late-for-supper travelers and snagged, and hesitated—
 
-When his hands had come back enough to trust, he got up and turned the wrong way, back toward the notch, toward the Cull, toward the patient sweep of killing he could still hear cracking over the empty road, and Kessa read his face before he'd said a word.
+—and a guard in House colors stepped up to the reader and said something, and she turned to answer him, pointing, her mouth moving fast, and the moment broke, and Kessa took them around the corner at the same bored pace and then, the instant they were out of the square, very much not at a bored pace at all.
 
-"No," she said, flat.
+---
 
-"It'll kill the next ones."
+They went down.
 
-"It'll kill the next ones whether or not you spend yourself into the ground over it tonight. You can barely stand." She stepped in front of him, not touching, just there. "And unmaking a maker-work the size of that, on the main road south, where any licensed reader within a day's ride would feel a working that old come apart. That's not quiet, Oscar. That's the loudest thing you could possibly do. You'd be writing your own name on this road in letters a blind man could read. *An unlicensed reader strong enough to unstitch the Cull came through here.* You think your polite friend won't hear about it?"
+A city built up a valley's two sides had a bright tiered top, where the brokers' glass glittered and the House's halls stood white in the worked light, and a bottom, down by the river where the light got thin and the streets got narrow and the smell of the place changed from incense to tar and fish and people, and you could feel, descending, the exact moment you passed out of the part of Oressa that the House cared to keep clean and into the part that simply kept itself. They didn't stop until they were three twisting streets into the low town, in the doorway of a shut-up cooperage, breathing hard.
 
-It was all true. That was the trouble with Kessa; she was always all true.
+Down here the worked light gave out and ordinary fire took over: tallow lamps, pitch torches, the red flicker of cookfires in open doorways. And the people changed with it. Up top, Oressa had been all clean fronts and bored courtesy. Down here were the faces the House's light didn't fall on: dockhands and gut-cutters, out-of-luck salvagers come south chasing a wage that hadn't been there, the maimed and the marked and the simply poor. It should have felt dangerous. It mostly felt familiar. These were Marrow's people, Oscar thought, the very same, just shoved further down the same long bright pipe. And he found, oddly, that he breathed easier among them than he had under all that beautiful light.
 
-"The next person who can't afford the toll is a person," Cael said quietly, from the grass. "That's the whole of it, for me. I won't pretend it isn't." He didn't push. He just set it down beside Kessa's truth, the same as he set his body in gaps, and let the two of them sit there together.
+"That," Kessa said, "is the last time you read anything in this city. I don't care how quiet it is. I don't care if it's screaming your mother's name."
 
-Oscar looked at the notch. The one inheritance these hands had left him was the gift to read how a thing was made—
+"I don't have a mother," Oscar said, on reflex, and then, because she was right and he knew she was right and the headache and the fear had scoured the cleverness out of him, "I know. I know. I couldn't—" He stopped, and made himself say the true and humbling thing instead of the clever deflecting one, because that was a muscle too and he was trying to build it. "I couldn't help it. That's the part that frightens me, Kessa. It wasn't a choice. The thing I am reached out before the man I'm trying to be could stop it. In a city full of people whose entire job is to listen for exactly that." He leaned his head back against the cooperage door. "Brida said my gift was a noose down here. I thought I understood her. I didn't. It's worse than a noose. A noose you can see coming. This is just—me. Being what I am, loudly, every second I'm not strangling it."
 
-—and to take it apart.
+Nobody said anything for a moment. Then Wick, quietly: "So learn to be quiet on purpose. Not strangling it. Actually quiet." She was looking at him with that fellow-feeling again, fiercer now. "You threw yourself shut back there, at the end. I felt it. I don't read like you, but I felt the air change, you went still in the wrong way, like a coal banked right down to nothing. That's the thing. That's the trick. Not holding the door shut so hard it takes everything you've got. *Closing* it. There's a difference. I can teach you that one, maybe, for once, instead of the other way round."
 
-"I know it's loud," he said. "I'm going to do it anyway. Not because it's smart. Because I can read exactly how these hands built this thing to last forever and never wonder who it killed, and I am so *tired* of being the kind of thing they made." He looked at Kessa. "So mark the road with my name. Let him read it. Let all of them read it—*here came a made thing that unmakes what you build.* I'd rather they knew that than knew nothing about me at all."
+And that landed somewhere Oscar hadn't expected, because she was right, and because it was the first time anyone had offered to teach *him* anything since he'd clawed up out of the ice knowing too much and not enough. A way to go quiet, go blank, go unread, not by force but by will: he was going to need that before this road was through. He filed it where he filed the brace and the lance, in the drawer marked *not yet, but soon, and necessary.*
 
-Kessa held his eye a moment longer. Then she stepped aside—not agreement, exactly, but the particular grace of someone who's said her piece and won't make you fight her for the thing you've decided to bleed a little over. "Be fast," she said. "And don't fall into it."
+"I'd like that," he said. "Genuinely. I'd like to be taught."
 
-He went to the mouth of the notch, to the edge of the sweep where the bolts didn't quite reach, and he looked.
+"Good," Wick said, pleased and trying not to show it. "Because you're a beacon, and we have to get all the way through this city and out the other side, and right now you light up every time you forget to be careful, and careful isn't a thing you can do with your jaw clenched for a week straight."
 
-Not as he'd looked crossing it, fast and frightened, reading just enough of the rhythm to live. This time he opened the looking all the way, deeper than he had ever taken it, down past the bolts and the worn flawed beat and into the working itself: the thousand-year logic of the thing, read like a sentence in a language you were only beginning to dream in. It cost. It cost in a way that scared him, his reserve draining down and down, past tiredness, to the scraped bottom of what he'd brought, further than he had ever taken the looking on purpose. A season ago he could not have done this. A season ago he could read a lamp. Now he read a war-engine down to its bones. And somewhere in the depths of it he found the thing he was hunting: the keystone, the single anchoring figure the makers had tied first and hung everything else upon, the knot that held the whole battery in the world.
+"She's right," Kessa said. "Which means we don't go back up top. Not through the brokers, not past the readers, not anywhere near the House's clean streets. We find what we need down here, in the part of the city that doesn't ask questions, and we find a way south that doesn't run through an assay hall." She looked around the narrow tar-smelling street, at the low town gathering its evening around them. And somewhere off through the crooked streets, carried up from the river-flats on the cooling air, came a sound Oscar didn't expect: a roar. A crowd. Thousands of voices going up together in the particular animal way crowds did when they were watching something bleed.
 
-He set his grip to it, and pulled.
+Kessa's head turned toward it, and so did Cael's, the two of them reading the sound the way Oscar read workings.
 
-For one terrible instant the working *fought*—not with malice, it had none, but as a structure fights, the whole vast weight of a thousand years of aimed force bearing down on the one stroke he was unpicking. The battery fired wild as it felt its center go, bolts screaming off the walls in every direction at once. Oscar held the unstitching, and did not flinch, and drew the knot the rest of the way loose.
+"Fighting pits," Cael said, with distaste and with recognition both. "Of course there's fighting pits. Where there's a city this rich, there's always somewhere the poor can go to watch each other die for the price of a seat." He frowned toward the roar. "Bad place."
 
-The Cull came undone. It didn't explode; it *stopped,* the way a held breath stops. The deep current that had been gathered and aimed in those stones since before there was a south to walk to simply let go: unwound, dispersed, sank back into the cold river it had been drawn from, and the notch went silent. Truly silent, after a thousand years. The sweep was gone. The road through was only a road.
+"Bad place," Kessa agreed. "Full of bad people who don't ask questions and don't talk to the House, and know every back way out of a city the House owns." She looked at Oscar, and there was no enthusiasm in it, just the flat count of a tracker who'd run out of clean roads. "Which is exactly the kind of people we need right now."
 
-The last of his reserve went out with the working, and he would have fallen if Cael hadn't already been there—Cael, who was always there, who got to the gap first now that he'd learned it could be done, and the big man took his weight without a word.
-
-"It's dead," Wick said, almost reverent, come up beside them to stare down the quiet notch. "You killed it."
-
-"I unmade it," Oscar said, which felt like a different and more important verb, though he was too far gone to say why. "Anyone can walk it now. Toll or none. Papers or none." Down in the notch the light fell ordinary and clean on stone that had been a killing-field an hour before. "First road I've ever opened instead of run down. I think I needed to do one of those."
-
-They camped at the mouth of the silent Cull that night, because Oscar could not have walked another step, and Kessa took the first watch facing south down the dead notch and said nothing more about names written on roads. She'd spoken her piece. She'd let him do the thing anyway.
-
-In the morning he could stand, and they went on.
-
-And when they came up over the next rise, the land opened, and far off down the long bright valley—white walls and bridges and a hundred thin threads of smoke, bigger than Marrow, bigger than anything Wick had ever seen or Oscar could remember—stood the first true city of the south.
+The roar went up again, down in the dark by the river, and Oscar pulled his hood lower over his silver hair and his clenched-shut, traitorous, screaming gift, and went down toward it, to look for help among the people the House had thrown away.
 

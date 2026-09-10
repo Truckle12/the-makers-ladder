@@ -1,189 +1,245 @@
-## Chapter Forty-One — What She Gives
+## Chapter Forty-One — Set Aside
 
-Ten wasn't a number.
+The city didn't fall down.
 
-Wick had been cheating about that since the waystation. Six was a number. Seven was a number, and nine was sort of a number, a thing you could say out loud and keep walking with your teeth together. Ten was just the word she'd picked back when picking words was a game, for *there is no wall.*
+Kessa had expected it to. She had stood at the rim of a dry basin and watched the light go out of it, and assumed that when the murder stopped the town would go with it. It seemed only fair. A thing held up by a working ought to come down when the working goes.
 
-There was no wall.
+It didn't. Outside the three great doors the lamps were still burning on the bridges. The water was still running in the channels. Somewhere off east a bell went twice, and a dog barked, and the beautiful pale streets of Everset lay there in the evening being beautiful, and did not know.
 
-All her life the far side had been behind something. She'd never seen the something and couldn't say what it was made of, but it had been *there* since before she could talk: a floor under her, a lid on the pot, a thing to lean on. You could lean on it a lot. You could put your hands over a monster's mouth in a grey hollow and lean on it with everything you had.
+She stood in the ruined nave of the Fair House and put the count together.
 
-It was gone.
+Cael on his back on the stone with Tarn's coat under his head, breathing, grey, out cold. Tarn on his heels beside him with one arm strapped and useless, waiting for something to lift. Oscar out in the middle of the empty basin on his knees.
 
-The thing that had wanted her since before she had a word for anything was not behind anything now. It was in the room. It was standing right next to her being *glad.*
+Three.
 
-And out through the great doors the city was coming apart.
+*Four,* she thought. *Four with me.*
 
-Not like a fire. She'd never be able to tell anyone this part. When a house burns you *know.* There's noise and heat and the roof goes and it's the most honest thing in the world. This was the other thing. A bridge with lamps on it stopped being a bridge and there was no bridge and no gap where a bridge had been, just a piece of the world that had never held one. Then a garden. Then a street with people in it, and she saw them, she was going to see them for the rest of her life, one man with a bucket standing in the road looking up —
+She tried to make it be five. She stood there a while and worked at it like a knot, and it would not be five, and she understood that this was going to be the count for the rest of her life.
 
-— and then no street.
-
-The pie stalls were down there.
-
-Her head did its stupid thing, and it did it before anything else: not *the city,* not *thousands of people,* just the three pie stalls and the grandmother on her step and the boys with the hoop.
-
-Her door leaned in. It had been leaning all day. Now it *pointed,* the way a dog's head comes round at a sound, and what came through the thin place with it was not hunger exactly.
-
-It was *interest.*
-
-Two dogs, she'd said, a night ago, in a stand of trees. Two dogs noticing each other through a fence.
-
-There wasn't a fence.
+She looked at her hands. They were fine. Nothing had touched her all day.
 
 ---
 
-And then Oscar walked past her.
+She had to go out and get Oscar in the end, because he wasn't going to come.
 
-That was all. He didn't say anything. He went by her shoulder, close enough that she felt him, and he was walking the way people walk to the front of a room when they've been called, and he was going toward the chair.
+The basin was dry. It was the strangest walk of her life — eleven paces over a floor that had been coming apart under a girl an hour before and was now just stone, whole, cold, with dust already settling on it. The holes had closed. She looked for where they'd been and couldn't find them.
 
-Wick's whole body understood it before any of the rest of her did.
+He was kneeling with both hands flat and his face doing the thing it did when he was reading.
 
 "Oscar."
 
-He kept walking.
+"It's dry," he said. "I want you to understand what that means, because I've been sitting here getting it wrong and I've only just got it right. It isn't broken. Nothing's broken. There's nothing *left.*" He turned one hand over. "The whole valley is one working and the working is still here, every clause of it, perfectly written, running on what's in the pipes. It's a mill with the river gone. The lamps will burn until they don't. The channels will run until they don't. And in a year, or five, or forty, there'll be weeds in the cracks of the most beautiful city anybody ever built, and rats in the granaries, and nobody alive here will know why it started going wrong."
 
-"*Oscar.*"
+"That's not the worst news I've had today."
 
-"It's a hand," he said, not turning round, in the flat careful voice he used when he had stopped being a person and started being a machine that took notes. "It only ever needed a hand on it. There's a chair and it's empty and the thing goes mad when the chair's empty, and it takes about four seconds to sit down."
+"No." He almost laughed. It came out badly. "No, I suppose it isn't."
 
-"You said no." She was moving. She didn't remember starting. "You said it to its *face,* you said *I decline* — "
+She let that stand. Then she said the thing she'd come out to say.
 
-"I did." His voice cracked straight across the middle of it and went back to flat. "And it cost a city. So I'm going to go and be finished, Wick, and I'd rather nobody watched."
+"Get up."
 
-"*Oscar — *"
+"In a minute."
 
-"Kessa," Oscar said. "Hold her."
+"Now. Cael's cold and I'm not carrying two of you."
 
-And Kessa — who had never yet failed to do the thing in front of her — did not move at all, because Kessa had done the sum in the same second he had and come out the same place and hated it, and everyone on that floor knew it.
+He got up. It took three goes and she let him do it himself, because there are men you help and men you insult by helping.
 
-Cael got up.
+Then she saw the rock.
 
-He shouldn't have been able to. He'd been on his knees for a quarter of an hour keeping four people knowing their own names, and he was grey to the lips, and he got his boots under him anyway and put his big body in Oscar's way, and Oscar walked into him and stopped like a man walking into a door.
+It was lying on the stone by the foot of the chair, a small grey disc, absolutely unremarkable, the sort of thing you would step over in a stream-bed. She had watched Wick take it out of her pocket forty times on the road and turn it over and put it back.
 
-"Get out of the road, Cael."
+Kessa picked it up.
+
+It weighed nothing. It felt like nothing. She had handled a hundred stones in a hundred stream-beds and every one had told her something — where it came from, what water had done to it, whether a hand had shaped it. This one told her not one single thing, and she stood in the middle of a dry basin holding it and waited to feel something and did not.
+
+"That's hers," Oscar said.
+
+"I know whose it is."
+
+"Kessa — " and she heard him start to build something, some clever careful hopeful structure, and watched him take it apart again before it got out of his mouth, because he had promised her a long time ago that he would stop doing that. "It reads as nothing. It always has. That's all I've got. I don't know what it is and I'm not going to make you a story out of it tonight."
+
+"Good," Kessa said.
+
+She put it in her inside pocket, the one with the flap, the one that had carried Doss's whetstone for two years and nothing since. Not because it was a lead. Because it had been in a girl's hand this morning and now it was on the floor and somebody ought to pick it up.
+
+---
+
+Cael woke a little before dark and was no use to anybody for an hour, and then he was Cael again, which was worse.
+
+She would have preferred him broken a while longer. Broken men are easy; you feed them and put them where the wind isn't. What he did instead was sit up, and get his bearings, and ask after the three of them one at a time, and then ask, in a perfectly steady voice, whether anyone had gone out onto the stone to look.
+
+"There's nothing to look at," Kessa said. "I looked."
+
+"Right," Cael said.
+
+He sat with that a while.
+
+"There's a thing I say," he said at last. "Over people. You've heard it."
+
+"Dozens of times."
+
+"I couldn't say it. She was standing right there and I opened my mouth and there was nothing in me at all, and she — " His voice went. He waited it out. "She told me it was all right. She *let me off.* Sixteen years old, going out onto that stone, and she looked at me and gave me my absolution instead of the other way about."
+
+"That sounds like her."
+
+"It sounds exactly like her." He wiped his face with the flat of his hand, once, businesslike. His other hand was at his throat, on the iron, not rubbing it, just holding on. "It's come to me now. The words. Sat up out of the dark whole and easy the way they always do." A short ugly breath. "Hours late. And I can't use them, Kessa, and I want you to understand why, because it isn't grief and it isn't cowardice." He looked at her steadily. "The words are for the dead. I don't know that she's dead. I've stood over a great many people and every single time I knew which thing I was standing over. This is the first time in my life I've had the words in my mouth and no idea whether they're a lie."
+
+Kessa thought about that. She was not a woman who did much with words; she read ground, and there was ground here, and the reading was plain.
+
+"Say them anyway," she said. "Not for her. For you. I'll stand for it, and if it turns out you were wrong you can be embarrassed about it later, and I will personally enjoy that day very much."
+
+So he did. He went out into the dry basin at last light and put his hand flat on the seat-stone and said the three plain lines he'd said over Doss and over a woman in a burned village whose name he never learned, and Tarn stood off two paces with his fists hanging, and Oscar stayed at the rim because he could not make himself walk that eleven again.
+
+Kessa stood for it. She had never wanted that particular thing before, and she wanted it now, and she made a note of the change without examining it.
+
+---
+
+The gate was open when they came down the next morning, and there was a queue.
+
+That was the last blow and none of them had braced for it. Carts. A woman with a basket. Two boys arguing about a sack. Ordinary people waiting their ordinary turn, filing under an arch that had struck a man out of the world the day before — and it did nothing at all. They paused under it out of habit and went on through, and nobody so much as looked up, because nothing had happened, because nothing was ever going to be told to them.
+
+Somebody had swept the steps of the Fair House already.
+
+Kessa stood in the dust off the road and watched about forty strangers not know.
+
+"That's them saved, then," Tarn said.
+
+"That's them saved."
+
+"They'll never hear it."
 
 "No."
 
-"There isn't *time* — "
+Tarn considered the queue for a while. "Best kind of debt," he said. "One nobody knows they've got. Can't be collected. Can't be argued over." And then, being Tarn: "Doesn't pay, either."
 
-"There isn't," Cael agreed. He was crying. He didn't seem to have noticed. "So say it fast."
+She went and found the street.
 
----
+She didn't tell the others why and none of them asked. It took her two turns of the lower town and one wrong guess, and then she was standing in a lane of pale houses with washing across it, reading the ground as she'd read a hundred yards of thin country, and there was nothing to read at all: no scar, no ash, no gap. The street was exactly a street.
 
-Wick got to them at a run.
+There was a bucket standing in a doorway with the rope coiled beside it.
 
-And here is what she was thinking, and it was not clever and it was not a plan and it took no time at all, because there wasn't any:
+She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa put the man with the bucket into the column that was supposed to make yesterday bearable, and stood there, and found the column didn't add. It never had. She'd known that since Doss.
 
-*He's going to sit in it. He's going to sit in that chair and go quiet and be like the other one, like the grey one with the paper hair that couldn't remember wanting a bird, and I'll have to watch him do it, and then I'll have to spend the whole rest of my life being the one who watched.*
+She did not knock. There was nothing to say to him that wouldn't have been a kind of collecting.
 
-And underneath that, at the same time, in the same breath, the other thing:
-
-*It's right there.*
-
-Her door. Wide as a barn behind her ribs and leaning, and on the other side of it the thing that wanted everything, and out in front of her the thing that was taking everything away.
-
-Two dogs. One bone.
-
-And she was the fence.
-
-"Oscar," she said.
-
-He turned round.
-
-She had about a second and she spent it on his face, which was a waste and she'd do it again. He looked so *tired.* He had the owl on his shoulder and a dead man's book against his ribs and somebody else's name and he looked like a man who had walked five hundred miles to be told to sit down.
-
-"You said nothing in the world can stop it," she said.
-
-"Wick — "
-
-"So don't use the world."
+She went back and got her people.
 
 ---
 
-She didn't wait to see if he understood.
+They took a room over a bakehouse on the low side of town, on Tarn's money, which turned out to exist, because of course it did.
 
-She got that part right and she knew it even while she was doing it, because if she'd waited he'd have got a hand on her, or found a word, and he always found a word.
+It was the first roof any of them had been under since the waystation, and it was warm from the ovens below, and it smelled so much of bread that Kessa's eyes stung the moment she came up the stairs and she was furious about it. There was a table. Tarn went out one-armed and came back with two loaves still too hot to hold and broke one, and the crust cracked all the way along with a sound like a small door opening.
 
-She went past Cael's hip and out of the warm and she ran for the basin.
+Oscar looked at it.
 
-Behind her somebody screamed her name and it might have been all four of them.
+"Eat," Cael said.
 
-The light in the ring wasn't water. It came up round her boots and it wasn't wet and it wasn't cold and it went straight through her leathers and her skin as if none of them had ever been the point, and the floor of the ring was coming apart under her because the thing had started eating its own house, and she didn't look down. Looking down was for people with time.
+"In a minute."
 
-Eleven paces. She counted them out loud, because Kessa had spent this whole road teaching her the thing you say out loud is the thing that's real, and because counting was the only prayer anybody in this crew had ever taught her.
+"Wizard," Tarn said, "eat the bread."
 
-She got to the chair.
+So he tore a piece off and put it in his mouth and chewed it and swallowed it and sat there with his hand over his eyes, and Kessa read it off him plain: he had said something about bread yesterday, on that floor, to the thing that was going to finish him. She hadn't caught what. She caught it now, watching him fail to enjoy it, and she looked away and let him have it, because there is a kind of watching that is theft.
 
-It was such a stupid little chair. Low, and worn, and nothing, and the whole world was ending out of a basin next to it, and there was a hollow in the seat-stone about the size of somebody's backside where an age of patient nobodies had sat.
+Then she put both hands flat on the table and asked the only question she had left.
 
-And she stood in front of it, so he couldn't.
-
----
-
-She opened her hands. Both of them, properly, the way you do when you mean it. And the little grey rock she'd been carrying in her fist since the gate fell out of it and rang once on the stone, and she never heard it.
-
-Then she stopped holding.
-
-Not let go. She wanted that put right, afterward, if there was an afterward and anyone to put it right to: she did *not* let go. Letting go was what it had been asking her to do since she was eight, sweetly, patiently, every night: *rest, set it down, you've held it long enough.* And if she'd let go it would have come through her and eaten the room and the four of them and the man with the bucket in one glad swallow.
-
-She held it *open.* And she pointed it.
-
-*There,* she told it, and she had never told it anything before, she had only ever braced the door with her back. *Not them. THAT.*
-
-And the far side came through her and went for the font like something falling on food.
+"Is she alive."
 
 ---
 
-She was the hole. That was all she was for about four seconds and it was the biggest she had ever been.
+Oscar took his hand off his eyes.
 
-It was so *happy.* She'd never tell anybody that. It wasn't cruel. It had never been cruel. It was the gladdest thing she had ever been near, and being near it was like standing next to a mouth.
+"I don't know," he said.
 
-Above her the column bent.
+"That's not an answer."
 
-It had stood in that room all day being more power than anybody had any business having, and it *bent,* like a rope going slack, and then it started going down into her — not into her, *through* her, through the hole she'd spent sixteen years being — all that cold careful written light, an age of striking things out, pouring into a mouth that had wanted everything since before there was anything to want.
+"It's the only true one I've got and you'd know inside a second if I gave you a better one." He said it steadily, and she could see what it cost, and she made herself sit still for it. "Here's the whole of what I have. That thing behind her door was never *of* this world. It isn't written anywhere. It isn't in the Script and it isn't in the deep current and my looking has never returned a single thing about it, not at the spring, not at the gate, not standing eleven feet away while it ate an engine. I am a man who reads made things. That was not a made thing." His voice did not move. "So I cannot tell you if there's a somewhere. I can't tell you if there's a *she.* I don't know whether she was taken or spent, and I have spent the whole night trying to build a way to find out, and there isn't one. Not in the grimoire. Not in that dry basin. Not in anything I know how to do."
 
-It tried to strike her out. She felt it come. It was the same pressure that had gone over Tarn and lifted a word out of the middle of him and it came down on her with the whole weight of the valley behind it.
+"Then get better," Kessa said.
 
-And it found nothing to read.
+"I intend to spend the rest of my life doing exactly that, and I want you to hear the next part very clearly, because you're going to hate it." He put both hands on the table too, facing her. "It might take years. It might take all of them. And at the end of it the answer might be *no, there was nothing, she went out like a lamp* — and I will have spent your hope on it the whole way." He held her eyes. "I'm not going to promise you a rescue. I've watched what happens to people who get promised things by men who were guessing. I'd rather you hated me now than in ten years."
 
-There wasn't a girl on that stone. There was a hole, and a hole isn't written, and there's no clause for it and no board and no stylus and no mark. It went over her and through her and past her and came back with a blank, twice, three times, patient as a clerk — and then it had nothing else it knew how to do.
+Kessa sat with that a long moment.
 
-*I told him,* she thought, from a long way down. *I said I can't be a person and a hole at the same time. Cael thought I was being brave.*
+"Say the thing you're not saying," she said.
 
-Then the coal started going out of her, and she understood the price about half a second after it stopped mattering: a door has to be *held* by something, and the something was her, all of her, everything in her that was warm, spending out through the gap to keep the aim from slipping.
+"There's no lead." He said it flatly and it landed like a stone in a well. "Nothing. Not a trail, not a trace, not a thread. If somebody handed me the whole of my old master's library I wouldn't know which shelf to start on. That's where we are, Kessa, and pretending otherwise tonight would be a kindness that costs you a decade."
 
-*Fine,* she thought. *That's fine. I've got loads.*
+She looked at the table for a while.
+
+"Right," she said.
+
+Cael reached over and put one enormous hand flat on her back and left it there, and nobody said anything else for a good while, and downstairs somebody put another batch in the oven.
 
 ---
 
-She had a second at the end. Maybe two. She'd have liked more and she'd have used them badly.
+They came apart three days later, and it was nobody's fault, and Kessa had seen it coming since the bakehouse.
 
-She got her head round and looked back across the ring and got them, all four, one look, and she did the thing Kessa did, because Kessa had given her that and it was hers to keep.
+A crew is a thing with a job. She had known it at nineteen and it had never stopped being true. A job holds you in a shape, and when the job is over the shape goes. There was no job. There was a dry basin, and a town that would never be told, and four people with nothing to do next.
 
-She counted them.
+Cael was going home. He said it first and he said it plainly, sitting on the end of a bed with his hands between his knees. There was a house and a hearth two hundred miles east that had been keeping a fire lit for him for four years, and his own fire was down to the bottom of the cup, and the honest way to say it was that he needed to go and be near people who kept hearths for a while. "I'm no good to anybody like this," he said. "I'd rather come back full than stay empty."
 
-Oscar with the owl on his shoulder and both hands out, saying something over and over that she couldn't hear through the roaring, and she could see his mouth and it was her name. Just her name. *Wick, Wick, Wick.* Which isn't even a name; it's a bit of string you burn. Somebody in a village had called her it once to be unkind and she'd kept it out of spite. He said it like it was a name. He'd been saying it like that the whole time and she'd never noticed, and now there wasn't any time to tell him.
+"Come back to what," said Tarn, not unkindly.
 
-Cael on his feet where he'd stepped in front of a man to stop him dying, with his big hands open and nothing in them.
+"I don't know," Cael said. "That's why I'm going."
 
-Tarn with his fists down, watching, because a man who counts things does not look away from the reckoning.
+Tarn was going south. He didn't dress it up. There was a bowl in Oressa he was never going near again and there was a great deal of country he'd never seen, and a man with one good arm and money in his coat can look at country for a while. "And I've a debt," he said, when Kessa raised an eyebrow. "It moved. I know where it moved to. I don't know where *she* is, so I can't go and pay it, so I'll go and be somewhere I can be found." He looked at her flatly. "You'll find me."
 
-Kessa at the rim with her mouth shaping a word.
+"I'll find you," Kessa agreed.
 
-Four. Breathing. Hers.
+Oscar was going north.
 
-She was so cold. She'd been too hot her whole life and she was cold now and it was the loneliest thing that had ever happened to her.
+He said it standing at the window with the owl on the sill beside him, and he did not turn round. "Ash," he said. "She knows more than she told me, and she told me quite a lot, and I have four questions now that I didn't have on the day she poured me tea. I'm going to go and find a woman who blinks out of rooms." A pause. "And there's a dead city under the ice with a hall full of cradles in it that is the same building as the one we just wrecked, and I have never gone back and looked at it properly, because I've spent this entire year running away from it in a southerly direction."
 
-"WICK!" Kessa was screaming. "*NUMBER!* Say the number — out loud, first, not after, you *promised* me — "
+"That's five hundred miles," Kessa said.
 
-And Wick, going, with the last warm thing in her going out and the far side folding shut around her, found that she was laughing, because it was the stupidest question anybody had ever asked her and it was the last one she was ever going to get.
+"Yes."
 
-"*Zero,*" she said.
+"On your own."
 
-Nothing on the other side of the wall.
+"Yes."
 
-No wall.
+She let it go, because she was not going to insult him now by pretending he needed managing.
 
-"Marked," said Kessa.
+And Kessa went west.
 
-And the ring went dark, and the Fair House was quiet, and where a girl had been standing there was a low worn chair with nobody in it.
+She didn't explain it and nobody asked her to. There is a kind of country out past the edge-stones where the maps go pale and stop apologizing about it, and she had been thinking about the pale part of the map since a girl walked into a basin, because *west* was a direction and standing still was not. She was a tracker. She had never in her life failed to find a way into somewhere; she had only ever failed to like the way.
+
+---
+
+The last evening she went up on the flat roof of the bakehouse and did what she did, which was read the country she was about to be in: the road west, the ridge lines, the two passes and which would still be open, how the light fell so she'd know it again from the far side. Below her the beautiful city went about its evening. The lamps came on along the bridges.
+
+Something moved on the parapet six feet away.
+
+She went still out of habit, and looked, and it was a rat.
+
+A perfectly ordinary rat, wet-nosed, filthy, disgraceful, sitting up on the coping of a building in the cleanest city in the world with its whiskers going. It looked at her. She looked at it. It decided she was uninteresting and went along the parapet and down a drainpipe and out of her life.
+
+Kessa put both hands on the coping and put her head down and made a sound she had not made since Doss, and got through it in under a minute, because that was what she had.
+
+*You'd have liked that,* she thought. *You'd have said something disgusting about it.*
+
+Then she wiped her face and finished reading the passes.
+
+---
+
+They went out through the west gate at dawn, and split at the milestone, which was the least ceremonial place any of them could have chosen and therefore the only one they could have borne.
+
+Cael took her hand in both of his and did not say anything at all, which from him was a benediction. Tarn nodded once. Oscar stood in the road with an owl on his shoulder and a dead man's book against his ribs and his home behind him, unfinished, refusing to be finished, and looked like he was going to say something clever, and didn't.
+
+"Kessa," Cael said, at the end. Gently. The way you ask a thing you already know. "Give us the count."
+
+She opened her mouth.
+
+The number came up in her without being sent for, as it had on every road for eleven years — and it was four, and it was going to be four, and she stood in the dust at a milestone and hated it with her entire body.
+
+"Four," Kessa said.
+
+"Marked," said Tarn.
+
+"Marked," said Cael.
+
+Oscar Alberich got it out on the second try.
+
+"Marked."
+
+And then they went four different ways, and the little grey rock that told nobody anything went west in a pocket with a flap, riding against Kessa's ribs where a dead man's whetstone used to be.

@@ -15,6 +15,10 @@ the same wall from within.
 
 ## What Book 1 left loaded (promises ledger — all [canon])
 
+> Book 1 chapter numbers below use the pre-fold numbering (Book 1 became 42 chapters on
+> 2026-09-10: old Ch20 folded into the Cull; old Ch22–43 → Ch21–42). Subtract one from any
+> Book 1 reference ≥ Ch21; Book 2's own chapter entries are unaffected.
+
 1. **Wick is alive on the far side** — coal spent to nothing, cold for the first time, entity
    near/full/*pleased*, no sky, no "where," time broken. She found **bootprints — someone walked
    here before her and did not stop** — and started walking. (Ch43; "do not name who made the

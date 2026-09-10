@@ -1,127 +1,167 @@
-## Chapter Twenty-Six — Who Comes Knocking
+## Chapter Twenty-Six — The Grey
 
-Kessa didn't like the spring before anyone did anything to it, and she'd learned a long time ago to trust that and not explain it.
+The Warden walked them to the edge stones and no further.
 
-It was the quiet. Wrong quiet. A live wood at dusk had a hundred small sounds in it: things settling, things hunting, things being hunted. This hollow had none of them, the way a field goes silent when a hawk's overhead and everything with sense has decided to be a stone. The water welled up cold and constant in its stone basin and made no noise doing it. The trees stood too far back. She'd put her bedroll between the others and the tree line out of habit, checked her sightlines, counted exits, and found only one she liked and two she didn't, and she'd kept Doss's knife loose in its sheath and said nothing, because *I don't like the quiet* was not a thing you could ask four tired people to march away from in the dark.
+"This is as far as I dare," she said, and Oscar believed her, because she'd stopped a hundred feet back and would come no closer, this woman the whole wild leaned toward, halted at a line in the moss like a swimmer at the edge of cold water. "Past here it comes up through my feet. End it if you can. Come back if you can." She looked at Wick a moment and didn't say the thing she'd come close to saying. Then she was gone into the green behind them, the fox with her, and the five of them stepped over the stones alone.
 
-She watched the wizard instead. She'd been watching him since the bowl. Recalculating.
+They knew they were in it when the bark-light went out.
 
-He was sitting too close to the water. He had the look he got, she knew it now, the slight tilt, the going-away behind the eyes, the look that meant he was about to do the thing with the seeing whether or not it was smart, like a man who can't pass a scab without picking it. She opened her mouth to tell him to step back from the edge.
+For three nights the old trees had glowed, a slow green seep Oscar had stopped seeing. Now the trunks were dark, and cold, and a little soft under the palm. So he did the thing he had done every day since he woke under the ice. He read. He reached for the deep current in the wood, the slow written warmth that ran under everything made and grown alike, the one language he had never failed to find.
 
-She was a half-second too slow, which she would think about later.
+It wasn't there.
 
-The water *moved.* Not rippled—*moved,* heaved, like something the size of a man had rolled over directly beneath it, and the cold constant welling became a surge, and the surface broke.
+Not fouled. Not fighting him. Gone, or near enough, so that what came back was an illegible grey smear, a page soaked through and run together until there was nothing left on it to read. He pulled out fast. His hands were fine. He felt, absurdly, like a man who had reached for a railing in the dark and closed his fist on air.
 
-The thing that came up out of the spring was wet and pale and fast and wrong.
+"Don't touch what's gone dark," he said, before any of them could. "Don't put any part of you against it. Including me. Especially me." He didn't explain. He didn't have the words yet, and they didn't need them.
 
-Kessa had fought a great many things. She had a system for it, built over years, that started with *what is it* and ended with *where does it die,* and this thing broke the system at the first question, because it wasn't an animal and it wasn't a man and it wasn't, quite, finished: a long pale reaching shape, too many joints, water sheeting off skin that hadn't decided what it was for, moving with the bad fluid speed of something that didn't have bones, just someplace it meant to be. It came out of the water already reaching. It smelled like the underside of a stone.
+The deeper they went, the less the wood bothered pretending to be a wood. The dark trees gave way to grey ones, and the grey ones to trees that had given up the shape of trees, slumped and softened, bark sliding off in wet sheets. The ground went spongy where it should have been firm. And there was a smell Oscar kept failing to place and then placed all at once: the inside of a thing. A wound, opened and left. A whole forest of it.
 
-"Up," she said, not loud, never loud, just the word that meant *now,* and she was already moving, already between it and the soft middle of the camp, crossbow up, and she put a bolt through the center of the reaching mass from six feet because that was the shot and you took the shot.
+They passed a deer that didn't run.
 
-The bolt went in. The thing didn't care. That told her most of what she needed: no organs where organs went, or none that mattered, which meant *don't aim, just stop it,* which was a worse fight and a longer one.
+It stood off the line with its head low and watched them go by, no hunger in it and no fear, and it had been a deer once. It didn't charge. It didn't bolt. It only turned its head to follow them as they edged wide around it, nobody speaking, Tarn's hand out behind him to keep them slow.
 
-It came past her. Didn't even slow for her. That was the second thing it told her, and she didn't have time to understand how much she'd hate it later: *it isn't here for the crew. It's here for one of us.*
+"Why doesn't it come?" Wick whispered.
 
----
-
-After that it was the work, and the work was fast.
-
-Tarn hit it like a falling wall. He'd come up out of sleep already moving, forty years of the pit don't leave a body, whatever's eating it, and he got both hands into the pale shape and *turned* it, bodily, away from the camp, away from the soft middle, and it raked him for it; she saw the wet open lines go across his forearm and saw him not care, the same way he'd not cared in the bowl. He was buying space with his skin. He was good at it. It was, she thought distantly, a terrible thing to be good at.
-
-"Cael—line—" she said, and didn't need to finish, because Cael was already there, big and planted between the thing and Wick with his shield up and that low warm hum coming off him that she didn't understand and had stopped questioning, the warding, the thing that made him a wall you could stand behind. The pale shape hit his ward and *stuck* for half a heartbeat, repelled, screaming a sound like a wet finger on glass—
-
-—and then it bent. Wrong. Folded sideways in a way nothing with bones could, poured itself low and *around* Cael's planted feet, under the line, because it didn't have to come through the wall if it could simply decline to be where the wall was.
-
-And Kessa understood, cold and total, that they were losing. Not might lose. Were. It was faster than all of them and it wanted past them and there was only ever going to be one of them small enough and slow enough at the back, and the thing had known that from the water.
-
-It was going for Wick.
-
-Wick, who hadn't run—*smart, you don't run from a thing faster than you*—who'd gotten her back to the basin's stone lip and a burning branch in her two hands and her teeth bared, sixteen and furious and about to die. And Kessa saw the heat come up off her, saw the air over the girl start to *shimmer,* and had one more cold thought stacked on the others: *and if it touches her she lights, and if she lights out here with whatever's in her, we don't lose one of us, we lose all of us.*
-
-She was already running and she was not going to be in time.
+"Not told to yet," Tarn said, and that was worse than teeth.
 
 ---
 
-The wizard got there first, and not how she expected.
+Tarn took point and stopped talking, and the stopping was the loud part.
 
-She'd written him off for this fight: thin, slow, the seeing useless against a thing with nothing written in it to read; she'd seen him try it, seen the tilt, seen it slide off the pale shape like water off slate, *nothing to read, nothing to unmake, this one's alive.* She'd had him down as *protect, don't rely on.* So she wasn't ready for what he did, which was throw out one hand at the girl—not at the monster, at *Wick*—and make a short ugly word she'd never heard him make.
+He was weathered and going grey, an economical man who wasted no motion. For two days he'd guided them with a low steady patter, markers and water and what drank where. Now he went quiet and walked his old country with his jaw set wrong, and once, at a stand of black trees that might have been alders, he laid his hand flat to a trunk and held it there too long.
 
-Wick left the ground.
+"Fetched a bear out of this stretch," he said. Not really to them. "Eleven years gone. Took me four days. Nearly had my leg." His hand came away from the cold bark. "There were birds, then." He started walking before anyone could find an answer, which was its own kind of mercy.
 
-Not thrown by hands. Thrown by *nothing,* by a slab of shoved air, yanked bodily sideways off the basin lip and six feet through the dark to land hard and graceless in the leaf litter exactly as the pale thing closed on the space where she'd been. It bit down on stone and branch and nothing.
+Kessa hated the grey before the rest of them, and for the most practical reason. It lied to her.
 
-A new one. Kessa kept a tally on the wizard, the same as she kept a tally on everything that might keep her people alive, and this was a fresh line in it: *he can shove things now, hard, at distance.* She added it on the run.
+She'd read ground her whole life. Out here the ground had stopped telling the truth. A trail she'd have sworn was an hour cold ran colder; tracks doubled into themselves and ended at nothing; she set a heading by the fall of the land and the land lied about which way was down. Oscar watched her crouch over a print, go still, and do a thing he'd never seen her do—smear it out with her palm, like she didn't trust herself to have seen it.
 
-The next thing she had no name for, and didn't like. For half a breath, right after he did it, the wizard looked spent in a way that scared her: gray, swaying, blinking like a man who'd stood up too fast and stayed on his feet out of stubbornness, like he'd paid out more than he'd brought to spend. Then he steadied, gray-faced but solid, and she told herself it was the price of a hard working and there was a monster to mind.
+"I can't read this," she said. Flat. It cost her. "Ground won't hold still. Tarn's got the point. I'm no use in a place that won't stay where I put it."
 
-It worked, was the thing. He'd saved the kid. He just hadn't saved her *from* anything, because the thing simply turned, unhurried, and went after Wick where she'd landed—
+Nobody argued.
 
-—and got her. Got a pale reaching limb around the girl's throat and lifted her, and Wick's burning branch fell, and the shimmer over her flared white-hot and *terrified,* the heat of her cranking up and up like a kettle with the lid screwed down, and Kessa, six feet too far with a knife she already knew was useless, did the only thing left, which was the oldest thing, the Doss thing, the thing crews did: she threw herself at it anyway, because *you do not let the dark have your people,* not while you've got breath, not ever, even when the math is bad, *especially* when the math is bad—
+Wick got worse by the mile, and quietly, which was how Oscar knew how bad it was.
 
-"*Enough.*"
+The heat had gone out of her. For weeks she'd run hot, the fire in her always wanting to climb. Now the deeper they went the colder she got, the mark at her throat gone from angry red to a tight pale white, and she kept her hand flat over it like a woman holding a cut closed. She drifted. Twice she wandered off Tarn's line toward the worst of the dark without seeming to choose it, and the second time Oscar caught her arm.
 
-The word came from the tree line and it was not loud and the whole hollow obeyed it.
+She rounded on him. "I can feel it," she snapped. "Exactly where it is. It's the only thing out here I *can* feel. So don't grab me. You grabbing my arm doesn't do anything—nothing you do out here does anything, and you know it, so don't pretend the hand's for me when it's for you."
 
----
-
-The pale thing froze with Wick's throat in its grip and the girl's toes off the ground.
-
-Froze completely, mid-motion, mid-lift, every wrong joint locked, because the woman walking out of the dark had told it to, and out here, Kessa understood with a lurch, the wild did what this woman said.
-
-She came barefoot and unhurried and the ground seemed glad of her feet. Old, or young, or neither; Kessa's threat-sense, which had a verdict on everyone within a heartbeat of meeting them, returned the most unwelcome verdict it knew: *can't fight this. Can't outrun it either. Don't try.* A fox walked at her heel like a held breath. She did not look at the crew. She looked at the frozen thing with Wick hanging in its grip, and her face was grim and unsurprised and, underneath, something that might have been grief.
-
-"Who," she said, "comes knocking at my door"—and now she did look at them, and the look went from Wick, choking and white in the monster's locked grip, to the gray swaying wizard with the wrong edges, and back—"with a wild-touched girl and a made thing."
-
-Nobody answered her. Kessa's mouth was dry. *Made thing.* She'd known what Oscar was for a long time and she'd never heard it said out loud by a stranger like a fact about the weather, and she watched the word land on the others. Tarn, bleeding, going still; the new man hadn't known. She set *that* aside for later, the same as she set aside everything that wasn't trying to kill her this minute.
-
-The woman studied Oscar a moment longer than was comfortable, the way you'd study a coin you suspected was forged. "I thought I knew every made thing the south ever pushed out into the dark to die," she said, half to herself. "You're a new one. They're getting better at you." And Kessa, who didn't know what the words meant exactly, knew the shape of them well enough to hate it: *others. There have been others.*
-
-The Warden flicked two fingers. The pale thing set Wick down, gently, against its every evident wish, and Wick dropped to her knees in the leaves, dragging air, the killing heat guttering back down out of the air around her, and Cael was there before anyone, a hand on the back of the girl's neck, the warm hum folding over her.
-
-"It wasn't the girl's fault," Oscar said. His voice came out scraped. "I opened your spring. I couldn't—" He stopped. Started again, more honest. "I wanted to look and I looked, and I'm sorry, and whatever's owed for it is mine."
-
-"Oh, made thing," the Warden said, and she sounded tired in a way that had nothing to do with the night. "It isn't a debt I can put on one of you. Come away from the water. All of you. And look at what your looking woke, before you tell me whose fault it is."
+It was true, and meaner than she usually let herself be, and true. He let go and kept close anyway and didn't pretend it was for her.
 
 ---
 
-She made them look at it. Held it there frozen in the firelight, pale, reaching, wrong, and made them see the thing Kessa had felt in the quiet and not had words for.
+The boar-thing came out of a deadfall low and fast and wrong, and it came with no fear in it at all, which was the tell. Nothing alive runs at five armed strangers without fear.
 
-"This was an otter," the Warden said.
+Tarn put it down with his hands. He gave ground at the one angle that took the charge past him, got inside its rush, and broke what needed breaking, forty years of bowl-fighting and all of it in the fists. It cost him a long tear up the forearm going down. An ordinary wound. He'd had worse for a smaller purse.
 
-Kessa looked at the long pale not-otter and her stomach turned over.
+Except the grey went in with it.
 
-"Three weeks ago it was an otter in my country, doing what otters do." The Warden walked a slow circle around it, not touching. "Now it's this. It didn't drown and come back wrong. Something *reached* it—something in the deep of the wood that has gone bad, gone grey, and is spreading the grey out through everything the deep touches, which out here is everything that lives. It gets into a thing through the deep current the way rot gets into a tree through the root, and it hollows what was there and fills it back up with *want,* and the want has no bottom." She stopped. "Your wizard didn't make this. He only rang the bell. He threw my spring open and the grey heard a door open and sent the nearest hollowed thing running for the loudest, hungriest light in the clearing." Her eyes went to Wick, who had stopped gasping and started, silently, to shake. "Which was not the made thing. The grey doesn't want him. There's nothing in him it can climb into." A beat, gentle and awful. "It wants what's behind your door, child. It has wanted it a long time. Tonight you rang a bell, and it came to see if the door had finally been left open."
+Tarn felt it before any of them saw it and went the color of ash, a cold crawl climbing the arm, hunting the deep in his blood, the borrowed kind, the most of it anyone here carried.
 
-Wick said nothing. Her hand was at her throat where the limb had been, over the mark. Kessa moved, not thinking, just moving, and put herself a half-step nearer the girl, between Wick and the frozen thing, as she'd have done for any of them, as she'd failed to do fast enough twice already tonight, and she caught the Warden noticing her do it and did not care.
+"Cael."
 
-"Then kill it," Tarn said. Flat. Practical. Bleeding. "The thing in the wood. The source. You're the keeper. Keep it."
+Cael was already moving. He got both broad hands around Tarn's forearm and the warmth came up out of him gold and hard, and where it met the grey the grey recoiled, and he held on while it fought him. Oscar watched the price go into the priest's face: the gold reaching back and back, too far, down whatever long hall it answered from, until the crawl at the wound's edge guttered out and it was only a wound.
 
-"I am the deep of this country," the Warden said. "I am made of the same current the grey travels through. If I go down into the wood and put my hand on that thing to end it, it goes into *me*—through the root, the same as it went into the otter—and then it isn't one hollowed beast in the deep wood. It's the wild itself, gone grey, from here to the sea." She let that sit. "I cannot touch it. That is the whole of my helplessness, and I have stood at the edge of it for a season hating it. But you—" she looked at them, the five of them, bleeding and gray and shaking and ringed up without anyone telling them to "—you are not of my deep. The grey can't climb a root you don't have. You can walk down into that wood and end the thing and walk back out still yourselves." Her strange eyes settled, last, on the swaying wizard. "And you brought me a made thing who can read what's been done to a creature, and a fighter who buys ground with his own skin, and a girl the grey has already chosen, which is bait whether you like the word or not, and a tracker who doesn't like my quiet." The smallest incline of her head toward Kessa. "You were right not to. Your quiet was the otter, three trees out, deciding."
+Cael sat down in the dirt all at once.
 
-"That's the toll, then," Kessa said. Because someone had to say it plainly and it was never going to be the wizard. "We go into your wood. We find the source. We put it down. And you let us cross."
+"It wants the deep in you," he said, when he could. His voice had gone thin. "Tarn's got more than most." He pressed the heel of his hand to his own chest. "I've got maybe two more of those in me out here. Then the hall's too far to reach, and after that I'm just a big man with a shield." He looked up. "So nobody else gets touched. Tell me we heard that."
 
-"That's the toll."
+"We heard it," Kessa said, and got him on his feet, and they went on with one fewer card and all of them counting.
 
-"And the girl's the bait."
+After that the grey stopped pretending. The last stretch was less a walk than a wading, the air gone so thick that breathing was a thing you had to decide to do. The slumped trees gave out and left a basin of bare grey ground, steaming faintly in the cold. Oscar reached for the deep current one more time, the same old reflex, and got the same soaked nothing, and then made himself stop reaching, which was harder than it should have been. Looking was where he lived. He had to choose, and keep choosing, not to go there, the way you choose not to put your tongue to a broken tooth.
 
-The Warden looked at Wick for a slow count. "The girl is what it wants most in the world," she said, "and it will come fastest and surest if she's near, and yes, that is the ugliest part of an ugly bargain, and I will not pretend it to you as anything kinder." She crouched, then, to Wick's level, and the grief was plain on her now. "But hear the other half, child, because it's yours and no one else's to weigh. The thing in the wood and the thing behind your door are the same kind of hunger. You've spent your whole life holding one. If you want to learn what holding is actually *for*—if you ever want to meet the thing you're afraid of on your own feet instead of waiting for the day you're too tired to hold the latch—then there is no better teacher in all the world than walking down into that wood beside people who'll stand between you and it, and watching me put down its big brother." She straightened. "Or stay at the edge stones where it's safe, and I'll think no less of you, and your friends go without you. Both are real choices. I'll have no one say I sent a frightened child into the dark without the door open behind her."
+Kessa stopped at the rim and would not put a boot past it. Cael kept a hand flat to his chest, hoarding what was left. Even Tarn went still.
 
-For a long moment Wick didn't speak. Kessa watched her, the shaking, the fist, the mark, and watched her do the thing Kessa hadn't expected and would, privately, re-rank her over: she stopped shaking. On purpose. By holding something down with both hands, same as always, except this time aiming it forward.
+Only Wick kept moving, like the ground had a grip on her, and Oscar got a fist in the back of her cloak, and she let him, which frightened him more than the snapping had.
 
-"I'm coming," Wick said. Hoarse. "I'm not getting left at the edge of one more thing."
+---
 
-"No," the Warden agreed. "I didn't think you were."
+He tried the one thing he knew how to do.
 
-She flicked her fingers a final time, and the frozen pale thing that had been an otter simply *came apart*—not unmade, nothing so clean; it sagged, and ran, and was water again, soaking dark into the leaves, as if the wild had reabsorbed a mistake. The fox sniffed once at the wet place and turned away.
+There was old worked stone at the basin's lip: a dead-maker's marker, half-sunk, the kind of made thing his gift could still grip. He set an anchor into it, a small hard figure of the deep, a brace to push against. It was good work. The cleanest figure he'd set in weeks. The grey flowed around it and did not notice it at all, the same as water ignores a word scratched on its surface.
 
-"Sleep," the Warden said. "Bind the fighter's arm. At first light I'll walk you to the edge of the grey, as far as I dare, and after that the wood is yours to cross and the thing is yours to end." She was already at the tree line, already half wild again. "Mind your wizard. He spent more of himself on that shove than he has to spare, and there's a way a made thing can spend until there's not enough of him left to hold the shape, and no one grows that back." Her eyes found Kessa's in the dark, one tracker to one keeper. "You'll watch him. You watch all of them. I know your kind."
+So much for that.
 
-"Marked," Kessa said.
+The center was not hidden.
 
-Then she was gone, and the wood's hundred small night-sounds came creeping back into the hollow one at a time, and Kessa sat down with her back to the stone and Doss's knife across her knees and did the only thing she trusted herself to do with a night like this one.
+That was the first insult. After all of it, the dead trees and the lying ground and the deer with nothing left behind its eyes, he'd expected a lock. A knot. A shape clever enough to hate.
 
-She counted them. Five, breathing, bleeding, hers. Tarn letting Cael wrap his arm. Wick small and awake and decided. The wizard gray and hollowed out, watching the dark where the Warden had gone with a look Kessa didn't like: a man who'd just met the only other person who spoke his language, and was already counting how little of it he'd get.
+There was only a hollow.
 
-Five. For now.
+At the bottom lay what had been an animal once. Large. Antlered, maybe; the head had softened too much to tell. Grey ran through it in slow pulses, root to rib to throat, not written over the body but grown up through it. Not a thing crouched inside a host. The flesh was the working now.
 
-Tomorrow they walked down into the grey to kill the thing that wanted the youngest of them, with the only ally they'd found in five hundred miles handing them a child for bait and calling it mercy—and meaning it, which was the part Kessa chewed on longest in the dark. The ones who meant it were the only people worth following. They were also the ones who got your people killed. Both, in her experience. Always both.
+Oscar reached anyway.
+
+For half a breath he got too much and none of it any use—blood with no blood in it, marrow gone pale, a heart still beating because the grey had found the old habit handy and kept it—and then the rot pushed back up the line of his looking, soft and patient, and shoved him out of it.
+
+Kessa caught his sleeve before he sat down.
+
+"No," Oscar said.
+
+Nobody asked what he meant. That was kind of them.
+
+He tried for the seam again. There wasn't one. He tried for the rule. The rule was rot. He tried for the place where the thing had been made wrong.
+
+It had not been made.
+
+"I can't end it." Plain and ugly, and better that way. "There's nothing to cut. Nothing to correct. It isn't holding the animal. It's *become* the animal." He made himself say the rest with his own mouth. "It's the wrong tool. I'm the wrong tool."
+
+Nobody said anything, and he was grateful.
+
+The thing at the bottom of the hollow, which had not moved the whole time, moved. Not toward him. There was nothing in him for it to climb, and being beneath a monster's notice landed on Oscar cold and total. It turned, slow and certain, toward the one of them it had come up out of the spring to find. The one it had been reaching for since the pit. Since before any of them learned her name.
+
+Wick had gone still. Her hand had come off the cold mark at her throat. She had the look on her the Warden had turned on the frozen otter by the fire. Not fear. Recognition.
+
+"It's the same as mine," she said, very quiet. "The thing behind my door. It's the same."
+
+And then—because she was sixteen and stubborn and done being only the one who fell apart—she tried it.
+
+She didn't ask. She put her hand out toward the hollow, palm open, and reached for it the same as she reached for the held fire inside herself, and Oscar felt it even half-blind: the door in her cracked, and a thread of whatever lived behind it went out across the basin.
+
+For one breath it worked.
+
+The nearest creep of grey, a leading tongue of it climbing the rim toward Cael's boots, stopped. Drew back. Like calling to like, a cousin recognized, the floor yielded.
+
+Then the thing in the hollow woke all the way up.
+
+Her mark went white. Not hot, not cold. White, blazing through her collar, and she made a sound he had never heard her make, and all of it slammed back into her at once so hard she staggered. The grey surged up over the rim with interest, awake now, hungry now, and Cael hauled his feet clear and Tarn caught her before she went down.
+
+"Don't," she gasped—to herself, maybe. "Don't, it pulls, if I open it any wider it just—it *pulls*—"
+
+And there it was. The input.
+
+Oscar had three facts and no time, and the old version of him would have spent an hour reading for a fourth and gotten everyone killed comfortable in the knowledge of why. He made the call on three. He could not touch it. She could, and it cost her, and it drew the thing's whole attention onto her. And opened too wide, the door took *her* instead of the other way around.
+
+"Tarn." His voice came out flat and sure, in a register he didn't quite recognize as his own. "Set her down and get off this rim. The marker stone, there, out of its line. You're no use to her in the hollow and you've got more deep in you than any of us—you're a door it can climb. Go." Tarn went.
+
+"Kessa. The treeline at our backs. If anything comes up out of the dark while we're all watching the hole, it's yours, because I won't see it coming." She was already moving.
+
+"Cael." The priest looked up, grey-faced, hand pressed to his chest. "You do not spend it. Whatever happens down there. Not for me, not for her, not until she's back on this rim and breathing on her own. Your last two are hers. *Hold them.*"
+
+"Oscar—"
+
+"Hold them."
+
+Then Wick, who'd got her feet back under her. The thing every nerve in him wanted was to look—to throw his gift open and pour it down into the hollow and read every thread of what he was sending her into, because not knowing was a kind of drowning and knowing was the whole of what he was. He shut it instead. Deliberately. The hardest figure he set all day, and he set it against himself.
+
+He crouched to her and gave her the one thing that wasn't a guess.
+
+"You're not going down there to win," he said. "You find the edge of it, and the second it costs more than you brought, you come back up. Don't open the door wider than you can shut. Halfway and home is the whole job. You hear me? Halfway and home is a *win.*"
+
+She nodded, white to the lips.
+
+She stood, and Tarn's hand came out from the marker stone and Cael half-rose, both of them reaching for her on pure human reflex, and Oscar put up a flat palm.
+
+"Don't hold her." Quiet. A command now, not a thing he'd just discovered. "Nobody holds her. She walks down on her own feet or it isn't hers."
+
+Wick looked back at him. Once. Afraid now, and he was glad of it, because the not-afraid had been the worst thing about her all day.
+
+"Tell me after," she said, "that I'm still me."
+
+"You're still you." He made it sound certain, because she needed one certain thing and certainty cost him nothing to give. "Halfway and home. I'll be right here to say it."
+
+She turned and walked down into it on her own two feet, small and cold and burning somewhere underneath.
+
+And Oscar stayed at the rim with his gift shut and his hands empty, doing the new work in place of the old—not reading the thing he couldn't help, but holding the four people he could move: Kessa's eyes on the dark, Tarn clear of the line, Cael's last gold banked and waiting, the girl going down. He held all of it at once. He had been so good, for so long, at knowing.
+
+This was the other thing. He had no idea yet whether he had it.

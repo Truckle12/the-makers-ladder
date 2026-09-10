@@ -11,8 +11,10 @@
 > This file holds only what is specific to Book 2.
 
 ## Status
-- **Book 1** (*The Unfinished Apprentice*, 43 chapters, ~126k words) is complete and revised
-  through Batch 5 (2026-08-29). It is the immediate antecedent of every Book 2 chapter.
+- **Book 1** (*The Unfinished Apprentice*, **42 chapters**, ~126k words) is complete and revised
+  through Batch 5 (2026-08-29) and the Ch20 fold (2026-09-10). Its final chapter is now **Ch42**
+  "The Far Side"; Book 1 chapter numbers quoted in the outline's promises ledger predate the fold
+  (subtract one from any Book 1 reference ≥ Ch21). It is the immediate antecedent of every Book 2 chapter.
 - **Book 2 outline:** `reference/book-2-outline.md` — chief-editor proposal, rev2 (chapter
   entries individualized for the drafting pipeline). **RATIFICATION STATE: PENDING.** Its ten
   numbered Open Decisions have not yet been ruled on by the author. Per the locked workflow

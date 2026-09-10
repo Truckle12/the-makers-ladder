@@ -1,110 +1,159 @@
-## Chapter Twenty-Two — The Bright Market
+## Chapter Twenty-Two — What's Owed
 
-They came down into Oressa at dusk, and Oscar understood within a hundred paces that he had never really seen what the dead world could do.
+They came down the last greasy stair into a roar, and the roar was four hundred people screaming for blood in a sunken stone bowl the makers had built for something else and Oressa had filled with the only entertainment the poor could afford, which was each other.
 
-He'd thought he had. Then the switchback brought them around the shoulder of the valley and the city opened below, wall to wall, tier on tier of white stone climbing both slopes of a river gorge. Oscar saw a place that should not have been able to stand, standing anyway, because the makers' work was holding it up.
+Down here, and nowhere else since the bridges, Oscar could look without being heard. There were no licensed readers in the river-bottom. The House did not send its careful aproned clerks to assay the workings of people who fought for coin, the way it did not bother to pave the streets or count the dead, and so the one talent that had nearly hanged him on the bright street above was, down here, just a talent again. So he looked—and found almost nothing. Up top the whole city had screamed *read me*. The bowl gave him back bodies: no workings, no relics, no borrowed gifts. The one quarter of the richest city in the world where he was allowed to be what he was, was the quarter the city had decided didn't count.
 
-The bridges stopped him first. There were dozens of them strung across the gorge, and every one was *wrong*: too long, too slight, arcing over spans no stone could have carried, some no wider than a footpath and leaping a quarter-mile of open air with nothing beneath them at all. They did not stand on stone. He could see it even with his looking clamped shut. Each bridge stood on a *figure,* an old working sunk into its first course and never allowed to fail, holding up a road full of carts and evening crowds on nothing but the deep current's patient insistence that it remain a bridge. The makers who'd made the promise were dust. The promise was still keeping.
+The bout in the ring below them was two men with nothing between them but their hands, and the crowd wanted it ugly. One was bleeding from a split brow into his eye and fighting half-blind for it; the other had a forearm that bent a wrong half-inch in the middle and kept swinging it anyway, because the purse only paid the man still standing. They hit each other the way men hit when there's no art left in it and no quitting allowed, and the four hundred screamed at every wet sound, and when the half-blind one finally went down and stopped getting up, the bowl roared its approval at a thing that had barely been a fight.
 
-And the bridges were only the start of it. Coming down into the streets, Oscar found the dead world doing Oressa's every labor, casual as breathing. Barges climbed the river against its own current with no oar and no sail, hulls humming with something worked deep in the keel. A florist's whole shopfront of cut blooms stood in the warm dusk refusing to wilt, each petal held in the hour it was picked by a working that would not let time touch it. Along the quay, water ran *upward* in tall glass columns, climbing to the cisterns at the top of the tiers in flat defiance of everything water was meant to do. A bell somewhere counted the hour with no hand on its rope. A bakery down a side lane breathed out heat from an oven that had not been lit in living memory and never would be lit again. In the north a single working had been a miracle a whole crew died to drag out of the ice; here there were thousands of them doing the chores, and the city stepped over them and under them and past them without a glance, the way a man walks past his own heartbeat and never thinks to thank it for the work.
+"Hearth," Cael said, low and sick. He'd gone pale. "Up there a man pays a fortune so his hall lights itself. Down here a man with nothing pays with the only thing he's got left—and *this* is what they make him sell it for."
 
-"Hearth keep us," Cael said, very quietly, and for once he didn't sound comforted by his own faith. He sounded like a man doing a sum he didn't like the answer to.
-
-Wick said nothing at all. She'd stopped at the lip of the descent and was staring down at all of it with an expression Oscar was learning to read on her, the one that wasn't wonder anymore and wasn't quite rage, the one that had started at a bowl of lamps in Hollet's Cross and had been getting heavier ever since. He didn't tell her it wasn't fair. She knew. They both knew. There wasn't anything to do with the knowing except carry it down the hill into the lights.
-
-"We need money, and we need to know the road on past here, and we need both without anybody looking at us twice," Kessa said, pulling them back to the only thing that helped, which was the next small task. "So we keep the cloaks up, we keep the sword wrapped, and we keep our heads down. In, and through, and out." She glanced at Oscar. "And you keep your eyes down. Especially you."
-
-"Especially me," Oscar agreed, and meant it, and discovered within the first hundred paces of the city proper that it was going to be the hardest thing he'd done since the Cull.
+"We're not here to watch," Kessa said, though even she had stopped to look. "We're here for a way south that doesn't go past a single House reader. Down here's where you buy one. So we find who sells."
 
 ---
 
-Because Oressa, to a reader, was not a city. It was a scream.
+Who sold, it turned out, was everyone, and everything for sale was a debt.
 
-He hadn't understood that it would be like this. Up north a worked thing had been rare enough that reading one was like hearing a single clear bell in a silent room. Here there were ten thousand of them packed shoulder to shoulder: the strongboxes and the cold-boxes, the locks that knew their own owners, the unwilting flowers and the self-tolling bells and a thousand workings he had no name for, every single one a small insistent voice saying *read me, read me, here is how I'm made, here is my seam, here is the clever thing the maker did.* And Oscar's gift, which had spent a lifetime starved, wanted to answer all of them at once. Keeping it shut was like keeping his eyes closed in a room where everything was screaming his name. It could be done. It just took everything, every step, a constant clenched effort not to *look,* and within an hour he had a headache like a spike through the eye.
+Oscar read the underbelly's economy off the place the way he read a working: the bosses in their boxes who owned the fighters' contracts, the fixers who took your coin and your marker both, the lenders who'd float a desperate man a stake against a fight he'd then have to win or belong to them. Nobody down here simply *bought* a thing. They bargained, and the bargain left a hook in you, and the hooks ran upward through the fixers to the bosses the way the relic-trade ran upward to the House. Up top they called it a ledger. Down here they called it what it was: owing.
 
-The money was the first wall they hit, and it taught Oscar something the lights hadn't.
+"A guide out, off the roads, that's a fighter's contract you're asking after," a one-eyed fixer told Kessa, when she'd found the right palm and crossed it with two of their precious bitten coins. "Fighters know the wild ways. They're the ones the bosses send to fetch beasts for the pit, out past where the House paves things. But a bound man's contract costs more than you're carrying, friend, and a man worth guiding you wouldn't run cheap." He spat. "Now if you want one who's *already* trying to run—" and his one eye slid toward the ring, toward the next bout forming up "—there's only the one fool down here stupid enough for that, and he's about to lose, like he always does now."
 
-They'd given Marrow's haul back to Marrow, which had been right and had left them poor, and four travelers who couldn't buy bread drew more eyes than four who could. So before anything else Kessa took them to the low end of the bridge district, where the bonded lenders kept their narrow bright shops, to turn what little they had into coin. The little was the trouble.
-
-She laid it on the lender's counter while Oscar and Wick stood back with their hoods up: a few honest northern coins, a twist of good furs, and the small old-world oddments of a salvage crew: a striker that needed no flint, a clasp off a dead man's cold-box, the everyday miracles of people who lived off the dead world's leavings.
-
-The lender was a precise, soft-handed woman with a House license framed behind her and a loupe on a chain, and she went through it all with the bored courtesy of someone who'd seen every kind of desperate. The furs she would take. The coin she would change, at a bite. The oddments she turned to the light one at a time, and on each of them, near a seam, the loupe found the same small thing.
-
-The loop. The House's seal, stamped into the striker and the clasp the way it was stamped into the city's coin and Oscar's own sword, because the loop was on everything the House had ever touched, and the House had touched all of it.
-
-"Sealed stock," the lender said, and her courtesy didn't waver, which was its own kind of warning. "Every worked thing that comes out of the ground is registered to the House before it's ever sold. That's what the seal is for. I can't take sealed stock across my counter without filing the transfer: where it came from, whose hands it passed through, who's selling it now." She set the striker down the way you'd set down something catching. "It's the law. Everything sealed belongs to a ledger somewhere, and the ledger does like to know when a thing changes hands. Have you papers? A bill of sale, a salvage license, a chain of names?"
-
-"Lost on the road," Kessa said, smooth.
-
-"Of course they were." The lender's smile was small and held no malice and no help at all. "Then I can't touch them, and no licensed house in Oressa can either, and were I you I'd tuck them well out of sight before someone less kind than I am asks why a party of northerners is carrying the House's property with no chain behind it. The furs and the coin, I'll take. The rest is worth something only to people who don't keep ledgers." A delicate shrug. "I am not one of those."
-
-It wasn't only Oscar's reading that marked them. Everything they'd carried south wore the loop, and the seal that made a thing precious in the north made it poison here. They walked back out of the lender's shop with a fistful of bitten coin and a warning, which Oscar was beginning to suspect were the city's two great exports.
-
-He found Wick watching him as they came back out onto the bridge.
-
-"You've got the face," Wick said.
-
-"What face."
-
-"The one I have." She wasn't smiling, quite, but there was something in it, a grim little flicker of fellow-feeling. "The holding face. Like there's something in you that wants out and the only thing standing in its way is you being stubborn about it every single second." She nodded at the screaming bright city. "It's worse here, isn't it. For you. All of this."
-
-"It's a great deal worse here," Oscar admitted, because he didn't lie to her, and because she'd handed him a true thing first, and he could do the same. "Every worked thing in this city is asking to be read, and I have spent my whole short stupid life wanting nothing so much as to read things, and I have to walk through the middle of it pretending I'm a man who can't." He pressed the heel of his hand against his eye. "I keep thinking it'll get easier. It does not get easier."
-
-"No," Wick agreed, with the flat authority of an expert. "It doesn't. You just get better at being tired." And she said it without any self-pity at all, just one professional to another. It should have been lonely. Somehow, sharing it, it was almost the opposite.
-
-It lasted until the glass.
+He was wrong about the losing. He was right that the man was a fool.
 
 ---
 
-He never did decide, afterward, whether it was vanity or instinct, and he suspected the honest answer was that for him there had never been much daylight between the two.
+His name, the crowd informed Oscar at a deafening volume, was Tarn, and they did not like him.
 
-They'd come into a square of high-end brokers, the kind of street where relics didn't sit in bowls but behind glass, lit and labeled and priced like jewels, each with its little House-stamped certificate of assay. Oscar kept his eyes down and his looking shut and his headache roaring, and he was doing fine, he was doing genuinely fine, right up until they passed a window where a single object sat alone on black velvet under its own private light: a small, plain, ancient ring of grey metal, unlovely, unjeweled, the cheapest-looking thing on the whole gleaming street.
+They had, once. Oscar could hear it in the shape of the jeering: the particular venom a crowd saves for a thing it used to love. Tarn was scarred, and moved into the ring with the flat economy of a man who'd done this ten thousand times and stopped finding any of it interesting, and the moment he appeared the bowl filled with a booing that had real grief under it. Somewhere in his past was a name they used to chant. Now they threw it at him like a stone.
 
-And it was *wrong.*
+His opponent was young and vicious and the crowd's darling, a brawler maybe twenty years old, thick through the shoulders, who came into the ring with his arms up to drink the noise and then charged before the bout-master had finished the call. Nothing on him for Oscar to read. No gift, no hook, just a young body that hadn't yet learned it could break, and four hundred people who loved watching it not-break.
 
-He felt it before he looked, the way you feel a missing stair. Everything else in the city was screaming *read me*; this one thing was screaming nothing at all. It sat behind the glass being a hole in the noise, a worked thing that gave back silence, and that silence was so strange, so against everything the city was, that his whole reader's soul lurched toward it before his discipline could close the door—*what are you, why are you quiet, how is a worked thing quiet*—and for less than a heartbeat, less time than it had taken the maker-battery to misfire, Oscar looked. Really looked. Deep, the way he'd looked into the Cull.
+And then his looking snagged on Tarn, and his breath stopped.
 
-He got almost nothing. The thing was a blank, a beautifully made nothing, beautiful precisely in the way it gave back nothing, and the not-getting was so fascinating that he'd have stood there reading the absence of it for an hour if a hand hadn't closed on his arm.
+There was one working in the whole bowl, and it was sunk into the fighter crossing the sand to meet the boy. Oscar had almost missed it. It was buried deep and grown over, the way a fence-wire gets swallowed by the tree it was nailed to until you can't say where the iron ends and the wood begins. A hook. A bargain. A patron's mark driven into him so long ago that four decades of living had closed over the wound like scar tissue, and behind it a debt that had been feeding, quietly, ever since. He didn't blaze with it. He carried it the way a man carries an old injury he's stopped mentioning, and—Oscar watched, half in horror and half in pure professional wonder—he spent it like a miser, a single coin at a time, only ever what the moment owed and never a grain past it. He fought the way he spent it: nothing wasted, nothing wild, every motion the exact amount required and then a full stop, reading the boy the way Oscar read a working: where it would give, where it would break.
 
-"Eyes," Kessa breathed, and pulled, and Oscar surfaced into the bright street to find that he had made a mistake.
+He let the young man tire himself roaring. He took two blows that should have put a man down and Oscar watched him pay for surviving them, a little more of the borrowed power drawn down, a little more owed. And then, between one of the young man's huge wild swings and the next, Tarn simply stepped inside it and put him on the ground with three strikes so economical they were almost gentle, and stood over him with a fist drawn back, and the whole bowl came to its feet screaming for the one thing a pit-crowd ever truly pays for.
 
-Two stalls down, a woman in a House-stamped reader's apron had gone rigid over the relic she'd been assaying for a customer. She'd dropped it. She was turning, slowly, scanning the street, her face wearing the exact expression Oscar imagined his own wore when he felt a working go off nearby—*someone just read something, read it deep, read it the way the licensed careful label-deep readers of this careful city never read anything*—and her eyes were moving stall to stall, face to face, hunting for the source of the noise that no one but another reader could have heard.
+He didn't give it to them.
 
-He'd told himself the city was too loud for one more voice to matter. He'd been wrong; a whisper in the right register cuts straight through a roar.
+He looked down at the beaten boy a moment, just long enough, and then he opened his fist, and turned, and walked away, and the borrowed power went *out* of him all at once like a held breath, leaving an exhausted old man crossing a ring through a hurricane of contempt. They threw cups. They threw worse. A bout-master's voice boomed something about a forfeit purse, a fine, a debt added to a debt. Tarn didn't look up. He'd collected what he was owed, which was the win, and he had declined to take the thing that wasn't owed, which was the boy's life, and the arithmetic of that had cost him money he didn't have and the love of four hundred people who'd once chanted his name, and he walked it off like a man who'd made the same trade a hundred times and would make it a hundred more.
 
-"Walk," Kessa said, low and even, already steering them, not fast, fast was what got you caught. "Don't look at her. Don't look at anything. Walk like four bored people who are late for supper." Her grip on Oscar's arm was iron. Cael had drifted to put his bulk between them and the reader's line of sight without seeming to. Wick had her hand in her pocket on the token and her chin down. They walked.
+"Oh," Wick said softly, beside Oscar, and he glanced at her and found her watching Tarn with an expression he'd never seen on her. Not pity. Recognition. Her hand was in her pocket, on the token, and her eyes hadn't left him. "He didn't kill him," she said. "He had it won and he *stopped.*" She said it like it was the most important thing she'd seen in the south. Maybe it was.
 
-The reader's gaze swept the street. Oscar felt it pass over them, just a frightened licensed professional looking for a colleague who shouldn't exist, and he did the only thing he could think of, which was to throw the door shut so hard and so completely that for the first time since they'd entered the city he wasn't reading anything at all, made himself a blank, a hole in her noise the way the grey ring had been a hole in his. He didn't know if it worked the way he meant it to. He only knew the gaze passed over the four bored late-for-supper travelers and snagged, and hesitated—
+"He took what he was owed," Oscar said slowly, working it out, "and not one grain more. Even though it's ruining him."
 
-—and a guard in House colors stepped up to the reader and said something, and she turned to answer him, pointing, her mouth moving fast, and the moment broke, and Kessa took them around the corner at the same bored pace and then, the instant they were out of the square, very much not at a bored pace at all.
+"That's a man with a rule," Cael said, and there was respect in it, and something close to kinship: one man who stood between, recognizing another who wouldn't take the last step. "I'd like to know him."
+
+"We need to know him," Kessa corrected, but she was looking at him too: a fighter who knew the wild ways, who wanted out, who wouldn't kill a beaten man. "He's the one the fixer pointed out, the fool already trying to run. So he's the one we talk to, before the bosses dock him into next year and he can't."
 
 ---
 
-They went down.
+They found him in the gut of the place, in a stone cell that had been a fighter's rest once and was mostly a debtor's now, sitting on a bench with his ruined hands in a bucket of cold water and not a flicker of the borrowed power left in him, just a tired man in his fifties who looked up at four strangers with the flat patience of a man long past being surprised by bad news.
 
-A city built up a valley's two sides had a bright tiered top, where the brokers' glass glittered and the House's halls stood white in the worked light, and a bottom, down by the river where the light got thin and the streets got narrow and the smell of the place changed from incense to tar and fish and people, and you could feel, descending, the exact moment you passed out of the part of Oressa that the House cared to keep clean and into the part that simply kept itself. They didn't stop until they were three twisting streets into the low town, in the doorway of a shut-up cooperage, breathing hard.
+"Whatever it is," Tarn said, dry as a dropped board, "I owe it to someone already. Get in line."
 
-Down here the worked light gave out and ordinary fire took over: tallow lamps, pitch torches, the red flicker of cookfires in open doorways. And the people changed with it. Up top, Oressa had been all clean fronts and bored courtesy. Down here were the faces the House's light didn't fall on: dockhands and gut-cutters, out-of-luck salvagers come south chasing a wage that hadn't been there, the maimed and the marked and the simply poor. It should have felt dangerous. It mostly felt familiar. These were Marrow's people, Oscar thought, the very same, just shoved further down the same long bright pipe. And he found, oddly, that he breathed easier among them than he had under all that beautiful light.
+"We're not collecting," Kessa said. "We're hiring. A guide south, off the roads, past where the House looks. Word is you know the wild ways and you want gone."
 
-"That," Kessa said, "is the last time you read anything in this city. I don't care how quiet it is. I don't care if it's screaming your mother's name."
+"Everyone down here wants gone." He didn't move. His eye went to Oscar, though, sharp under all the tiredness, because Oscar had been doing the thing he did, reading him openly, and even a man with no gift can feel the weight of being looked at that closely. "You're the one they've been hissing about since this morning. The reader with no license who set a broker's glass ringing. Silver hair." A grunt that might have been grim humor. "You came down here to hide from the House, and you've spent the night staring at people like you're pricing them."
 
-"I don't have a mother," Oscar said, on reflex, and then, because she was right and he knew she was right and the headache and the fear had scoured the cleverness out of him, "I know. I know. I couldn't—" He stopped, and made himself say the true and humbling thing instead of the clever deflecting one, because that was a muscle too and he was trying to build it. "I couldn't help it. That's the part that frightens me, Kessa. It wasn't a choice. The thing I am reached out before the man I'm trying to be could stop it. In a city full of people whose entire job is to listen for exactly that." He leaned his head back against the cooperage door. "Brida said my gift was a noose down here. I thought I understood her. I didn't. It's worse than a noose. A noose you can see coming. This is just—me. Being what I am, loudly, every second I'm not strangling it."
+"I read what's in you," Oscar said, because lies were expensive and this man dealt only in true coin. "The hook. The bargain sunk in deep and grown over forty years into a thing that takes a little more of you every fight and was written never to be paid. Because that's the trick of it. It can't be cleared. You spend it a sip at a time because that's the only way to make it last a life." He held Tarn's eye. "The contract isn't your cage. *That* is. You can break a contract. You can't outrun what you signed."
 
-Nobody said anything for a moment. Then Wick, quietly: "So learn to be quiet on purpose. Not strangling it. Actually quiet." She was looking at him with that fellow-feeling again, fiercer now. "You threw yourself shut back there, at the end. I felt it. I don't read like you, but I felt the air change, you went still in the wrong way, like a coal banked right down to nothing. That's the thing. That's the trick. Not holding the door shut so hard it takes everything you've got. *Closing* it. There's a difference. I can teach you that one, maybe, for once, instead of the other way round."
+The cell went very quiet. And Tarn looked at him with something that began as fury—the fury of a private wound touched by a stranger's thumb—and became, slowly, something far more dangerous to a man who'd made an art of expecting nothing.
 
-And that landed somewhere Oscar hadn't expected, because she was right, and because it was the first time anyone had offered to teach *him* anything since he'd clawed up out of the ice knowing too much and not enough. A way to go quiet, go blank, go unread, not by force but by will: he was going to need that before this road was through. He filed it where he filed the brace and the lance, in the drawer marked *not yet, but soon, and necessary.*
+It became hope, and he hated it, and he couldn't stop it.
 
-"I'd like that," he said. "Genuinely. I'd like to be taught."
+"Nobody sees that," he said, low. "Forty years. Not the bosses, not the readers, not the priest I paid good coin to look. They think I'm a coward who won't finish a man. They can't see I'm being eaten by the very thing that lets me win: that every life I take feeds it faster, and the only way I stay myself at all is to never take a drop I'm not owed." The water had gone still around his hands. "And you read it off me like a market tally."
 
-"Good," Wick said, pleased and trying not to show it. "Because you're a beacon, and we have to get all the way through this city and out the other side, and right now you light up every time you forget to be careful, and careful isn't a thing you can do with your jaw clenched for a week straight."
+"I did. And I won't promise I can pull it out, because I don't know that I can. It's grown into the living part of you, and that's the hardest thing there is to unmake without unmaking the man." Oscar crouched to his level. "But I'm the only soul you'll ever meet who can even see it. So come south, and let me try."
 
-"She's right," Kessa said. "Which means we don't go back up top. Not through the brokers, not past the readers, not anywhere near the House's clean streets. We find what we need down here, in the part of the city that doesn't ask questions, and we find a way south that doesn't run through an assay hall." She looked around the narrow tar-smelling street, at the low town gathering its evening around them. And somewhere off through the crooked streets, carried up from the river-flats on the cooling air, came a sound Oscar didn't expect: a roar. A crowd. Thousands of voices going up together in the particular animal way crowds did when they were watching something bleed.
+For one breath he thought that would be enough.
 
-Kessa's head turned toward it, and so did Cael's, the two of them reading the sound the way Oscar read workings.
+Then Tarn shook his head, and the hope went flat and tired again. "You don't understand how I'm held, reader. The bosses own my fights, and they don't sell a draw that fills seats. And I fill them, because a crowd will pay more to watch a man they hate finally lose than one they love win. And don't dream of me fighting my way clear. I've done that sum a thousand nights. I could win in that bowl until I die and never buy back a single hour, because the debt's rigged so the winning only feeds it. That's the joke they built me into." His ruined mouth twisted. "Wanting me out is a kindness. It's also a waste of your evening."
 
-"Fighting pits," Cael said, with distaste and with recognition both. "Of course there's fighting pits. Where there's a city this rich, there's always somewhere the poor can go to watch each other die for the price of a seat." He frowned toward the roar. "Bad place."
+"How much," Kessa said, "to a boss, is a fresh body worth?"
 
-"Bad place," Kessa agreed. "Full of bad people who don't ask questions and don't talk to the House, and know every back way out of a city the House owns." She looked at Oscar, and there was no enthusiasm in it, just the flat count of a tracker who'd run out of clean roads. "Which is exactly the kind of people we need right now."
+Tarn looked at her. So did Oscar, with a slow cold drop in his stomach, because he saw exactly where she was going, and saw, half a second behind her, that she was right.
 
-The roar went up again, down in the dark by the river, and Oscar pulled his hood lower over his silver hair and his clenched-shut, traitorous, screaming gift, and went down toward it, to look for help among the people the House had thrown away.
+---
 
+The boss's name was Hauk, and he received them in a box above the sand with a cup of wine and the look of a man deciding whether four broke northerners were worth the breath. He would not sell Tarn; he said so before Kessa finished asking, lazily, the way a man swats at a fly he isn't really bothered by.
+
+A wager was a different animal. Under the boredom, Hauk was a gambler to the marrow.
+
+Kessa shaped it and Hauk sweetened it, the two of them circling the terms like the thing was already a fight. The crew would put a fighter in the bowl against Hauk's champion. Win, and they took Tarn, a stale asset traded for a night's fresh spectacle, no loss to Hauk, who'd tear the contract with his own hands. Lose, and the fighter belonged to Hauk, in Tarn's place. A body for a body. The boss could not lose the bet; his champion did not lose; and either way four hundred people paid to watch.
+
+"And which of you," Hauk said, swirling the wine, his eyes drifting over them—the hard little tracker, the broad priest, the slip of a girl, and the silver-haired one who looked more like a clerk than a killer—"is feeling brave?"
+
+"Me," Oscar said.
+
+The reaction split clean down the middle. Hauk's face opened with a delight he didn't trouble to hide: the lamb, walking itself to the knife. And Cael said "*No,*" flat and immediate, already moving, because the priest had spent the whole night watching Oscar be the most breakable thing in any room. "Hauk. You want a fighter, I'm—"
+
+"He wants the soft one," Oscar said quietly, eyes on the boss and not on Cael. "Don't you, Hauk. Better theater. Better odds. I'll fight."
+
+"You'll die," Kessa breathed, furious, close to his ear. "You are the one thing on this crew we cannot replace, and you know it, and you're spending it on a man we've known an hour."
+
+She was right. He was their reader; if Hauk kept him, the crew lost their eyes and their edge in a single stupid evening. He knew that. He also knew two things Hauk did not: that down here his gift was invisible, because every soul watching was blind to the only thing worth seeing; and that he had already watched Hauk's champion take an earlier bout, and marked the old fault in how the big man moved.
+
+It was, if he was honest (and a small vain corner of him always was), a puzzle he was fairly sure he could solve. That corner was louder than it had any right to be.
+
+"Set it," he said.
+
+"Then hear the terms," Hauk said, and the delight in his face put on procedure like a coat. "The card is fists. That's the sport; that's the law of the sand. But a *called wager* fights at the house's pleasure, friend, with what the house gives it." He let that land. "The house gives steel."
+
+Somewhere behind them Tarn said, flat, to nobody: "Steel's for burials."
+
+---
+
+They gave Oscar back his sword, which was Hauk's notion of a joke: a scholar's blade against the house champion made for a richer kind of laughter, and Hauk liked his cruelty with a garnish. They gave the champion a falchion as long as Oscar's arm and a body built like a barn door. *Borr,* the crowd chanted, and they loved him the simple way they had never loved Tarn: he killed, and he killed quickly, and he gave them precisely what they paid for.
+
+Oscar set the skin before the bell: the figure he kept banked beneath his own, a worked second hide that would stop no blade but would spread the shock of a blow, so a hit that should switch a man off merely felt like the end of the world. He had time for nothing else. The bell rang, and Borr came across the sand like weather.
+
+In the first three seconds, Oscar discovered the flaw in his clever plan.
+
+He could see every blow before it landed, the falchion's arc telegraphed in Borr's shoulders a full beat early, and it did not matter in the slightest. The first cut he saw coming and wore anyway, a hot line opening across his ribs. The backhand he saw coming and took full on the shoulder; the skin spread it and he kept his feet and his teeth, but it was like being struck by a cart, and the bowl came up roaring for the slaughter they'd been promised. Knowing the answer, it turned out, was an entirely separate thing from being quick enough to write it down.
+
+So he stopped trying to fight like a fighter, which he was not, and started fighting like the only thing he was.
+
+He wove the Measure, and felt his reserve tip into it and start to drain. The figure ran down his sword-arm and the world sharpened; the blows he read became blows he could *answer*, his blade arriving where the falchion would be instead of where it had been. He turned a cut that should have opened his throat. He put a shallow line across Borr's forearm, the first the champion had taken in a month, and the crowd went quiet at last, because the lamb would not lie down.
+
+But the Measure was burning through him faster than he was hurting Borr, and the skin was buckling under every hit that still landed, and Oscar understood with cold clarity that he could not win a long fight. Magicked or mundane, attrition killed him. A dozen more exchanges and his reserve would gutter out and leave a bleeding scholar in front of a man with a cleaver.
+
+Which left the knee.
+
+He had watched it from the box an hour ago, in the earlier bout: the old break in Borr's left knee, shattered once and set by someone in a hurry, the joint a half-degree wrong ever since and carrying a giant's weight on a seam that had never truly closed. You could see it if you knew to look. Twenty years Borr had guarded that knee without knowing he did, turning off it, leading away from it, the oldest habit in his body. No reading in it. Just a careful eye on a man who didn't know he was being studied. To reach it Oscar would have to be, for one single instant, faster than a man that size could possibly expect. Faster than Oscar had any right to be.
+
+The spur was the hungriest figure he owned and the least tested, and he had never spent it flat out with nothing held in reserve. He spent it now.
+
+The world went slow and bright and wrong at the edges. He could feel himself *fraying*, the figure tearing through what reserve he had left like fire through dry grass. In that one stolen instant he did not try to match Borr blow for blow. He dropped under the falchion's arc, put everything still in him behind a single thrust, and drove his blade into the exact half-inch of knee that had never been made right.
+
+The joint came apart.
+
+Borr went down like a felled tree, the falchion ringing away across the sand, a mountain folding around a leg that would not hold him and could not now, however the bell screamed at him to rise. He could not stand. He could not continue. And the bout, by the only law the bowl knew, was finished.
+
+Oscar stood over him, swaying, a blade he could barely lift in a hand he could barely feel, his reserve scraped down to fumes and the whole world tilting gently where he'd burned too near the seam of himself. Borr was conscious and beaten and staring up at him with the dull astonishment of a man who had just lost to weather he hadn't believed in. It would have been the easiest thing left in the world to finish it. The crowd wanted it. The crowd always wanted it.
+
+Oscar took his win and left the rest, and turned away. And four hundred people who had paid to watch a scholar die roared instead for the freak who had somehow gutted their champion. Not one of them knew they'd watched magic. Up top it would have hanged him. Down here it only looked like a miracle, and miracles fill seats.
+
+---
+
+Hauk paid. He paid the way a man pays with murder in his face and not one word of argument, because a boss who welches on a wager called aloud in front of the whole bowl has just announced to every soul who owes him that debts are only debts when it suits them. And the low town runs on the opposite faith. He tore Tarn's contract with his own hands, slowly, so they would all see what it cost him, and he watched Oscar the entire time in a way that promised this was very far from finished.
+
+Tarn said nothing until they were out of the box and into a passage that stank of fish and old blood. Then he stopped, and made Oscar stop, swaying as he was.
+
+"Forty years," Tarn said, "I've owed everyone in this city and been owned by half of them, and not a copper of it did I ask for or agree to." His dry voice had gone strange in the middle. "And just now a man I've known an hour bled on that sand and burned something out of himself I haven't got a name for, to buy back an hour of my life. By the one rule I've kept when it cost me everything—" he had to work the words loose "—I owe you. Clean. Freely. The first debt in forty years I would *choose* to carry."
+
+"Then hear the true answer you're owed back," Oscar said, because the man dealt only in true coin and deserved it. "I don't know that I can loosen the hook in you. It may be past anyone alive. But I'll spend the whole of this road trying, and I won't lie to you once about how it goes." He paused, and added the thing he'd learned in the bowl, because it was true and Tarn would want it true: "I looked at the work in you tonight. The hook. Out of habit, hunting the place it gives." He shook his head. "It hasn't got one. Whatever set that hook set the rest of you to match it. You're the one man down here I could never have beaten, which is exactly why I want you walking next to me and not behind me."
+
+Tarn studied him. Then, at last, something almost like a smile cracked the scarred face. "I keep my word. That's the whole of the religion I've got left: I pay what I owe, I take what I'm owed, nothing on either side of the line. So: I'll guide you south until I'm dead or you're there, and you will never once wonder if I mean it." The smile, such as it was, held. "And I'll take *trying.* Trying is more than this country's offered me in a long, long while."
+
+"Five," Wick said quietly, to no one, with a small fierce satisfaction, as if she'd been keeping the count and had just watched the number tick up.
+
+Tarn's eye went to her, to the hand curled tight in her pocket, and something crossed his face that Oscar recognized, because he'd watched it run the other way an hour ago in the stands: one carrier of a hungry, hooked thing, clocking another. He said not a word about it. A girl's secret wasn't owed to him, and Tarn took only what he was owed.
+
+Cael got a shoulder under Oscar before his legs finished the argument they were having with the floor, and pressed a broad warm hand over the worst of the bleeding, and the slow hearth-heat of his mending began to sink in. "You," the priest said, with enormous tenderness, "are the most reckless clever fool I have ever stood beside, and if you ever wager yourself across a table again, I will let you lose."
+
+"Noted," Oscar said. He even mostly meant it.
+
+Tarn shouldered a worn pack he'd plainly kept ready by the door for years, the bag of a man waiting on one fair offer, and nodded them toward the dark. "Drain gate under the fish market lets onto the river road. Quiet where we can be, loud where we can't. After that I know ways south the maps have never heard of." He looked back once at the bowl, at forty years of it, and then didn't again. "I've hauled worse things down worse roads than the one ahead."
+
+And so the crew became five, in a reeking passage beneath a bowl still roaring a champion's name. Up in the bright city, the criers were still describing a man with silver hair. Down here, by morning, a furious boss would be describing him too. One night had bought them a guide, a fighter, and a debt freely owed, along with a great deal more noise than four people running from a House had any business making.

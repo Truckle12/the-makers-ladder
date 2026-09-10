@@ -1,141 +1,105 @@
-## Chapter Thirty-Two — Quill
+## Chapter Thirty-Two — The Road South, Again
 
-Oscar woke before the light and read the house, because it was there and so was he, and three centuries of borrowed habit had never produced a different outcome from that arrangement.
+Ash's map was good, and that was the trouble with it.
 
-He'd been reading it in pieces since the first night, the polite way, a page at a time: the stones that had never been quarried, the beams that had never been trees, the forty windows of glass that had never known sand or fire. Made, all of it, and made *well* — a hand so far past his own that studying it was half pleasure and half humiliation, which was, he was coming to understand, the standing price of anything to do with Ash. But this morning, lying in a bed too comfortable to trust, staring at a ceiling with no history in it, he stopped being polite. He opened the looking properly and read the manse entire, roof to root, the whole written argument of it at once.
+Kessa had it open on a flat stone in the grey before dawn, weighted at the corners with pebbles, the crew still asleep behind her in the fold of a hedge-bank that had taken her an hour of dusk-work to choose. Oilcloth, close-inked, the roads south drawn in a hand that wasted nothing. Every road that mattered between the heath and the far southern valleys, and against each one, small marks in a system she'd cracked inside a minute because it was the system she'd have used: which roads carried eyes, which carried readers, which were watched at the bridges only, which were clean.
 
-And found the ending.
+Five days ago, by the map, there had been three clean ways south.
 
-It was built into every line of the thing, the way a lease is built into a tenancy. Not decay; nothing so shabby. A *term.* Walls, wings, stables, the empty hedges, the lane that had scandalized Kessa: the whole of it was one long sentence written to complete itself, the final clause already in place, patient, load-bearing, waiting to be reached. *And then it never was.* The fire that had burned all night in the grate had, written into its warmth, the morning it would never have burned at all.
+She'd used one for a day and a half before it went bad. A drover's track the map swore blind ran empty, and it had run empty, right up until the burned-out toll house at the ford, roofless since some old trouble, marked dead on the map, showed fresh thatch on one corner, smoke, and a horse on a picket line behind it. She'd taken the crew off the track and around through two miles of bog for it, and lain on a wet rise with her chin in the sedge, counting. One horse. Two men. A House pennon, small, no bigger than a kerchief, hung where it could be seen from the track and nowhere else. Not hunting. Sitting. A stone dropped in a stream, to see what the water did.
 
-He lay still for a moment with that.
+The second clean road had gone bad yesterday. A crossing she'd meant to use, a dry-stone bridge, unwatched per the oilcloth, per Tarn's memory of it, per every habit of a country that had no reason to spend men there — and she'd smelled the picket fire from half a mile out, wind right, and hadn't even bothered crawling in to count. They'd backed off and slept cold, no fire, in the lee of a fallen barn.
 
-"Huh," he said, to the ceiling that was already, in some grammatical sense he decided not to think about before breakfast, gone.
+Now she crouched over the map in the almost-light with the third clean road under her thumb, and did not believe in it.
 
-He found her in the long room downstairs, and she was awake; he had given up modeling when the woman slept. The shutters stood open on the blue hour. There was tea. There was no baggage anywhere, no cloak over a chair, none of the small luggage of departure. She had nothing to pack because nothing here was hers, or everything was, which amounted to the same thing. The house would carry itself out.
+The map wasn't wrong. She'd worked that out lying awake with the count refusing to settle. The map had been right when Ash drew it, however she'd drawn it, and it was going wrong a road at a time, west to east, in order. Somebody was taking the clean ways off the board. Not chasing them down any single road. There was no pursuit behind them, she'd swept their back-trail twice and it was as empty as country gets. She'd seen a net worked once, off a cold coast in her girlhood, the men walking the floats in, unhurried, no one of them looking at any fish.
 
-"You read it," she said, not looking up from her cup. "The term."
+She rolled the map and sat with it in both hands and made herself say the shape of it plainly, in her own head, where the sums were kept.
 
-"Rude of you to notice before I said anything. I'd prepared remarks."
+He isn't following us. He's shrinking the country we can be in.
 
-"You walk like a man doing sums. You have since the stairs." She poured his tea. Two days he'd been her guest and she'd not asked once how he took it; she'd watched him once and known. It was like being kept by a very hospitable knife. "Today, since you're asking underneath all that. Noon, or near it. The house has a term, the lane has a shorter one, and I have a road that isn't yours." She turned her cup a quarter-turn. "Sit. You've time for tea, and there's a thing left to do that I've been putting off, and I don't put things off, so attend closely and be flattered."
+She'd met him once and fought him never, and she was starting to know him the way she knew weather that meant to turn: Corwen didn't hunt. Corwen stood at the far end of where you were always going to have to go, and closed roads until where-you-were-going-to-have-to-go was a place with him standing in it. The wild had beaten him once. There was no second wild between here and Everset. There was farmed land, fenced land, House land, netted tighter every mile south, and somewhere in it, ahead, not behind, a man in a good grey coat pouring wine and letting the roads do the rest.
 
-"A thing."
+There'd be a wizard's word for that kind of hunting. Hers was simpler. Cornered.
 
-"The last thing." She looked at him over the rim of her cup, and there was something in her face he hadn't seen in two days of grief worn smooth and courtesy sharpened to a working edge. She was, he realized with real alarm, nervous.
+Behind her the camp began to breathe differently, one sleeper at a time, the small stirs she could have told apart blindfolded. She stayed where she was a moment longer, watching the third clean road on the rolled cloth in her fist, the way south going narrow as a throat.
 
-"Ash. What —"
-
-She whistled. Two notes, low, falling.
-
-The owl came down the room like a decision.
-
-He'd seen it about the place for two days — on the gatepost, on the chair-back, once on the newel at the stair's turn, watching him go up with both eyes together — and he'd set it aside as hers, part of the house's grammar, one more well-made thing. It landed now on the table between them, on the bare oak, with a small double clutch of talons on wood, wings folding with the sound of a book being shut. Up close it was not large. Barn-owl shaped and barn-owl sized, pale-faced, dark-eyed, feathers the brown of old paper with the ghost-bars of writing in them. It looked at him. Its whole face pointed at him at once in that way owls had, and something under Oscar's ribs, without asking permission, without any grammar to it at all, went *home.*
-
-He put his cup down before his hand could shake it. Body first; his mind ran a half-beat behind, scrambling to source it, and then found the source, and sat down hard next to it.
-
-His left shoulder. Three centuries of a weight that wasn't there.
-
-He had carried it since the ice: a specific absence, shoulder-shaped, talon-shaped, the phantom press of a grip that arrived in memory only as its own missing. He'd even had the name for it: he'd reached for Quill his first morning under the dead city and closed his fingers on an empty coat, and having the name had never made the missing weigh less. It was the oldest note in the oldest margin he owned. And here was the weight, standing on a table, looking at him with its face full of a dead man Oscar happened to be wearing.
-
-"Quill," he said. His voice came out wrong. Smaller than the joke he'd meant to fit in it.
-
-"Quill," Ash agreed, quietly. "The line's bird. My uncle's bird, and his mother's before him, and back and back — nobody wrote down the beginning; the bird's outlived every record of itself, which used to enrage the family archivists, which I believe it enjoyed." She put out one finger and ran it down the owl's back, and the owl allowed it without moving its eyes off Oscar. "It's been mine to keep since the line finished dying. And it is the last thing I have that was *his,* and I am giving it to you, and now you know what I've been putting off, so drink your tea and let me do this in my own order."
-
-Oscar did not touch his tea. The owl watched him. He was being read: he knew the feeling from the inside, the same square regard he turned on seals and wards and other people's locks — and for once in his borrowed life he had not the least idea what the reader was finding.
-
-"Why," he said. Not clever. There wasn't a clever version.
-
-"Three reasons. You'll hate two of them." Ash set her cup down. "One: it should stay with the line, and after noon today, as far as any road I mean to walk is concerned, the line is you." She said it briskly, a woman stepping on a crack in her own voice before it could open. "Two: where you're going, you will need eyes that are not your own. Quill's flown ahead of Alberichs down every road worth the name. That's not sentiment; that's kit. I don't send anyone toward the seat under-equipped, and I am sending you, so." A breath. "Three is mine, and I'm keeping it."
-
-"That's the one I'd hate least."
-
-"You'd hate it most," she said. "That's why you want it. Uncle to the bone." And before he could decide whether to be pleased or insulted, the daily choice she'd been serving him since the road, she pushed her chair back and stood. "Now. There's a form to this. The bird passes by gift, hand to hand, and then—" she paused, and the pause had weight, and he read the weight a half-second too late, after it had already fallen "—then it answers you. Or it doesn't. That part was never in anyone's gift. Hold out your arm."
-
-He held out his arm. The sleeve suddenly felt like a stranger's.
-
-"Quill." Ash's voice went formal, and old, and for a moment he could hear a whole vanished house in it, generations of a family whose smallest habits had been built to last. "The line hands you on. This is Oscar Alberich." No qualifier. He heard the space where one could have gone — *a* Oscar, *the copy of,* *the latest* — and heard her leave it out, deliberately, the most expensive gift of the morning, and the owl's face swung from her to him, and the room got very quiet.
-
-"Come, then," Oscar said, and meant it, and knew as it left his mouth that some deep clause of him didn't.
-
-The owl looked at his offered arm. It looked at it with care, with — he'd swear to this — with something like *hope,* leaning, weight rocking forward onto the balls of its talons, wings loosening for the little hop it was, everything in it wanting to.
-
-It didn't come.
-
-It settled back. The wings folded, paper on paper. The dark eyes came up from his arm to his face with an expression he refused, on principle, to read as apology, because being pitied by two pounds of bird before breakfast was not a sentence he was prepared to have parsed about himself, and the silence went on one beat, two, until it became necessary for someone to pretend nothing had happened, and the someone was obviously going to have to be him.
-
-"Well," Oscar said. His arm was still out. He reeled it back in and inspected the sleeve as though checking it for structural fault. "In its defense, I wouldn't perch on me either. I've seen what I've got in my accounts."
-
-The joke died. It deserved to. Ash didn't even give it a decent burial; she was looking at the owl, and then at him, with the particular stillness of a woman fitting a fact into a place she'd hoped it wouldn't go.
-
-"Hm," she said.
-
-"It's fine." It wasn't, and the not-being-fine was itself alarming: it was a *bird,* it was a formality, it was some dead family's protocol, there was no proof-shaped reason for the size of the thing currently sitting on his chest. He catalogued the reaction as disproportionate and filed it for review and the filing didn't help, which he also catalogued. "It knows the difference. Fair enough. Honest bird. It answered to the man, and I'm the man's — " he heard himself about to say *forgery* and swapped it, too late for it to matter, " — errata."
-
-"That's not what it knows." Ash's voice was flat and thoughtful. "Birds don't check provenance; I've watched this creature love three Alberichs and every one of them a worse person than you. It's not reading your papers, wizard. It's reading your *reach.*" She frowned, the first honest frown she'd spent in front of him. "You called it with your arm out and the door shut. Like a man offering a perch he's certain won't be wanted. It went to hop and there was nowhere to land, nothing *open,* and don't," she added, as he opened his mouth, "ask me to explain it in your grammar, because it isn't in your grammar, and that's as far as my seeing goes. The call's fine. The bird is yours; it decided that on the gatepost the first night, watching you argue with me about lamps for people who might never come. Whatever's between you and it being *able* to be yours —" she straightened, and made her voice put the matter down " — is yours to find. You're built for finding things. It's the one thing they got entirely right."
-
-The owl shifted its grip on the table, side-stepped twice, and, with the air of a compromise being formally lodged, began, gently, to preen the cuff of Oscar's still-outstretched-adjacent sleeve.
-
-"Don't read into it," Oscar told it, unsteadily.
-
-The owl read into it.
+All right, she thought, cold and quiet, the decision arriving not as an idea but as a settling, weight coming down onto a foot that had been waiting for it. All right. If there's no road he won't close, then the road stops being the question. If we have to meet him, we meet him. But I choose the room.
 
 ---
 
-They walked out at noon, and the house held the door for them, which he alone knew was literally true.
+The country turned southern under them all that day, and she read it going and liked none of it.
 
-Kessa had them mustered in the forecourt like a woman evacuating ahead of weather, which was fair; he'd told her about the term over breakfast. Packs squared. Water topped from a well none of them trusted and all of them used. She'd set the order of march before anyone had finished chewing: herself first, Tarn's good arm on the rear, Wick in the middle, "and the bird wherever birds go, it doesn't answer to me." She'd taken the news that the house was going to stop having existed with a single slow nod, the nod of a tracker filing the heath under *lies now,* and then she'd said the only thing Oscar ever heard her say about the entire manse: "Good. A thing like this shouldn't be findable twice."
+Hedges first. The heath gave out into hedged land, real hedges, laid and layered by hands, generations of them, and after the wild and the grey and a house that had lied about existing, a hedge with fifty years of honest labor in it should have been a comfort. It wasn't. Hedges meant boundaries and boundaries meant owners and owners meant eyes. The fields went from rough grazing to plowland. Twice they crossed old paved stretches, House roads gone to grass a century back but still ruler-straight under the turf, and both times Oscar slowed without seeming to notice, feet finding the buried stones, and said something to nobody about the grade of it, the camber, some dead crew's good work. His voice did the thing it did around made things, warmed, went easy, a man among his own kind.
 
-Ash came out last, empty-handed, exactly as heavy as she'd arrived.
+She marked the change in him because she marked everything, and marked, too, the other thing, the one that had started up since the heath.
 
-The goodbyes were short, because she rationed everything, even endings. To Tarn she said, "The arm will knit straight; I had the house see to the bed," and Tarn, who had not mentioned the arm once in three days, said, "Knew it was doing something," and gave her the short nod he gave things that had paid what they owed. To Kessa she handed a fold of oilcloth: "Roads south, marked for which eyes watch them; burn it read." Kessa took it as she took all gifts, as a tactical problem she'd solve later, and then surprised the whole forecourt including visibly herself by saying, "You could come. One more reads as crew from a distance. It's safer." Ash looked at her a long moment. "No," she said. "But you're the first person to offer me that in a century, and I'll be keeping the fact." To Wick she said nothing at all. She just stopped in front of her, and looked at her, and something passed between the two of them that had no adults in it whatsoever. And Wick, scowling, ferocious, produced from her pocket a heel of yesterday's bread, the good bread, the crust that cracked, hoarded overnight the same as she hoarded all food, and shoved it at her. "For the road," Wick said, savage with embarrassment. Ash took it, and did not smile, which Oscar understood was precisely why Wick would defend this woman to the death from this day on. Cael she stopped in front of and said, plainly, "You saw me straight, priest," and Cael said, plainly back, "I said what I saw. Walk warm," and that was the whole transaction, two big honest doors closing on good hinges.
+He kept snagging.
 
-And then him.
+On the skyline south, mostly. They'd top a rise, and the land would open — good open country, farms in the folds, the blue-grey teeth of far hills a week away yet — and the wizard would check. Mid-stride, half a heartbeat, a hitch you'd miss if you weren't paid up on watching him. Like a man who half-hears his name in a crowd and turns, and there's nobody, and he laughs at himself and walks on, except Oscar didn't laugh, and there was nothing on those skylines to hear. Third time it happened she back-tracked his eye-line herself, quartering the horizon he'd checked at: hills, cloud, a kite turning over the valley, distance. Nothing with a shape. Nothing her tally had a column for.
 
-"Walk with me to the gate," she said, "the rest of you stay put," and the crew, who had opinions about Oscar walking anywhere alone with anyone ever again, stayed put, because the voice she said it in was the voice the whole heath obeyed.
+"Stone in your boot?" she asked him, even, the fourth time.
 
-The lane was already thinner. He could read the hedges giving their term up early, the blackthorn's argument for itself going sparse, the wrong-month berries dull as beads. The owl ghosted over their heads and took the gatepost ahead of them, proprietary. Where the gate had been there were now mostly the two posts and an increasingly theoretical idea of a wall.
+"Hm? No." He looked briefly, genuinely confused, which from him was informative; the man narrated his own missteps for sport, and this one he hadn't caught. "No, I was — " He frowned back at the skyline, at the far hills that were nothing but far hills. "Nothing. Wool-gathering."
 
-"You won't come," Oscar said. Not a question; he'd read the term in her too, days ago, and had been declining to construe it. "Not to the next town. Not to the seat. You put — forgive me, but I've done the sums until they interfere with my sleep — the better part of a century's patience into being ahead of the House on the day I woke. And you spend it all to hand me an owl and a warning and *leave,* and the part I can't parse, the clause I keep rereading, is that everything you've given me says you know exactly what's waiting at Everset, and everything you've done says you'd sooner I walked into it than have you beside me, and I have tried very hard to make that sentence mean something other than *she thinks I have to lose.*"
+Wizard doesn't know he's doing it, she added to the tally, and set it beside the other entries in the column that had no name yet and was getting longer, and didn't like the length of it, and moved the march along.
 
-Ash was quiet for a dozen steps.
+The owl went south with them at its own altitude and its own opinion of everybody. Two days now she'd watched it work, and as kit went — Ash had called it kit — it was good kit going to waste. It quartered ahead of their line without being sent, rode the wind up where a watcher would have to be looking for it to see it, and twice it had come angling back low over Oscar with a flat shriek before Kessa's own eyes found what it had found: the first time a shepherd and his boys where the fold of the land had hidden them, the second time the picket smoke at the stone bridge. Eyes they didn't have to spend. It just wouldn't be *handed* anything. Wouldn't take the arm, wouldn't take an order, wouldn't come when the wizard called it.
 
-"I broke," she said, at last, "alone."
+And he kept calling it. She'd stopped watching that part straight on, because it had started to hurt in a way that wasn't tactical. Every camp, once, at dusk, off at the edge of things where he plainly believed nobody could see him. The man could read a ward through a wall and couldn't spot a tracker at thirty feet; it would've been funny in a fatter month. He'd stand under whatever tree the bird had taken and hold out his arm and say its name, quiet, level, like a man knocking at a door he was fairly sure was empty. And the bird would lean, every time, lean like a thing on the very lip of yes.
 
-The lane thinned around the words.
+And not come. And he'd say something dry to it, and walk back into the firelight with his face rebuilt, and the bird would watch him the whole way in.
 
-"Whatever they've told you about me — I know what the stories are, I planted half of them — the true version is small and it happened in a room with nobody in it. The line had a shape for me, the same as it has a shape for you; mine was gentler, which made it worse, because gentle fits are the ones you wear longest. And the night I set it down, there was no one beside me. There couldn't have been. That's not a rule I made; it's just the load-bearing fact of the thing: another hand on it and it isn't your choice anymore, it's theirs, held out for you to sign. The most anyone did for me, and it was everything, was that somebody I trusted had already walked out ahead of me and left the door standing open, so that when I stood in the middle of what I was for, and said no, I knew the word had somewhere to land." She stopped at the gatepost, under the owl, and turned to him, and her face was as bare as he'd seen it. "That's the inheritance, wizard. Not the bird. Every generation someone has to be the proof, and the proof only counts if you earn it with the door shut. I can't say no *for* you at Everset. If I'm standing there, some part of you will hand me the pen. So I give you everything I have — the knowledge, the bird, the road — and then I do the one hard thing left that's mine to do, which is get out of the way of it."
+The other ritual of the march was newer, and Kessa minded it less. At the noon halts Wick had taken to teaching the wizard to be quiet, properly quiet, banked, the trick the girl did with her own fire, and the two of them sat cross-legged in the shade like hedge-mystics while Wick said things like *you're clenching it, that's not quiet, that's holding your breath,* and Oscar went very still and radiated effort. Kessa couldn't feel whatever it was they worked at. She didn't need to. She had an instrument for it, and the instrument was Wick's face, and in four days the girl had nodded — once, grudging, a teacher's nod — exactly twice, for maybe a ten-count each time. Bad student. Knew too much to be taught easily, was her read. But twice was twice, and it went in the column of things that might matter later.
 
-"And if I get there," Oscar said, "and the word doesn't come?"
+Wick watched the owl ritual from cover on the far side of the camp, every night, wearing the exact ache she'd worn since the manse. Kessa hadn't sorted the girl's tangle all the way down: jealous of a bird, jealous *for* him, furious at the bird for refusing him, half on the bird's side in some way she'd have bitten through her own arm before explaining. And Kessa didn't need it sorted. She needed the girl sleeping, and the girl wasn't, much.
 
-"Then it doesn't," Ash said, without flinching, which was the most respectful thing anyone had done to him south of the Warden. "And the thing at the seat finishes what my family started, and the world goes on with one more finished man in it, and I'll grieve you the same as I grieve him. I'm good at it. I've had practice." Then she did the thing he never saw coming, for all his reading: she took his face in both hands, quick and fierce, an aunt's grip, older than any protocol in any line, and looked at him the way you look at a face you knew before it was reused. "But it'll come," she said. "I've watched you argue with an owl. He'd have hated you. That's the highest thing I know how to say."
+Cael was the one piece of the march that had gone better instead of worse. The farther south, the steadier that low warmth of his ran; she could feel it off him on the night watches now, banked and even, a wall you could put your back against, and he'd finished Tarn's arm two nights back — the strapping off, the shoulder rolling clean, the last of the club's work gone out of it. "Cheap, down here," he'd said, when he caught her measuring the cost in his face and finding none. "Roads and roofs. I'm near the hearth-end of the hall." Then, because he was Cael, he'd banked the comfort of it himself: "Whatever's herding us south, it's herding me *toward* my strength. I keep turning that over. Charity from that quarter I don't trust."
 
-She stepped back. The morning stood still around her, and then it didn't. The air folded, one crease, off and away, the same fold he'd failed to read on the road and failed to read now, and he minded it less this time, which worried him on principle —
-
-— and the last thing through the fold, before it closed, was her voice, dry as her name:
-
-"Feed the bird. He lies about having been fed."
+She'd given him the honest answer, which was a nod, and put it in the nameless column with the rest.
 
 ---
 
-The house lapsed at two hours past noon, and it was the politest thing Oscar had ever felt.
+Tarn found the waypost on the fourth day, because years of fetching had left him a map of the old country no oilcloth could match.
 
-They were a mile south when it reached the end of itself. There was no sound. There was no smoke. There was only, all at once, behind them, a heath with nothing in it — no roofline against the sky, no lane, no hedges, the whole long argument concluded, *and then it never was* arriving right on schedule like the last payment on an honest debt. The warmth of its fire was still in his coat, the wool holding the heat of a hearth that had, as of two hours ago, never burned. Kessa called a halt and stood looking back for a slow minute, tallying the missing house against whatever ledger she kept for the world's behavior, and then turned south and said, "That's that," which was as close to a eulogy as the manse was going to get out of her.
+They'd stopped shy of a valley mouth at noon, off the track, eating cold in a copse while Kessa glassed the way ahead and disliked it: the third clean road ran the valley floor, past two farms and a mill, all of it overlooked, all of it exactly where she'd put a watcher if she were a man shutting gaps — and Tarn hunkered down beside her, took one long look at the country, and said, "You've stopped meaning to slip him."
 
-The owl went with them.
+Not a question. She lowered the glass. On the far side of the camp Oscar was showing Wick something about the buried pavement, both their heads down, the owl on a fence post pretending not to be within listening distance; nobody but Tarn to hear it, which was likely why he'd picked now.
 
-Not *with* them; Oscar was made to understand the distinction at once and continuously. It went along the same route they happened to be using, at its own altitude, on its own schedule, a pale shape making short unhurried hops from dead tree to fence post to standing stone, always in sight and never in reach. When they stopped, it stopped, at a remove. When Wick held out her arm to it, having lasted an hour before trying, which for Wick was a geological era of restraint, it looked at her with warm interest and did not come, and she said "your bird's broken," and the failed joke in it was aimed so squarely at making him feel better about the morning that he almost couldn't breathe around it. When Tarn tossed it a strip of dried meat it caught the strip out of the air, ate it, and went back to ignoring them all with its whole pointed face.
+"There's no slipping a man who doesn't follow," she said. "He's closing roads west to east. Three days, maybe four, there's one way south and it has him in it. I mean to pick the ground before the country picks it for me."
 
-"He lies about having been fed," Oscar said.
+Tarn chewed, swallowed, unhurried. "Thought so. You've been reading every choke point since the bridge like you were buying, not passing through." He tipped his chin south and east, at the shoulder of the valley, where the land climbed away from the farms into rougher country, old country, the plowland giving up. "Then I know your ground. Fetchers' post, half a day that way, on the old road — the *old* old road, the dead folks' road, before the House ever paved a mile. Waystation. My trade used it coming back heavy from the wild when the towns wouldn't have what we were hauling." He drew it in the dirt with one finger as he talked, quick sure strokes, a man laying out a thing his hands knew. "Stone. One story, walls like a bank vault, the old work — doesn't crack, doesn't burn, you'll want the wizard to see it, he'll go on about it, I warn you now. Well inside the walls. Two doors, one south, one north, both narrow. Ground open on three sides — nothing comes at you unseen — and the back against the scarp. No farm near it, no eyes, nothing for the House to tax, so the House forgot it a long time back."
 
-"So did you," said Cael, mildly, "the first week," and walked on before Oscar could construe it.
+"Water, walls, sight-lines, two doors." She was already building it in her head, setting men on it, running the angles. "What's wrong with it?"
 
-At dusk, at their first camp south, with the fire small and the watches set, Oscar waited until the plausible cover of gathering wood took him past the dead oak at the clearing's edge, and stopped under it, and, quietly, in the manner of a man conducting an experiment he had pre-registered as futile, strictly for completeness, held out his arm.
+"Same thing that's right with it." Tarn wiped the map from the dirt with the flat of his hand, habit older than any of tonight's reasons. "It's the only good room in the country. I know it. Any fetcher south of the wild knows it." A beat, dry as ever. "Man who's spent this long closing roads on us knows what we know."
 
-"Quill," he said. "Come."
+"He'll read it the moment we turn for it."
 
-The owl looked down at him. Its face did the thing, the whole-face thing, both dark eyes taking him in together, and it leaned, it *leaned,* the grip rocking loose, the wings easing for the hop —
+"Aye."
 
-— and settled back, and looked away south, at nothing, at the dark, embarrassed for them both.
+"So it's not a hiding place. It's an appointment." Kessa looked down the valley once more, at the mill, the farms, the soft watched floor of the third clean road, and then up the shoulder at the rough ground rising south and east, and felt the same settling she'd felt over the map at dawn, the weight coming down for good this time. Her whole trade was reading where a thing would have to pass and being there first with the wind right, and it had taken her until this morning to see she'd been on the wrong side of her own craft since Oressa. Reading ground to leave it. Time to read it to stay.
 
-"Noted," Oscar said, and his voice came out level, and he wrote it in the margin where he kept the oldest absence he owned: *day one. The perch is not open. Reach: faulty. Fault: undetermined.* Then he picked up his entirely unnecessary armload of wood and went back to the fire, past the owl that was his and could not be his.
+"Kessa." Tarn's voice, quieter. "One more thing you'll want, before you set this in front of the others." He was looking at the dirt where his map had been. "In the bowl, before they let two men in the sand together, they post the pairing. Days ahead. You know why?" He didn't wait. "Crowds don't come for a fight. They come for an ending. A fight you can walk away from; there's another behind it, and everyone knows it, and nobody bleeds more than they're paid to. But post the pairing, name the hour, shut the gates — " he stood, brushing his hand clean on his thigh, and finished the thought at the level ground south " — and both men fight like it's the only door out of the room. Because it is." His eyes came to her, flat and old. "You pick that post, you're not picking where we stand him off. You're picking where it ends. Him or us. Be picking that."
+
+Kessa held his look and didn't blink it away, because he'd earned the straight answer and because she'd already done this sum too, at dawn, over the map, and had been waiting all day to see if it still came out the same in better light.
+
+"I know what I'm picking," she said.
+
+---
+
+She laid it out for the crew at dusk, all of it, plain: the roads going bad in order, the net and the man working it, the waypost and what turning for it meant. She'd learned a long time ago you didn't soften ground-truth for people you expected to fight on it, and this crew had earned the whole map more times than she had fingers.
+
+Nobody argued. After all this road together it still caught in her chest at wrong moments, how they didn't. Wick went white and then red and then said, "Good. I'm sick of being herded," with the heat audibly in it. Cael took the longest, sitting with his big hands loose between his knees, and what he finally said was: "He'll bring men who are only doing a wage's worth. I'll want us agreed, before, on what we do about surrender if it's offered. Theirs, I mean." Nobody laughed, because he wasn't joking; it went on the plan like everything else, a line in the order of march. Tarn just nodded, once, the pairing posted.
+
+And Oscar — Oscar had gone still while she talked, and stayed still after, and she'd watched, in the firelight, the thing she'd been waiting on since the heath: the moment the man who read everything realized there was nothing here for reading to do. No seam. No script. A country closing like a hand, and the only text in it a choice.
+
+"You're certain," he said at last. Not challenging it. Checking the load, the same as she would.
+
+"He doesn't lose them. Ever. That's the story the south tells about him, and I've stopped betting against it. So we spend the story." She fed the fire one stick, watching the flame take it. "He's never had to fight for a collection. It's why the collar, the cordon, the wage-men, the patience. He's built for a world where nobody stands, because in his whole career nobody ever has. There's no story about the time somebody stood, in ground they chose, with the doors shut." She looked up at the wizard over the fire, at all of them, her people, four and her, five with the bird if the bird was feeling generous. "First time for him. Not for us. We stood at the rim of the grey with worse odds and no walls at all."
+
+"The post has walls," Tarn said, to the fire, "and a well," and the vote was carried.
+
+Later, on first watch, with the camp breathing behind her and the owl a pale smudge in the black of the one tall tree, Kessa sat with Doss's knife loose in its sheath and ran the sums, which was what she had instead of prayers. Half a day to the waypost. A day, two, to make the room theirs — the doors, the well, the angles, whatever Oscar could wake in the old work. Then however long it took the last clean road to go quiet, and dust on the north approach, and a good grey coat coming on unhurried across ground she had chosen, into an appointment she had made.
+
+Come on, then, she told the dark south, and checked her people once more, and settled in to wait for the light. Come collect.

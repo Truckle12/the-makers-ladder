@@ -1,165 +1,141 @@
-## Chapter Twenty-Nine — The Gate That Walks
+## Chapter Twenty-Nine — The Trail That Ends at a Door
 
-They came out of the wild like men wading up out of deep water, and for a hundred steps Oscar let himself believe the hard part was behind them.
+Four.
 
-He knew better. He always knew better; knowing never arrived in time to stop the feeling that came first. And the feeling was enormous, and he was too rested to argue with it. Days ago he had stood at the rim of the grey with his looking shut and his hands empty. Since then he had slept. The wild had fed him back into himself over the long walk out, quiet mile by quiet mile, until the man stepping over the last of the edge-stones was whole again, and full, and — he caught the word and disliked it — content. A wrung-out crew at his back. Doss still an empty seat among them. Wick on her own feet because she'd sworn never to be carried out of anything again. And Oscar in the middle of it, content.
+Kessa counted them twice in the grey light under the ridge, because the first count came up wrong and she needed the count to be the thing that was wrong. Tarn, sitting with his back to a boulder, his right arm cradled against his ribs. Cael on one knee beside him, big hands working at the strapping, the gold coming up off his palms in slow small pulses, rationed. Wick, ten feet off, standing with her fists down at her sides, not crying, breathing like a bellows with a hole in it, the air over her shoulders warping with heat.
 
----
+Four.
 
-The road did him no favors, because it was a real road.
+The number sat in her like a swallowed stone. She had run this count every night for years, over fires, over bedrolls, over men snoring in ditches and a girl asleep with both hands over the mark at her throat. Five, breathing, hers. Before Oressa it had been four, and before Marrow it had been three, and once, long enough ago that she could carry it now without her hands shaking, the count had gone from four to three between one watch and the next, and Doss's knife had come to her belt because knives don't get buried with the sheath empty.
 
-It shocked him, that. After days of the wild's paths, here was a graded southern road with wheel-ruts and a broken milestone and the dried print of an ox's foot pressed into old mud. An honest made thing that went where it claimed to go. He could read it without trying: the grade cut by a work-gang two generations back, the stone quarried north and hauled down, the whole patient grammar of a country that built things to last and expected to collect on them. He'd missed it. He was appalled to find he'd missed it. Weeks off the map, and some clerk-shaped part of him had gone hungry for a surface that stayed where you put it.
+Four. And no body. She made herself hold on to the second half of that. No body.
 
-"Ground's true again," Kessa said.
+"We go back." Wick's voice came out scorched. "Now. Right now. We go back and we take him —"
 
-She'd crouched at the verge without his seeing her do it, two fingers spread in the dust, her head tipped in the listening set she got. In the grey the ground had lied to her, and she'd hated it more than any of them. Now the dust told her the truth, and he watched her shoulders come down half an inch. She read the road the same as she read everything, for footing, for who'd passed, for where a body could go and where it couldn't.
+"We go back at dark." Kessa didn't raise her voice. Raising it fed the fire; she'd learned that early. "The road belongs to the finder till the light's gone. He's got four men still standing, kit that hits harder than the arm swinging it, and a working I can't cut sitting on ground he chose twice." She looked at the girl straight, because Wick trusted nothing that came at her sideways. "And he doesn't have Oscar."
 
-"Cart came through yesterday. Heavy, southbound. Two mules." She stood, wiping her fingers. "No one on foot since the rain. We've got clean road and open sky." She almost smiled, which for Kessa was weather. "I'll take it."
+That landed. Wick's breathing hitched down a notch. "The woman."
 
-None of them, Oscar included, thought to read the road for what it *was.*
+"The woman," Kessa said. "Who walked onto a watched road out of nowhere, took him off the man who'd bound him, and was gone before the finder shut his mouth. Whoever she is, she beat Corwen to the prize with the trap already sprung." She let that sit where all of them could see it. "That's two hunters. The one we can find doesn't have him. The one who has him, nobody finds by charging a road in daylight."
 
-Cael had stopped a few paces on, big and still, his broad face lifted south. He wasn't looking at anything in particular. He was a shade better than he'd been in days.
+"So we find her," Wick said. "You find everything."
 
-"You feel that?" he said, to no one, to the country. "There's a town down there. Not close. But it's there." He pressed the heel of his hand to his sternum, the old gesture, the place he reached down through to call the warmth up. "First time in weeks I can feel the other end of it," Cael said, and rolled his shoulders like a man shrugging into a dry coat. "Didn't know how cold I'd got till it started coming back."
+Kessa checked the light — an hour left, maybe less, low cloud coming in off the hills. Under it the girl stood shaking with her fists shut, sixteen years old, staring at Kessa with a faith that was worse to hold than the arm strapped wrong on Tarn would ever be.
 
-Oscar noted it, and shouldn't have relaxed at it, and did.
-
-Wick walked at his elbow, which she'd done since the hollow, closer than she used to and pretending she wasn't. The heat had come back into her on the walk out — her color up again, the mark at her throat gone from that terrible snow-coin white to its ordinary sullen red. She looked half-asleep on her feet and entirely unwilling to admit it.
-
-"When we hit a town," Oscar said, "I'm going to sit in the hottest bath in the south until I've forgotten I have a body. Then I'm going to eat something that was never a root. And then —"
-
-"You don't even like baths," Wick said. "You said washing's for people who think the dirt's the problem."
-
-"I've grown as a person."
-
-"You've grown a smell." She didn't sell it; she was too tired, and it came out flat, and he let it die. She hitched her shoulder at the empty country ahead. "It's too open," she said, lower, and that wasn't a kid complaining. "I don't like it. In the wood you could put your back on something."
-
-"Tarn said as much at the treeline."
-
-"Tarn's right a lot."
-
-Tarn was twenty paces up, where he'd put himself without being asked, walking the point he'd held all the way out. He didn't like the open either; Oscar had learned to read that much of him, the set of the shoulders, the head that kept turning the road over as though it were a debt owed him.
-
-"Don't like leaving the trees at our backs," Tarn said when Oscar came up level. He didn't look around. "In the wood, a thing wants you, it's got to come find you. Out here" — he tipped his chin at the wide bright emptiness rolling south — "out here a man only has to know where the road is. And wait on it."
-
-"There's no one on the road. Kessa read it. No one's come this way since the rain."
-
-"Aye. No one's come." Tarn walked a few steps. "That's the road." He finished the thought and stopped, and Oscar felt the small cold thing that always came after one of Tarn's finished thoughts.
-
-Because Kessa had it now too.
-
-She'd stopped again, a dozen steps on, and this time she wasn't crouching. She stood very straight in the middle of the true clean road, turning slow on her heel, reading it at last for the thing it was.
-
-"It funnels," she said.
-
-"What?"
-
-"The country." Her voice had gone flat and quick, the voice she used when the tally came out wrong and there was no time to check the sum. "Look at the land, not the road. Ridge to the east, marsh to the west, the road threads the seam between. Anything coming down out of the north — off the map, out of the wild, wherever — comes out here. There's nowhere else the ground lets you walk." She turned to him, and he watched her arrive at it a breath behind him, the two of them a beat too slow, both of them fed and rested and stupid with open sky. "We didn't slip a cordon by going into the wild. We picked the one gap it never bothered to watch. It only had to watch where the gap came out."
+"I find what leaves sign," she said. "Eat something. When it's dark, I'll go read the road."
 
 ---
 
-The figure was already there.
+The road at night told her most of what she already knew and one thing she didn't want.
 
-He would not forgive himself that, later. Not that they'd walked into it. That he'd looked straight at the man for three full seconds and read him wrong.
+The cart was gone south — deep ruts, mules leaning into the load, no hurry in the spacing. The men Tarn had dropped were gone with it; the drag marks were plain, boots dug where two had lifted a third. Corwen's own prints she found and learned: a narrow, well-made boot, an even stride, the same depth toe and heel. A man who walked south after losing the thing he'd come for at the same pace he'd have walked away from winning it. She marked that. It was the worst thing she'd learned about him yet.
 
-There was a figure on the road ahead, where the seam between ridge and marsh pinched tightest, and Oscar's first rested, content read was: traveler. A lone southern gentleman in a good grey coat, standing beside a plain cart, unhurried, a man waiting for someone with the ease of a person who has never in his life had to run. Ordinary. His gift gave him nothing off the man himself — the living always returned him silence — so he used his eyes, and his eyes, lazy with rest, said merchant.
+Blood in three patches, dried black on the stones. Tarn's where he'd worn the club. The House man's where she'd cut the arm. A fine spray she didn't like until she matched it to the split knuckles on the man Tarn had put down with the elbow. None of it Oscar's. She checked that patch twice.
 
-Then the man lifted his hat, a small courteous nothing of a gesture, and Oscar's stomach dropped through the true clean road, because he read the hat before he read the fear. It was the tipped hat from Kessa's story, the civil hand.
+Then the middle of the road, and the thing she didn't want.
 
-"Corwen," Oscar said.
+Oscar's sign ran clear as print. The scuff where the binding had staggered him, there. The knee-drop, there: both knees, hard, a man buckling in place. The heel-drag as he'd fought for footing. His boots stood down into the dust of the road at their full weight, the last pair of prints set slightly apart, braced.
 
-He didn't hurry. Kessa had promised them that in a taphouse a lifetime north — a man who's certain doesn't hurry — and here it was, made flesh on a road. The finder came a few steps toward them and stopped, well out of any reach, and let the distance do his walking.
+And then they stopped.
 
-"You made good time out of the north," Corwen said. His voice was pleasant and carried without effort. "I confess I hadn't looked for the wild. That was resourceful. I don't say so often." He took his own count of them, five figures on a road, reading past the total to the single line that concerned him. His gaze moved over Wick, Cael, Tarn, Kessa with a mild disinterest worse than any threat, and settled on Oscar, and did not sharpen. There was the horror of it. Sarn had wanted him. Hauk had priced him. This man only meant to collect him, the same as winter means to come, with no more heat in it than that.
+Not faded. Not crossed. Not stepped over or brushed out or lost on hard ground — she knew every one of those and had beaten every one of them. These just ended. Mid-stride, weight forward, a man about to move.
 
-"The rest of you are not on my paper," Corwen said to the crew, unhurried. "I'll say it once, because I said it in the note and I keep my word. Part from him and go home. No one follows you. I bear you nothing." His eyes went, briefly, to Wick. "The girl especially. I've no line for you at all, and a long road ahead that doesn't run through me. I'd not have you waste it here." He glanced at the sky as though remembering an errand. "I did say I'd have wine. I hadn't thought to pour it on a road. But the wild is the wild, and one adjusts."
+Nothing after. No woman's print anywhere on the road, coming or going, and she had gone over it on her hands in the dark with her fingertips, twice, up and down sixty feet of dust. The woman had stood next to him — Kessa had watched her do it — and the road had no record that the woman had ever existed. Rain didn't do that. Brooms didn't do that. There was no trick in her whole life's kit that did that.
 
-Oscar opened his mouth to answer him, to buy a breath, because clever was the one tool he never ran dry of. And Corwen, still not hurrying, lifted two fingers off the head of his cane and set the working loose.
+She sat back on her heels in the middle of the empty road and let herself have ten seconds of the feeling. The ground was the one thing that had never lied to her. This was worse than lying. This was the ground saying, plainly, truthfully: *the man you're looking for stopped being anywhere.*
 
-Oscar felt it before he understood it. Cold closed on his wrists. Cold laid a line across his throat, precise as a tailor's chalk. His breath came up short against something he couldn't see. Then his gift caught up and told him what had him, and for once the thing had him by the right handle. It was *made.* It was worked. It was the finest piece of writing he'd read since the buried city, and he could read every stroke of it. A finder's binding. A loop-mark grown teeth. Not thrown at him blind but cut to his exact measure, set down by someone who had studied the grammar of Oscar Alberich from very far off and written, in cold clean strokes, a sentence that meant *stay.* Somewhere south, a scarred tallyman had kept their word to the letter: *exactly who, exactly where, exactly what you can do.*
+Ten seconds. Then she put it down the same as she put everything down, because the feeling didn't track and the night was short.
 
-He reached for its seam to unpick it, the same as he'd unpicked a hundred lesser workings, and found the maker had been there before him. Every place he'd have begun, the binding had already closed. It was built by a hand that knew precisely how he would read it and had written the counter to his reading into the reading itself. He got a fingerhold on one loop, and it cost him more than he had loose, and a second loop drew tighter for the trying. He understood, with the flat clean despair of a man finally handed the right tool and told it will not be enough, that he was going to lose this. Not for want of skill. Because the sentence was better than he was, and it had been written for him.
+Taken is not dead, she told the road. You don't let the dark have your people. Taken means there's a place he is. Places have ground. Ground talks.
 
-Then the marsh stood up.
+She cast one great circle around the whole site anyway, a hundred paces out, then two hundred, working till the cloud broke and the moon gave her an hour. Deer. A fox. The crew's own back-trail into the scrub, embarrassing, loud as a wagon. Nothing else. She came back to the camp in the cold before dawn with dust on her palms and nothing in them, and found Wick sitting up against a stone with her eyes open, waiting, and did not have to say anything at all, because a tracker coming home slow says it all the way in.
 
-For half a second it read as exactly that, before his eyes caught the sense of it: the pale reeds along the western verge came apart into men, six of them, low and mud-streaked, who had been lying in the wet since before the crew ever crested the rise. And the ridge shed two more down its scree. Eight. Kessa's cordon, sprung all at once, and Oscar understood the cart for what it was — not conveyance, bait, a plain honest thing set on the road to hold the eye while the trap lay in the reeds. Corwen hadn't come to fight them. He'd come to *stand there* while the fight happened somewhere he didn't need to watch.
+"He told me to come get him," Wick said. Small, and flat, and not a child's voice at all. "He made me hear him say it."
 
-Oscar's gift gave him nothing off the men and everything off their kit. House-issue, all of it. The cudgels weren't clubs; they were made, each one carrying a small mean loop-mark worked into the head, the kind of writing that let a blow land heavier than the arm behind it. Retainer-work. Licensed. He read a House brand pressed into a strap and it told him these were not thugs off a wharf but the ordinary muscle of an institution that did this often enough to have a supplier.
+"I know. I was hauling you when he said it." Kessa sat down next to her and unwrapped a strip of the dried meat neither of them wanted. "So we get him. Trails don't end, they get hidden. Hidden means somebody hid it. Somebody is a person, and people have habits, and habits leave sign." She bit, chewed, made herself swallow. "Tomorrow we grid this country till it gives her up."
 
-"*Reeds,*" Kessa said, one word, and the crew was already moving on it because a word from Kessa in that voice was an order.
+She said it like a plan, and Wick took it like one, and slept. It wasn't a plan. It was a tracker with an empty road and a girl who couldn't be handed the truth at two in the morning. Kessa sat with Doss's knife across her knees and watched the east go pale and ran the count until it hurt less. Four. Four, and a place he is. She'd find the place.
 
-Tarn met the first man before he cleared the verge.
+---
 
-Forty years in the bowl and all of it in the hands. He didn't reach for a weapon; his hands were the weapon, and he'd learned in a place where losing a fight meant not eating that the whole art was in the half-step. He gave up the ground he was standing on, took the man's rush at the one angle that turned it into nothing, and put a short brutal thing into the join of the jaw that dropped the House hand where he stood, cudgel and loop-mark and all, unused. The second came in high with the mark-heavy club already swinging, and this one Tarn couldn't turn, only wear — he got a shoulder up and the blow came down worse than a blow that size had any business being, the loop-work adding a foot of drop that wasn't there, and Oscar heard the meat of it, heard Tarn grunt low through his teeth. The arm sagged. Tarn used the sag. He let the club carry the man past him and hooked a heel and put an elbow into the back of a skull on the way down, workmanlike, no heat in it, a man doing the job he'd always been for.
+Two days she gridded, and the country was empty with the particular empty of watched ground.
 
-But there were six more, and Tarn was one man, and the cold clean loop across Oscar's throat was cinching tighter every second he had no answer for it.
+It was in-between land, this — the last heath before the southern farms, old pasture gone over to gorse and stone, the wild a dark line on the northern sky and the House's paving a day south. Nobody's ground. Sheep had grazed it once; she found the old droving lines, the tumbled folds, a spring with three generations of trampled approach. Everything that lived here left its record like honest country should. She worked it in quarters, Tarn taking the near sweeps one-armed because telling him to sit had lasted half a morning, Cael keeping Wick moving so the girl's fear had somewhere to put its feet.
 
-Cael's warmth came up like a wall.
+Nothing. Two days of nothing, while the food went down and the arm mended slow and every hour put more country between the cart tracks and any hope of using them.
 
-He'd got in front of Kessa and Wick, both hands out and down, and the gold came *ready* — here was the reversal the wild had promised, the well filling unrationed with a town somewhere warm at the end of the shortening hall — and where in the deep wood he'd have spent everything for a flicker, here he built a full ward, a curved warm nothing between the crew and the reeds, and a House hand ran his shin into it and folded like the air had teeth. It cost Cael, even here. Oscar saw it cost him. But it cost him one of many instead of the last of nothing, and Cael planted his boots and held the line and shouted, hoarse, "*Go — I've got the west —*"
+On the third morning there was a lane.
 
-Two of the ridge men came around behind him for Kessa.
+Kessa stood at the head of it for a long time before she let herself believe what she was looking at. A cart-lane, hedged both sides, running shallow downhill into a fold of the heath she had walked — she had *walked* it, the first evening, cut straight across this exact ground with the sun going down on her left and gorse snagging her boots the whole way. There had been no lane. She would have staked her eyes on it. She was staking them now.
 
-She didn't fight them so much as read them off the ground. She saw the footing before the men were on it, saw that the scree behind her ran loose and downhill and that a man committed to a downhill rush can't stop being committed. She gave the first one the downhill. Stepped inside his line, guided the shoulder, and let the loose scree finish him — he went past her and down and kept going, a long ugly slide into the mud with the marsh at the bottom of it. The second she took with Doss's knife, short and low and without any ceremony at all, a working cut, not a killing one, a slice across the meat of the arm that made the club drop and the man reconsider, and she was already off him, already back at the sum, already turning to the only calculation that mattered.
+She went down it slow, reading as she went, and the reading came back wrong in a way that made the skin on her arms move.
 
-"*Oscar.*" She wasn't coming for him. He watched her run it and hate it: eight down and three still on their feet, Tarn bleeding from the shoulder, Cael's ward eating what it could, and past all of them the finder who hadn't moved a boot, who'd let his kit take the punishment because his kit was a thing he could replace and his time was not a thing he'd spend. "The paper," she said, fast, to the whole crew and to Oscar most of all. "He doesn't care if we kill these. He's got more. He *always* has more. And I can't cut what's on your neck." Her eyes flicked to the binding, to the thing she had no read for. "We can win this and still lose you. If we stay, we all stay. You hear me. We fall back, we take him somewhere the ground's ours, and we come back for you whole. That's the only sum that closes."
+The lane had ruts. Good ruts, a hand deep, pressed clean into the clay — and no weather in them. Rain had crossed this country two nights back; she'd slept in it. The ruts held no silt, no crumble, no puddle-mark. They were the idea of ruts, printed by nothing she could find. The hedges were worse. Blackthorn, full grown, berried — berried in the wrong month — with no dead wood in them, no gaps grazed by anything, no wear at the roots, no birds. A hedge is a city; there is no such thing as an empty hedge. Both of these were empty. And under it all, the thing she circled twice to be sure of: the lane began. It didn't run from anywhere. Forty feet up the slope from its first rut there was gorse and stone and her own two-day-old boot prints, and then the lane started, complete, the same as a rope starts at its end.
 
-He couldn't argue the sum. It was a good sum, and arguing was only the thing he did instead of feeling. But he was not going to watch her send four people up an open slope with three House hands and their weighted clubs loose at their backs, so he did the one arithmetic he had left, and reached for the writing.
+"Bait," Tarn said, when she brought them to it. He said it like he'd say *rain.* An observation about what the sky was doing.
 
-His own first. Reflex, and hope, and stupidity: he grabbed at the loop on his throat the way a man claps a hand to a cut, and found it shut against him at every seam. His own name, and he couldn't get a nail under it.
+"So was the cart," Kessa said.
 
-So he stopped reaching for himself.
+"Aye." He looked down the lane with his fetcher's squint, the one he used on a beast that wasn't behaving like its kind. "Two days ago the country funneled us at a man who wanted the wizard. Today it grows a lane." He shifted the strapped arm. "I've taken animals out of the wild my whole life. You know the surest way?" He didn't wait. "You don't chase. You build the pen and you make the gap easy, and you let the beast's own legs do the work. Whoever set this doesn't want to catch us." He spat, economical. "We're being *let in.*"
 
-The cudgels were only made. He'd read them coming in, House kit, each head carrying its mean little loop of weight-work, and made things had never once told him no. He took the nearest, the one rising over Kessa's blind side, and unstitched it, pulled the single thread the whole figure hung from, and the working came apart in the man's grip so that the heft went out of the club mid-swing and he checked and stumbled at his own lightness. The second he unpicked the same way, and the loaded head cracked off its haft and rolled. The third man felt his own weapon die in his hands and simply stopped, staring at dead wood, and into the half-beat of his not-understanding Oscar threw the drive, the slab of shoved air he'd first found at the spring, and put him off his feet and a good three yards down the scree, clearing the mouth of the one gap the country had left them.
+"To what," Cael said. Not to argue. To have it said.
 
-It cost. Not fraying, he was rested and the wild had seen to that, but the working went out of him all at once and left him grey and swaying in the loop's grip, paying down to fumes what he'd have given anything to spend on his own throat instead.
+"To wherever he is," Wick said, and she was already three steps down the lane, and Kessa caught her by the pack-strap and held her, and for a second the heat came off the girl so hard it moved the air between them.
 
-"*There,*" he said, and the word came thin. "That's your gap. Take it."
+"On my order," Kessa said. "We go, but we go as a crew, on my order, in my line. She could have killed us on that road and she didn't. She could have hidden this lane from me the same as she hid a whole woman off sixty feet of dust — and instead she grew it where I'd trip on it. That's a message in the only language she knows I read." She loosed the strap and set her own boot first onto the too-clean clay. "Doesn't make her a friend. Makes her a hunter who wants us walking, not running. So we walk. And we count the exits going in."
 
-Wick would not move.
+---
 
-She'd got herself between the reeds and Oscar without deciding to, small and lit and shaking, her heat up so hard the air around her had gone to shimmer, staring at the cold sentence on his throat like the one thing in the world she was finally allowed to burn.
+The house stood in the fold of the heath like a coin dropped on a threshing floor.
 
-"Let him go." Her voice cracked down the middle. "He's ours. You don't get him, he's my —" and she didn't say the word, the one she used in her own head and never out loud, but Oscar heard the shape of it and it undid him worse than the binding did. "I'll burn it off him. Oscar, I can burn it, tell me I can burn it —"
+Last light. They came down the lane in her order — herself first, Cael a pace off her left shoulder where his reach did the most good, Wick between them where four hands could get to her, Tarn last with his eyes on their backs. The hedges opened onto a gravel forecourt, raked, unmarked, and there it was: a manse. Not a farmhouse. A manse, tall-windowed, honey-stoned, three storeys and wings, the kind of thing that in the south sat at the top of a valley it owned with a village at its feet to feed it. Warm light stood in every window. The double doors at the head of the steps were open.
 
-"You can't." It was the cruelest true thing he had, and he gave it to her flat, because a kind lie would get her killed. "It's made for the maker's reasons, not yours. Fire feeds it. Wick — *don't.*" And then, because Corwen was watching the girl with that mild collecting interest, weighing whether the one not on his paper was about to make herself a line on it: "Go with Kessa. That's the job. You want to help me, you stay you, and you stay alive, and you come get me. Halfway and home. You hear me? *Come get me.*"
+There was no village. There was no road but the lane that had not existed at dawn. There was nothing to feed this house for a day's walk in any direction, and Kessa stood at the edge of the gravel and read it as she'd read the empty hedges, and every line came back the same.
 
-She screamed something that tore as it came, no words left in it, and Kessa got both arms around her and hauled her up through the gap Oscar had opened, and Cael dragged his ward behind them like a man carrying a door on his back, and Tarn covered the withdrawal the same as he'd held the point all the way out — last off, walking backward, one arm hanging wrong, his eyes on Corwen and not on the weaponless men, because the men were finished and Corwen was the fight and Corwen had never entered it. They went up into the loose grey stone, the wounded arm and the wrung well and the girl still fighting the arms that held her, and were gone into it fast.
+No path worn from door to gate: gravel raked, then never walked on. Smoke rising from two chimneys, and no woodpile, no ash-heap, no cart-way to bring the cords in. Glass in forty windows, and no wagon had ever hauled glass down that lane. Grass growing right to the foot of the walls, green and unbruised, where any real house wore a drip-line and a beaten margin into the ground its first winter. Stone with no lichen. A roof with no moss, no sag, no mended patch. Every part of it finished, and none of it *used.* A thing built complete this morning out of the idea of wealth.
 
-Corwen let them.
+"That house shouldn't be here," she said, out loud, flat.
 
-"There," Corwen said, mild, as though a small chore were finished, and came on without hurry. "You needn't have. I did offer them the road home." He glanced up the scree once, without much in it. "They'll take it a while. Then it brings them back to me, or to the seat, because it is my road and there is no other — and a thing that runs from a gate it can't shut is only choosing where to be caught." His eyes moved over the split hafts, the dead heads, the man Oscar had put in the marsh. "Kit. I'll draw more." Then back to Oscar. "You spend well," Corwen said, and it was almost kind. "On them. Never on the leash. Your sort always tries the leash first. Then you learn what you are for."
+"No," Cael said. He was looking at the open doors, and his hand had come off his shield strap. "But the light's real. Heat, too — feel it reach? That's a kept fire." He said it carefully, a man reporting, not trusting. "Whoever keeps it knew we'd come at dusk. That fire's been built up for arriving."
 
-He drew a second square of folded paper from his coat, and Oscar had the wild irrelevant thought that the man meant to make him sign for himself.
+"Or for looking like it." Kessa scanned the flanks of the house. Two wings, a stable block — a stable block, with no horse-sign, no muck, no fly-buzz — and past the far corner the heath rolling dark to the south. "Exits. Front doors. The wing doors, there and there, if they open. Ground floor windows, big enough, if it comes to glass." She was talking to the crew but mostly to Wick, laying the bones down early. If it goes wrong: out, not up. You break for dark ground and you do not stop to burn anything.
 
-Oscar read the paper, because reading was the one door of his that never shut, and nothing else in reach was worth spending on. Good paper. Private wax, unbroken. And set into the wax, fine as a hair, a made mark he had never seen on any writ or license. He knew the House's public brand on sight; it was on half the paper in Marrow, a fat certain stamp that said *licensed* the same as a boot says *floor.* This was the House's other hand. Older-fashioned, cut deep and close, a small cold figure from somewhere high up its table, work that did not explain itself and had plainly never needed to. Corwen carried it like Cael carried the shield. Not a tool. A thing he answered to.
+An owl was sitting on the gatepost.
 
-"Whose mark?" Oscar managed. The loop at his throat gave him about that much.
+She'd marked it on the way in and set it aside, and it was still there, which was why it came back up the list. Dusk was an owl's working hour; it should have been quartering the heath. It sat on the post with its feathers loose, comfortable as a cat on a warm wall, and watched them work their way up the forecourt with both eyes together, steady, the whole time. Birds watch in glances. This watched the way a doorman does.
 
-"Not mine to open," Corwen said, and it was the first thing he'd said all day that sounded like the bottom of anything. He turned the paper once in his fingers, incurious. "I fetch what the paper names, whole, and I hand it up to the seat that wants it. What the seat does with what it wants back isn't in my line, and men in my trade who ask don't stay in it." He came on. "You'll find out before I will. I wouldn't hurry toward it, in your place. But then you won't be hurrying anywhere."
+"On the count of everything else," Tarn said, following her eyes, "the bird's the least of it."
 
-He didn't finish reaching.
+"The bird's the only thing here that's alive and stays put," Kessa said. "Everything alive gave this place room. Ask me why."
 
-The light changed. Oscar had no better word for it, and he was a man who prided himself on better words. Between one of Corwen's unhurried steps and the next, the road acquired a person who had not walked onto it. She was simply *there,* at his shoulder, a woman he had never seen, near enough to touch, with the settled ease of someone who had been standing there all along and was mildly surprised no one had thought to look.
+Nobody asked. Wick had stopped dead in the middle of the gravel, and the heat came up off her all at once, hard enough that Kessa heard it, a dry shimmer-sound like air over a kiln, and the girl's face had gone white and furious and her eyes were on the doorway, and Kessa turned to follow them, dropping her hand to Doss's knife on the way.
 
-Corwen looked. For the first time in the whole encounter something moved in the finder's face. Not fear. Something nearer to a man revising a certainty he'd have staked his career on.
+The woman from the road stood at the head of the steps.
 
-"You," he said.
+She hadn't come through the doors. Kessa would have staked — no. She was done staking things on this ground. The woman was simply in the doorway with the lamplight behind her, dressed plainly and well, her hands loose at her sides, empty, and shown empty, which Kessa read and resented in the same beat. She knew what would be checked, and in what order, and she stood there patient while Kessa checked it, the same as she'd grown a lane where the tracker would trip on it.
 
-"Me," the woman agreed.
+"You took longer than I guessed," the woman said. "The lane's been down since yesterday noon."
 
-She glanced at the cold sentence across Oscar's throat — the once, the glance of someone who had seen the type before and had never lost sleep over it — and whatever she made of it she didn't say. She looked at Oscar next, quick and thorough and unreadable, taking her own count of him, and if there was anything in her face past a professional's interest, he was in no state to catch it.
+"It's a good lane," Kessa said. "Empty hedges. Sloppy."
 
-"This is going to be strange," she told him. "Don't fight it. You'll want to. You're the type."
+Something crossed the woman's face, gone too fast to name. It might, on another face, have been the start of being pleased. "I'll tell the hedges," she said. Then, past Kessa, to all of them, easy, as though this were the yard of an inn: "You'll be wanting to see him before anything else. That's right and proper. He's at the table — he wouldn't eat till you came, which I'm bound to say has been trying, since supper's been holding two hours." She stepped back and to one side of the doorway, out of the line between them and the hall, which no captor in the history of holding anything had ever done. "Come in. All five places are laid. Tell the man drifting to my stable block the stew is for him as well."
 
-"Who are —"
+She went inside, unhurried, showing them her back.
 
-She took his bound wrist in one hand, almost gently, and the world creased.
+Kessa stood on the raked gravel with her hand on a dead man's knife and her whole trade in ruins around her. Five places. She'd counted the crew for years; tonight a stranger in a house that hadn't existed at dawn had counted them for her, down the lane, in the dark, without a candle's pause — three coming in and one drifting wide that even Kessa had only tracked by habit. Tarn came in off the flank without being called, which was as near as he got to saying the same thing out loud.
 
-That was the only word he would ever get to keep from it. The road *creased,* like a page folded once across the middle, and Corwen and the cart and the ridge and the far thin screaming in the scrub all began to slide down into the fold. His gift threw itself at the folding to read how it was done — reflex, the only prayer he owned — and closed on nothing, or on something already finished; he would spend a long time failing to decide which.
+"Kessa." Wick, at her elbow. The heat had dropped off her strangely, all at once, like a wave dropping. Through the doorway, down the long lamplit hall, a room stood open and gold, and a table, and — Kessa's eye did what eyes do and went to what it had hunted for three days.
 
-The fold came up over the sky and took the light.
+Oscar sat at the table.
 
-Then it took the road out from under him.
+Sat. Not bound to it. Not slumped at it. He sat at the table like a man sits at a table, his coat over the chair back, the finder's cold collar gone from his throat, a cup by his hand, and — she watched it happen, watched it with her own two eyes across forty feet of stranger's floor — he heard them at the door, and turned, and his whole cracked worried face came apart with relief, and he *stood up to greet them.*
 
-Then it took him too.
+Alive. Unhurt. At supper.
+
+Kessa had come here with the fight already run twenty times behind her eyes — the doors, the smoke, the hostage-math, the woman's throat under the knife if the numbers went to the worst place, everything her whole life had built her to spend on getting one of hers back out of the dark. She stood in the doorway of the house that shouldn't exist and watched the man she'd come to save wave them in — *wave,* half-sheepish, a man caught out at a party — and every sum she'd carried up that lane came apart in her hands at once. There was nothing here to cut. There was nothing here to break. There was a laid table, and a kept fire, and her wizard rested and fed and worried about *her.* A trap she could read was Tuesday.
+
+This she could not read at all.
+
+"In or out," the woman's voice said mildly, from somewhere by the fire. "The heath comes in with the dark, and I've only warded the one of them."
+
+Kessa stepped over the threshold, and kept her hand off the knife, and could not have said which of the two cost more.

@@ -1,7 +1,7 @@
 ---
 id: b1-ch20-fold
 title: "PARKED — Ch20 fold decision (awaiting author ruling after read-through)"
-status: draft
+status: done
 persona_name: chapter-revise
 persona_file: prompts/personas/chapter-revise.md
 target: manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/chapter-20.md
