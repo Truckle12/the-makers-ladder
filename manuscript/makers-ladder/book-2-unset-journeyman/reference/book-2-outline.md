@@ -1,4 +1,4 @@
-# Book 2 — The Unset Journeyman — Full Outline (PROPOSAL, rev1)
+# Book 2 — The Unset Journeyman — Full Outline (PROPOSAL, rev2 — chapter entries individualized for the drafting pipeline)
 
 > Status: **chief-editor proposal, NOT canon.** Per the locked workflow (shape agreement before
 > drafting), nothing here is drafted until the author ratifies it — especially §Open Decisions,
@@ -194,36 +194,57 @@ spends Arc 1 earning the reunion. Wick's interludes run through all four arcs on
 
 ### Arc 3 — "The Seat in Convulsion" (Ch22–32): Everset, the rival, the architect
 
-- **Ch22–23 (Oscar / Kessa).** Everset in withdrawal — the city that was made to belong coming
-  off its edit: the market half-alive, the first public arguments in living memory, the elders
-  of the old blood keeping small stubborn kindnesses going (the Ch38 heralding cashed — they
-  hide the crew because *at last* is a debt too). The Fair House under House guard; the Provost
-  of the Seat (institutional antagonist; name TBD) running **restoration**: clerks re-gathered
-  [verify eleven-clerks survival vs current Ch42 text], the chair dusted, the font begging to be
-  believed in again.
-- **Ch24–25 (rotate; Wick at 25).** Surveying the seam from inside sympathizers' Everset; the
-  rival's on-page introduction (Open Decision 2): what the House woke, and what's wrong with it.
-  Wick 25: the entity's attention acquires *weight* — it has noticed her intention to leave. Its
-  pleasure was never about her; its displeasure is.
-- **Ch26–27 (Oscar; Ash fixed-location).** **Ash in Evermere.** She walks the halls of the city
+- **Ch22 (Oscar).** Everset in withdrawal — the city that was made to belong coming off its
+  edit: the market half-alive, the first public arguments in living memory, weeds in the clean
+  cracks. The crew enters as the un-heralded this time. Turn: the elders of the old blood find
+  them first (the Ch38 heralding cashed — they hide the crew because *at last* is a debt too).
+  Ends: from a sympathizer's attic, the Fair House lit at night — under House guard.
+- **Ch23 (Kessa).** The Provost of the Seat (institutional antagonist; name TBD) seen at work:
+  **restoration** — clerks re-gathered [verify eleven-clerks survival vs current Ch42 text],
+  the chair dusted, the font begging to be believed in again. Kessa maps the guard rotations
+  and the three open doors; the token leans toward the Fair House whenever she stops moving.
+  Turn: she realizes the wound and the seat are the same room. Ends on her count of exits: none.
+- **Ch24 (Oscar).** Surveying the seam from inside sympathizers' Everset by night: the
+  wound reads — the one scar in the written world Oscar can find because the crossing tore
+  Script. The rival's on-page introduction (Open Decision 2): what the House woke, and what is
+  wrong with it — it wears Oscar's face badly and wants his life, crew included. Turn: it
+  *knows* him on sight, the way nothing whole should. Ends: Oscar hidden, shaking, read.
+- **Ch25 (Wick, far side).** The entity's attention acquires *weight* — it has noticed her
+  intention to leave. Its pleasure was never about her; its displeasure is. She keeps walking
+  the walker's line toward the loud place, cold, saying the count. Ends: the wall answers back
+  for the first time — a sound, not words.
+- **Ch26 (Oscar; Ash fixed-location).** **Ash in Evermere.** She walks the halls of the city
   she grew up under, naming what rooms were before the engine (the reveal done as homecoming,
-  not exposition). She unlocks the last door she knows: **the master's workroom beneath the Fair
-  House — the first cradle.** Papers in the hand Oscar knows better than his own. **THE
+  not exposition). She does not travel with them; she is *here*, and will leave from here.
+  Turn: she unlocks the last door she knows — **the master's workroom beneath the Fair House,
+  the first cradle.** Ends at the threshold, Ash refusing to go in first.
+- **Ch27 (Oscar).** The workroom. Papers in the hand Oscar knows better than his own. **THE
   ARCHITECT REVEAL, full scope [Book-2 hold honored]:** the original Oscar Alberich devised the
   cycle — the fair-copy method, the cradles, the Setting — and the marks/writs exist because
   **the copies are his: the line's property, made to be finished into his continuation.** What
-  the marked are *for*, finally said in the maker's own filing. (What the workroom does NOT
-  contain: why the seat must always be filled — the pages that would say it are *gone*, taken —
-  Book 3's hold kept visibly, as an absence Oscar can read.)
-- **Ch28–29 (Cael / Tarn).** The door-night preparation under siege conditions; the rite laid in
-  the Fair House's side-chapel of kitchens (his god lives there, canonically); Tarn holding the
-  approach ledger — who owes whom across a city deciding whether to help. The Provost moves the
-  restoration timetable up: both projects now race for the same room and the same night.
-- **Ch30–31 (Kessa; Wick at 31).** The night before: Kessa and the token's last lean; the palm
-  scar given its scene (she has never once shown it to anyone [A3-conscious: write it fresh]).
-  Wick 31: she reaches the thin place's near side; between her and the wall, the walker's final
-  leavings — and the far side pressing behind her like a held breath. She sets her boots in the
-  last prints. She waits where he waited.
+  the marked are *for*, said in the maker's own filing. What the room does NOT contain: why
+  the seat must always be filled — those pages are *gone*, taken (Book 3's hold kept visibly,
+  as an absence Oscar can read). Turn: Ash leaves, carrying what she still won't say. Ends:
+  Oscar alone with his maker's handwriting and the door-plan drawn in it.
+- **Ch28 (Cael).** The door-hearth laid in the Fair House's side-chapel of kitchens (his god
+  lives there, canonically), under siege conditions, fed with the kept things the crew
+  contributed. Cael's unlicensed rite, performed for the first time by anyone living. Turn:
+  the hearth *takes* — the hall is short here — and he understands he is keeping a door for
+  a girl, not a god. Ends: the fire banked and hidden, one night to hold.
+- **Ch29 (Tarn).** The approach ledger: who owes whom across a city deciding whether to help.
+  Tarn walks Everset's underside in Corwen's coat collecting debts nobody knew they carried
+  (the old blood, the pie-sellers, a clerk who remembers being a person). Turn: the Provost
+  moves the restoration timetable *up* — both projects now race for the same room on the same
+  night. Ends: Tarn's tally of who will stand, and it is enough.
+- **Ch30 (Kessa).** The night before. The token's last lean, laid on the map-stone; the palm
+  scar given its scene (she has not shown it to anyone [A3-conscious: write it fresh]). Kessa
+  says the count with four and leaves the fifth place open, out loud. Turn: Oscar asks her to
+  give the order tomorrow, not him — the field architect handing the field to the tracker.
+  Ends on her answer: "Marked."
+- **Ch31 (Wick, far side).** She reaches the thin place's near side. Between her and the wall,
+  the walker's final leavings — and the far side pressing behind her like a held breath. She
+  sets her boots in the last prints and waits where he waited. Turn: through the wall, faint,
+  a count in a voice she knows. Ends: she answers it.
 - **Ch32 (Oscar).** Arc turn: everything placed — seam read, token set, hearth laid — and the
   trap springs by lamplight: the Provost doesn't want to stop the door. **He wants it open.**
   A restored font needs the current at flood; a wound in the world is a flood. The House's
@@ -231,10 +252,16 @@ spends Arc 1 earning the reunion. Wick's interludes run through all four arcs on
 
 ### Arc 4 — "What Walks Out" (Ch33–43): the door
 
-- **Ch33–34 (ensemble, Ch40-grammar at full scale).** The Fair House fight for the threshold:
-  lanes again, every crew member's Book-1 verb turned to defense of a door not yet open; the
-  rival's want (see OD2) breaks the Provost's script mid-fight — the House's own weapon won't
-  hold its lane.
+- **Ch33 (Kessa).** Door-night. The Fair House fight for the threshold, Ch40-grammar at full
+  scale: lanes again, every crew member's Book-1 verb turned to *defense of a door not yet open*
+  — Tarn the aisle, Cael the hearth, Kessa the angle, Oscar at the wound not yet writing. The
+  Provost's wage-men and clerks come as procedure. Turn: the rival enters, and does not take
+  the House's lane. Ends: the rival's want (see OD2) breaking the Provost's script mid-fight.
+- **Ch34 (Tarn).** The rival, up close: the House's own weapon will not hold its lane because
+  it wants what Oscar has, not what the Provost wants. Tarn — the man who could never be
+  beaten — fights the thing that wants to *be* the man he owes. Turn: he cannot win it, and
+  holds anyway, buying the minute the door needs. Ends: "Now," said to Oscar, in the voice of
+  a debt being called.
 - **Ch35 (Oscar).** The door-work begins: reading the wound, writing it OPEN — against the
   world's own grain (the world wants to heal shut; so did Book 1's font want to finish things —
   rhyme it). **Fraying on-page for the first time**: the gun fires. What it costs him first is
@@ -244,18 +271,26 @@ spends Arc 1 earning the reunion. Wick's interludes run through all four arcs on
 - **Ch36 (Wick).** The wall from her side; the count arrives THROUGH it — faint, in Kessa's
   voice, the ritual finally doing on-page what it was always for: *the thing you say out loud is
   the thing that's real*, said at a wall between worlds. She answers it. Both sides now know.
-- **Ch37–38 (intercut: Kessa / Cael / Wick).** The signature sequence: the door open, held by a
-  living system — Oscar writing, Cael's hearth keeping the threshold human, Kessa aiming the
-  token's lean, Tarn holding the room, and **nobody crosses** — the rescue is a call, not an
-  expedition (canon-honest: workings die over there; bodies are meat for a hungry country; the
-  door is theirs, the walking is hers). The entity refuses: a holding contest against the whole
-  crew lending down the chain, the found-family theme made mechanical — Book 1's "the kill is
-  the crew's" answered by **"the hold is the crew's."**
-- **Ch39–40 (Wick; the crossing).** Her last miles; the entity's weight; what she chooses to
-  stop holding so she can run (proposal: she drops the walker's relics — keeps only the count).
-  The threshold: the prints' owner's identity lands here per Open Decision 1. She steps through
-  the door her family holds open. **The far side keeps nothing of her it can read; it never
-  could.**
+- **Ch37 (Kessa).** The signature sequence, side one: the door open, held by a living system —
+  Oscar writing, Cael's hearth keeping the threshold human, Kessa aiming the token's lean, Tarn
+  holding the room — and **nobody crosses**; the rescue is a call, not an expedition (canon:
+  workings die over there; bodies are meat for a hungry country; the door is theirs, the
+  walking is hers). Kessa calls the count through the door. Turn: the entity refuses — the
+  door starts to close from the far side. Ends: the whole crew lending down the chain.
+- **Ch38 (Cael).** Side two: the holding contest. The far side pulling the door shut, Cael's
+  hearth the only thing keeping the threshold a place a person can stand, Oscar fraying at
+  the wound, Tarn's hands on Oscar, Kessa's hand in the light. The found-family theme made
+  mechanical — Book 1's "the kill is the crew's" answered by **"the hold is the crew's."**
+  Turn: the fire wants to go out and Cael does not let it, for the first time at a cost to
+  himself he will keep. Ends: a shape in the door, coming.
+- **Ch39 (Wick, far side).** Her last miles. The entity's weight full on her now; what she
+  chooses to stop holding so she can run (proposal: she drops the walker's relics — keeps only
+  the count). Turn: the prints' owner's identity lands here per Open Decision 1 — what stands
+  at the threshold, waiting, facing the light. Ends: she chooses to go past it, or through it.
+- **Ch40 (Wick, the crossing).** The threshold from her side: the door her family holds open,
+  the hold audible as voices. **The far side keeps nothing of her it can read; it never
+  could.** She steps through. Turn: what follows her to the edge and stops. Ends in the
+  world, on stone, warm.
 - **Ch41 (Kessa POV).** The catch. The scar meets the hand it remembers [palm canon cashed].
   The door dies; the wound seals wrong-way-out (proposal: sealed with the token — the key spent
   as the lock — gone for good; the far side loses its handle on the world... almost; see hook).

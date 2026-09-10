@@ -2,15 +2,42 @@
   {
     "key": "corp-hell",
     "title": "Corporate Hell (game)",
-    "roots": ["games/corporate-hell"],
-    "exclude": ["/source/", "AUTHOR-REVIEW.md", "game-bible.md", "corporate-hell/README.md"],
+    "roots": [
+      "games/corporate-hell"
+    ],
+    "exclude": [
+      "/source/",
+      "AUTHOR-REVIEW.md",
+      "game-bible.md",
+      "corporate-hell/README.md"
+    ],
     "out": "games/corporate-hell/AUTHOR-REVIEW.md"
   },
   {
     "key": "makers-ladder",
     "title": "Maker's Ladder — Book 1 (book)",
-    "roots": ["notes", "manuscript/makers-ladder/book-1-unfinished-apprentice/reference"],
-    "exclude": ["corp-hell", "AUTHOR-REVIEW.md"],
+    "roots": [
+      "notes",
+      "manuscript/makers-ladder/book-1-unfinished-apprentice/reference"
+    ],
+    "exclude": [
+      "corp-hell",
+      "AUTHOR-REVIEW.md"
+    ],
     "out": "manuscript/makers-ladder/book-1-unfinished-apprentice/AUTHOR-REVIEW.md"
+  },
+  {
+    "key": "makers-ladder-b2",
+    "title": "Maker's Ladder — Book 2 (book)",
+    "roots": [
+      "notes",
+      "manuscript/makers-ladder/book-2-unset-journeyman/reference"
+    ],
+    "exclude": [
+      "corp-hell",
+      "AUTHOR-REVIEW.md",
+      "book-1-unfinished-apprentice"
+    ],
+    "out": "manuscript/makers-ladder/book-2-unset-journeyman/AUTHOR-REVIEW.md"
   }
 ]
