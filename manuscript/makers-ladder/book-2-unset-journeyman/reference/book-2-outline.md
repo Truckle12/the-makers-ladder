@@ -51,7 +51,12 @@ it, waiting.
 
 ## What Book 1 left loaded (promises ledger — all canon)
 
-Wick alive on the far side, coal spent, following the prints (Ch42) · the token in Kessa's
+Wick alive on the far side, coal spent, following the prints (Ch42) · **her door is still in
+her, shut, and now opens toward the world** — she cannot pass through it, only things come *in*;
+opening it would let the far side into the world through her; the far side kept her for it
+("You don't eat the door. You keep the door.") and asks her nightly to set it down (Ch42,
+reworked 2026-09-11) · **the wall closed behind her** — she is on its wrong side; Ch40's "no
+wall" was the crossing's peak only (Ch42) · the token in Kessa's
 pocket going west, tracking the plane Wick is on, unknown to anyone (Ch41) · crew split four
 ways at the milestone: Cael east to a hearth, Tarn south "to be found," Oscar north after Ash
 and the dead city, Kessa west past the edge-stones (Ch41) · the far side is not written — no
@@ -312,7 +317,8 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   steps through. Turn: what follows her to the edge — and what stops at it, because the door
   is *hers* and she does not invite him. Ends in the world, on stone, warm.
 - **Ch43 (Kessa).** The catch: the scar meets the hand it remembers. The door must die; the
-  token is spent as the lock — the far side loses its handle on the world. **The third's
+  token is spent as the lock — the far side loses its *made* handle on the world (Wick's own
+  door, shut and hers, is the residue — Ch46, Book 3's). **The third's
   fate:** as the door closes he steps *through it* — to stand where the master stood, the far
   side's second sentry, the only way he knows to make sure of a door. Ends: sealed, and the
   place where the rock was is empty.

@@ -2,96 +2,130 @@
 
 Wick woke up cold.
 
-It was so strange it took her a while to get past it. She had been too hot her entire life. She had been the warm one, the dangerous one, the girl you didn't sit too close to in a barn; and she lay on her back with her arms out and her fingers open and she was *cold,* ordinary cold, cold like a person, and for about ten heartbeats it was the most interesting thing that had ever happened to her.
+It took her a while to get past that. She'd been too hot her whole life. She was the warm one, the one you didn't sit next to in a barn, and she was lying on her back with her arms out and her fingers open and she was *cold.* Plain cold. Cold like a person. For about ten heartbeats it was the best thing that had ever happened to her.
 
-Then she remembered why.
+Then she remembered.
 
-She put a hand flat on her own chest and went looking for the coal, the way you go down a step in the dark that isn't there.
+She put a hand flat on her chest and went looking for the coal.
 
-Nothing. Not out. Not banked. *Nothing* — a room with the furniture carried out of it — and she lay very still with her hand on her sternum and understood that she had spent the only thing about her that anybody had ever wanted.
+Nothing. Not banked. Not low. She'd had it since before she had teeth and she'd never once had to go looking for it, and now there was nowhere to look. Her hand just lay there on her shirt like anybody's hand.
 
 "Right," she said, out loud, to nobody. Her voice came out thin. "Right. Okay."
 
-She got up.
+She got up, because lying there wasn't going to be any warmer.
 
 ---
 
-She was somewhere.
+There was ground. It held her. There was a down and so there was an up, and there was a sort of light, low and grey and coming from nowhere in particular, and she kept trying to catch where it came from and it wouldn't say.
 
-It was as far as she could get, and she went at it for a long time. There was a ground and it held her weight. There was a direction that felt like down, which meant there was a direction that felt like up. There was light, or there was something her eyes kept trying to call light, low and colourless and coming from no particular side of anything.
+There was no sky. She looked for a long time. Then she stopped, because it was making her feel sick.
 
-There was no sky. She looked for a long time and there was no sky and she made herself stop looking.
+The ground was the worst bit. It wasn't stone and it wasn't dirt. When she crouched and put her palm on it, it wasn't *anything,* and she knew that feeling, she'd had it in her fist for a year: the little grey rock had felt exactly like this. Like a thing that had decided not to be. It went out flat as far as she could see, which wasn't far, and it wasn't mist stopping her seeing.
 
-Everything else was the trouble. The ground was not stone and not earth and not water, and when she crouched and put her palm on it, it was *not being anything,* patiently, exactly as the little grey rock had not been anything in her fist. It went out flat in every direction she could see, and she could not see far, and she had the strong idea that this was not because of mist.
+Her ears kept lying. They kept saying *huge* — the sound a barn has in the dark before you strike the light. But when she said "hello" the word went about four feet and stopped, like she'd said it into a coat.
 
-Her ears kept telling her a lie. They kept saying *huge*, the sound a room has before you strike the light. But when she said "hello" out loud, the word went about four feet and stopped, like she'd said it into a coat.
+She didn't say hello again.
 
-She did not say hello again for a while.
+Her stomach did its thing. She told it there wasn't anything. It didn't believe her.
 
 ---
 
-The thing was there.
+It was here.
 
-She had known that before she opened her eyes. She knew it like you know somebody is in the house.
+She'd known that with her eyes still shut. You know when somebody's in the house.
 
-It was not in front of her and it was not behind her and it was not underneath, and she gave up on where fairly quickly, because *where* turned out to be one of the things that didn't work here. It was simply the case that the enormous glad hungry thing that had wanted her since before she had a word for anything was near, and was full, and was — this was the part that made her sit down on the ground with her arms round her knees — was *pleased with her.*
+Not in front of her, not behind. She gave up on *where* fairly fast. It was just near, the way weather's near, the enormous glad hungry thing that had wanted her since before she had a word for wanting, and it was *full,* she could feel it being full, and it was — this was the bit that made her sit down with her arms round her knees — it was *pleased with her.*
 
-Not grateful. She'd have known grateful; people had been grateful at her before and it always came with something after it. This was the other thing. It was pleased the way a dog is pleased with the person who opened the gate: uncomplicated, enormous, and not really about her at all.
+Not grateful. She knew grateful. People had been grateful at her before and there was always something after it. This was a dog that had got at the ham and wasn't sorry.
 
-"You ate a whole city's worth of *no,*" she told it. Her voice shook. She made it keep going. "That was what that was. That was the biggest meal anything ever got and I gave it you and I want that noted."
+"You ate a whole city's worth of *no,*" she told it. Her voice shook. She made it keep going. "That's what that was. Biggest meal anything ever got, and I gave it you, and I want that noted."
 
-The thing did not answer, because it did not have a mouth or a face or a name, and in all her life it had never needed any of those to be understood.
+It didn't answer. It didn't have a mouth or a face or a name, and it had never needed any of those for her to know exactly what it wanted.
 
-But something in the not-light leaned toward her, glad.
+But something in the grey leaned at her, glad.
 
 "Yeah," Wick said. "Well. I'm not staying."
 
 ---
 
-Here was the thing she worked out, sitting on the ground with her arms round her knees, and it took her a while and she was proud of it afterward.
+Here's what she worked out, sitting there. It took a while. She wasn't quick like Oscar. She got there anyway.
 
 It hadn't eaten her.
 
-It had eaten the font. It had come through her and taken the engine and gone back, and it had brought her along the way you bring a door when you carry off the wall it was in — not because you wanted the door. She was *here.* She was not *in* it. Those were different and she was going to hold onto the difference with both hands and her teeth, because it was the only thing she had left to hold and holding was the one thing the world had ever let her be good at.
+It could have. It had come through her like a dog through a gap in a hedge and it had eaten a whole engine and gone back, and it had *not eaten her,* and she knew why, and she didn't want to know why, and she knew anyway.
 
-And if she was here rather than in it, then here was a place.
+You don't eat the door. You keep the door.
 
-And places have edges.
+She put her hand on her chest again, and there it was. Not the coal. The other thing. The shut place. Her door, right where it had always been, behind her ribs, cold as the rest of her now, and closed, and *hers.* Course it had come with her. It was her. You can't leave a hole behind.
 
-She'd got that from Kessa. She could hear it in Kessa's flat voice, the one that never lied about ground: *everything's somewhere, and every somewhere has an edge.*
+All her life it had opened one way. Out of her, onto this. Eight years with her back against it, keeping this out.
 
-Wick reached into her pocket for the rock, because that was what her hand did when everything was too loud, and her pocket was empty.
+And she was in this now. So it went the other way.
 
-She sat there with two fingers in an empty pocket for a while.
+Home was on the other side of her own door.
 
-"Okay," she said, at last, in a voice with almost nothing left in it. "Okay, so you kept that. That's fine. That's fair, actually, that's — you keep that."
+Her hand actually moved. She felt it start to do the thing, the letting-go, the thing she'd never done once in her life, because it was the obvious thing, wasn't it, you're the wrong side of a door so you open it —
 
-She dragged her sleeve across her eyes and got up.
+She stopped. She sat with her hand on her chest and her heart going and made herself be not stupid.
+
+She'd never gone through it. Not once. Nothing of her had ever gone through that door. Things came *in.* It was what it was for. It was a mouth's door. If she opened it now she wouldn't go anywhere.
+
+*It* would.
+
+Into the pie stalls and the grandmother on her step and the man with the bucket and Cael's stupid enormous hands. Through her. One glad swallow.
+
+"No," Wick said.
+
+And it asked. Right on cue, sweet as anything, the same as every single night since she was eight, only from every side now, and taking its time about it, because it had her and it had nowhere to be. *Rest. Set it down. You've held it long enough.*
+
+"No," she said again. She said it to the ground.
+
+She'd said no to it with a fire in her. She'd have to say it now with nothing. Every night. Here. She had no idea if she could, and she wasn't going to find out by sitting down.
+
+She wiped her nose on her sleeve and got up.
 
 ---
 
-There was one more thing, and she nearly missed it, because it was small and she was busy being brave.
+The wall was back.
 
-Away off in the flat grey nothing, a long way, in the direction her feet had already decided was forward, there was a mark on the ground.
+She couldn't see it. She couldn't touch it. But in the Fair House there'd been no wall, ten, nothing between her and it but her, and then she'd felt the whole place fold shut round her like a fist, and now it was shut. She could feel it the way you feel a door close in a dark room and know the room got smaller. The lid was back on the pot.
 
-It took her a long time to walk to it and she never afterward knew how long, because time was another of the things that didn't work.
+She was in the pot.
+
+She reached for her pocket, for the rock, because that was what her hand did when it was all too much, and the pocket was empty.
+
+She stood there with two fingers in it.
+
+"Course," she said. "Course it is."
+
+---
+
+There was one more thing, and she nearly missed it, because it was small and she was busy not crying.
+
+Away off in the flat grey, a long way, in the direction her feet had already picked without asking her, there was a mark on the ground.
+
+It took her a long time to walk to it. She couldn't have said how long. She counted steps and lost the count twice and then didn't bother.
 
 It was a scuff.
 
-That was all. A drag in the not-earth, a scrape about as long as a boot, and a second one after it, and a third — and then a fourth, further on, pointing away toward wherever the not-light stopped.
+That was all. A drag in the not-ground about as long as a boot, and another one after it, and a third. Then a fourth, further on, pointing away toward wherever the grey stopped.
 
 Somebody had walked here.
 
-Wick stood over it with her heart going like a bird in a box, and there was nothing to work out, there was just the one enormous fact:
+Bigger boots than hers. A lot bigger.
+
+Wick stood over it with her heart going like a bird in a box, and there wasn't anything to work out, there was just the one enormous fact, and she said it in her head so it would stay put:
 
 *Somebody got here before me. And they didn't stop.*
 
-She looked back the way she'd come, once, out of habit, at nothing.
+She looked back the way she'd come, once, at nothing.
 
-Then she looked at the scuff in the ground, and put her boot down next to it, and made a fifth one.
+Then she put her boot down next to the fourth scuff and made a fifth.
 
-"Four," she said out loud, to nobody, because saying the true thing out loud is the thing that makes it real, and because it was the only prayer anybody in that crew had ever taught her. "Four of them. Breathing. Mine."
+"Four," she said out loud, because you say it out loud, first, not after. Kessa made her promise. "Four of them. Breathing. Mine."
 
-Nothing answered her. There wasn't any wall left to answer from.
+Nothing answered. There was a wall now, and she was the wrong side of it.
+
+Behind her, glad, and full, and in no hurry at all, it waited for her to get tired.
 
 Wick put her head down and started walking.

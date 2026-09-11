@@ -29,7 +29,10 @@
   `draft` / `next` pipeline labels on the `book2` lane (`config.json`).
 
 ## Book 1 end-state the drafter inherits (all canon; full detail in the Book 1 bible + outline §promises ledger)
-Wick alive on the far side, coal spent, following bootprints · the token in Kessa's pocket
+Wick alive on the far side, coal spent, following bootprints · **her door still in her, shut,
+opening toward the world** (she cannot pass through it — only things come *in*; the far side kept
+her for it and asks her nightly to set it down; the wall closed behind her — Ch42, reworked
+2026-09-11; Book 1 bible log) · the token in Kessa's pocket
 going west (it tracks the plane Wick is on; nobody knows this yet) · crew split four ways at a
 milestone (Cael east, Tarn south, Oscar north after Ash, Kessa west past the edge-stones) ·
 the Everset font empty-not-broken · the Setter dead (the fourth copy; Oscar is the eleventh;

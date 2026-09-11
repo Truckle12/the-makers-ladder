@@ -10,6 +10,8 @@ All her life the far side had been behind something. She'd never seen the someth
 
 It was gone.
 
+Not her door. Her door was *her.* It went where she went, it was behind her ribs right now where it had always been. The wall was the thing in front of it. And there wasn't one.
+
 The thing that had wanted her since before she had a word for anything was not behind anything now. It was in the room. It was standing right next to her being *glad.*
 
 And out through the great doors the city was coming apart.
