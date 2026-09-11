@@ -52,7 +52,7 @@ It was Oscar who said the thing out loud, because of course it was. He had been 
 
 The argument stopped. Something went out of the room and something colder came into it, and Oscar understood, a half-second too late, as he understood most things that weren't written on a page, that he had walked his clever feet directly into a grave.
 
-"You just *say* it." Kessa's voice had gone very flat. Her hand had found the crossbow again, not lifting it, only resting there. "Whatever's in your head. Straight out the mouth, no toll at the gate." She looked at him with something that was nearly hatred and nearly grief and could not seem to settle on which. "I've put a bolt in men for less and slept the night through."
+"You just *say* it." Kessa's voice had gone very flat. Her hand had found the crossbow again, not lifting it, only resting there. "Whatever's in your head. Straight out the mouth." She looked at him with something that was nearly hatred and nearly grief and could not seem to settle on which. "I've put a bolt in men for less and slept the night through."
 
 "That was unkindly put," Oscar conceded, and meant it, which did not help. "I have a gift for the unkindly put. I'm given to understand it's among my warmer qualities."
 
@@ -62,7 +62,7 @@ For a moment he thought she might do the thing the balcony had only threatened. 
 
 He stopped. Kessa had gone still at the door, not watching it now, watching nothing. And the slow scrape of the whetstone, which had not paused once since they sat down, paused. She laid the knife flat across her knee and left it there. She did not say anything. Whatever she had to say about Doss she had said a long time ago and was done saying; the rest of it she kept in her hands, and her hands had stopped.
 
-"There was a vault," Cael went on. "Deep in the last place, deeper than we'd gone. Doss said leave it. Said the wards on it weren't broken, they were *sleeping*, and a sleeping ward is one nobody's tripped yet, and that meant whatever it kept was still in there. We were tired and we were poor and we'd come a long way for nothing, and the three of us—" his jaw worked "—the three of us put it to a vote. Like it was a thing you could vote on. Like the dark cares how many hands go up. We outnumbered him. He came because he wouldn't let us go in without him."
+"There was a vault," Cael went on. "Deep in the last place, deeper than we'd gone. Doss said leave it. Said the wards on it weren't broken, they were *sleeping*, and a sleeping ward is one nobody's tripped yet, and that meant whatever it kept was still in there. We were tired and we were poor and we'd come a long way for nothing, and the three of us—" his jaw worked "—the three of us put it to a vote. Three hands. Like that meant anything. We outnumbered him. He came because he wouldn't let us go in without him."
 
 "You don't have to," Kessa said, low.
 
@@ -70,7 +70,7 @@ He stopped. Kessa had gone still at the door, not watching it now, watching noth
 
 The fire popped. No one filled the silence. Oscar, who had spent his life being the one who filled silences, had three or four things he could have said. He always had three or four things. And he looked at the iron token turning in Cael's fist, and the stilled knife on Kessa's knee, and he set every one of them down unsaid and let the quiet stand. It had cost him only the pleasure of being heard.
 
-"So when you came up out of *your* deep house," Cael said, finally, lifting his eyes to Oscar, and there was no accusation in them, which landed harder than accusation would have, "and Kessa said *put it back or put it down,* and I said no. You should understand I wasn't being kind. I've voted to go through a sleeping door once already. I'm not doing it twice. I'd sooner carry a stranger I'm not sure of than make that call again and be wrong the same way." He almost smiled, and didn't. "That's not faith. That's just someone who's learned the one lesson he was ever going to learn."
+"So when you came up out of *your* deep house," Cael said, finally, lifting his eyes to Oscar, and there was no accusation in them, which landed harder than accusation would have, "and Kessa said *put it back or put it down,* and I said no. You should understand I wasn't being kind. I've voted to go through a sleeping door once already. I'd sooner carry a stranger I'm not sure of than make that call again and be wrong the same way." He almost smiled, and didn't. "That's not faith. I just won't do it twice."
 
 Oscar looked at the three of them: the watchful woman who would not leave the door, the gentle ruined man who had run out of *no*, the wild girl who carried a mark she didn't understand and a guilt that wasn't hers to carry. And understood that he was sitting in a dead man's place. They had been moving since they lost Doss in fits and lurches, voting on things no one should vote on because the one who used to *decide* was holding a door somewhere in the dark forever. And some part of him, the part that had commanded and been obeyed for longer than these three had been alive, was already leaning into the gap, already reaching for the empty place at the head of the crew the way an hour ago he had reached for the empty place on his shoulder.
 

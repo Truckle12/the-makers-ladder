@@ -42,13 +42,11 @@ Kessa's gaze swept the cathedral dark, the dripping live seams, the vaulted ston
 
 "Then we'll need a very good push." He looked at the cracked shelf, and now he let his gift run all the way out, not on the monster but on the *stone,* and the chamber unfolded for him: there. And there. Two places where the whole rotten shelf hung on a single overburdened spine of rock, and if that spine went, the floor went, and anything standing on it went with it into the black. "Kessa, can you get it onto the shelf and keep it there?"
 
-"I can make myself the most annoying thing in this room."
-
-"You're already that," said Wick, with the reflexive loyalty of a younger sibling, and Kessa almost smiled.
+"I can make it hate me."
 
 "Cael holds till the wall drops," Oscar said. "Wick blinds it. Kessa baits it onto the shelf. And I bring the floor down. Everybody clear?"
 
-"No," said Cael, straining, golden, magnificent. "But let's do it anyway."
+"No," said Cael, straining, golden, magnificent. He held.
 
 "That's the spirit. *Now.*"
 
@@ -142,17 +140,17 @@ But Wick was holding it the way you hold something warm, turning it over and ove
 
 They loaded what they could carry. They left the rest. And as they turned for the long road up, Oscar stopped at the lip of the black, where a monster lay dead at the bottom of a pit, and felt the whole shape of it click into place.
 
-"They told this town the deep belonged to them," he said. "That only the Tithe could work the good claim, that the dark was theirs by right, because nobody else could survive it." He looked at his crew—gray, bloodied, emptied, standing in the impossible heart of the place that wasn't supposed to let anyone out. "And the lie isn't the danger. The danger was real. It nearly killed us four times over." He looked down into the pit, at the dead thing folded in it. "The lie is that it was *forever.* It had a cause. The cause could die. And in a hundred years the Tithe never tried." The plan arrived in him fully formed, lit end to end. "Their gold isn't their power. Their cord isn't their power. The *lie* is—and we just killed the proof of it. We show the town the body. We show them whose seal is on these crates, so they finally know where their blood's been going all along."
+"They told this town the deep belonged to them," he said. "That only the Tithe could work the good claim. That nobody else could survive it." He looked at his crew—gray, bloodied, emptied, standing in the impossible heart of the place that wasn't supposed to let anyone out. "And it was true. It nearly killed us four times over." He looked down into the pit, at the dead thing folded in it. "But it had a cause, and the cause could die, and in a hundred years they never once—" His voice went. He stood there with the rest of the sentence in his mouth and could not get it out, and did not try again. What he had instead was a plan, or the pieces of one. "We show the town the body. We show them whose seal is on these crates. So they finally know where their blood's been going."
 
 Kessa nodded slowly, and for the second time since he'd known her, something dangerously like hope moved in her face. "That'd bring the whole thing down."
 
-"That," Cael said, gathering a fallen salvager's name-tags from the grit with hands that still shook, "would be a hard thing worth doing." He closed his fist around the dead. "Brida's man came down here for a debt and a lie. Let's carry both back up into the light."
+"That," Cael said, gathering a fallen salvager's name-tags from the grit with hands that still shook, "would be a hard thing." He closed his fist around the dead. "Brida's man is down here somewhere. These go up with us."
 
 So they climbed, lighter in spirit, heavier in pack.
 
 It was Wick who put the cold back in the day, because it was always Wick.
 
-"They'll know," she said, plainly, as they climbed toward the distant light. She didn't look back at the dark they'd robbed. "When their crew comes down for the haul and finds the hush dead and the best of it gone. They'll know somebody got in where nobody gets in. And there's only one somebody in this whole town worth that kind of trouble." She glanced at Oscar, sixteen and unflinching. "We just killed the thing that kept the Tithe's secret. And took its money. They're going to come for us with everything they've got."
+"They'll know," she said, plainly, as they climbed toward the distant light. She didn't look back at the dark they'd robbed. "Their crew comes down for the haul and the hush is dead and the good stuff's gone. Nobody gets in there. Then somebody does, same week a wizard turns up in town." She glanced at Oscar, sixteen and unflinching. "And we took their money. They're coming, and they're bringing everything."
 
 "Yes," Oscar agreed. He found he was almost smiling, in the grim way you smile at the top of a hill you've decided to hold. "We did rather poke the dragon, didn't we."
 

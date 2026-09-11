@@ -28,7 +28,7 @@ Kessa had not lain down. Of course she had not. She stood a little apart at the 
 
 "No."
 
-"You cut it loose, you said. Blind. Lost." She did turn then, and her weathered face in the starlight was doing the arithmetic it was always doing. "But not dead."
+"You cut it loose, you said. Blind. Lost." She did turn then, and her weathered face in the starlight was doing the count it was always doing. "But not dead."
 
 "It can't be killed. I'd stake my—" He stopped, because his reputation, like his three centuries, had begun to feel like borrowed property. "I'm fairly sure it can't be killed. It treats its own self as a draft; you can't end a thing that simply removes the part of it you've ended. What I did was take away the book it was reading. It's loose in the world now, blind to the line it followed, and that will hold it a while." He sat up in the snow. "It won't hold forever. A lost thread can be found. I should know. I spent—a long time—finding threads other people had lost."
 
@@ -38,7 +38,7 @@ Cael had gone to one knee in the snow, and his lips were moving, the iron token 
 
 The name landed quiet in the cold. No one flinched from it. That, too, was new.
 
-"You came up out of a dead-house," Cael said, to Oscar, plainly, without the wariness that had been in it on the balcony a lifetime ago. "Through a door that knew your hand. Into a city that woke when you did, with a thing in it built to read places like that and strike out what doesn't belong. And you tore yourself half apart to haul three strangers into the open instead of stepping into that font and walking out a king." He let that sit. "I don't know what you are. I don't think you do either. But I know what you *did,* tonight, and a person is mostly what they do. So." He put out his broad scarred hand, the one that had held Oscar together while he came apart. "You're short a crew and we're short a fourth. Come down off the mountain with us. Sort out the rest after."
+"You came up out of a dead-house," Cael said, to Oscar, plainly, without the wariness that had been in it on the balcony a lifetime ago. "Through a door that knew your hand. You could have stepped into that font and walked out a king. You tore yourself half apart hauling three strangers into the open instead." He let that sit. "I don't know what you are. I don't think you do either. I know what you did tonight." He put out his broad scarred hand, the one that had held Oscar together while he came apart. "You're short a crew and we're short a fourth. Come down off the mountain with us. Sort out the rest after."
 
 Oscar looked at the hand.
 
