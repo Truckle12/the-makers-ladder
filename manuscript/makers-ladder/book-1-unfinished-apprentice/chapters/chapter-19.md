@@ -119,8 +119,6 @@ And there was the thread that pulled the whole thing loose, sitting in the corne
 
 Kessa nodded once. "Walk in armed," she said, "or get carried in sorted."
 
-"Which is?" Kessa said.
-
 "He thinks we're prey being driven down a chute." Oscar tucked the note inside his coat, against the cold spot under his ribs, where he was apparently going to keep collecting the things that frightened him. "Let him keep thinking it. A man certain you're prey doesn't watch carefully for a hunter coming the other way." He stood, and pulled his hood up. "We're not walking south because he's herding us there. We're walking south because that's where the truth is. He just told us, very politely, that he'll be standing right next to it."
 
 He led them out of Hollet's Cross into the long bright wealthy country, walking toward the thing hunting him on purpose, because Brida had been right about that, too. There was no running it off.

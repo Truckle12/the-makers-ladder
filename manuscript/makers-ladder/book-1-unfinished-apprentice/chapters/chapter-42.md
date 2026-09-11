@@ -38,7 +38,7 @@ Not in front of her, not behind. She gave up on *where* fairly fast. It was just
 
 Not grateful. She knew grateful. People had been grateful at her before and there was always something after it. This was a dog that had got at the ham and wasn't sorry.
 
-"You ate the thing that was eating that city," she told it. Her voice shook. She made it keep going. "That's what that was. Biggest meal anything ever got, and I gave it you, and I want that noted."
+"You ate the thing that was eating that city," she told it. Her voice shook. She made it keep going. "That's what that was. Biggest meal anything ever got. And I gave it you. *Me.* So don't act like you did that."
 
 It didn't say anything. It never had. It didn't need to.
 
@@ -56,7 +56,7 @@ It could have. It had come through her like a dog through a gap in a hedge and i
 
 You don't eat the door. You keep the door.
 
-She put her hand on her chest again, and there it was. Not the coal. The other thing. The shut place. Her door, right where it had always been, behind her ribs, cold as the rest of her now, and closed, and *hers.* Course it had come with her. You can't leave a hole behind.
+She put her hand on her chest again, and there it was. Not the coal. The other thing. The shut place. Her door, right where it had always been, behind her ribs, cold as the rest of her now, and closed, and *hers.* Course it had come with her. Where else was it going to go.
 
 All her life it had faced this. Eight years with her back against it, keeping this out. And she was in this now. So what was on the other side of it was home. Bread. The four of them. That.
 
@@ -72,7 +72,7 @@ Into the pie stalls and the grandmother on her step and the man with the bucket 
 
 "No," Wick said.
 
-And it asked. Right on cue, sweet as anything, the same as every single night since she was eight, only from every side now, and taking its time about it, because it had her and it had nowhere to be. *Rest. Set it down. You've held it long enough.*
+And it asked. Straight off, sweet as anything, the same as every single night since she was eight, only from every side now, and taking its time about it, because it had her and it had nowhere to be. *Rest. Set it down. You've held it long enough.*
 
 "No," she said again. She said it to the ground.
 
