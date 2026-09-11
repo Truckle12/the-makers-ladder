@@ -79,6 +79,7 @@ at the perfect moment — especially Wick and Cael.
 6. Did I reserve "That was the —" and "not X but Y" for real turns?
 7. Did I protect the lexicon while concretizing generic abstractions?
 8. Does any character land the perfect line at the perfect time more than once? → make one imperfect.
+9. Run `node tools/cadence.mjs <chapter>`: in a non-Oscar POV the **lexicon lock** must report 0 violations (or each hit is a marked, deliberate borrowing). See "Lexicon lock" below.
 
 ## Don't overcorrect
 When the user corrects something, apply the **lightest fix that works**. Don't invert the note into the opposite excess, and don't repeat the new note as a drumbeat — one clean touch, then move on.
@@ -103,6 +104,26 @@ best lines feel authored, not minimalism.
   Over-clarity drains urgency; readers infer more than you think.
 - **Evolve the question, don't restate it.** Each arc turns the central question (Arc 1: *what is
   Oscar?* → Arc 2: *who wants him, and what does the world do to people like him?*), never re-poses it with new scenery.
+
+## Lexicon lock (2026-09-11 — from the Batch 6 voice audit; enforced by `tools/cadence.mjs`)
+Four independent audits found the book's five voices collapsing into Oscar's in the same three ways:
+the **epigram landing** (a speech, paragraph or chapter ends on a general truth), **Oscar's lexicon in
+other heads and mouths**, and the **balanced antithesis** ("It's not X. It's Y."). The words are the
+enforceable part, so they are locked:
+
+- **Sarn's words — the Tithe's only:** arithmetic · sum · ledger · column · entry · math. Not in Kessa's
+  tally (hers is *tally / count / marks / sets aside*), not in Cael's, Wick's or Tarn's mouths, and
+  **retired from Oscar's mouth** too ("arithmetic" ×3 was his; it stays Sarn's).
+- **Oscar's words — Oscar's POV only:** grammar · page · seam · script · clause · written · text ·
+  instrument · load-bearing · "I'd like it noted" / "I want that noted" · "filed it away". In any other
+  POV's *narration* they are violations; in another character's *mouth* they are violations unless the
+  text visibly marks the borrowing (Kessa quoting Tarn's "the pairing posted" is a borrowing; Wick
+  saying "I want that noted" is Oscar's tic in her mouth — the author caught it in Ch42).
+- **Wick's words — Wick's POV only:** the coal · the door · holding · the far side ("door" allowed in
+  others' mouths/narration only after the Warden names it in Ch26; before that she says "lid").
+- **The shape rule that goes with the words:** a non-Oscar character does not summarize the scene.
+  When a speech is longer than three sentences, check who is talking; from Ch13 on the summarizer's
+  voice was Oscar's regardless of speaker. Cut the last clause; end on the fact.
 
 ## Hard no (never)
 - Never "good girl" / "good boy" / "good lass" / "that's my girl" or any pet-name approval, especially aimed at Wick or any minor. It reads as condescending and creepy. Approval goes in the character's own register (Kessa: tactical; Cael: plain) — never a pet name.

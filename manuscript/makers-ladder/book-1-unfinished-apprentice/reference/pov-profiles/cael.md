@@ -36,3 +36,10 @@ Bodies, vows, mercy, hard things, the hearth. Faith through action, not statemen
 2. Is he doing anything, or just being present? → give him a want, a limit, or a failure.
 3. Did any abstract language creep into his narration? → replace with body, weight, warmth, the physical.
 4. Is his faith visible in action or only in statement? → should be action.
+
+## Named Oscar tics to catch (2026-09-11)
+- **Writing metaphors** ("no mending a sentence while the writer holds the pen"; "A period, placed."; "what the shield's rim wrote there") — Cael feels through his hands and arm; he has mended enough to know. Never grammar.
+- **The benediction as prose** at a chapter's close ("the vow was the only door he knew to keep standing in") — end on the action: "went to see about the living."
+- **Theology explained** ("It lives in kitchens… That's the mercy of it") — he does the warm thing and lets Oscar draw the meaning.
+- **The perfect quip / the polished reversal** ("It isn't a monster. It's a *bereavement.*"; "gave me my absolution instead of the other way about") — he fails to finish the first and says the second bluntly; repeated words when grieving.
+- **"load-bearing"** is Ash's/Oscar's word. Not his.

@@ -41,3 +41,11 @@ These terms should feel *hers*, not borrowed from the world's vocabulary.
 3. When she's scared, do sentences get longer and more organized, or shorter and pile up? → should be shorter/piling.
 4. Is she self-undercutting at least once? Is there a dark-funny moment, even a small one?
 5. Did Oscar's polish leak in anywhere? → re-roughen.
+
+## Named Oscar tics to catch in her narration and mouth (2026-09-11)
+- "I'd like it noted" / "I want that noted" (his, Ch35/Ch37) — she says "I'm saying so" / "so don't act like you did that."
+- "since before she had a word for anything" — nobody's voice; a narrator tic. Cut.
+- The mystery rendered as image or mechanism ("a great slow head turns in the dark"; "a hole isn't written, there's no clause for it") — she gets a throat, a chest, hands, a stomach. Never the grammar of it.
+- The lesson landing ("For tonight, less was the best thing she'd ever held") — she lands on the next want: bread, a fire, not being left.
+- Calm, organized sentences at the peak of fear — fear shortens her sentences and piles them.
+- Lexicon lock: `node tools/cadence.mjs` must report 0 violations for her chapters.

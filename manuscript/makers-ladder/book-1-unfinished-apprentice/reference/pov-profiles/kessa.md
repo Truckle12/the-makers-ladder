@@ -38,3 +38,10 @@ She processes the world as a tracker: where things are, how many, what the groun
 3. Does she explain the significance of what she sees? → cut. She marks; the reader infers.
 4. Are there words in her narration that only Oscar uses? ("filed," "arithmetic," "three centuries") → cut.
 5. Is fear expressed as analysis? → replace with a count, a scan, a grip on the knife.
+
+## Named Oscar / Sarn tics to catch (2026-09-11)
+- **The ledger:** column · sum · ledger · entry · math — Sarn's. Her tally is *tally / count / marks / sets aside* ("There was more set aside now than kept.").
+- **The briefing epigram:** a speech longer than three sentences that ends on a general truth ("A man who's certain doesn't hurry." / "It's not a hiding place. It's an appointment."). Cut the last clause; end on the count or the ground.
+- **Narrating another mind's meaning** in Oscar's nouns (seam / script / text / story; "the knuckle-tap of something that knew the house was occupied") — she reports what she *saw*: his face, her feet, the hand on the mark.
+- **The chapter-ending aphorism** ("A crew is a thing with a job…"; "Always both.") — end on a thing she sees or does.
+- Lexicon lock: `node tools/cadence.mjs` must report 0 violations for her chapters.

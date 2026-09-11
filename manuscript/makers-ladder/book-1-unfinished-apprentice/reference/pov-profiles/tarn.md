@@ -37,3 +37,9 @@ Debts and what's owed. The pit. The wild and fetching runs. What you take and wh
 2. Is there a debt or exchange logic structuring how he sees the scene? → there should be.
 3. Did he merge with Kessa? → check: is he scanning terrain, or reading people/debts?
 4. Did he name a feeling? → probably shouldn't. Let the action carry it.
+
+## Named Oscar tics to catch (2026-09-11)
+- **The lecture** (Ch22–23 recruitment and cordon speeches) — he answers questions in fragments and stops. If he is the exposition, let someone ask and let him answer short.
+- **The parable with a moral** ("Crowds don't come for a fight. They come for an ending.") — he states the pit fact ("Bowl posts the pairing days ahead. No second bout.") and stops.
+- **The colon-clause self-explanation** and the **balanced antithesis** ("Cities aren't sealed. Cities *leak.*") — one flat sentence.
+- Debts and what's owed are his field; naming sentiment ("the first debt in forty years I would *choose* to carry") is not.
