@@ -20,7 +20,7 @@ There was ground. It held her. There was a down and so there was an up, and ther
 
 There was no sky. She looked for a long time. Then she stopped, because it was making her feel sick.
 
-The ground was the worst bit. It wasn't stone and it wasn't dirt. When she crouched and put her palm on it, it wasn't *anything,* and she knew that feeling, she'd had it in her fist for a year: the little grey rock had felt exactly like this. Like a thing that had decided not to be. It went out flat as far as she could see, which wasn't far, and it wasn't mist stopping her seeing.
+The ground was the worst bit. It wasn't stone and it wasn't dirt. When she crouched and put her palm on it, it wasn't *anything,* and she knew that feeling, she'd had it in her fist for months: the little grey rock had felt exactly like this. You pressed and nothing pressed back. It went out flat as far as she could see, which wasn't far, and it wasn't mist stopping her seeing.
 
 Her ears kept lying. They kept saying *huge* — the sound a barn has in the dark before you strike the light. But when she said "hello" the word went about four feet and stopped, like she'd said it into a coat.
 
@@ -34,13 +34,13 @@ It was here.
 
 She'd known that with her eyes still shut. You know when somebody's in the house.
 
-Not in front of her, not behind. She gave up on *where* fairly fast. It was just near, the way weather's near, the enormous glad hungry thing that had wanted her since before she had a word for wanting, and it was *full,* she could feel it being full, and it was — this was the bit that made her sit down with her arms round her knees — it was *pleased with her.*
+Not in front of her, not behind. She gave up on *where* fairly fast. It was just near. The thing. Near and full. She could feel it being full, like a stove through a wall. And it was pleased with her. She sat down with her arms round her knees. It was *pleased with her.*
 
 Not grateful. She knew grateful. People had been grateful at her before and there was always something after it. This was a dog that had got at the ham and wasn't sorry.
 
-"You ate a whole city's worth of *no,*" she told it. Her voice shook. She made it keep going. "That's what that was. Biggest meal anything ever got, and I gave it you, and I want that noted."
+"You ate the thing that was eating that city," she told it. Her voice shook. She made it keep going. "That's what that was. Biggest meal anything ever got, and I gave it you, and I want that noted."
 
-It didn't answer. It didn't have a mouth or a face or a name, and it had never needed any of those for her to know exactly what it wanted.
+It didn't say anything. It never had. It didn't need to.
 
 But something in the grey leaned at her, glad.
 
@@ -48,27 +48,23 @@ But something in the grey leaned at her, glad.
 
 ---
 
-Here's what she worked out, sitting there. It took a while. She wasn't quick like Oscar. She got there anyway.
-
 It hadn't eaten her.
 
-It could have. It had come through her like a dog through a gap in a hedge and it had eaten a whole engine and gone back, and it had *not eaten her,* and she knew why, and she didn't want to know why, and she knew anyway.
+It took her a while to get to that, sitting there. She wasn't quick like Oscar. She got there anyway.
+
+It could have. It had come through her like a dog through a gap in a hedge and it had eaten a whole engine and gone back, and it had *not eaten her.* It had never wanted her. It wanted the door. She was just what the door was in.
 
 You don't eat the door. You keep the door.
 
-She put her hand on her chest again, and there it was. Not the coal. The other thing. The shut place. Her door, right where it had always been, behind her ribs, cold as the rest of her now, and closed, and *hers.* Course it had come with her. It was her. You can't leave a hole behind.
+She put her hand on her chest again, and there it was. Not the coal. The other thing. The shut place. Her door, right where it had always been, behind her ribs, cold as the rest of her now, and closed, and *hers.* Course it had come with her. You can't leave a hole behind.
 
-All her life it had opened one way. Out of her, onto this. Eight years with her back against it, keeping this out.
-
-And she was in this now. So it went the other way.
-
-Home was on the other side of her own door.
+All her life it had faced this. Eight years with her back against it, keeping this out. And she was in this now. So what was on the other side of it was home. Bread. The four of them. That.
 
 Her hand actually moved. She felt it start to do the thing, the letting-go, the thing she'd never done once in her life, because it was the obvious thing, wasn't it, you're the wrong side of a door so you open it —
 
 She stopped. She sat with her hand on her chest and her heart going and made herself be not stupid.
 
-She'd never gone through it. Not once. Nothing of her had ever gone through that door. Things came *in.* It was what it was for. It was a mouth's door. If she opened it now she wouldn't go anywhere.
+She'd never gone through it. Not once. Things came *in.* It was a mouth's door. If she opened it now she wouldn't go anywhere.
 
 *It* would.
 
@@ -80,9 +76,9 @@ And it asked. Right on cue, sweet as anything, the same as every single night si
 
 "No," she said again. She said it to the ground.
 
-She'd said no to it with a fire in her. She'd have to say it now with nothing. Every night. Here. She had no idea if she could, and she wasn't going to find out by sitting down.
+She'd always had a fire to say it with. Now she had nothing, and a wet nose. Every night. Here. She had no idea if she could, and she wasn't going to find out by sitting down.
 
-She wiped her nose on her sleeve and got up.
+She wiped it on her sleeve and got up.
 
 ---
 
@@ -122,10 +118,10 @@ She looked back the way she'd come, once, at nothing.
 
 Then she put her boot down next to the fourth scuff and made a fifth.
 
-"Four," she said out loud, because you say it out loud, first, not after. Kessa made her promise. "Four of them. Breathing. Mine."
+"Four," she said out loud. Kessa made her promise. "Four of them. Breathing. Mine."
 
 Nothing answered. There was a wall now, and she was the wrong side of it.
 
-Behind her, glad, and full, and in no hurry at all, it waited for her to get tired.
+All round her it was glad and it was full and it wasn't going anywhere. It was waiting for her to get tired.
 
 Wick put her head down and started walking.

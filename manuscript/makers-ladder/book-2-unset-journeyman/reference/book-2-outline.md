@@ -248,8 +248,8 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   pages are *gone* (Book 3's hold kept visibly). Turn: a second set of marks in the room, a
   century old — the third was here, and took something. Ends: Oscar alone with his maker's
   door-plan and a gap in it shaped like a page.
-- **Ch28 (Wick).** The entity's attention acquires *weight* — it has noticed her intention to
-  leave. Its pleasure was never about her; its displeasure is. Ends: the wall answers back
+- **Ch28 (Wick).** The entity's attention acquires *weight* — it stops waiting for her to get
+  tired (Book 1 Ch42's last beat) and takes her leaving seriously. Its pleasure was never about her; its displeasure is. Ends: the wall answers back
   for the first time — a sound, not words.
 - **Ch29 (Cael).** The door-hearth laid in the Fair House's kitchens (his god lives there),
   under siege conditions. The rite *takes* — the hall is short here — and he understands he is
