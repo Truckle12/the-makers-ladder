@@ -20,7 +20,7 @@ That landed. Wick's breathing hitched down a notch. "The woman."
 
 "So we find her," Wick said. "You find everything."
 
-Kessa checked the light — an hour left, maybe less, low cloud coming in off the hills. Under it the girl stood shaking with her fists shut, sixteen years old, staring at Kessa. Kessa looked at the arm instead.
+Kessa checked the light — an hour left, maybe less, low cloud coming in off the hills. Under it the girl stood shaking with her fists shut, sixteen years old, staring at Kessa, who looked at the arm instead.
 
 "I find what leaves sign," she said. "Eat something. When it's dark, I'll go read the road."
 
@@ -40,7 +40,7 @@ And then they stopped.
 
 Not faded. Not crossed. Not stepped over or brushed out or lost on hard ground — she knew every one of those and had beaten every one of them. These just ended. Mid-stride, weight forward, a man about to move.
 
-Nothing after. No woman's print anywhere on the road, coming or going, and she had gone over it on her hands in the dark with her fingertips, twice, up and down sixty feet of dust. The woman had stood next to him — Kessa had watched her do it — and the road had no record that the woman had ever existed. Rain didn't do that. Brooms didn't do that. There was no trick in her whole life's kit that did that.
+Nothing after. No woman's print anywhere on the road, coming or going, and she had gone over it on her hands in the dark with her fingertips, twice, up and down sixty feet of dust. The woman had stood next to him — Kessa had watched her do it — and the road had no sign the woman had ever existed. Rain didn't do that. Brooms didn't do that. There was no trick in her whole life's kit that did that.
 
 She sat back on her heels in the middle of the empty road and let herself have ten seconds of the feeling. The ground was the one thing that had never lied to her. This was worse than lying. This was the ground saying, plainly, truthfully: *the man you're looking for stopped being anywhere.*
 
@@ -48,13 +48,13 @@ Ten seconds. Then she put it down the same as she put everything down, because t
 
 Taken is not dead, she told the road. You don't let the dark have your people. Taken means there's a place he is. Places have ground. Ground talks.
 
-She cast one great circle around the whole site anyway, a hundred paces out, then two hundred, working till the cloud broke and the moon gave her an hour. Deer. A fox. The crew's own back-trail into the scrub, embarrassing, loud as a wagon. Nothing else. She came back to the camp in the cold before dawn with dust on her palms and nothing in them, and found Wick sitting up against a stone with her eyes open, waiting, and did not have to say anything at all, because a tracker coming home slow says it all the way in.
+She cast one great circle around the whole site anyway, a hundred paces out, then two hundred, working till the cloud broke and the moon gave her an hour. Deer. A fox. The crew's own back-trail into the scrub, embarrassing, loud as a wagon. Nothing else. She came back to the camp in the cold before dawn with dust on her palms and nothing in them, and found Wick sitting up against a stone with her eyes open, waiting, and did not have to say anything at all. The girl had read her walk from fifty feet.
 
 "He told me to come get him," Wick said. Small, and flat, and not a child's voice at all. "He made me hear him say it."
 
 "I know. I was hauling you when he said it." Kessa sat down next to her and unwrapped a strip of the dried meat neither of them wanted. "So we get him. Trails don't end. Somebody hid this one. People leave sign." She bit, chewed, made herself swallow. "Tomorrow we grid this country till it gives her up."
 
-She said it like a plan, and Wick took it like one, and slept. It wasn't a plan. It was a tracker with an empty road and a girl who couldn't be handed the truth at two in the morning. Kessa sat with Doss's knife across her knees and watched the east go pale and ran the count until it hurt less. Four. Four, and a place he is. She'd find the place.
+She said it like a plan, and Wick took it like one, and slept. There was no plan in it. There was an empty road, and a girl who couldn't be handed the truth at two in the morning. Kessa sat with Doss's knife across her knees and watched the east go pale and ran the count until it hurt less. Four. Four, and a place he is. She'd find the place.
 
 ---
 
@@ -132,7 +132,7 @@ Sat. Not bound to it. Not slumped at it. He sat at the table like a man sits at 
 
 Alive. Unhurt. At supper.
 
-Kessa had come here with the fight already run twenty times behind her eyes — the doors, the smoke, the woman's throat under the knife if it went that way, everything her whole life had built her to spend on getting one of hers back out of the dark. She stood in the doorway of the house that shouldn't exist and watched the man she'd come to save wave them in — *wave,* half-sheepish, a man caught out at a party — and every plan she'd carried up that lane went slack in her hands at once. There was nothing here to cut. There was nothing here to break. There was a laid table, and a kept fire, and her wizard rested and fed and worried about *her.* A trap she could have read.
+Kessa had come here with the fight already run twenty times behind her eyes — the doors, the smoke, the woman's throat under the knife if it went that way, everything her whole life had built her to spend on getting one of hers back out of the dark. She stood in the doorway of the house that shouldn't exist and watched the man she'd come to save wave them in — *wave,* half-sheepish, a man caught out at a party — and every plan she'd carried up that lane went slack in her hands at once. There was nothing here to cut. There was nothing here to break. There was a laid table, and a kept fire, and her wizard rested and fed and worried about *her.* A trap, she'd have known what to do with.
 
 This she could not read at all.
 

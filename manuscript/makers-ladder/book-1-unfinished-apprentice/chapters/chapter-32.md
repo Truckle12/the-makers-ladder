@@ -12,13 +12,13 @@ The second clean road had gone bad yesterday. A crossing she'd meant to use, a d
 
 Now she crouched over the map in the almost-light with the third clean road under her thumb, and did not believe in it.
 
-The map wasn't wrong. She'd worked that out lying awake with the count refusing to settle. The map had been right when Ash drew it, however she'd drawn it, and it was going wrong a road at a time, west to east, in order. Somebody was taking the clean ways off the board. Not chasing them down any single road. There was no pursuit behind them, she'd swept their back-trail twice and it was as empty as country gets. She'd seen a net worked once, off a cold coast in her girlhood, the men walking the floats in, unhurried, no one of them looking at any fish.
+The map wasn't wrong. She'd worked that out lying awake with the count refusing to settle. The map had been right when Ash drew it, however she'd drawn it, and it was going wrong a road at a time, west to east, in order. Somebody was taking the clean ways away, one at a time. Not chasing them down any single road. There was no pursuit behind them, she'd swept their back-trail twice and it was as empty as country gets. She'd seen a net worked once, off a cold coast in her girlhood, the men walking the floats in, unhurried, no one of them looking at any fish.
 
 She rolled the map and sat with it in both hands and made herself say the shape of it plainly, in her own head, where she kept the count.
 
 He isn't following us. He's shrinking the country we can be in.
 
-She'd met him once and fought him never, and she was starting to know him the way she knew weather that meant to turn: Corwen didn't hunt. Corwen stood at the far end of where you were always going to have to go, and closed roads until where-you-were-going-to-have-to-go was a place with him standing in it. The wild had beaten him once. There was no second wild between here and Everset. There was farmed land, fenced land, House land, netted tighter every mile south, and somewhere in it, ahead, not behind, a man in a good grey coat pouring wine and letting the roads do the rest.
+She'd met him once and fought him never, and she was starting to know him the way she knew weather that meant to turn: Corwen didn't hunt. Corwen picked the one place you'd have to pass, and shut every road that didn't go through it. The wild had beaten him once. There was no second wild between here and Everset. There was farmed land, fenced land, House land, netted tighter every mile south, and somewhere in it, ahead, not behind, a man in a good grey coat pouring wine and letting the roads do the rest.
 
 There'd be a wizard's word for that kind of hunting. Hers was simpler. Cornered.
 
@@ -42,7 +42,7 @@ On the skyline south, mostly. They'd top a rise, and the land would open — goo
 
 "Hm? No." He looked briefly, genuinely confused, which from him was informative; the man narrated his own missteps for sport, and this one he hadn't caught. "No, I was — " He frowned back at the skyline, at the far hills that were nothing but far hills. "Nothing. Wool-gathering."
 
-Wizard doesn't know he's doing it, she added to the tally, and set it aside with the others that had no name yet, and there were getting to be a lot of those, and she didn't like it, and moved the march along.
+Wizard doesn't know he's doing it, she added to the tally, and put it with the others that had no name yet. There were getting to be a lot of those. She didn't like it. She moved the march along.
 
 The owl went south with them at its own altitude and its own opinion of everybody. Two days now she'd watched it work, and as kit went — Ash had called it kit — it was good kit going to waste. It quartered ahead of their line without being sent, rode the wind up where a watcher would have to be looking for it to see it, and twice it had come angling back low over Oscar with a flat shriek before Kessa's own eyes found what it had found: the first time a shepherd and his boys where the fold of the land had hidden them, the second time the picket smoke at the stone bridge. Eyes they didn't have to spend. It just wouldn't be *handed* anything. Wouldn't take the arm, wouldn't take an order, wouldn't come when the wizard called it.
 
@@ -52,7 +52,7 @@ And not come. And he'd say something dry to it, and walk back into the firelight
 
 The other ritual of the march was newer, and Kessa minded it less. At the noon halts Wick had taken to teaching the wizard to be quiet, properly quiet, banked, the trick the girl did with her own fire, and the two of them sat cross-legged in the shade like hedge-mystics while Wick said things like *you're clenching it, that's not quiet, that's holding your breath,* and Oscar went very still and radiated effort. Kessa couldn't feel whatever it was they worked at. She didn't need to. She had Wick's face for it, and in four days the girl had nodded — once, grudging, a teacher's nod — exactly twice, for maybe a ten-count each time. Bad student. Knew too much to be taught easily, was her read. But twice was twice. She set it aside with the things that might matter later.
 
-Wick watched the owl ritual from cover on the far side of the camp, every night, wearing the exact ache she'd worn since the manse. Kessa hadn't sorted the girl's tangle all the way down: jealous of a bird, jealous *for* him, furious at the bird for refusing him, half on the bird's side in some way she'd have bitten through her own arm before explaining. And Kessa didn't need it sorted. She needed the girl sleeping, and the girl wasn't, much.
+Wick watched the owl ritual from cover on the far side of the camp, every night, wearing the exact ache she'd worn since the manse. Kessa didn't try to sort the girl's tangle. She didn't need it sorted. She needed the girl sleeping, and the girl wasn't, much.
 
 Cael was the one piece of the march that had gone better instead of worse. The farther south, the steadier that low warmth of his ran; she could feel it off him on the night watches now, banked and even, a wall you could put your back against, and he'd finished Tarn's arm two nights back — the strapping off, the shoulder rolling clean, the last of the club's work gone out of it. "Cheap, down here," he'd said, when he caught her measuring the cost in his face and finding none. "Roads and roofs. I'm near the hearth-end of the hall." Then, because he was Cael, he'd banked the comfort of it himself: "Whatever's herding us south, it's herding me *toward* my strength. I keep turning that over. I don't like being helped by it."
 
@@ -100,6 +100,6 @@ And Oscar. Oscar had gone still while she talked and stayed still after. She'd w
 
 "The post has walls," Tarn said, to the fire, "and a well," and the vote was carried.
 
-Later, on first watch, with the camp breathing behind her and the owl a pale smudge in the black of the one tall tree, Kessa sat with Doss's knife loose in its sheath and ran the count, which was what she had instead of prayers. Half a day to the waypost. A day, two, to make the room theirs — the doors, the well, the angles, whatever Oscar could wake in the old work. Then however long it took the last clean road to go quiet, and dust on the north approach, and a good grey coat coming on unhurried across ground she had chosen, into an appointment she had made.
+Later, on first watch, with the camp breathing behind her and the owl a pale smudge in the black of the one tall tree, Kessa sat with Doss's knife loose in its sheath and ran the count, which was what she had instead of prayers. Half a day to the waypost. A day, two, to make the room theirs — the doors, the well, the angles, whatever Oscar could wake in the old work. Then however long it took the last clean road to go quiet, and dust on the north approach, and a good grey coat coming on unhurried across ground she had chosen, to a door she'd be standing in.
 
-Come on, then, she told the dark south, and checked her people once more, and settled in to wait for the light. Come collect.
+Come on, then, she told the dark south. Come collect. Then she checked her people once more, and settled in to wait for the light.

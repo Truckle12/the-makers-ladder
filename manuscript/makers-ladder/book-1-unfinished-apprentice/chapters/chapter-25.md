@@ -52,7 +52,7 @@ Not thrown by hands. Thrown by *nothing,* by a slab of shoved air, yanked bodily
 
 A new one. Kessa kept a tally on the wizard, the same as she kept a tally on everything that might keep her people alive, and this was a fresh line in it: *he can shove things now, hard, at distance.* She added it on the run.
 
-The next thing she had no name for, and didn't like. For half a breath, right after he did it, the wizard looked spent in a way that scared her: gray, swaying, blinking like a man who'd stood up too fast and stayed on his feet out of stubbornness, like he'd paid out more than he'd brought to spend. Then he steadied, gray-faced but solid, and she told herself it was the price of a hard working and there was a monster to mind.
+The next thing she had no name for, and didn't like. For half a breath, right after he did it, the wizard looked spent in a way that scared her: gray, swaying, blinking like a man who'd stood up too fast and stayed on his feet out of stubbornness, like he'd run further than he had legs for. Then he steadied, gray-faced but solid, and she told herself it was the price of a hard working and there was a monster to mind.
 
 It worked, was the thing. He'd saved the kid. He just hadn't saved her *from* anything, because the thing simply turned, unhurried, and went after Wick where she'd landed—
 
@@ -112,7 +112,7 @@ For a long moment Wick didn't speak. Kessa watched her, the shaking, the fist, t
 
 "No," the Warden agreed. "I didn't think you were."
 
-She flicked her fingers a final time, and the frozen pale thing that had been an otter simply *came apart*—not unmade, nothing so clean; it sagged, and ran, and was water again, soaking dark into the leaves, as if the wild had reabsorbed a mistake. The fox sniffed once at the wet place and turned away.
+She flicked her fingers a final time, and the frozen pale thing that had been an otter simply *came apart*—not unmade, nothing so clean; it sagged, and ran, and was water again, soaking dark into the leaves. The fox sniffed once at the wet place and turned away.
 
 "Sleep," the Warden said. "Bind the fighter's arm. At first light I'll walk you to the edge of the grey, as far as I dare, and after that the wood is yours to cross and the thing is yours to end." She was already at the tree line, already half wild again. "Mind your wizard. He spent more of himself on that shove than he has to spare, and there's a way a made thing can spend until there's not enough of him left to hold the shape, and no one grows that back." Her eyes found Kessa's in the dark, one tracker to one keeper. "You'll watch him. You watch all of them. I know your kind."
 
@@ -124,4 +124,4 @@ She counted them. Five, breathing, bleeding, hers. Tarn letting Cael wrap his ar
 
 Five. For now.
 
-Tomorrow they walked down into the grey to kill the thing that wanted the youngest of them, with the only ally they'd found in five hundred miles handing them a child for bait and calling it mercy. She kept the knife across her knees and did not sleep.
+Tomorrow they walked down into the grey to kill the thing that wanted the youngest of them, with the only ally they'd found in five hundred miles handing them a child for bait. She did not sleep.

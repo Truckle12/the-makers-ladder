@@ -4,7 +4,7 @@ The city didn't fall down.
 
 Kessa had expected it to. She had stood at the rim of a dry basin and watched the light go out of it, and assumed that when the murder stopped the town would go with it. It seemed only fair. A thing held up by a working ought to come down when the working goes.
 
-It didn't. Outside the three great doors the lamps were still burning on the bridges. The water was still running in the channels. Somewhere off east a bell went twice, and a dog barked, and the beautiful pale streets of Everset lay there in the evening being beautiful, and did not know.
+It didn't. Outside the three great doors the lamps were still burning on the bridges. The water was still running in the channels. Somewhere off east a bell went twice, and a dog barked, and the beautiful pale streets of Everset lay there in the evening, and did not know.
 
 She stood in the ruined nave of the Fair House and put the count together.
 
@@ -56,7 +56,7 @@ It weighed nothing. It felt like nothing. She had handled a hundred stones in a 
 
 "I know whose it is."
 
-"Kessa — " and she heard him start to build something, some clever careful hopeful structure, and watched him take it apart again before it got out of his mouth, because he had promised her a long time ago that he would stop doing that. "It reads as nothing. It always has. That's all I've got. I don't know what it is and I'm not going to make you a story out of it tonight."
+"Kessa — " and she heard him start to build something, and watched him take it apart again before it got out of his mouth, because he had promised her a long time ago that he would stop doing that. "It reads as nothing. It always has. That's all I've got. I don't know what it is and I'm not going to make you a story out of it tonight."
 
 "Good," Kessa said.
 
@@ -78,11 +78,11 @@ He sat with that a while.
 
 "Dozens of times."
 
-"I couldn't say it. She was standing right there and I opened my mouth and there was nothing in me at all, and she — " His voice went. He waited it out. "She told me it was all right. She said that. Sixteen years old, going out onto that stone, and she looked at me and she said it was all right. To me. She said it to *me.*"
+"I couldn't say it. She was standing right there and I opened my mouth and there was nothing in me at all, and she — " His voice went. He waited it out. "She told me it was all right. Sixteen years old, going out onto that stone, and she looked at me and said it was all right. To *me.*"
 
 "That sounds like her."
 
-"It sounds exactly like her." He wiped his face with the flat of his hand, once, businesslike. His other hand was at his throat, on the iron, not rubbing it, just holding on. "It's come to me now. The words. Came up whole, like they always do." A short ugly breath. "Hours late. And I can't use them, Kessa. It isn't grief. It isn't that I'm afraid to." He looked at her. "The words are for the dead. I don't know that she's dead. I've stood over a great many people. Every time I knew. Every single time, I knew which thing I was standing over. I don't know this time. I've got them in my mouth and I don't know."
+"It sounds exactly like her." He wiped his face with the flat of his hand, once, businesslike. His other hand was at his throat, on the iron, not rubbing it, just holding on. "It's come to me now. The words. Came up whole, like they always do." A short ugly breath. "Hours late. And I can't use them, Kessa. It isn't grief. It isn't that I'm afraid to." He looked at her. "The words are for the dead. I don't know that she's dead. I've stood over a great many people. Every time, I knew which thing I was standing over. This time I've got them in my mouth and I don't know."
 
 Kessa thought about that. She was not a woman who did much with words; she read ground, and there was ground here, and the reading was plain.
 
@@ -118,7 +118,7 @@ She didn't tell the others why and none of them asked. It took her two turns of 
 
 There was a bucket standing in a doorway with the rope coiled beside it.
 
-She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa stood there and tried to make the man with the bucket count against yesterday, and it didn't. It never had. She'd known that since Doss.
+She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa tried to make the man with the bucket count against yesterday, and it didn't. It never had. She'd known that since Doss.
 
 She did not knock. There was nothing to say to him that wouldn't have been a kind of collecting.
 
@@ -138,7 +138,7 @@ Oscar looked at it.
 
 "Wizard," Tarn said, "eat the bread."
 
-So he tore a piece off and put it in his mouth and chewed it and swallowed it and sat there with his hand over his eyes, and Kessa read it off him plain: he had said something about bread yesterday, on that floor, to the thing that was going to finish him. She hadn't caught what. She caught it now, watching him fail to enjoy it, and she looked away and let him have it.
+So he tore a piece off and put it in his mouth and chewed it and swallowed it and sat there with his hand over his eyes, and Kessa read it off him plain: he had said something about bread yesterday, on that floor, to the thing that was going to finish him. She hadn't caught what. She caught it now, watching him fail to enjoy it, and she looked away and left him to it.
 
 Then she put both hands flat on the table and asked the only question she had left.
 
@@ -202,7 +202,7 @@ She let it go, because she was not going to insult him now by pretending he need
 
 And Kessa went west.
 
-She didn't explain it and nobody asked her to. Out past the edge-stones the maps went pale and stopped. She'd been thinking about the pale part since a girl walked into a basin. West was a direction. Standing still wasn't. She was a tracker. She had never yet failed to find a way into somewhere. Some she hadn't liked.
+She didn't explain it and nobody asked her to. Out past the edge-stones the maps went pale and stopped. She'd been thinking about the pale part since a girl walked into a basin. West was a direction. Standing still wasn't. She was a tracker. She had never yet failed to find a way into somewhere. Some of the ways in, she hadn't liked.
 
 ---
 
@@ -222,9 +222,9 @@ Then she wiped her face and finished reading the passes.
 
 ---
 
-They went out through the west gate at dawn, and split at the milestone. Nobody had wanted a gate for it.
+They went out through the west gate at dawn and walked on to the milestone before they split. Nobody had wanted to do it under an arch.
 
-Cael took her hand in both of his and did not say anything at all. Tarn nodded once. Oscar stood in the road with an owl on his shoulder and a dead man's book against his ribs and his home behind him, and looked like he was going to say something clever, and didn't.
+Cael took her hand in both of his and did not say anything at all. Tarn nodded once. Oscar stood in the road with an owl on his shoulder and a dead man's book against his ribs, and looked like he was going to say something clever, and didn't.
 
 "Kessa," Cael said, at the end. Gently. The way you ask a thing you already know. "Give us the count."
 
