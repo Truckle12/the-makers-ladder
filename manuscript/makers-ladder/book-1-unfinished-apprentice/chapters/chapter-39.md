@@ -140,7 +140,7 @@ He remembered water in the channel. He remembered *door.* He remembered five.
 
 "Stay in it," Cael said. He was grey and running with sweat. "All of you. It can't read this and it can't find me. It's got no hold on me, nor on what I'm burning. **Stay in the warm and you'll keep knowing who you are.**"
 
-Then he got up — which cost him something Oscar saw and never afterward forgot — and went to the aisle, where a stylus had opened Tarn's forearm to the bone, and put his hands on it and mended what he could while Tarn held the line with the other arm and did not once look down.
+Then he got up — which cost him something Oscar saw and never afterward forgot — and went to the aisle, where a stylus had laid Tarn's upper arm open, and put his hands on it and mended what he could while Tarn held the line with the other arm and did not once look down.
 
 "Don't count it out loud," Cael said, to nobody, to all of them. "I know how long the fire's got."
 

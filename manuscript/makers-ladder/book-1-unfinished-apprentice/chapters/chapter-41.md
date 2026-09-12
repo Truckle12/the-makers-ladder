@@ -4,7 +4,7 @@ The city didn't fall down.
 
 Kessa had expected it to. She had stood at the rim of a dry basin and watched the light go out of it, and assumed that when the murder stopped the town would go with it. It seemed only fair. A thing held up by a working ought to come down when the working goes.
 
-It didn't. Outside the three great doors the lamps were still burning on the bridges. The water was still running in the channels. Somewhere off east a bell went twice, and a dog barked, and the beautiful pale streets of Everset lay there in the evening, and did not know.
+It didn't. Outside the three great doors the lamps were still burning on the bridges. The water was still running in the channels. Somewhere off east a bell went twice, and a dog barked, and the beautiful pale streets of Everset lay there in the late afternoon, and did not know.
 
 She stood in the ruined nave of the Fair House and put the count together.
 
@@ -64,7 +64,7 @@ She put it in her inside pocket, the one with the flap, the one that had carried
 
 ---
 
-Cael woke a little before dark and was no use to anybody for an hour, and then he was Cael again, which was worse.
+Cael woke toward evening and was no use to anybody for an hour, and then he was Cael again, which was worse.
 
 She would have preferred him broken a while longer. Broken men are easy; you feed them and put them where the wind isn't. What he did instead was sit up, and get his bearings, and ask after the three of them one at a time, and then ask, in a perfectly steady voice, whether anyone had gone out onto the stone to look.
 
@@ -115,6 +115,8 @@ Tarn considered the queue for a while. "Best kind of debt," he said. "One nobody
 She went and found the street.
 
 She didn't tell the others why and none of them asked. It took her two turns of the lower town and one wrong guess, and then she was standing in a lane of pale houses with washing across it, reading the ground as she'd read a hundred yards of thin country, and there was nothing to read at all: no scar, no ash, no gap. The street was exactly a street.
+
+Wick had screamed it going, from the stone: a bridge, a garden, a street with a man in it looking up. Kessa had come to look at the hole. There was no hole.
 
 There was a bucket standing in a doorway with the rope coiled beside it.
 
@@ -188,7 +190,7 @@ Tarn was going south. He didn't dress it up. There was a bowl in Oressa he was n
 
 Oscar was going north.
 
-He said it standing at the window with the owl on the sill beside him, and he did not turn round. "Ash," he said. "She knows more than she told me, and she told me quite a lot, and I have four questions now that I didn't have on the day she poured me tea. I'm going to go and find a woman who blinks out of rooms." A pause. "And there's a dead city under the ice with a hall full of cradles in it that is the same building as the one we just wrecked, and I have never gone back and looked at it properly, because I've spent this entire year running away from it in a southerly direction."
+He said it standing at the window with the owl on the sill beside him, and he did not turn round. "Ash," he said. "She knows more than she told me, and she told me quite a lot, and I have four questions now that I didn't have on the day she poured me tea. I'm going to go and find a woman who blinks out of rooms." A pause. "And there's a dead city under the ice with a hall full of cradles in it that is the same building as the one we just wrecked, and I have never gone back and looked at it properly, because I've spent this entire season running away from it in a southerly direction."
 
 "That's five hundred miles," Kessa said.
 

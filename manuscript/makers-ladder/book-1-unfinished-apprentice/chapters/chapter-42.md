@@ -20,7 +20,7 @@ There was ground. It held her. There was a down and so there was an up, and ther
 
 There was no sky. She looked for a long time. Then she stopped, because it was making her feel sick.
 
-The ground was the worst bit. It wasn't stone and it wasn't dirt. When she crouched and put her palm on it, it wasn't *anything,* and she knew that feeling, she'd had it in her fist for months: the little grey rock had felt exactly like this. You pressed and nothing pressed back. It went out flat as far as she could see, which wasn't far, and it wasn't mist stopping her seeing.
+The ground was the worst bit. It wasn't stone and it wasn't dirt. When she crouched and put her palm on it, it wasn't *anything,* and she knew that feeling, she'd had it in her fist for weeks: the little grey rock had felt exactly like this. You pressed and nothing pressed back. It went out flat as far as she could see, which wasn't far, and it wasn't mist stopping her seeing.
 
 Her ears kept lying. They kept saying *huge* — the sound a barn has in the dark before you strike the light. But when she said "hello" the word went about four feet and stopped, like she'd said it into a coat.
 

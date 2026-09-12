@@ -6,7 +6,7 @@ The figure at the font's rim inclined its head as though he'd remarked on the we
 
 His gift was still full of it, and the fullness would not stop being wrong.
 
-His hands, he noticed, were warm. At the first font the mere nearness had rimed him to the elbows, the unfinished edges of him lifting away like frost off the walls. Nothing lifted now. The crooked Setting had held all this way. Whatever stood at this basin tonight, it was whole enough to be asked.
+His hands, he noticed, were warm. At the first font the mere nearness had rimed him to the elbows, the unfinished edges of him lifting away like frost off the walls. Nothing lifted now. The crooked Setting had held all this way. Whatever stood at this basin today, it was whole enough to be asked.
 
 "You're reading me," it observed. "Go on. It's not rude. There's no one in here to take offence."
 

@@ -106,13 +106,17 @@ She didn't wait to see if he understood.
 
 She got that part right and she knew it even while she was doing it, because if she'd waited he'd have got a hand on her, or found a word, and he always found a word.
 
-She went past Cael's hip and out of the warm and she ran for the basin.
+Cael's hand came out for her as she passed, the big warm one, the one that had kept four people knowing their own names all afternoon, and his mouth was open on nothing, and she went round the hand.
+
+"Don't," she said. "I can't be a person and a hole at the same time." And then, because he was looking at her like that, because he was going to stand there for the rest of his life with his hand out and his mouth open: "It's all right, Cael. It's all right."
+
+She went past his hip and out of the warm and she ran for the basin.
 
 Behind her somebody screamed her name and it might have been all four of them.
 
 The light in the ring wasn't water. It came up round her boots and it wasn't wet and it wasn't cold and it went straight through her leathers and her skin like they weren't there, and the floor of the ring was coming apart under her because the thing had started eating its own house, and she didn't look down. Looking down was for people with time.
 
-Eleven paces. She counted them out loud, because Kessa had drilled it into her the whole road: out loud, first, not after.
+Eleven paces. She counted them out loud, because Kessa had drilled it into her the whole road: you say it, every time.
 
 She got to the chair.
 
