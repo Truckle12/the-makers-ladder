@@ -78,11 +78,11 @@ He did it without deciding to. He felt the sun on the back of his neck, and for 
 
 "Read it for me," he said then. "The town. I don't trust myself here."
 
-She had been doing nothing else since the wash-yard. "Nobody's afraid," she said. "That's the first thing. Not of us, not of each other, not of the guards — and there's guards, four so far, and one of them just bought a bun." Her eyes went along the roofline and came back. "Everyone's fed. Nobody's limping. That woman put her purse down on a barrel to count fish and left it there." A pause. "It's the best-run place I've ever stood in, and I want you to know I'm saying that with my whole chest and I still don't like it."
+She had been doing nothing else since the wash-yard. "Nobody's afraid," she said. "That's the first thing. Not of us, not of each other, not of the guards — and there's guards, four so far, and one of them just bought a bun." Her eyes went along the roofline and came back. "Everyone's fed. Nobody's limping. That woman put her purse down on a barrel to count fish and left it there." A pause. "It's the best-run place I've ever stood in, and I still don't like it."
 
 "Why not?"
 
-"Ask me in an hour," Kessa said. "It's not lying to me yet. It's just not saying enough."
+"Ask me in an hour," Kessa said. "It's not lying to me yet."
 
 ---
 
@@ -98,11 +98,15 @@ He opened one hand, and the hearth-light came up in it low and gold and absolute
 
 "Say it."
 
-"They *pray* here." He said it with wonder, and then, immediately after, with something much heavier. "Oscar, listen. What I answer to — it isn't a river that runs everywhere. It's a hall, and the hall is short where there's people and long where there isn't, and out on the heath it's so long I can barely shout down it. That's not a thing about *me.* That's a thing about *them.* The hall's short where somebody's keeping a hearth and meaning it." He looked around at the market, at the bread, at the grandmother on her doorstep. "This is the shortest that hall has ever been in my life. Which means there are more people in this town keeping a fire and believing in something at the end of it than anywhere I have ever walked."
+"They *pray* here." He said it with wonder, and then, immediately after, with something much heavier. "Oscar. What I answer to. The hall I shout down." He opened and closed his hand. "It's short here. Shortest it's ever been. On the heath I can barely make myself heard down it. Here it's — " He stopped. He looked around at the market, at the bread, at the grandmother on her doorstep, and did not finish.
+
+"Short where there are people," Oscar said slowly. "Long where there aren't. It was never about you at all. It's about them. Somebody keeping a hearth and meaning it."
+
+"Aye." Cael did not look pleased to have it said for him. "More of them here than anywhere I've walked."
 
 "In the font?" Oscar said. "They pray to the thing in the middle of the city?"
 
-"Some do. I've heard them say so twice this morning." Cael closed his hand and the light went out of it. "But that's not what's answering. I'd know. Whatever's got hold of the other end of my hall, it doesn't live in a great building. It's never lived in a great building." Something in him settled, and hardened. "It lives in kitchens. It's here because *they're* here. That's the mercy of it and I'm going to hold onto it, because I don't like where the rest of this morning is going."
+"Some do. I've heard them say so twice this morning." Cael closed his hand and the light went out of it. "But that's not what's answering. I'd know." He was quiet a moment. "Whatever's on the other end of my hall, it doesn't live in that." He nodded up the hill. "Never has. It's in kitchens. It's here because they're here." Something in him settled. "I'm keeping hold of that. I don't like where the rest of this morning's going."
 
 Oscar put that somewhere safe.
 
@@ -116,7 +120,7 @@ She had crouched at the edge of a yard with her fingers in the gutter-mud, and h
 
 "What?"
 
-"No rats. No mice. No pigeons on that roof, no droppings on that sill, no weeds in this crack, and there is *always* weeds in a crack." She stood, wiping her hand. "I've read a hundred towns. A town's mostly the things living in it that nobody invited. This one's got none."
+"No rats. No mice. No pigeons on that roof, no droppings on that sill, no weeds in this crack, and there is *always* weeds in a crack." She stood, wiping her hand. "I've read a hundred towns. This one's got none of it."
 
 And the morning turned over.
 
@@ -128,11 +132,11 @@ And there was one more thing he owed her, and he made himself say it out loud at
 
 "I can read all of this," he said. "Grammar, clauses, purpose. I could stand here a year and take notes and probably understand the whole of it. And I want to be very clear about the next part, so nobody builds a plan on the wrong hope." He looked at the calm lovely working running away in every direction under the market. "I can't *hold* any of it. Reading isn't lifting. If this thing turns round and asks whether I belong, knowing exactly how the question is phrased will not help me survive the answer. I'm a man who can read a river. I still drown in it."
 
-Kessa took that the way she took everything, which was as something to be spent later. "Then reading's for finding the door," she said. "Not the fight."
+Kessa took that the way she took everything, which was as something to be spent later. "Then you find the door," she said. "We do the rest."
 
 "Yes."
 
-"Good. Say that to yourself twice a day."
+"Good."
 
 He stood in the best-run place he had ever seen and understood at last what he was standing in.
 
@@ -218,7 +222,7 @@ There was *at last.* A woman lifted a baby up so the baby could see him, and the
 
 "Walk," Kessa said, very low, at his shoulder. "Don't run. Walk, and smile, and don't take your hand off that cup, because if you drop it they'll all look at the ground and there's nothing on the ground I want them looking at."
 
-So he walked, and they came with him — not herding him, and that was what undid him; they were *escorting* him, the way a town escorts a bride. People fell in on both sides. Somebody started a song and it was taken up badly. A man ran ahead to tell people further along. The crowd got thicker and the street got wider and Oscar understood, distantly, through the roaring in his ears, that he was not choosing his direction any more and had not been for two streets.
+So he walked, and they came with him — not herding him, and that was what undid him; they were *escorting* him. People fell in on both sides. Somebody started a song and it was taken up badly. A man ran ahead to tell people further along. The crowd got thicker and the street got wider and Oscar understood, distantly, through the roaring in his ears, that he was not choosing his direction any more and had not been for two streets.
 
 "Where are they taking me?"
 

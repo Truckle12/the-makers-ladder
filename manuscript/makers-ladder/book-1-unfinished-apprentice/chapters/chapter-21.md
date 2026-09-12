@@ -50,7 +50,7 @@ He found Wick watching him as they came back out onto the bridge.
 
 "It's a great deal worse here," Oscar admitted, because he didn't lie to her, and because she'd handed him a true thing first, and he could do the same. "Every worked thing in this city is asking to be read, and I have spent my whole short stupid life wanting nothing so much as to read things, and I have to walk through the middle of it pretending I'm a man who can't." He pressed the heel of his hand against his eye. "I keep thinking it'll get easier. It does not get easier."
 
-"No," Wick agreed, with the flat authority of an expert. "It doesn't. You just get better at being tired." And she said it without any self-pity at all, just one professional to another. It should have been lonely. Somehow, sharing it, it was almost the opposite.
+"No," Wick agreed, with the flat authority of an expert. "You just get used to being tired the whole time." And she said it without any self-pity at all, just one professional to another. It should have been lonely. Somehow, sharing it, it was almost the opposite.
 
 It lasted until the glass.
 
@@ -90,7 +90,7 @@ Down here the worked light gave out and ordinary fire took over: tallow lamps, p
 
 "I don't have a mother," Oscar said, on reflex, and then, because she was right and he knew she was right and the headache and the fear had scoured the cleverness out of him, "I know. I know. I couldn't—" He stopped, and made himself say the true and humbling thing instead of the clever deflecting one, because that was a muscle too and he was trying to build it. "I couldn't help it. That's the part that frightens me, Kessa. It wasn't a choice. The thing I am reached out before the man I'm trying to be could stop it. In a city full of people whose entire job is to listen for exactly that." He leaned his head back against the cooperage door. "Brida said my gift was a noose down here. I thought I understood her. I didn't. It's worse than a noose. A noose you can see coming. This is just—me. Being what I am, loudly, every second I'm not strangling it."
 
-Nobody said anything for a moment. Then Wick, quietly: "So learn to be quiet on purpose. Not strangling it. Actually quiet." She was looking at him with that fellow-feeling again, fiercer now. "You threw yourself shut back there, at the end. I felt it. I don't read like you, but I felt the air change, you went still in the wrong way, like a coal banked right down to nothing. That's the thing. That's the trick. Not holding the door shut so hard it takes everything you've got. *Closing* it. There's a difference. I can teach you that one, maybe, for once, instead of the other way round."
+Nobody said anything for a moment. Then Wick, quietly: "So learn to be quiet on purpose. Not strangling it. Actually quiet." She was looking at him with that fellow-feeling again, fiercer now. "You threw yourself shut back there, at the end. I felt it. I don't read like you, but I felt the air change, you went still in the wrong way, like a coal banked right down to nothing. That's the trick. You're holding the lid down so hard it takes everything you've got. Don't hold it. Shut it. I can teach you that one, maybe, for once, instead of the other way round."
 
 And that landed somewhere Oscar hadn't expected, because she was right, and because it was the first time anyone had offered to teach *him* anything since he'd clawed up out of the ice knowing too much and not enough. A way to go quiet, go blank, go unread, not by force but by will: he was going to need that before this road was through. He filed it where he filed the brace and the lance, in the drawer marked *not yet, but soon, and necessary.*
 
@@ -102,7 +102,7 @@ And that landed somewhere Oscar hadn't expected, because she was right, and beca
 
 Kessa's head turned toward it, and so did Cael's, the two of them reading the sound the way Oscar read workings.
 
-"Fighting pits," Cael said, with distaste and with recognition both. "Of course there's fighting pits. Where there's a city this rich, there's always somewhere the poor can go to watch each other die for the price of a seat." He frowned toward the roar. "Bad place."
+"Fighting pits," Cael said, with distaste and with recognition both. "Of course there's fighting pits." He frowned toward the roar. "Bad place."
 
 "Bad place," Kessa agreed. "Full of bad people who don't ask questions and don't talk to the House, and know every back way out of a city the House owns." She looked at Oscar, and there was no enthusiasm in it, just the flat count of a tracker who'd run out of clean roads. "Which is exactly the kind of people we need right now."
 

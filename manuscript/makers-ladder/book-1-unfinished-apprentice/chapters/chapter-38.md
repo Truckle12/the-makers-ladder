@@ -6,7 +6,7 @@ The figure at the font's rim inclined its head as though he'd remarked on the we
 
 His gift was still full of it, and the fullness would not stop being wrong.
 
-His hands, he noticed, were warm. He noticed it the way you notice an absence: at the first font the mere nearness had rimed him to the elbows, the unfinished edges of him lifting away like frost off the walls. Nothing lifted now. The crooked Setting had held all this way. Whatever stood at this basin tonight, it was whole enough to be asked.
+His hands, he noticed, were warm. At the first font the mere nearness had rimed him to the elbows, the unfinished edges of him lifting away like frost off the walls. Nothing lifted now. The crooked Setting had held all this way. Whatever stood at this basin tonight, it was whole enough to be asked.
 
 "You're reading me," it observed. "Go on. It's not rude. There's no one in here to take offence."
 
@@ -66,7 +66,7 @@ Oscar, who had been alive for one season and had inherited a long dead man's cer
 
 "A number," the Setter said. "I had it for a long while. I noticed I was carrying it about for no reason, so I put it down."
 
-The floor went out from under the arithmetic. He had been telling himself a story in which this had been going on for a few lifetimes — bad, but a shape a man could hold. It was however long it takes a patient thing to stop finding the count worth keeping, and Oscar's mind put its hands up and declined to guess.
+The floor went out from under the number. He had been telling himself a story in which this had been going on for a few lifetimes — bad, but a shape a man could hold. It was however long it takes a patient thing to stop finding the count worth keeping, and Oscar's mind put its hands up and declined to guess.
 
 "Understand the design," it went on. "Setting *takes.* That is the whole of what setting is: the thing is fixed in its final form, and what is fixed cannot also be *asking.* The man who was told the name of the hand behind it went out of me the day I was completed, and what was left is what you see, and what you see is adequate to the work." A small movement, hands unfolding and refolding. "I keep the basin. I set the candidates. I am a very good instrument and I was, they tell me, a promising person."
 
@@ -144,7 +144,7 @@ And he remembered Cael, of all people, walking out across that pale floor toward
 
 "No," it agreed. And then, after a moment: "I don't have the part that keeps things."
 
-Cael stood there a long while. When he came back his face had gone grey and his warmth had come up in both hands without his seeming to notice, gold and steady in a city of cold light, his thumb moving on the iron at his throat the way another man's lips move at prayer, and he said to Oscar, low: "That is the worst thing I have ever stood next to. It isn't a monster. It's a *bereavement.*"
+Cael stood there a long while. When he came back his face had gone grey and his warmth had come up in both hands without his seeming to notice, gold and steady in a city of cold light, his thumb moving on the iron at his throat, and he said to Oscar, low: "That is the worst thing I have ever stood next to. It isn't a monster. It's somebody's — " He stopped. His mouth worked and nothing came. "It's somebody's."
 
 "I know," Oscar said.
 

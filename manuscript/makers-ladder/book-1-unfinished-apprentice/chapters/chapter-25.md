@@ -8,7 +8,7 @@ She watched the wizard instead. She'd been watching him since the bowl. Recalcul
 
 He was sitting too close to the water. He had the look he got, she knew it now, the slight tilt, the going-away behind the eyes, the look that meant he was about to do the thing with the seeing whether or not it was smart, like a man who can't pass a scab without picking it. She opened her mouth to tell him to step back from the edge.
 
-She was a half-second too slow, which she would think about later.
+She was a half-second too slow.
 
 The water *moved.* Not rippled—*moved,* heaved, like something the size of a man had rolled over directly beneath it, and the cold constant welling became a surge, and the surface broke.
 
@@ -20,17 +20,17 @@ Kessa had fought a great many things. She had a system for it, built over years,
 
 The bolt went in. The thing didn't care. That told her most of what she needed: no organs where organs went, or none that mattered, which meant *don't aim, just stop it,* which was a worse fight and a longer one.
 
-It came past her. Didn't even slow for her. That was the second thing it told her, and she didn't have time to understand how much she'd hate it later: *it isn't here for the crew. It's here for one of us.*
+It came past her. Didn't even slow for her. That was the second thing it told her: *it isn't here for the crew. It's here for one of us.*
 
 ---
 
 After that it was the work, and the work was fast.
 
-Tarn hit it like a falling wall. He'd come up out of sleep already moving, forty years of the pit don't leave a body, whatever's eating it, and he got both hands into the pale shape and *turned* it, bodily, away from the camp, away from the soft middle, and it raked him for it; she saw the wet open lines go across his forearm and saw him not care, the same way he'd not cared in the bowl. He was buying space with his skin. He was good at it. It was, she thought distantly, a terrible thing to be good at.
+Tarn hit it like a falling wall. He'd come up out of sleep already moving, forty years of the pit don't leave a body, whatever's eating it, and he got both hands into the pale shape and *turned* it, bodily, away from the camp, away from the soft middle, and it raked him for it; she saw the wet open lines go across his forearm and saw him not care, the same way he'd not cared in the bowl. He was buying space with his skin. Three lines, forearm, deep enough to want binding later.
 
 "Cael—line—" she said, and didn't need to finish, because Cael was already there, big and planted between the thing and Wick with his shield up and that low warm hum coming off him that she didn't understand and had stopped questioning, the warding, the thing that made him a wall you could stand behind. The pale shape hit his ward and *stuck* for half a heartbeat, repelled, screaming a sound like a wet finger on glass—
 
-—and then it bent. Wrong. Folded sideways in a way nothing with bones could, poured itself low and *around* Cael's planted feet, under the line, because it didn't have to come through the wall if it could simply decline to be where the wall was.
+—and then it bent. Wrong. Folded sideways in a way nothing with bones could, poured itself low and *around* Cael's planted feet, under the line.
 
 And Kessa understood, cold and total, that they were losing. Not might lose. Were. It was faster than all of them and it wanted past them and there was only ever going to be one of them small enough and slow enough at the back, and the thing had known that from the water.
 
@@ -44,7 +44,7 @@ She was already running and she was not going to be in time.
 
 The wizard got there first, and not how she expected.
 
-She'd written him off for this fight: thin, slow, the seeing useless against a thing with nothing written in it to read; she'd seen him try it, seen the tilt, seen it slide off the pale shape like water off slate, *nothing to read, nothing to unmake, this one's alive.* She'd had him down as *protect, don't rely on.* So she wasn't ready for what he did, which was throw out one hand at the girl—not at the monster, at *Wick*—and make a short ugly word she'd never heard him make.
+She'd counted him out for this fight: thin, slow, the seeing useless against a thing with nothing worked in it to read; she'd seen him try it, seen the tilt, seen it slide off the pale shape like water off slate, *nothing to read, nothing to unmake, this one's alive.* She'd had him down as *protect, don't rely on.* So she wasn't ready for what he did, which was throw out one hand at the girl—not at the monster, at *Wick*—and make a short ugly word she'd never heard him make.
 
 Wick left the ground.
 
@@ -56,7 +56,7 @@ The next thing she had no name for, and didn't like. For half a breath, right af
 
 It worked, was the thing. He'd saved the kid. He just hadn't saved her *from* anything, because the thing simply turned, unhurried, and went after Wick where she'd landed—
 
-—and got her. Got a pale reaching limb around the girl's throat and lifted her, and Wick's burning branch fell, and the shimmer over her flared white-hot and *terrified,* the heat of her cranking up and up like a kettle with the lid screwed down, and Kessa, six feet too far with a knife she already knew was useless, did the only thing left, which was the oldest thing, the Doss thing, the thing crews did: she threw herself at it anyway, because *you do not let the dark have your people,* not while you've got breath, not ever, even when the math is bad, *especially* when the math is bad—
+—and got her. Got a pale reaching limb around the girl's throat and lifted her, and Wick's burning branch fell, and the shimmer over her flared white-hot and *terrified,* the heat of her cranking up and up like a kettle with the lid screwed down, and Kessa, six feet too far with a knife she already knew was useless, did the only thing left, which was the oldest thing, the Doss thing, the thing crews did: she threw herself at it anyway, because *you do not let the dark have your people,* not while you've got breath, not ever, even when the count is bad, *especially* when the count is bad—
 
 "*Enough.*"
 
@@ -68,7 +68,7 @@ The pale thing froze with Wick's throat in its grip and the girl's toes off the 
 
 Froze completely, mid-motion, mid-lift, every wrong joint locked, because the woman walking out of the dark had told it to, and out here, Kessa understood with a lurch, the wild did what this woman said.
 
-She came barefoot and unhurried and the ground seemed glad of her feet. Old, or young, or neither; Kessa's threat-sense, which had a verdict on everyone within a heartbeat of meeting them, returned the most unwelcome verdict it knew: *can't fight this. Can't outrun it either. Don't try.* A fox walked at her heel like a held breath. She did not look at the crew. She looked at the frozen thing with Wick hanging in its grip, and her face was grim and unsurprised and, underneath, something that might have been grief.
+She came barefoot and unhurried and the ground seemed glad of her feet. Old, or young, or neither; Kessa's threat-sense, which had a verdict on everyone within a heartbeat of meeting them, returned the most unwelcome verdict it knew: *can't fight this. Can't outrun it either. Don't try.* A fox walked at her heel. She did not look at the crew. She looked at the frozen thing with Wick hanging in its grip, and her face was grim and unsurprised and, underneath, something that might have been grief.
 
 "Who," she said, "comes knocking at my door"—and now she did look at them, and the look went from Wick, choking and white in the monster's locked grip, to the gray swaying wizard with the wrong edges, and back—"with a wild-touched girl and a made thing."
 
@@ -106,7 +106,7 @@ Wick said nothing. Her hand was at her throat where the limb had been, over the 
 
 The Warden looked at Wick for a slow count. "The girl is what it wants most in the world," she said, "and it will come fastest and surest if she's near, and yes, that is the ugliest part of an ugly bargain, and I will not pretend it to you as anything kinder." She crouched, then, to Wick's level, and the grief was plain on her now. "But hear the other half, child, because it's yours and no one else's to weigh. The thing in the wood and the thing behind your door are the same kind of hunger. You've spent your whole life holding one. If you want to learn what holding is actually *for*—if you ever want to meet the thing you're afraid of on your own feet instead of waiting for the day you're too tired to hold the latch—then there is no better teacher in all the world than walking down into that wood beside people who'll stand between you and it, and watching me put down its big brother." She straightened. "Or stay at the edge stones where it's safe, and I'll think no less of you, and your friends go without you. Both are real choices. I'll have no one say I sent a frightened child into the dark without the door open behind her."
 
-For a long moment Wick didn't speak. Kessa watched her, the shaking, the fist, the mark, and watched her do the thing Kessa hadn't expected and would, privately, re-rank her over: she stopped shaking. On purpose. By holding something down with both hands, same as always, except this time aiming it forward.
+For a long moment Wick didn't speak. Kessa watched her, the shaking, the fist, the mark, and watched her do the thing Kessa hadn't expected and would, privately, re-rank her over: she stopped shaking. On purpose.
 
 "I'm coming," Wick said. Hoarse. "I'm not getting left at the edge of one more thing."
 
@@ -120,8 +120,8 @@ She flicked her fingers a final time, and the frozen pale thing that had been an
 
 Then she was gone, and the wood's hundred small night-sounds came creeping back into the hollow one at a time, and Kessa sat down with her back to the stone and Doss's knife across her knees and did the only thing she trusted herself to do with a night like this one.
 
-She counted them. Five, breathing, bleeding, hers. Tarn letting Cael wrap his arm. Wick small and awake and decided. The wizard gray and hollowed out, watching the dark where the Warden had gone with a look Kessa didn't like: a man who'd just met the only other person who spoke his language, and was already counting how little of it he'd get.
+She counted them. Five, breathing, bleeding, hers. Tarn letting Cael wrap his arm. Wick small and awake and decided. The wizard gray and hollowed out, watching the dark where the Warden had gone. Not blinking enough.
 
 Five. For now.
 
-Tomorrow they walked down into the grey to kill the thing that wanted the youngest of them, with the only ally they'd found in five hundred miles handing them a child for bait and calling it mercy—and meaning it, which was the part Kessa chewed on longest in the dark. The ones who meant it were the only people worth following. They were also the ones who got your people killed. Both, in her experience. Always both.
+Tomorrow they walked down into the grey to kill the thing that wanted the youngest of them, with the only ally they'd found in five hundred miles handing them a child for bait and calling it mercy. She kept the knife across her knees and did not sleep.

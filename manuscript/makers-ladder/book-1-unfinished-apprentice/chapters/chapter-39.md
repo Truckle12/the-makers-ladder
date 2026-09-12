@@ -22,7 +22,7 @@ A stretch of colonnade three pillars long stopped being there. No dust, no crash
 
 And then the clerks came out from under the galleries, and Oscar started laughing, which frightened Wick more than anything the city had done yet.
 
-Because they were *clerks.* Eleven of them — he counted, and then wished very much that he hadn't — grey-robed, unhurried, empty-handed except for a board and a stylus each. The same figures who stood at the gate and marked a man for coming apart. And they came down the aisle in no formation whatsoever, the way clerks cross a yard, and one of them was already writing.
+Because they were *clerks.* Eleven of them — he counted, and then wished very much that he hadn't — grey-robed, unhurried, empty-handed except for a board and a stylus each. The same figures who stood at the gate and marked a man for coming apart. And they came down the aisle in no formation whatsoever, and one of them was already writing.
 
 "They're not soldiers," he said. "They're *the pen.* The font strikes what's been marked and *they do the marking.* That's the whole apparatus — that's why nobody in this city is armed. You can't kill them, they're made and they'll keep coming. **Don't let one finish writing.**"
 
@@ -138,11 +138,11 @@ He went to one knee in the middle of them and put both palms flat on the pale fl
 
 He remembered water in the channel. He remembered *door.* He remembered five.
 
-"Stay in it," Cael said. He was grey and running with sweat. "All of you. It can't read this and it can't find me, because I'm not written in its book and neither is what I'm burning. **Stay in the warm and you'll keep knowing who you are.**"
+"Stay in it," Cael said. He was grey and running with sweat. "All of you. It can't read this and it can't find me. It's got no hold on me, nor on what I'm burning. **Stay in the warm and you'll keep knowing who you are.**"
 
 Then he got up — which cost him something Oscar saw and never afterward forgot — and went to the aisle, where a stylus had opened Tarn's forearm to the bone, and put his hands on it and mended what he could while Tarn held the line with the other arm and did not once look down.
 
-"Don't do the sums out loud," Cael said, to nobody, to all of them. "I know how long the fire's got."
+"Don't count it out loud," Cael said, to nobody, to all of them. "I know how long the fire's got."
 
 ---
 
@@ -274,9 +274,9 @@ He was reading it. He was reading it fast and wished he weren't, because he coul
 
 "Then say what stops it," Kessa said. "Down the list. Fast."
 
-He went down the list. It took four seconds and it was the worst arithmetic of his life.
+He went down the list. It took four seconds and it was the worst list he had ever made.
 
-"Cael can ward it, he can't drink it — you don't ward an ocean, you only choose which of us gets wet first. You've no ground to use; there's nothing left down there to put between anybody and anything. Tarn can't hit a tide. Wick's fire is a fire and this thing eats fires on its way past. And me." He heard how flat it came out. "I can read every clause of it. I could recite it to you. Reading isn't lifting; I told you that in a street this morning and you were kind enough not to say *I know.* There is nothing in the world that answers this."
+"Cael can ward it, he can't drink it — you don't ward an ocean, you only choose which of us gets wet first. You've no ground to use; there's nothing left down there to put between anybody and anything. Tarn can't hit a tide. Wick's fire is a fire and this thing eats fires on its way past. And me." He heard how flat it came out. "I can read every clause of it. I could recite it to you. I can't lift it. There is nothing in the world that answers this."
 
 He stopped, because his own sentence had gone wrong in his mouth and he did not yet know why.
 

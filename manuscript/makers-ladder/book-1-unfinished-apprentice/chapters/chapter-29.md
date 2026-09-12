@@ -16,11 +16,11 @@ Four. And no body. She made herself hold on to the second half of that. No body.
 
 That landed. Wick's breathing hitched down a notch. "The woman."
 
-"The woman," Kessa said. "Who walked onto a watched road out of nowhere, took him off the man who'd bound him, and was gone before the finder shut his mouth. Whoever she is, she beat Corwen to the prize with the trap already sprung." She let that sit where all of them could see it. "That's two hunters. The one we can find doesn't have him. The one who has him, nobody finds by charging a road in daylight."
+"The woman," Kessa said. "Who walked onto a watched road out of nowhere, took him off the man who'd bound him, and was gone before the finder shut his mouth. Whoever she is, she beat Corwen to the prize with the trap already sprung." She let that sit where all of them could see it. "Two hunters. The one I can find hasn't got him."
 
 "So we find her," Wick said. "You find everything."
 
-Kessa checked the light — an hour left, maybe less, low cloud coming in off the hills. Under it the girl stood shaking with her fists shut, sixteen years old, staring at Kessa with a faith that was worse to hold than the arm strapped wrong on Tarn would ever be.
+Kessa checked the light — an hour left, maybe less, low cloud coming in off the hills. Under it the girl stood shaking with her fists shut, sixteen years old, staring at Kessa. Kessa looked at the arm instead.
 
 "I find what leaves sign," she said. "Eat something. When it's dark, I'll go read the road."
 
@@ -52,7 +52,7 @@ She cast one great circle around the whole site anyway, a hundred paces out, the
 
 "He told me to come get him," Wick said. Small, and flat, and not a child's voice at all. "He made me hear him say it."
 
-"I know. I was hauling you when he said it." Kessa sat down next to her and unwrapped a strip of the dried meat neither of them wanted. "So we get him. Trails don't end, they get hidden. Hidden means somebody hid it. Somebody is a person, and people have habits, and habits leave sign." She bit, chewed, made herself swallow. "Tomorrow we grid this country till it gives her up."
+"I know. I was hauling you when he said it." Kessa sat down next to her and unwrapped a strip of the dried meat neither of them wanted. "So we get him. Trails don't end. Somebody hid this one. People leave sign." She bit, chewed, made herself swallow. "Tomorrow we grid this country till it gives her up."
 
 She said it like a plan, and Wick took it like one, and slept. It wasn't a plan. It was a tracker with an empty road and a girl who couldn't be handed the truth at two in the morning. Kessa sat with Doss's knife across her knees and watched the east go pale and ran the count until it hurt less. Four. Four, and a place he is. She'd find the place.
 
@@ -76,13 +76,13 @@ The lane had ruts. Good ruts, a hand deep, pressed clean into the clay — and n
 
 "So was the cart," Kessa said.
 
-"Aye." He looked down the lane with his fetcher's squint, the one he used on a beast that wasn't behaving like its kind. "Two days ago the country funneled us at a man who wanted the wizard. Today it grows a lane." He shifted the strapped arm. "I've taken animals out of the wild my whole life. You know the surest way?" He didn't wait. "You don't chase. You build the pen and you make the gap easy, and you let the beast's own legs do the work. Whoever set this doesn't want to catch us." He spat, economical. "We're being *let in.*"
+"Aye." He looked down the lane with his fetcher's squint, the one he used on a beast that wasn't behaving like its kind. "Two days ago the country funneled us at a man who wanted the wizard. Today it grows a lane." He shifted the strapped arm. "I've taken animals out of the wild my whole life. You don't chase. You build the pen and leave the gap easy. Whoever set this doesn't want to catch us." He spat, economical. "We're being *let in.*"
 
 "To what," Cael said. Not to argue. To have it said.
 
 "To wherever he is," Wick said, and she was already three steps down the lane, and Kessa caught her by the pack-strap and held her, and for a second the heat came off the girl so hard it moved the air between them.
 
-"On my order," Kessa said. "We go, but we go as a crew, on my order, in my line. She could have killed us on that road and she didn't. She could have hidden this lane from me the same as she hid a whole woman off sixty feet of dust — and instead she grew it where I'd trip on it. That's a message in the only language she knows I read." She loosed the strap and set her own boot first onto the too-clean clay. "Doesn't make her a friend. Makes her a hunter who wants us walking, not running. So we walk. And we count the exits going in."
+"On my order," Kessa said. "We go, but we go as a crew, on my order, in my line. She could have killed us on that road and she didn't. She could have hidden this lane from me the same as she hid a whole woman off sixty feet of dust. Instead she grew it where I'd trip on it." She loosed the strap and set her own boot first onto the too-clean clay. "She wants us walking. So we walk. And we count the exits going in."
 
 ---
 
@@ -92,7 +92,7 @@ Last light. They came down the lane in her order — herself first, Cael a pace 
 
 There was no village. There was no road but the lane that had not existed at dawn. There was nothing to feed this house for a day's walk in any direction, and Kessa stood at the edge of the gravel and read it as she'd read the empty hedges, and every line came back the same.
 
-No path worn from door to gate: gravel raked, then never walked on. Smoke rising from two chimneys, and no woodpile, no ash-heap, no cart-way to bring the cords in. Glass in forty windows, and no wagon had ever hauled glass down that lane. Grass growing right to the foot of the walls, green and unbruised, where any real house wore a drip-line and a beaten margin into the ground its first winter. Stone with no lichen. A roof with no moss, no sag, no mended patch. Every part of it finished, and none of it *used.* A thing built complete this morning out of the idea of wealth.
+No path worn from door to gate: gravel raked, then never walked on. Smoke rising from two chimneys, and no woodpile, no ash-heap, no cart-way to bring the cords in. Glass in forty windows, and no wagon had ever hauled glass down that lane. Grass growing right to the foot of the walls, green and unbruised, where any real house wore a drip-line and a beaten margin into the ground its first winter. Stone with no lichen. A roof with no moss, no sag, no mended patch. Every part of it finished, and none of it *used.* A thing built complete this morning.
 
 "That house shouldn't be here," she said, out loud, flat.
 
@@ -118,11 +118,11 @@ She hadn't come through the doors. Kessa would have staked — no. She was done 
 
 "It's a good lane," Kessa said. "Empty hedges. Sloppy."
 
-Something crossed the woman's face, gone too fast to name. It might, on another face, have been the start of being pleased. "I'll tell the hedges," she said. Then, past Kessa, to all of them, easy, as though this were the yard of an inn: "You'll be wanting to see him before anything else. That's right and proper. He's at the table — he wouldn't eat till you came, which I'm bound to say has been trying, since supper's been holding two hours." She stepped back and to one side of the doorway, out of the line between them and the hall, which no captor in the history of holding anything had ever done. "Come in. All five places are laid. Tell the man drifting to my stable block the stew is for him as well."
+Something crossed the woman's face, gone too fast to name. It might, on another face, have been the start of being pleased. "I'll tell the hedges," she said. Then, past Kessa, to all of them, easy, as though this were the yard of an inn: "You'll be wanting to see him before anything else. That's right and proper. He's at the table — he wouldn't eat till you came, which I'm bound to say has been trying, since supper's been holding two hours." She stepped back and to one side of the doorway, out of the line between them and the hall. Kessa had never once seen a captor do that. "Come in. All five places are laid. Tell the man drifting to my stable block the stew is for him as well."
 
 She went inside, unhurried, showing them her back.
 
-Kessa stood on the raked gravel with her hand on a dead man's knife and her whole trade in ruins around her. Five places. She'd counted the crew for years; tonight a stranger in a house that hadn't existed at dawn had counted them for her, down the lane, in the dark, without a candle's pause — three coming in and one drifting wide that even Kessa had only tracked by habit. Tarn came in off the flank without being called, which was as near as he got to saying the same thing out loud.
+Kessa stood on the raked gravel with her hand on a dead man's knife. Five places. She'd counted the crew for years; tonight a stranger in a house that hadn't existed at dawn had counted them for her, down the lane, in the dark, without a candle's pause — three coming in and one drifting wide that even Kessa had only tracked by habit. Tarn came in off the flank without being called, which was as near as he got to saying the same thing out loud.
 
 "Kessa." Wick, at her elbow. The heat had dropped off her strangely, all at once, like a wave dropping. Through the doorway, down the long lamplit hall, a room stood open and gold, and a table, and — Kessa's eye did what eyes do and went to what it had hunted for three days.
 
@@ -132,10 +132,10 @@ Sat. Not bound to it. Not slumped at it. He sat at the table like a man sits at 
 
 Alive. Unhurt. At supper.
 
-Kessa had come here with the fight already run twenty times behind her eyes — the doors, the smoke, the hostage-math, the woman's throat under the knife if the numbers went to the worst place, everything her whole life had built her to spend on getting one of hers back out of the dark. She stood in the doorway of the house that shouldn't exist and watched the man she'd come to save wave them in — *wave,* half-sheepish, a man caught out at a party — and every sum she'd carried up that lane came apart in her hands at once. There was nothing here to cut. There was nothing here to break. There was a laid table, and a kept fire, and her wizard rested and fed and worried about *her.* A trap she could read was Tuesday.
+Kessa had come here with the fight already run twenty times behind her eyes — the doors, the smoke, the woman's throat under the knife if it went that way, everything her whole life had built her to spend on getting one of hers back out of the dark. She stood in the doorway of the house that shouldn't exist and watched the man she'd come to save wave them in — *wave,* half-sheepish, a man caught out at a party — and every plan she'd carried up that lane went slack in her hands at once. There was nothing here to cut. There was nothing here to break. There was a laid table, and a kept fire, and her wizard rested and fed and worried about *her.* A trap she could have read.
 
 This she could not read at all.
 
 "In or out," the woman's voice said mildly, from somewhere by the fire. "The heath comes in with the dark, and I've only warded the one of them."
 
-Kessa stepped over the threshold, and kept her hand off the knife, and could not have said which of the two cost more.
+Kessa took her hand off the knife. It took longer than it should have. She stepped over the threshold.
