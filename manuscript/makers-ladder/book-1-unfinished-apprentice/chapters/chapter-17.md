@@ -44,7 +44,7 @@ After that it happened very fast, and the crew's whole job was to keep the spark
 
 The cord on the stage went for Brida. Kessa was already moving. She'd been drifting that way the whole time in her silent stolen boots, unnoticed at the stage's edge, and she came up the steps low and fast and put her shoulder into the first one and her knife into the gap in the second's guard, and then she had Brida by the good arm and was hauling her off the back of the stage, swearing steadily, alive.
 
-The cord in the crowd drew steel and the crowd drew back from the steel, and for one ugly moment the old fear tried to reassert itself. Cael's thumb went to the iron at his throat, once, the old touch. And that was when he drove the hearthward into the cobbles at the front of the press and poured himself into it, and the dome of warm gold bloomed up between the cord and the people, a wall of warding ten feet wide, and the blades that came down on it skidded off light and the front rank of terrified salvagers found themselves suddenly, impossibly, *protected.* Cael stood inside his own warmth with his arms spread and his voice carrying like a bell over the square: "*They cannot touch you! Look! Their cord cannot touch you—the fear was the only wall they ever had, and it's broken—STAND UP!*"
+The cord in the crowd drew steel and the crowd drew back from the steel, and for one ugly moment the old fear tried to reassert itself. Cael's thumb went to the iron at his throat, once, the old touch. And that was when he drove the hearthward into the cobbles at the front of the press and poured himself into it, and the dome of warm gold bloomed up between the cord and the people, a wall of warding ten feet wide, and the blades that came down on it skidded off light and the front rank of terrified salvagers found themselves suddenly, impossibly, *protected.* Cael stood inside his own warmth with his arms spread and his voice carrying like a bell over the square: "*They can't touch you! Look! Look at them! They can't touch you—STAND UP!*"
 
 And Marrow stood up.
 
@@ -72,7 +72,7 @@ The Tithe's hold on Marrow was broken, not tidily, not forever, but in the way t
 
 Brida found him. Her bad arm was worse for the day and her face was wet and she gripped his sleeve with her good hand, hard.
 
-"My husband," she said. "You said it out loud. In front of everyone. That it was them. That it was never—never the weather." Her voice cracked and held. "Four winters I've carried it like it was a thing that just *happened.* And you stood in that square and gave it a name." She wasn't quite crying. "I don't know what you are. The cord said things. I don't care. You gave this town its rage back, and a town with its rage back is a town that can't be owned. Thank you."
+"My husband," she said. "You said it out loud. In front of everyone. That it was them. That it was never—never the weather." Her voice cracked and held. "Four winters I've carried it like it was a thing that just *happened.* And you stood in that square and gave it a name." She wasn't quite crying. "I don't know what you are. The cord said things. I don't care. You gave this town its rage back. Thank you."
 
 "Thank Cael," Oscar said, because it was true and because he couldn't carry her gratitude just then, not with Sarn's voice still cold in his ears. "He's the one who stood between."
 
@@ -86,7 +86,7 @@ They gathered on the scale-house steps as the sun went long, the four of them, w
 
 "Finish that sentence," Kessa said, "and I'll push you off these steps."
 
-"We're a crew," Wick said simply, from his side, not opening her eyes. "You know the rest. You said it first."
+"We're a crew," Wick said, from his side, not opening her eyes.
 
 Cael only smiled, and turned the warm shield in his hands, and said nothing.
 

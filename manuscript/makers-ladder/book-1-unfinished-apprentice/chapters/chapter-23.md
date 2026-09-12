@@ -14,11 +14,11 @@ Oscar lay in the mud and did the sum, and did not like the answer.
 
 The post was watched because someone had told the House where to watch. Not the road generally. *This* road, *this* night, the southern gate of Oressa with a reader posted to it like bait left for one specific animal. And there was only one person who'd known, an hour ago, that the silver-haired freak who'd gutted Borr on the sand meant to leave the city before dawn by the river road.
 
-"Hauk," Tarn said, very low, reading Oscar's face. There was no surprise in it, only a tired, bitter certainty. "He couldn't keep me and he couldn't kill you in front of his own bowl, so he sold the only thing he had left. You." A breath. "I told you I was worth more trouble than I'm worth. I just didn't think the bill would come this fast."
+"Hauk," Tarn said, very low, reading Oscar's face. There was no surprise in it, only a tired, bitter certainty. "He couldn't keep me and he couldn't kill you in front of his own bowl, so he sold the only thing he had left. You." A breath. "Told you I was a waste of your evening. Didn't think the bill would come this fast."
 
 "It's not your bill," Oscar said.
 
-"It's got my name in the ledger." Tarn's jaw worked. "He'd have gone to a fixer, the fixer to a House factor, and the factor would've sent a word up the line that came back down as *post a reader on the south gate, there's a loose one running.* They didn't even have to want you badly. A boss whispers in the right ear and the House just—" he turned a thick hand over, the gesture he'd used in the cell, the one that meant *owing* "—closes a gate. Like shutting a door it walks past anyway."
+"It's got my name on it." Tarn's jaw worked. "Hauk to a fixer. Fixer to a House factor. Word goes up the line, comes back down: *reader on the south gate, loose one running.* They didn't have to want you badly. A boss whispers and the House just—" he turned a thick hand over, the gesture he'd used in the cell, the one that meant *owing* "—shuts a gate. Doesn't even look."
 
 That was the part that put the cold all the way through Oscar, worse than the reader in the shed. Not malice. *Convenience.* The machine hadn't been roused. It had barely been nudged.
 
@@ -44,9 +44,9 @@ He let the looking *barely* open. A hair, a thread, the least touch he could man
 
 It was strung across the road. North, up toward the city, toward the gate the criers were watching, toward where a fleeing man would sensibly come *from.*
 
-"The net's on the road," Oscar breathed. "Strung for a man coming down it from the city. There's nothing laid over the water." He almost laughed, and didn't, because laughing hurt. "I can't get us through that gate. But I think I just learned I don't have to read loud to read at all, which, give me a week and a working pulse, might be the most useful thing I've found out all year."
+"The net's on the road," Oscar breathed. "Strung for a man coming down it from the city. Nothing over the water." He almost laughed, and didn't, because laughing hurt.
 
-"Save the lecture," Kessa said, but there was the ghost of approval in it. She was already up on her elbows, sighting along the bank. "If they're watching the road, we don't take the road."
+Kessa was already up on her elbows, sighting along the bank. "If they're watching the road, we don't take the road."
 
 Tarn was nodding slowly, the wild-ways man waking up behind his eyes. "The river bends west of the post and the reeds run with it. Stay low, stay wet, and the bank hides us till we're past their lamplight. After that—" he glanced south, where the dark was just beginning to gray "—after that it gets interesting."
 
@@ -58,7 +58,7 @@ They'd cleared the post: five shapes sliding through cold reeds with the river l
 
 Hooves. Unhurried. Coming down the cart-track from the south, toward the bridge, toward them.
 
-Not a gate this time. A horse patrol: House men by the cut of them, two riders walking their mounts along the southern approaches the way you'd walk a fence line, not hunting so much as *being present.* There was nowhere to fold. The reeds had given out at the firm ground. There was the bridge, and the open track, and a single huddle of cart-sheds twenty feet off where the night's carters had left their loads, and the riders would be on all of it in the time it took to think.
+Not a gate this time. A horse patrol: House men by the cut of them, two riders walking their mounts along the southern approaches, not hunting so much as *being present.* There was nowhere to fold. The reeds had given out at the firm ground. There was the bridge, and the open track, and a single huddle of cart-sheds twenty feet off where the night's carters had left their loads, and the riders would be on all of it in the time it took to think.
 
 "Sheds," Tarn said, and didn't wait to be agreed with.
 
@@ -74,7 +74,7 @@ He watched instead: the swing of the lamp as they turned, the tilt of a head, th
 
 "He's drifting onto us," Oscar breathed, barely a thread of sound. "The far cart—the loose tarp—his eye's already half on it."
 
-Kessa already had a stone in her fist. She didn't look at it; she'd palmed it somewhere in the last ten seconds the way other people breathe, and she put it where Oscar told her the man was half-listening: a low underhand toss into the dark beyond the far cart, where it knocked, rolled, and settled against the flapping tarp like the night had simply shifted its weight.
+Kessa already had a stone in her fist. She didn't look at it; she'd palmed it somewhere in the last ten seconds without seeming to, and she put it where Oscar told her the man was half-listening: a low underhand toss into the dark beyond the far cart, where it knocked, rolled, and settled against the flapping tarp like the night had simply shifted its weight.
 
 The lazy attention snapped toward the sound. Away from the gap.
 
@@ -86,19 +86,27 @@ Nobody moved for a long count. Then Tarn let out a breath through his nose that 
 
 Kessa was already wiping her palm on her thigh, unbothered, working out the new shape of things aloud. "You watch them," she said to Oscar. "Where they're looking, when they turn. You tell me, I do the rest. That's the arrangement till you've got a pulse again."
 
-"A generous arrangement," Oscar said, "in which I am the lookout and everyone else does the surviving. I'm told it builds character." He let Cael haul him upright. "For the record, last night I beat a man the size of a barn. Tonight I am being out-thrown by a tracker and lectured by a priest. Growth is a humbling business."
+"A generous arrangement," Oscar said, "in which I am the lookout and everyone else does the surviving. I'm told it builds character." He let Cael haul him upright. "For the record, last night I beat a man the size of a barn. Tonight I am being out-thrown by a tracker and lectured by a priest."
+
+Kessa was already moving.
 
 ---
 
 They didn't try a third road.
 
-They didn't have to; by the gray of full dawn, hunkered in a hedge a mile south of the city with Oressa's smoke at their backs, Tarn laid it out, and it was worse than one watched gate. He'd counted the patrol's gear, the post's lamps, the simple fact of a reader spent on a customs shed in the dark, and he read it the way Oscar read a working: the shape of the whole thing from its pieces.
+They didn't have to; by the gray of full dawn, hunkered in a hedge a mile south of the city with Oressa's smoke at their backs, Kessa put questions to Tarn, and the answers were worse than one watched gate. He'd counted the patrol's gear, the post's lamps, the simple fact of a reader spent on a customs shed in the dark, and he read it as Oscar would a working: the shape of the whole thing from its pieces.
 
-"And it shut too fast," he said, first, like a man putting the strangest figure at the top of the bill. "A boss's grudge buys a word up the line. It doesn't put a reader in a shed by dawn. That's a House that was already listening for something on this stretch of country before Hauk ever opened his mouth."
+"It shut too fast," he said, first, like a man putting the strangest figure at the top of the bill. "A grudge buys a word up the line. It doesn't put a reader in a shed by dawn. They were already listening on this stretch. Before Hauk."
 
 Oscar thought of a notch in the hills gone silent, and a name written on a road in letters a blind man could read, and Kessa's flat voice saying *you think your polite friend won't hear about it,* and said nothing at all.
 
-"It's not the one gate," Tarn went on. "You don't post a reader and walk horse on the south approaches for one loose man you half want. That's a *cordon.* Every paved road out of Oressa that runs south, they'll have it the same: a watcher, a reader where they can spare one, men being present." He scratched his jaw. "The House owns the south the way weather owns the sky. Every road is their road. And they've decided, for the price of one boss's grudge, to put a lid on this particular pot until the loose thing inside it either dies trying a gate or sits still long enough to be collected."
+"One gate," Kessa said. "Or all of them."
+
+"All of them." He scratched his jaw. "You don't post a reader and walk horse on the south approaches for one loose man you half want. That's a cordon. Every paved road south: a watcher, a reader where they can spare one. Men being present."
+
+"For how long?" Oscar said.
+
+"Till the loose thing dies trying a gate. Or sits still long enough to collect."
 
 "Then we don't take a road," Kessa said. She'd said it twice already tonight. This time it landed differently, because this time there was nothing after it.
 
@@ -108,7 +116,15 @@ Oscar thought of a notch in the hills gone silent, and a name written on a road 
 
 Oscar had been raised, if *raised* was the word for memories poured into him secondhand, on the south as a made and managed place. He had not, until Tarn pointed, properly understood that the managed place had an *edge.* That it stopped.
 
-"Past the last farms the paving quits," Tarn said, "because past the last farms there's nothing the House can tax, and the House doesn't spend a copper to police land that doesn't pay it back. The old country. The wild. It runs south for days: forest, fen, the bones of places older than the House. And the salvage crews and the beast-fetchers cross it because the relics are out there and so are the things they throw in a bowl." He said *beast-fetchers* the way a man says a job he's done. "That was half my life before the debt ate the rest of it. Fetching what the pits couldn't breed, three and four days deep and back again, which is more than some can say. So believe me when I tell you what's out there." He paused. "Some who go come back *changed,* and some just send word they're not coming. There's no cordon. There's no reader for fifty miles. There's also no road, no inn, no law, and nothing between you and the sky."
+"Past the last farms the paving quits," Tarn said. "Nothing out there the House can tax, so it doesn't spend a copper on it."
+
+"What is out there?" Kessa said.
+
+"The old country. Forest, fen, the bones of places older than the House. Runs south for days." He said it flat. "Salvage crews cross it for relics. Fetchers for what goes in a bowl." He said *fetchers* like a man says a job he's done. "That was half my life. Three and four days deep and back."
+
+"Back," Oscar said.
+
+"Mostly. Some come back *changed.* Some send word they're not coming." He paused. "No cordon out there. No reader for fifty miles. No road either. No inn, no law, nothing between you and the sky."
 
 "You make it sound restful," Oscar said.
 
@@ -116,7 +132,17 @@ Oscar had been raised, if *raised* was the word for memories poured into him sec
 
 And there it was: the thing that had put the hair up on Oscar's arms before a word of it was spoken. Cael had gone still. Even Kessa had gone still.
 
-"The House licenses every working in the civilized south," Tarn went on, lower now, the dry gone out of his voice. "Every reader, every hedge-mage, every temple healer: paper and a stamp and a tithe, or you're a criminal for breathing wrong. You know this. You've been a criminal for breathing wrong since you came down out of the north." He almost smiled. "But the House never licensed the wild, because the House never *took* the wild. The power out there is the kind that was running long before anyone thought to stamp it. Unlicensed. Untamed. Old." He nodded south, at the dark behind the hills. "And it has a keeper. The country we'd have to cross to go on south, the deep forest, the part the fetchers won't enter without leave: that's *spoken for.* There's a thing that lives in it and answers to no House and no god, and the rule the wild-folk keep, the one rule, is that you don't cross that ground without asking. The ones who forget to ask are the ones who send word they're not coming back."
+"Whose," Oscar said.
+
+"Not the House's." The dry had gone out of Tarn's voice. "House licenses every working in the south. Paper, stamp, tithe, or you're a criminal for breathing wrong. You know that. You've been one since you came down out of the north." He almost smiled. "It never licensed the wild. Never took it. What's out there was running before anyone thought to stamp it."
+
+"That's not a whose," Kessa said.
+
+"It's got a keeper." He nodded south, at the dark behind the hills. "The deep forest. The part fetchers won't go in without leave. That's *spoken for.* Something lives in it. Answers to no House and no god."
+
+"Then how do the fetchers cross it?" Oscar said.
+
+"You ask. That's the rule. The one rule." A pause. "The ones who don't ask are the ones who send word they're not coming back."
 
 It should have been the worst news of a night made entirely of bad news. And it nearly was. But Oscar, scorched and swaying and propped half-upright on a hedge with a reader's needle still cold in his memory, felt something underneath the dread that he recognized with a kind of horrified amusement as *interest.*
 

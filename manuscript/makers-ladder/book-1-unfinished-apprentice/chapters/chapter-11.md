@@ -6,9 +6,9 @@ They had four coppers between the four of them, two of which were Wick's and of 
 
 You could not sell salvage in Marrow except through a factor, and every factor wore the red cord, which meant every factor was the Tithe, which meant the Tithe set the price you got for what you risked your life to drag up out of the dead places, and set it low. You could not buy supplies for the next run except on credit, and the credit was the Tithe's, at the Tithe's interest, which meant the moment you came up short on one run you owed against the next, and the next, forever. You could not work the ruin without a factor's license, and you could not get a license without being in good standing, and you could not get into good standing without working the ruin. Every door in the town opened onto the same room.
 
-"They don't even have to be cruel," Oscar said, with the flat admiration of a man examining a rival's elegant proof. "That's the genius of it. They've made the arithmetic do the cruelty for them. Every salvager in this valley is one bad week from owing their life to a ledger, and not one of them can point to the moment it was done to them, because it was never done in a moment. It was done a copper at a time." He looked around the crowded market street, at the hard tired faces hauling barrows of old-world stone past factors' stalls hung with red cord. "It's the best-run prison I've ever stood in, and I've stood in some celebrated ones."
+"They don't even have to be cruel," Oscar said, with the flat admiration of a man examining a rival's elegant proof. "That's the genius of it." He looked around the crowded market street, at the hard tired faces hauling barrows of old-world stone past factors' stalls hung with red cord. "It's the best-run prison I've ever stood in, and I've stood in some celebrated ones."
 
-"Could you not," said Kessa, low, "admire it quite so loudly. In the prison."
+"Could you not," said Kessa, low, "admire it quite so loudly."
 
 She had a point. He was working on it. It was, like not-confessing, a discipline he was bad at.
 
@@ -24,7 +24,7 @@ The luck was a boarding house tucked up under the high curve of one of the great
 
 "Why," Cael asked her, gently, the way he asked the hard things. "Why risk it. For nothing."
 
-Brida was quiet a moment, working the stiffness in her scarred arm without seeming to know she did. "My man went down into the deep claim four winters back," she said. "The good one. The one the Tithe keeps for itself, that they let no crew work but their own, because it's the richest and the worst. He went because we owed, and the only way to clear what we owed was the good claim, and the only way onto the good claim was to take the Tithe's terms." She looked at them. "He didn't come up. And the debt didn't die with him. It's mine now. Everything I make in this house, half of it's owed against a hole in the ground that ate my husband." She picked up her ladle again. "So when I see somebody do a kindness for free in this town, I feed them. It's the only coin the cord can't take a cut of. Eat your stew."
+Brida was quiet a moment, working the stiffness in her scarred arm without seeming to know she did. "My man went down into the deep claim four winters back," she said. "The good one. The one the Tithe keeps for itself, that they let no crew work but their own, because it's the richest and the worst. He went because we owed, and the only way to clear what we owed was the good claim, and the only way onto the good claim was to take the Tithe's terms." She looked at them. "He didn't come up. And the debt didn't die with him. It's mine now. Everything I make in this house, half of it's owed against a hole in the ground that ate my husband." She picked up her ladle again. "So when I see somebody do a kindness for free in this town, I feed them. Eat your stew."
 
 The room was quiet. Wick had stopped fidgeting. Cael's thumb had found the little hearth-mark again. And Oscar, who had a gift for filling silences and a worse gift for filling them badly, opened his mouth—
 
@@ -56,7 +56,7 @@ Down in the street, where the morning crowd was thinning toward the dead heat of
 
 "Through the back, along the rib, there's a salvager's run—" She was already moving, fear making her quick. "But they'll have watched the runs, if they're cord—"
 
-"They'll have watched the runs," Kessa agreed, crossbow already in her hands, reading the room and the angles and the trouble the way she read a slope. "Which means we don't take the runs. Cael, the back. Wick, you stay on Oscar and you do not light anything unless I say, you hear me, not one spark in a crowded town. Oscar—" her flat eyes found him "—whatever that paper says you're worth, I'd like to keep it theoretical. Move."
+"They'll have watched the runs," Kessa agreed, crossbow already in her hands, reading the room and the angles and the trouble the way she read a slope. "Which means we don't take the runs. Cael, the back. Wick, you stay on Oscar and you do not light anything unless I say, you hear me, not one spark in a crowded town. Oscar—" her flat eyes found him "—whatever that paper says you're worth, nobody's collecting. Move."
 
 They moved. And as Oscar went down the back stair of a kind stranger's house with a mended lamp still warm in his coat and a folded paper with his name, or his shape, or his *kind,* on it climbing the lane behind him, he understood two things at once, and neither was comforting.
 

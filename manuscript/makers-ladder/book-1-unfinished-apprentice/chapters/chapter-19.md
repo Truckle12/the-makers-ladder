@@ -26,13 +26,7 @@ He moved on, and didn't explain the joke to anyone, because it wasn't funny, and
 
 "It's not *fair,*" she said, and then heard herself, sixteen and saying a child's word about the shape of the whole world, and shut her mouth and walked on with her jaw set.
 
----
-
-Wick had drifted up at his shoulder to stare at the bowl, doing sums that would not come out. "In Marrow," she said, low, "Brida gave three days' bread for a lamp with a crack in it."
-
-"Aye," Kessa said, not slowing. "And every lamp in that bowl came up a shaft in the north on somebody's husband's back. Keep walking."
-
-He kept walking, and read the whole country in a chipped wooden bowl as he went. The north dug, and bled, and was taxed for the shovel; the wagons rolled south under bond and seal; and here at the mouth of the pipe the House sold the flood at flood prices, cheap as eggs, to people who had never seen the hole.
+He followed, and read the whole country in a chipped wooden bowl as he went. The north dug, and bled, and was taxed for the shovel; the wagons rolled south under bond and seal; and here at the mouth of the pipe the House sold the flood at flood prices, cheap as eggs, to people who had never seen the hole.
 
 The town was called Hollet's Cross, and it was the first real town of the south, and it ran on the House the way a mill runs on water.
 
@@ -68,11 +62,11 @@ Oscar sat with that, and felt the floor of the thing drop another level beneath 
 
 He was a find. Not a special one, not a personal vendetta, not Sarn's clever once-in-a-career score: a line on a board he'd never seen, and the only thing that made his line different from a stray relic or a runaway debtor was the size of the number beside it. He didn't say any of that out loud. He looked at Wick, dozing against the wall with her hand in her pocket, and was glad she wasn't listening.
 
-"This one has a name," Kessa went on, lower. "The one ahead of us. They knew him at the finders' board. He's not local, he came up from the deep south special, which the man I asked thought was *interesting,* a finder of his standing coming all that way for one find." Her jaw worked. "Corwen. That's the name they gave. They say—" and here she stopped, and Oscar saw her decide to give it to him straight, because Kessa did not believe in softening a thing you'd have to face anyway "—they say he doesn't lose them. Ever. Not once, in a long career. They say he's the one the House sends when it actually wants the thing back, not just wants to look like it's trying. And they say he's the most civil man you'll ever meet, which the fellow telling me thought was a recommendation, and which made the hair stand up on my arms, because I've met a lot of men, and the civil ones are the ones who've stopped seeing you as a person at all."
+"This one has a name," Kessa went on, lower. "The one ahead of us. They knew him at the finders' board. He's not local, he came up from the deep south special, which the man I asked thought was *interesting,* a finder of his standing coming all that way for one find." Her jaw worked. "Corwen. That's the name they gave. They say—" and here she stopped, and Oscar saw her decide to give it to him straight, because Kessa did not believe in softening a thing you'd have to face anyway "—they say he doesn't lose them. Ever. Not once, in a long career. They say he's the one the House sends when it actually wants the thing back, not just wants to look like it's trying. And they say he's the most civil man you'll ever meet, which the fellow telling me thought was a recommendation. Civil. Those are the ones I watch."
 
 "Brida said that," Wick mumbled, not asleep after all. "He'll come kind."
 
-"He'll come *certain,*" Kessa said. "That's worse. A man who's certain doesn't hurry."
+"He'll come *certain,*" Kessa said. "That's worse. He won't hurry."
 
 ---
 
@@ -82,7 +76,7 @@ They almost left it there. They had what they'd come for: a name, a trade, a sha
 
 Oscar looked at him.
 
-"For you." Cael's broad mercy-priest's face was troubled, the green country sitting wrong on him in a way Oscar was only now seeing. "I've been listening too, just not to the trade of it. To the *kind* of him. A man that civil, that certain, who knows we're behind him, because he must know, Oscar; he's been asking at every door, and an asked-at door remembers two faces, his and the next one through. A man like that doesn't just leave a trail. He leaves a *note.* It's courtesy. And his whole horror is the courtesy." He set his jaw. "I'd rather we read it knowing what it is than be handed it cold somewhere worse."
+"For you." Cael's broad mercy-priest's face was troubled, the green country sitting wrong on him in a way Oscar was only now seeing. "I've been listening too. Not to the trade of it. To him. He's been asking at every door, so he knows we're behind him. He must. A man that civil leaves word. He'll have left it somewhere we'd pass." He set his jaw. "I'd rather we read it here than get handed it somewhere worse."
 
 He was right, and Oscar hated that he was right, and they went to the taphouse where the southbound travelers stopped and Cael asked the keep, plainly, in his warm steady voice, whether a southern gentleman, a finder, had left any word for a party coming down out of the north.
 

@@ -20,7 +20,7 @@ Kessa stopped them with a raised fist a full minute before Oscar saw anything, w
 
 "Are they dangerous?" Wick, too loud; Kessa's hand flattened the air and she dropped to a whisper. "Are they?"
 
-"Pale things. Lean. They take the weak off the back of a herd and they run from anything that stands its ground." Kessa's eyes never stopped moving. "So no. Not usually. But these have come forty miles off their range with the snow melting under them, and they're hunting in the open, in the light, toward four people who are very much standing their ground. Which means something's wrong with them, or something's driven them, and I don't love either."
+"Pale things. Lean. They take the weak off the back of a herd and they run from anything that stands its ground." Kessa's eyes never stopped moving. "So no. Not usually. But these are forty miles off their range with the snow going out under them. Hunting in the open, in daylight, at four of us standing our ground. Something's wrong with them."
 
 Oscar felt it before he could have said what it was: a thinness in the day, a wrongness he was coming to know the shape of. "The pulse," he said. "When the city woke. It will have rung out a long way through everything that lives near the old places. I imagine a great many things have come a long way from where they ought to be, lately, with the wrong ideas in their heads." He did not add *and I'm the reason*, because he had decided to stop confessing things no one had asked him to confess. It was a new discipline. He was bad at it.
 
@@ -58,7 +58,7 @@ He turned in time to see it: the final cat breaking past Kessa, and Wick not fli
 
 "I saw," he said, and meant it. "Textbook. Better than textbook. I never wrote anything that clean at your age." Which was a lie, since he had no idea what he'd written at her age; but it was the kind of lie a teacher is supposed to tell, and he found he didn't mind that one.
 
-Kessa was already among the bodies, knife out, checking them with a frontier thoroughness. "Don't eat these," she said, to no one, to all of them. "Whatever's in them, it's not for eating." She rolled one with her boot, studied the flat dead shine of its open eye, and her mouth went thin. "Forty miles off range, in daylight, with no fog to their breath. I've worked this country thirty years." She stood. "I've never seen that. Things are coming loose out here. Let's get behind a wall before we find out what else has."
+Kessa was already among the bodies, knife out, checking them with a frontier thoroughness. "Don't eat these," she said, to no one, to all of them. "Whatever's in them, it's not for eating." She rolled one with her boot, studied the flat dead shine of its open eye, and her mouth went thin. "Forty miles off range, in daylight, with no fog to their breath. I've worked this country thirty years." She stood. "I've never seen that. Things are coming loose out here. Let's get behind a wall."
 
 The wall they found, two days on, was Marrow.
 
@@ -70,7 +70,7 @@ The old world had left something enormous in that valley: the broken half of a s
 
 "They live *on* it," Oscar said. He could not quite keep the thing out of his voice. He thought of a font, and what a font was for, and what the dead world had built its dead cities to do. "They live on the bones of the old places and they don't—they can't know what's in them. What they're built on top of."
 
-"They know there's coin in them," Kessa said, not unkindly. "That's most of what anybody knows about anything, in my experience. Come on. And let me do the talking at the gate, because you, with respect, talk like a man who's never paid for anything in his life."
+"They know there's coin in them," Kessa said, not unkindly. "Come on. And let me do the talking at the gate, because you, with respect, talk like a man who's never paid for anything in his life."
 
 "I have paid for a great many things," Oscar said, with dignity.
 
