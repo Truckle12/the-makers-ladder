@@ -10,7 +10,7 @@ Waiting for the particular flavor of a man who could read without a license.
 
 "Down," Kessa breathed, and they went down into the reeds along the bank, five exhausted people folding into wet cover, and for a moment the only sound was the river and Oscar's own pulse and Wick's breath going too fast beside him until Cael laid a hand on her shoulder and it slowed.
 
-Oscar lay in the mud and did the sum, and did not like the answer.
+Oscar lay in the mud and counted it up, and did not like the answer.
 
 The post was watched because someone had told the House where to watch. Not the road generally. *This* road, *this* night, the southern gate of Oressa with a reader posted to it like bait left for one specific animal. And there was only one person who'd known, an hour ago, that the silver-haired freak who'd gutted Borr on the sand meant to leave the city before dawn by the river road.
 
@@ -108,7 +108,7 @@ Oscar thought of a notch in the hills gone silent, and a name written on a road 
 
 "Till the loose thing dies trying a gate. Or sits still long enough to collect."
 
-"Then we don't take a road," Kessa said. She'd said it twice already tonight. This time it landed differently, because this time there was nothing after it.
+"Then we don't take a road," Kessa said. She'd said it once already tonight. This time it landed differently, because this time there was nothing after it.
 
 "No," Tarn agreed. "We don't take a road." And he turned and looked south and west, away from every line on every map, to where the cultivated country gave out in a gray-green smudge of hills and the hills gave out in something darker behind them, and Oscar felt the hair go up on his arms before the man even said it. "We go where the roads won't."
 

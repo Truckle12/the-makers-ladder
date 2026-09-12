@@ -56,7 +56,7 @@ She'd started it by being unremarkable in the right places, and by the time the 
 
 "A finder," Oscar repeated.
 
-"It's a trade." She said it the way she'd say a track was a wolf's and not a dog's, certain, unhappy. "Licensed, like everything here. The House loses things. Relics that walk off a wagon. A debtor who runs his bond. A piece of property that goes where it shouldn't." A beat, very slight. "And it pays people to bring them back. *Finders.* There's a whole guild of them. There's a *board* in the broker's with standing finds posted on it, like a butcher posting cuts. They're respectable. People tip their hats." She turned her cup a quarter-turn on the table, which for Kessa was a storm of feeling. "I read the board, Oscar. It's pages. The House is always finding something. It's the most ordinary thing in the world down here, hiring a man to go and quietly bring a thing home that doesn't want to come."
+"It's a trade." She said it the way she'd say a track was a wolf's and not a dog's, certain, unhappy. "Licensed, like everything here. The House loses things. Relics that walk off a wagon. A debtor who runs his bond. A piece of property that goes where it shouldn't." A beat, very slight. "And it pays people to bring them back. *Finders.* There's a whole guild of them. There's a *board* in the broker's with standing finds posted on it, like a butcher posting cuts. They're respectable. People tip their hats." She turned her cup a quarter-turn on the table, which for Kessa was a storm of feeling. "I read the board, Oscar. It's pages. The House is always finding something."
 
 Oscar sat with that, and felt the floor of the thing drop another level beneath him.
 

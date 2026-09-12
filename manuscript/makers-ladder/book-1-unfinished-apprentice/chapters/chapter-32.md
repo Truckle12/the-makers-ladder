@@ -66,13 +66,13 @@ They'd stopped shy of a valley mouth at noon, off the track, eating cold in a co
 
 Not a question. She lowered the glass. On the far side of the camp Oscar was showing Wick something about the buried pavement, both their heads down, the owl on a fence post pretending not to be within listening distance; nobody but Tarn to hear it, which was likely why he'd picked now.
 
-"There's no slipping a man who doesn't follow," she said. "He's closing roads west to east. Three days, maybe four, there's one way south and it has him in it. I mean to pick the ground before the country picks it for me."
+"There's no slipping a man who doesn't follow," she said. "He's closing roads west to east. Three days, maybe four, there's one way south and it has him in it. I mean to pick the ground."
 
 Tarn chewed, swallowed, unhurried. "Thought so. You've been looking at every choke point since the bridge like you were buying." He tipped his chin south and east, at the shoulder of the valley, where the land climbed away from the farms into rougher country, old country, the plowland giving up. "Then I know your ground. Fetchers' post, half a day that way, on the old road — the *old* old road, the dead folks' road, before the House ever paved a mile. Waystation. My trade used it coming back heavy from the wild when the towns wouldn't have what we were hauling." He drew it in the dirt with one finger as he talked, quick sure strokes, a man laying out a thing his hands knew. "Stone. One story, walls like a bank vault, the old work — doesn't crack, doesn't burn, you'll want the wizard to see it, he'll go on about it, I warn you now. Well inside the walls. Two doors, one south, one north, both narrow. Ground open on three sides — nothing comes at you unseen — and the back against the scarp. No farm near it, no eyes, nothing for the House to tax, so the House forgot it a long time back."
 
 "Water, walls, sight-lines, two doors." She was already building it in her head, setting men on it, running the angles. "What's wrong with it?"
 
-"Same thing that's right with it." Tarn wiped the map from the dirt with the flat of his hand, habit older than any of tonight's reasons. "It's the only good room in the country. I know it. Any fetcher south of the wild knows it." A beat, dry as ever. "Man who's spent this long closing roads on us knows what we know."
+"Same thing that's right with it." Tarn wiped the map from the dirt with the flat of his hand, habit older than any of today's reasons. "It's the only good room in the country. I know it. Any fetcher south of the wild knows it." A beat, dry as ever. "Man who's spent this long closing roads on us knows what we know."
 
 "He'll see it the moment we turn for it."
 
