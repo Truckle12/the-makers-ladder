@@ -28,7 +28,7 @@ Wick walked at his elbow, which she'd done since the hollow, closer than she use
 
 "When we hit a town," Oscar said, "I'm going to sit in the hottest bath in the south until I've forgotten I have a body. Then I'm going to eat something that was never a root. And then —"
 
-"You don't even like baths," Wick said. "You said washing's for people who think the dirt's the problem."
+"You don't even like baths," Wick said. "You've had two since the ice and moaned through both."
 
 "I've grown as a person."
 
@@ -102,7 +102,7 @@ Two of the ridge men came around behind him for Kessa.
 
 She didn't fight them so much as read them off the ground. She saw the footing before the men were on it, saw that the scree behind her ran loose and downhill and that a man committed to a downhill rush can't stop being committed. She gave the first one the downhill. Stepped inside his line, guided the shoulder, and let the loose scree finish him — he went past her and down and kept going, a long ugly slide into the mud with the marsh at the bottom of it. The second she took with Doss's knife, short and low and without any ceremony at all, a working cut, not a killing one, a slice across the meat of the arm that made the club drop and the man reconsider, and she was already off him, already back at the count, already turning to the one that mattered.
 
-"*Oscar.*" She wasn't coming for him. He watched her run it and hate it: eight down and three still on their feet, Tarn bleeding from the shoulder, Cael's ward eating what it could, and past all of them the finder who hadn't moved a boot, who'd let his kit take the punishment because his kit was a thing he could replace and his time was not a thing he'd spend. "The paper," she said, fast, to the whole crew and to Oscar most of all. "He doesn't care if we kill these. He's got more. He *always* has more. And I can't cut what's on your neck." Her eyes flicked to the binding, to the thing she had no read for. "Put these down and we still lose you. If we stay, we all stay. You hear me. We fall back. We take him somewhere the ground's ours. We come back for you."
+"*Oscar.*" She wasn't coming for him. He watched her run it and hate it: five down and three still on their feet, Tarn bleeding from the shoulder, Cael's ward eating what it could, and past all of them the finder who hadn't moved a boot, who'd let his kit take the punishment because his kit was a thing he could replace and his time was not a thing he'd spend. "The paper," she said, fast, to the whole crew and to Oscar most of all. "He doesn't care if we kill these. He's got more. He *always* has more. And I can't cut what's on your neck." Her eyes flicked to the binding, to the thing she had no read for. "Put these down and we still lose you. If we stay, we all stay. You hear me. We fall back. We take him somewhere the ground's ours. We come back for you."
 
 He couldn't argue it. She was right, and arguing was only the thing he did instead of feeling. But he was not going to watch her send four people up an open slope with three House hands and their weighted clubs loose at their backs, so he did the one thing he had left, and reached for the writing.
 
@@ -128,7 +128,7 @@ She screamed something that tore as it came, no words left in it, and Kessa got 
 
 Corwen let them.
 
-"There," Corwen said, mild, as though a small chore were finished, and came on without hurry. "You needn't have. I did offer them the road home." He glanced up the scree once, without much in it. "They'll take it a while. Then it brings them back to me, or to the seat. It's my road. There isn't another." His eyes moved over the split hafts, the dead heads, the man Oscar had put in the marsh. "Kit. I'll draw more." Then back to Oscar. "You spent it on them," Corwen said, and it was almost kind. "Not on the leash. They generally do."
+"There," Corwen said, mild, as though a small chore were finished, and came on without hurry. "You needn't have. I did offer them the road home." He glanced up the scree once, without much in it. "They'll take it a while. Then it brings them back to me, or to the seat. It's my road. There isn't another." His eyes moved over the split hafts, the dead heads, the man Kessa had put in the marsh. "Kit. I'll draw more." Then back to Oscar. "You spent it on them," Corwen said, and it was almost kind. "Not on the leash. They generally do."
 
 He drew a second square of folded paper from his coat, and Oscar had the wild irrelevant thought that the man meant to make him sign for himself.
 

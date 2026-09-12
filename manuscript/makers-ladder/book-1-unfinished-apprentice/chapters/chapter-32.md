@@ -44,7 +44,7 @@ On the skyline south, mostly. They'd top a rise, and the land would open — goo
 
 Wizard doesn't know he's doing it, she added to the tally, and put it with the others that had no name yet. There were getting to be a lot of those. She didn't like it. She moved the march along.
 
-The owl went south with them at its own altitude and its own opinion of everybody. Two days now she'd watched it work, and as kit went — Ash had called it kit — it was good kit going to waste. It quartered ahead of their line without being sent, rode the wind up where a watcher would have to be looking for it to see it, and twice it had come angling back low over Oscar with a flat shriek before Kessa's own eyes found what it had found: the first time a shepherd and his boys where the fold of the land had hidden them, the second time the picket smoke at the stone bridge. Eyes they didn't have to spend. It just wouldn't be *handed* anything. Wouldn't take the arm, wouldn't take an order, wouldn't come when the wizard called it.
+The owl went south with them at its own altitude and its own opinion of everybody. Four nights now she'd watched it work, and as kit went — Ash had called it kit — it was good kit going to waste. It quartered ahead of their line without being sent, rode the wind up where a watcher would have to be looking for it to see it, and twice it had come angling back low over Oscar with a flat shriek before Kessa's own eyes found what it had found: the first time a shepherd and his boys where the fold of the land had hidden them, the second time the picket smoke at the stone bridge. Eyes they didn't have to spend. It just wouldn't be *handed* anything. Wouldn't take the arm, wouldn't take an order, wouldn't come when the wizard called it.
 
 And he kept calling it. She'd stopped watching that part straight on. Every camp, once, at dusk, off at the edge of things where he plainly believed nobody could see him. The man could read a ward through a wall and couldn't spot a tracker at thirty feet; it would've been funny in a fatter month. He'd stand under whatever tree the bird had taken and hold out his arm and say its name, quiet, level, like a man knocking at a door he was fairly sure was empty. And the bird would lean, every time.
 
@@ -62,7 +62,7 @@ She'd given him the honest answer, which was a nod, and set it aside with the re
 
 Tarn found the waypost on the fourth day, because years of fetching had left him a map of the old country no oilcloth could match.
 
-They'd stopped shy of a valley mouth at noon, off the track, eating cold in a copse while Kessa glassed the way ahead and disliked it: the third clean road ran the valley floor, past two farms and a mill, all of it overlooked, all of it exactly where she'd put a watcher if she were a man shutting gaps — and Tarn hunkered down beside her, took one long look at the country, and said, "You've stopped meaning to slip him."
+They'd stopped shy of a valley mouth at noon, off the track, eating cold in a copse while Kessa looked the way ahead and disliked it: the third clean road ran the valley floor, past two farms and a mill, all of it overlooked, all of it exactly where she'd put a watcher if she were a man shutting gaps — and Tarn hunkered down beside her, took one long look at the country, and said, "You've stopped meaning to slip him."
 
 Not a question. She lowered the glass. On the far side of the camp Oscar was showing Wick something about the buried pavement, both their heads down, the owl on a fence post pretending not to be within listening distance; nobody but Tarn to hear it, which was likely why he'd picked now.
 
@@ -96,7 +96,7 @@ And Oscar. Oscar had gone still while she talked and stayed still after. She'd w
 
 "You're certain," he said at last. Not challenging it. Checking the load, the same as she would.
 
-"He doesn't lose them. Ever. That's what the south says about him, and I've stopped betting against it." She fed the fire one stick, watching the flame take it. "So he's never had to fight for one. That's the collar, the cordon, the wage-men, the waiting. Nobody's ever stood against him." She looked up at the wizard over the fire, at all of them, her people, four and her, five with the bird if the bird was feeling generous. "We stood at the rim of the grey with worse odds and no walls at all."
+"He doesn't lose them. Ever. That's what the south says about him, and I've stopped betting against it." She fed the fire one stick, watching the flame take it. "So he's never had to fight for one. That's the collar, the cordon, the wage-men, the waiting. Nobody's ever stood against him." She looked up at the wizard over the fire, at all of them, her people, four and her, and the bird if the bird was feeling generous. "We stood at the rim of the grey with worse odds and no walls at all."
 
 "The post has walls," Tarn said, to the fire, "and a well," and the vote was carried.
 

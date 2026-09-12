@@ -58,7 +58,7 @@ Nobody laughed. It just sat there on the table. And for a second the witch looke
 
 Ash looked at her for a while. Not unkind. Worse than unkind: *interested.* Like she'd heard about Wick and was getting her look at last.
 
-"Yes," she said. "I let you think it. A road with six House men bleeding on it, the finder still standing, and every eye of the cordon turning toward the noise — that's the place you'd have had me stop and explain myself to a crew with its blood up and a girl in it who burns?" She shook her head once. "I take him first and explain in a place I hold, or I explain on that road and lose him while I'm doing it. There was no third door. I've been at this longer than any of you has been alive. The kindness that gets people killed is still just getting people killed, with better manners."
+"Yes," she said. "I let you think it. A road with five House men bleeding on it, the finder still standing, and every eye of the cordon turning toward the noise — that's the place you'd have had me stop and explain myself to a crew with its blood up and a girl in it who burns?" She shook her head once. "I take him first and explain in a place I hold, or I explain on that road and lose him while I'm doing it. There was no third door. I've been at this longer than any of you has been alive. The kindness that gets people killed is still just getting people killed, with better manners."
 
 "You could've—" Wick started, hot.
 
@@ -100,7 +100,7 @@ Oscar looked back at her and said nothing, and his thumb went round the rim of h
 
 "Back," he said. His thumb stopped. "You said it wants me back. Back means I've been. I was made in the north. The cradles—"
 
-"I said what I'll say." Flat. Shut. She said it past him, to the table. "The rest he gets as we go, or he works it out himself; he's built for that. Only one more thing tonight, because it's owed." She stood, and gathered the pot, and paused, and it was the first time all night she'd looked like she didn't know what to do with her hands. "My uncle built more than towers. Some of what he built is still running." A breath. "Present tense is the worst grammar there is. Good night."
+"I said what I'll say." Flat. Shut. She said it past him, to the table. "The rest he gets as he goes, or he works it out himself; he's built for that. Only one more thing tonight, because it's owed." She stood, and gathered the pot, and paused, and it was the first time all night she'd looked like she didn't know what to do with her hands. "My uncle built more than towers. Some of what he built is still running." A breath. "Present tense is the worst grammar there is. Good night."
 
 She left with the tea things, the owl dropping off the chair-back to swing through the doorway ahead of her, and the five of them sat there in the warm room she'd grown out of a heath, with the fire the exact right size, and *Everset* sitting on the table between the cups, and nobody reaching for it.
 
@@ -132,7 +132,7 @@ He was quiet next to her for a moment. When he spoke the wit had gone out of it,
 
 Wick sat with that. It went into her slow and it hurt where it went.
 
-"She's taking us to the place that made you," she said. Small. "The thing that wants you — it's *there,* and we're just. Walking at it. On purpose."
+"She's sending us to the place that made you," she said. Small. "The thing that wants you — it's *there,* and we're just. Walking at it. On purpose."
 
 "Yes."
 

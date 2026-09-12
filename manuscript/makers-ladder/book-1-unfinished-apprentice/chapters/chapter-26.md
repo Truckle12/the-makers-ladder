@@ -28,13 +28,13 @@ It stood off the line with its head low and watched them go by, no hunger in it 
 
 Tarn took point and stopped talking, and the stopping was the loud part.
 
-He was weathered and going grey, an economical man who wasted no motion. For two days he'd guided them with a low steady patter, markers and water and what drank where. Now he went quiet and walked his old country with his jaw set wrong, and once, at a stand of black trees that might have been alders, he laid his hand flat to a trunk and held it there too long.
+He was weathered and going grey, an economical man who wasted no motion. For three days he'd guided them with a low steady patter, markers and water and what drank where. Now he went quiet and walked his old country with his jaw set wrong, and once, at a stand of black trees that might have been alders, he laid his hand flat to a trunk and held it there too long.
 
 "Fetched a bear out of this stretch," he said. Not really to them. "Eleven years gone. Took me four days. Nearly had my leg." His hand came away from the cold bark. "There were birds, then." He started walking before anyone could find an answer, which was its own kind of mercy.
 
 Kessa hated the grey before the rest of them, and for the most practical reason. It lied to her.
 
-She'd read ground her whole life. Out here the ground had stopped telling the truth. A trail she'd have sworn was an hour cold ran colder; tracks doubled into themselves and ended at nothing; she set a heading by the fall of the land and the land lied about which way was down. Oscar watched her crouch over a print, go still, and do a thing he'd never seen her do—smear it out with her palm, like she didn't trust herself to have seen it.
+She'd read ground her whole life. Out here the ground had stopped telling the truth. A trail Kessa swore aloud was an hour cold ran colder; tracks doubled into themselves and ended at nothing; she set a heading by the fall of the land, and the land, she said, lied about which way was down. Oscar watched her crouch over a print, go still, and do a thing he'd never seen her do—smear it out with her palm, like she didn't trust herself to have seen it.
 
 "I can't read this," she said. Flat. It cost her. "Ground won't hold still. Tarn's got the point. I'm no use in a place that won't stay where I put it."
 
@@ -56,7 +56,7 @@ Tarn put it down with his hands. He gave ground at the one angle that took the c
 
 Except the grey went in with it.
 
-Tarn felt it before any of them saw it and went the color of ash, a cold crawl climbing the arm, hunting the deep in his blood, the borrowed kind, the most of it anyone here carried.
+Tarn went the color of ash before any of them saw it, one hand clamped on his own arm as if something were climbing it. The deep in his blood was the borrowed kind, and the most of it anyone here carried.
 
 "Cael."
 

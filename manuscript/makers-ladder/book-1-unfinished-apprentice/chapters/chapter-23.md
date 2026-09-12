@@ -18,7 +18,7 @@ The post was watched because someone had told the House where to watch. Not the 
 
 "It's not your bill," Oscar said.
 
-"It's got my name on it." Tarn's jaw worked. "Hauk to a fixer. Fixer to a House factor. Word goes up the line, comes back down: *reader on the south gate, loose one running.* They didn't have to want you badly. A boss whispers and the House just—" he turned a thick hand over, the gesture he'd used in the cell, the one that meant *owing* "—shuts a gate. Doesn't even look."
+"It's got my name on it." Tarn's jaw worked. "Hauk to a fixer. Fixer to a House factor. Word goes up the line, comes back down: *reader on the south gate, loose one running.* They didn't have to want you badly. A boss whispers and the House just—" he turned a thick hand over, a small gesture that meant *owing* "—shuts a gate. Doesn't even look."
 
 That was the part that put the cold all the way through Oscar, worse than the reader in the shed. Not malice. *Convenience.* The machine hadn't been roused. It had barely been nudged.
 
@@ -28,7 +28,7 @@ He tested it anyway, because he couldn't not. He reached for the lightest read h
 
 —and the scorched place *shrieked*, a white wire of pain up the inside of his arm, and he had to bite down on the reeds to keep from making a sound that would have ended all five of them.
 
-"Don't," Cael whispered, who'd seen it cross his face. "Whatever you just tried. *Don't.* You burned too close last night. You go back to that well now, you'll tear something that doesn't grow back. I've mended men who frayed. I couldn't put them back the way they came." His hand found Oscar's shoulder, steady and warm. "Not tonight. Tonight you let the rest of us be the clever ones."
+"Don't," Cael whispered, who'd seen it cross his face. "Whatever you just tried. *Don't.* You burned too close in that bowl. You go back to that well now, you'll tear something that doesn't grow back. I've mended men who frayed. I couldn't put them back the way they came." His hand found Oscar's shoulder, steady and warm. "Not tonight. Tonight you let the rest of us be the clever ones."
 
 It was, Oscar thought, possibly the most galling sentence anyone had ever said to him, chiefly because it was correct.
 
@@ -86,7 +86,7 @@ Nobody moved for a long count. Then Tarn let out a breath through his nose that 
 
 Kessa was already wiping her palm on her thigh, unbothered, working out the new shape of things aloud. "You watch them," she said to Oscar. "Where they're looking, when they turn. You tell me, I do the rest. That's the arrangement till you've got a pulse again."
 
-"A generous arrangement," Oscar said, "in which I am the lookout and everyone else does the surviving. I'm told it builds character." He let Cael haul him upright. "For the record, last night I beat a man the size of a barn. Tonight I am being out-thrown by a tracker and lectured by a priest."
+"A generous arrangement," Oscar said, "in which I am the lookout and everyone else does the surviving. I'm told it builds character." He let Cael haul him upright. "For the record, a few hours ago I beat a man the size of a barn. Now I am being out-thrown by a tracker and lectured by a priest."
 
 Kessa was already moving.
 

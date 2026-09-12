@@ -12,7 +12,7 @@ Four. And no body. She made herself hold on to the second half of that. No body.
 
 "We go back." Wick's voice came out scorched. "Now. Right now. We go back and we take him —"
 
-"We go back at dark." Kessa didn't raise her voice. Raising it fed the fire; she'd learned that early. "The road belongs to the finder till the light's gone. He's got four men still standing, kit that hits harder than the arm swinging it, and a working I can't cut sitting on ground he chose twice." She looked at the girl straight, because Wick trusted nothing that came at her sideways. "And he doesn't have Oscar."
+"We go back at dark." Kessa didn't raise her voice. Raising it fed the fire; she'd learned that early. "The road belongs to the finder till the light's gone. He's got three men still standing, kit that hits harder than the arm swinging it, and a working I can't cut sitting on ground he chose twice." She looked at the girl straight, because Wick trusted nothing that came at her sideways. "And he doesn't have Oscar."
 
 That landed. Wick's breathing hitched down a notch. "The woman."
 
@@ -76,7 +76,7 @@ The lane had ruts. Good ruts, a hand deep, pressed clean into the clay — and n
 
 "So was the cart," Kessa said.
 
-"Aye." He looked down the lane with his fetcher's squint, the one he used on a beast that wasn't behaving like its kind. "Two days ago the country funneled us at a man who wanted the wizard. Today it grows a lane." He shifted the strapped arm. "I've taken animals out of the wild my whole life. You don't chase. You build the pen and leave the gap easy. Whoever set this doesn't want to catch us." He spat, economical. "We're being *let in.*"
+"Aye." He looked down the lane with his fetcher's squint, the one he used on a beast that wasn't behaving like its kind. "Three days ago the country funneled us at a man who wanted the wizard. Today it grows a lane." He shifted the strapped arm. "I've taken animals out of the wild my whole life. You don't chase. You build the pen and leave the gap easy. Whoever set this doesn't want to catch us." He spat, economical. "We're being *let in.*"
 
 "To what," Cael said. Not to argue. To have it said.
 
