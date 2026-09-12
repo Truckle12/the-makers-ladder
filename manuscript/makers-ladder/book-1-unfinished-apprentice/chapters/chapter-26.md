@@ -44,7 +44,7 @@ Wick got worse by the mile, and quietly, which was how Oscar knew how bad it was
 
 The heat had gone out of her. For weeks she'd run hot, the fire in her always wanting to climb. Now the deeper they went the colder she got, the mark at her throat gone from angry red to a tight pale white, and she kept her hand flat over it like a woman holding a cut closed. She drifted. Twice she wandered off Tarn's line toward the worst of the dark without seeming to choose it, and the second time Oscar caught her arm.
 
-She rounded on him. "I can feel it," she snapped. "Exactly where it is. It's the only thing out here I *can* feel. So don't grab me. You grabbing my arm doesn't do anything—nothing you do out here does anything, and you know it, so don't pretend the hand's for me when it's for you."
+She rounded on him. "I can feel it," she snapped. "Exactly where it is. It's the only thing out here I *can* feel. So don't grab me. You grabbing my arm doesn't do anything—nothing you do out here does anything, and you know it, so don't. That hand's not for me."
 
 It was true, and meaner than she usually let herself be, and true. He let go and kept close anyway and didn't pretend it was for her.
 
@@ -104,7 +104,7 @@ He tried for the seam again. There wasn't one. He tried for the rule. The rule w
 
 It had not been made.
 
-"I can't end it." Plain and ugly, and better that way. "There's nothing to cut. Nothing to correct. It isn't holding the animal. It's *become* the animal." He made himself say the rest with his own mouth. "It's the wrong tool. I'm the wrong tool."
+"I can't end it." Plain and ugly, and better that way. "There's nothing to cut. Nothing to correct. It isn't holding the animal. It's *become* the animal." He made himself say the rest with his own mouth. "It's the wrong tool."
 
 Nobody said anything, and he was grateful.
 

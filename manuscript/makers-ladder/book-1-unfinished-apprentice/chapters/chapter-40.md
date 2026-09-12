@@ -6,13 +6,13 @@ Wick had been cheating about that since the waystation. Six was a number. Seven 
 
 There was no wall.
 
-All her life the far side had been behind something. She'd never seen the something and couldn't say what it was made of, but it had been *there* since before she could talk: a floor under her, a lid on the pot, a thing to lean on. You could lean on it a lot. You could put your hands over a monster's mouth in a grey hollow and lean on it with everything you had.
+Her sternum wasn't aching. That was how she knew. All her life there'd been something to ache against, something to lean on: a floor under her, a lid on the pot. You could lean on it a lot. You could put your hands over a monster's mouth in a grey hollow and lean on it with everything you had.
 
 It was gone.
 
-Not her door. Her door was *her.* It went where she went, it was behind her ribs right now where it had always been. The wall was the thing in front of it. And there wasn't one.
+Not her door. Her door was *her.* It was behind her ribs right now where it had always been, she could feel the shape of it there, hot. The wall was the thing in front of it, and the wall had never been hers, and there wasn't one.
 
-The thing that had wanted her since before she had a word for anything was not behind anything now. It was in the room. It was standing right next to her being *glad.*
+The thing that had wanted her since she was small wasn't behind anything now. It was in the room. It was standing right next to her being *glad.*
 
 And out through the great doors the city was coming apart.
 
@@ -38,7 +38,7 @@ And then Oscar walked past her.
 
 That was all. He didn't say anything. He went by her shoulder, close enough that she felt him, and he was walking the way people walk to the front of a room when they've been called, and he was going toward the chair.
 
-Wick's whole body understood it before any of the rest of her did.
+Wick's stomach knew before she did.
 
 "Oscar."
 
@@ -56,7 +56,7 @@ He kept walking.
 
 "Kessa," Oscar said. "Hold her."
 
-And Kessa — who had never yet failed to do the thing in front of her — did not move at all, because Kessa had done the sum in the same second he had and come out the same place and hated it, and everyone on that floor knew it.
+And Kessa didn't move. Kessa, who always moved. She stood there with the knife in her hand and her face gone wrong, and Wick got it, and hated her for about a second.
 
 Cael got up.
 
@@ -110,13 +110,13 @@ She went past Cael's hip and out of the warm and she ran for the basin.
 
 Behind her somebody screamed her name and it might have been all four of them.
 
-The light in the ring wasn't water. It came up round her boots and it wasn't wet and it wasn't cold and it went straight through her leathers and her skin as if none of them had ever been the point, and the floor of the ring was coming apart under her because the thing had started eating its own house, and she didn't look down. Looking down was for people with time.
+The light in the ring wasn't water. It came up round her boots and it wasn't wet and it wasn't cold and it went straight through her leathers and her skin like they weren't there, and the floor of the ring was coming apart under her because the thing had started eating its own house, and she didn't look down. Looking down was for people with time.
 
-Eleven paces. She counted them out loud, because Kessa had spent this whole road teaching her the thing you say out loud is the thing that's real, and because counting was the only prayer anybody in this crew had ever taught her.
+Eleven paces. She counted them out loud, because Kessa had spent this whole road teaching her that the thing you say out loud is the thing that's real.
 
 She got to the chair.
 
-It was such a stupid little chair. Low, and worn, and nothing, and the whole world was ending out of a basin next to it, and there was a hollow in the seat-stone about the size of somebody's backside where an age of patient nobodies had sat.
+It was such a stupid little chair. Low, and worn, and nothing, and the whole world was ending out of a basin next to it, and there was a hollow in the seat-stone about the size of somebody's backside, worn there by all the nobodies who'd sat in it.
 
 And she stood in front of it, so he couldn't.
 
@@ -126,7 +126,7 @@ She opened her hands. Both of them, properly, the way you do when you mean it. A
 
 Then she stopped holding.
 
-Not let go. She wanted that put right, afterward, if there was an afterward and anyone to put it right to: she did *not* let go. Letting go was what it had been asking her to do since she was eight, sweetly, patiently, every night: *rest, set it down, you've held it long enough.* And if she'd let go it would have come through her and eaten the room and the four of them and the man with the bucket in one glad swallow.
+Not let go. She did *not* let go. Letting go was what it had been asking her to do since she was eight, sweetly, patiently, every night: *rest, set it down, you've held it long enough.* If she'd let go it would have come through her and eaten the room and the four of them and the man with the bucket in one glad swallow.
 
 She held it *open.* And she pointed it.
 
@@ -140,19 +140,19 @@ She was the hole. That was all she was for about four seconds and it was the big
 
 It was so *happy.* She'd never tell anybody that. It wasn't cruel. It had never been cruel. It was the gladdest thing she had ever been near, and being near it was like standing next to a mouth.
 
-Above her the column bent.
+Above her the light bent.
 
-It had stood in that room all day being more power than anybody had any business having, and it *bent,* like a rope going slack, and then it started going down into her — not into her, *through* her, through the hole she'd spent sixteen years being — all that cold careful written light, an age of striking things out, pouring into a mouth that had wanted everything since before there was anything to want.
+It had stood in that room all day being more power than anybody had any business having, and it *bent,* like a rope going slack, and then it started going down into her — not into her, *through* her, through the hole she'd spent sixteen years being — all that cold light, all of it, pouring down into a mouth that had been hungry her whole life and a lot longer than that.
 
 It tried to strike her out. She felt it come. It was the same pressure that had gone over Tarn and lifted a word out of the middle of him and it came down on her with the whole weight of the valley behind it.
 
 And it found nothing to read.
 
-There wasn't a girl on that stone. There was a hole, and a hole isn't written, and there's no clause for it and no board and no stylus and no mark. It went over her and through her and past her and came back with a blank, twice, three times, patient as a clerk — and then it had nothing else it knew how to do.
+There wasn't a girl on that stone. There wasn't anybody. There was a hole. It went over her and through her and past her and came back with nothing, twice, three times, like a clerk who'd lost his place — and then it didn't know what else to do.
 
 *I told him,* she thought, from a long way down. *I said I can't be a person and a hole at the same time. Cael thought I was being brave.*
 
-Then the coal started going out of her, and she understood the price about half a second after it stopped mattering: a door has to be *held* by something, and the something was her, all of her, everything in her that was warm, spending out through the gap to keep the aim from slipping.
+Then the coal started going out of her. Everything in her that was warm, going out through the gap. She felt it go and she knew what it was and she kept the aim.
 
 *Fine,* she thought. *That's fine. I've got loads.*
 
@@ -168,7 +168,7 @@ Oscar with the owl on his shoulder and both hands out, saying something over and
 
 Cael on his feet where he'd stepped in front of a man to stop him dying, with his big hands open and nothing in them.
 
-Tarn with his fists down, watching, because a man who counts things does not look away from the reckoning.
+Tarn with his fists down, watching, and not looking away, not for a second.
 
 Kessa at the rim with her mouth shaping a word.
 

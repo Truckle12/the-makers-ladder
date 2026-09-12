@@ -32,7 +32,7 @@ Wick walked at his elbow, which she'd done since the hollow, closer than she use
 
 "I've grown as a person."
 
-"You've grown a smell." She didn't sell it; she was too tired, and it came out flat, and he let it die. She hitched her shoulder at the empty country ahead. "It's too open," she said, lower, and that wasn't a kid complaining. "I don't like it. In the wood you could put your back on something."
+"You've grown a smell." She didn't sell it; she was too tired, and it came out flat, and he let it die. She hitched her shoulder at the empty country ahead. "It's too open," she said, lower. "I don't like it."
 
 "Tarn said as much at the treeline."
 
@@ -54,7 +54,7 @@ She'd stopped again, a dozen steps on, and this time she wasn't crouching. She s
 
 "What?"
 
-"The country." Her voice had gone flat and quick, the voice she used when the tally came out wrong and there was no time to check the sum. "Look at the land, not the road. Ridge to the east, marsh to the west, the road threads the seam between. Anything coming down out of the north — off the map, out of the wild, wherever — comes out here. There's nowhere else the ground lets you walk." She turned to him, and he watched her arrive at it a breath behind him, the two of them a beat too slow, both of them fed and rested and stupid with open sky. "We didn't slip a cordon by going into the wild. We picked the one gap it never bothered to watch. It only had to watch where the gap came out."
+"The country." Her voice had gone flat and quick, the voice she used when the tally came out wrong and there was no time to count again. "Look at the land, not the road. Ridge to the east, marsh to the west, the road threads between. Anything coming down out of the north — off the map, out of the wild, wherever — comes out here. There's nowhere else the ground lets you walk." She turned to him, and he watched her arrive at it a breath behind him, the two of them a beat too slow, both of them fed and rested and stupid with open sky. "We didn't slip the cordon. We walked round it. This is where round comes out."
 
 ---
 
@@ -100,11 +100,11 @@ He'd got in front of Kessa and Wick, both hands out and down, and the gold came 
 
 Two of the ridge men came around behind him for Kessa.
 
-She didn't fight them so much as read them off the ground. She saw the footing before the men were on it, saw that the scree behind her ran loose and downhill and that a man committed to a downhill rush can't stop being committed. She gave the first one the downhill. Stepped inside his line, guided the shoulder, and let the loose scree finish him — he went past her and down and kept going, a long ugly slide into the mud with the marsh at the bottom of it. The second she took with Doss's knife, short and low and without any ceremony at all, a working cut, not a killing one, a slice across the meat of the arm that made the club drop and the man reconsider, and she was already off him, already back at the sum, already turning to the only calculation that mattered.
+She didn't fight them so much as read them off the ground. She saw the footing before the men were on it, saw that the scree behind her ran loose and downhill and that a man committed to a downhill rush can't stop being committed. She gave the first one the downhill. Stepped inside his line, guided the shoulder, and let the loose scree finish him — he went past her and down and kept going, a long ugly slide into the mud with the marsh at the bottom of it. The second she took with Doss's knife, short and low and without any ceremony at all, a working cut, not a killing one, a slice across the meat of the arm that made the club drop and the man reconsider, and she was already off him, already back at the count, already turning to the one that mattered.
 
-"*Oscar.*" She wasn't coming for him. He watched her run it and hate it: eight down and three still on their feet, Tarn bleeding from the shoulder, Cael's ward eating what it could, and past all of them the finder who hadn't moved a boot, who'd let his kit take the punishment because his kit was a thing he could replace and his time was not a thing he'd spend. "The paper," she said, fast, to the whole crew and to Oscar most of all. "He doesn't care if we kill these. He's got more. He *always* has more. And I can't cut what's on your neck." Her eyes flicked to the binding, to the thing she had no read for. "We can win this and still lose you. If we stay, we all stay. You hear me. We fall back, we take him somewhere the ground's ours, and we come back for you whole. That's the only sum that closes."
+"*Oscar.*" She wasn't coming for him. He watched her run it and hate it: eight down and three still on their feet, Tarn bleeding from the shoulder, Cael's ward eating what it could, and past all of them the finder who hadn't moved a boot, who'd let his kit take the punishment because his kit was a thing he could replace and his time was not a thing he'd spend. "The paper," she said, fast, to the whole crew and to Oscar most of all. "He doesn't care if we kill these. He's got more. He *always* has more. And I can't cut what's on your neck." Her eyes flicked to the binding, to the thing she had no read for. "Put these down and we still lose you. If we stay, we all stay. You hear me. We fall back. We take him somewhere the ground's ours. We come back for you."
 
-He couldn't argue the sum. It was a good sum, and arguing was only the thing he did instead of feeling. But he was not going to watch her send four people up an open slope with three House hands and their weighted clubs loose at their backs, so he did the one arithmetic he had left, and reached for the writing.
+He couldn't argue it. She was right, and arguing was only the thing he did instead of feeling. But he was not going to watch her send four people up an open slope with three House hands and their weighted clubs loose at their backs, so he did the one thing he had left, and reached for the writing.
 
 His own first. Reflex, and hope, and stupidity: he grabbed at the loop on his throat the way a man claps a hand to a cut, and found it shut against him at every seam. His own name, and he couldn't get a nail under it.
 
@@ -128,7 +128,7 @@ She screamed something that tore as it came, no words left in it, and Kessa got 
 
 Corwen let them.
 
-"There," Corwen said, mild, as though a small chore were finished, and came on without hurry. "You needn't have. I did offer them the road home." He glanced up the scree once, without much in it. "They'll take it a while. Then it brings them back to me, or to the seat, because it is my road and there is no other — and a thing that runs from a gate it can't shut is only choosing where to be caught." His eyes moved over the split hafts, the dead heads, the man Oscar had put in the marsh. "Kit. I'll draw more." Then back to Oscar. "You spend well," Corwen said, and it was almost kind. "On them. Never on the leash. Your sort always tries the leash first. Then you learn what you are for."
+"There," Corwen said, mild, as though a small chore were finished, and came on without hurry. "You needn't have. I did offer them the road home." He glanced up the scree once, without much in it. "They'll take it a while. Then it brings them back to me, or to the seat. It's my road. There isn't another." His eyes moved over the split hafts, the dead heads, the man Oscar had put in the marsh. "Kit. I'll draw more." Then back to Oscar. "You spent it on them," Corwen said, and it was almost kind. "Not on the leash. They generally do."
 
 He drew a second square of folded paper from his coat, and Oscar had the wild irrelevant thought that the man meant to make him sign for himself.
 

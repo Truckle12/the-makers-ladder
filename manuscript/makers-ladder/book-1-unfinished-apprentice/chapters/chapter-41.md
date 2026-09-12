@@ -42,7 +42,7 @@ She let that stand. Then she said the thing she'd come out to say.
 
 "Now. Cael's cold and I'm not carrying two of you."
 
-He got up. It took three goes and she let him do it himself, because there are men you help and men you insult by helping.
+He got up. It took three goes and she let him do it himself.
 
 Then she saw the rock.
 
@@ -78,11 +78,11 @@ He sat with that a while.
 
 "Dozens of times."
 
-"I couldn't say it. She was standing right there and I opened my mouth and there was nothing in me at all, and she — " His voice went. He waited it out. "She told me it was all right. She *let me off.* Sixteen years old, going out onto that stone, and she looked at me and gave me my absolution instead of the other way about."
+"I couldn't say it. She was standing right there and I opened my mouth and there was nothing in me at all, and she — " His voice went. He waited it out. "She told me it was all right. She said that. Sixteen years old, going out onto that stone, and she looked at me and she said it was all right. To me. She said it to *me.*"
 
 "That sounds like her."
 
-"It sounds exactly like her." He wiped his face with the flat of his hand, once, businesslike. His other hand was at his throat, on the iron, not rubbing it, just holding on. "It's come to me now. The words. Sat up out of the dark whole and easy the way they always do." A short ugly breath. "Hours late. And I can't use them, Kessa, and I want you to understand why, because it isn't grief and it isn't cowardice." He looked at her steadily. "The words are for the dead. I don't know that she's dead. I've stood over a great many people and every single time I knew which thing I was standing over. This is the first time in my life I've had the words in my mouth and no idea whether they're a lie."
+"It sounds exactly like her." He wiped his face with the flat of his hand, once, businesslike. His other hand was at his throat, on the iron, not rubbing it, just holding on. "It's come to me now. The words. Came up whole, like they always do." A short ugly breath. "Hours late. And I can't use them, Kessa. It isn't grief. It isn't that I'm afraid to." He looked at her. "The words are for the dead. I don't know that she's dead. I've stood over a great many people. Every time I knew. Every single time, I knew which thing I was standing over. I don't know this time. I've got them in my mouth and I don't know."
 
 Kessa thought about that. She was not a woman who did much with words; she read ground, and there was ground here, and the reading was plain.
 
@@ -90,7 +90,7 @@ Kessa thought about that. She was not a woman who did much with words; she read 
 
 So he did. He went out into the dry basin at last light and put his hand flat on the seat-stone and said the three plain lines he'd said over Doss and over a woman in a burned village whose name he never learned, and Tarn stood off two paces with his fists hanging, and Oscar stayed at the rim because he could not make himself walk that eleven again.
 
-Kessa stood for it. She had never wanted that particular thing before, and she wanted it now, and she made a note of the change without examining it.
+Kessa stood for it. She had never wanted that particular thing before, and she wanted it now.
 
 ---
 
@@ -118,7 +118,7 @@ She didn't tell the others why and none of them asked. It took her two turns of 
 
 There was a bucket standing in a doorway with the rope coiled beside it.
 
-She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa put the man with the bucket into the column that was supposed to make yesterday bearable, and stood there, and found the column didn't add. It never had. She'd known that since Doss.
+She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa stood there and tried to make the man with the bucket count against yesterday, and it didn't. It never had. She'd known that since Doss.
 
 She did not knock. There was nothing to say to him that wouldn't have been a kind of collecting.
 
@@ -126,7 +126,7 @@ She went back and got her people.
 
 ---
 
-They took a room over a bakehouse on the low side of town, on Tarn's money, which turned out to exist, because of course it did.
+They took a room over a bakehouse on the low side of town, on Tarn's money, which turned out to exist.
 
 It was the first roof any of them had been under since the waystation, and it was warm from the ovens below, and it smelled so much of bread that Kessa's eyes stung the moment she came up the stairs and she was furious about it. There was a table. Tarn went out one-armed and came back with two loaves still too hot to hold and broke one, and the crust cracked all the way along with a sound like a small door opening.
 
@@ -138,7 +138,7 @@ Oscar looked at it.
 
 "Wizard," Tarn said, "eat the bread."
 
-So he tore a piece off and put it in his mouth and chewed it and swallowed it and sat there with his hand over his eyes, and Kessa read it off him plain: he had said something about bread yesterday, on that floor, to the thing that was going to finish him. She hadn't caught what. She caught it now, watching him fail to enjoy it, and she looked away and let him have it, because there is a kind of watching that is theft.
+So he tore a piece off and put it in his mouth and chewed it and swallowed it and sat there with his hand over his eyes, and Kessa read it off him plain: he had said something about bread yesterday, on that floor, to the thing that was going to finish him. She hadn't caught what. She caught it now, watching him fail to enjoy it, and she looked away and let him have it.
 
 Then she put both hands flat on the table and asked the only question she had left.
 
@@ -174,13 +174,13 @@ Cael reached over and put one enormous hand flat on her back and left it there, 
 
 They came apart three days later, and it was nobody's fault, and Kessa had seen it coming since the bakehouse.
 
-A crew is a thing with a job. She had known it at nineteen and it had never stopped being true. A job holds you in a shape, and when the job is over the shape goes. There was no job. There was a dry basin, and a town that would never be told, and four people with nothing to do next.
+There was no job. There was a dry basin, and a town that would never be told, and four people with nothing to do next.
 
-Cael was going home. He said it first and he said it plainly, sitting on the end of a bed with his hands between his knees. There was a house and a hearth two hundred miles east that had been keeping a fire lit for him for four years, and his own fire was down to the bottom of the cup, and the honest way to say it was that he needed to go and be near people who kept hearths for a while. "I'm no good to anybody like this," he said. "I'd rather come back full than stay empty."
+Cael was going home. He said it first and he said it plainly, sitting on the end of a bed with his hands between his knees. There was a house and a hearth two hundred miles east that had been keeping a fire lit for him for four years, and his own fire was down to the bottom of the cup, and the honest way to say it was that he needed to go and be near people who kept hearths for a while. "I'm no good to anybody like this," he said. "I'll come back when there's something in me."
 
 "Come back to what," said Tarn, not unkindly.
 
-"I don't know," Cael said. "That's why I'm going."
+"I don't know," Cael said.
 
 Tarn was going south. He didn't dress it up. There was a bowl in Oressa he was never going near again and there was a great deal of country he'd never seen, and a man with one good arm and money in his coat can look at country for a while. "And I've a debt," he said, when Kessa raised an eyebrow. "It moved. I know where it moved to. I don't know where *she* is, so I can't go and pay it, so I'll go and be somewhere I can be found." He looked at her flatly. "You'll find me."
 
@@ -202,7 +202,7 @@ She let it go, because she was not going to insult him now by pretending he need
 
 And Kessa went west.
 
-She didn't explain it and nobody asked her to. There is a kind of country out past the edge-stones where the maps go pale and stop apologizing about it, and she had been thinking about the pale part of the map since a girl walked into a basin, because *west* was a direction and standing still was not. She was a tracker. She had never in her life failed to find a way into somewhere; she had only ever failed to like the way.
+She didn't explain it and nobody asked her to. Out past the edge-stones the maps went pale and stopped. She'd been thinking about the pale part since a girl walked into a basin. West was a direction. Standing still wasn't. She was a tracker. She had never yet failed to find a way into somewhere. Some she hadn't liked.
 
 ---
 
@@ -222,9 +222,9 @@ Then she wiped her face and finished reading the passes.
 
 ---
 
-They went out through the west gate at dawn, and split at the milestone, which was the least ceremonial place any of them could have chosen and therefore the only one they could have borne.
+They went out through the west gate at dawn, and split at the milestone. Nobody had wanted a gate for it.
 
-Cael took her hand in both of his and did not say anything at all, which from him was a benediction. Tarn nodded once. Oscar stood in the road with an owl on his shoulder and a dead man's book against his ribs and his home behind him, unfinished, refusing to be finished, and looked like he was going to say something clever, and didn't.
+Cael took her hand in both of his and did not say anything at all. Tarn nodded once. Oscar stood in the road with an owl on his shoulder and a dead man's book against his ribs and his home behind him, and looked like he was going to say something clever, and didn't.
 
 "Kessa," Cael said, at the end. Gently. The way you ask a thing you already know. "Give us the count."
 
