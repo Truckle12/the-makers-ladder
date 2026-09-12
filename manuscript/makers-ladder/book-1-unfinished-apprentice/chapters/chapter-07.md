@@ -34,7 +34,7 @@ He did not finish. He was getting better at not finishing. But Kessa finished it
 
 The word sat in the warm air and did not echo.
 
-Wick had drifted toward the basin's rim. Of course she had; she was sixteen and the light was beautiful and the warmth was the first kind thing this city had offered. "It's not scary," she said, soft, reaching out a hand toward the slow luminous something the way she'd reached for the font in the—the way she reached for any bright thing. The mark at her throat had begun, faintly, to glow in answer to it. "It feels like—Cael, it feels *good,* it feels like—"
+Wick had drifted toward the basin's rim. Of course she had; she was sixteen and the light was beautiful and the warmth was the first kind thing this city had offered. "It's not scary," she said, soft, reaching out a hand toward the slow luminous something the way she reached for any bright thing. The mark at her throat had begun, faintly, to glow in answer to it. "It feels like—Cael, it feels *good,* it feels like—"
 
 "Wick." Cael had her wrist before Oscar could move, drawing her back, gentle and immovable, and his other hand had gone to the iron at his throat, and his plain face had set into something Oscar had not seen on it before. Not fear, but a deep devotional unease, the look of a person of faith standing in front of a holy thing that belongs to the wrong god. "Don't touch it. I don't care how good it feels. *Especially* if it feels good." He looked at the basin the way he had looked at the edited body, and named it the way his kind named things: "This is a miracle. I just don't think it's a kind one. The kind ones don't have to talk you into them."
 

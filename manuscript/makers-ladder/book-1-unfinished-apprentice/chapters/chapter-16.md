@@ -52,7 +52,7 @@ For a while nobody said anything.
 
 "Listen to me—"
 
-"No. *You* listen." She was shaking, and it wasn't the door this time, it was just her, sixteen and furious and right. "You always do this. You go quiet and you go clever and you decide you're the one that gets spent. Like you're the cheap one. You'd kneel in that square and let them box you up and cart you south and call it the fewest dead, and it's not, it's you, you're the dead one, you just never count you." Her voice broke and she shoved through it. "We dragged you out of that font. You dragged me out of that hole *today.* You don't get to kneel. You don't get to. Kessa said it, you don't let the dark have your people, you were standing right there when she said it."
+"No. *You* listen." She was shaking, and it wasn't the door this time, it was just her, sixteen and furious and right. "You always do this. You go quiet and you go clever and you decide you're the one that gets spent. Like you're the cheap one. You'd kneel in that square and let them box you up and cart you south and call it the fewest dead, and it's not, it's you, you're the dead one, you just never count you." Her voice broke and she shoved through it. "We got you down off that mountain. You dragged me out of that hole *yesterday.* You don't get to kneel. You don't get to. Kessa said it, you don't let the dark have your people, you were standing right there when she said it."
 
 "That's the crew we said we'd be," Cael agreed, very quietly, from where he stood with the warm shield still on his arm. "I'd not like to go back on it the day after." He looked at Oscar with that steady terrible gentleness. "You stood at that font and you didn't go in. Don't go into this. There's another way."
 

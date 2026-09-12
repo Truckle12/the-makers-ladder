@@ -22,7 +22,7 @@ She hadn't. He knew that much, because he took the second watch most nights and 
 
 He came to take the second watch that night and folded himself down beside her by the banked fire, reaching, the way he did, for some dry joke about the cold to put them both at ease. She didn't let him get to it.
 
-"It's getting harder," Wick said. Her voice came out smaller than she wanted and she let it. "The holding. Everybody thinks I fixed it after the pit—I held in the square, didn't reach for anything I shouldn't, and you all looked at me like I'd *solved* something, and I let you, because it was nice." She made herself look at him, this once, instead of away. "But it's not fixed. It's just *held.* And it takes more to hold every day, and tonight it nearly got off its leash in a stupid little stream over nothing, and I don't understand why it keeps getting heavier, and I'm scared of the day it's heavier than I can lift." The last of it came out in a rush, because a rush was the only way it was coming at all. "And I'm telling you because I'm tired of being the only one who knows when I'm scared. So. There. Now you know a thing about me too."
+"It's getting harder," Wick said. Her voice came out small, and she didn't fix it. "The holding. Everybody thinks I fixed it after the pit—I held in the square, didn't reach for anything I shouldn't, and you all looked at me like I'd *solved* something, and I let you, because it was nice." She made herself look at him, this once, instead of away. "But it's not fixed. It's just *held.* And it takes more to hold every day, and today it nearly got off its leash in a stupid little stream over nothing, and I don't understand why it keeps getting heavier, and I'm scared of the day it's heavier than I can lift." The last of it came out in a rush, because a rush was the only way it was coming at all. "And I'm telling you because I'm tired of being the only one who knows when I'm scared. So. There. Now you know a thing about me too."
 
 He listened to all of it with his hands very still, because he had learned, at some cost, that his hands did his thinking before his head did, and that the girl watched them.
 
@@ -88,7 +88,7 @@ And on the last gap, the one that should have carried them out into the light, t
 
 The thing had no malice; it had a flaw, a worn place in a working a thousand years old, and on that one beat a seam that should have fired late fired early instead, out of sequence, a single bolt screaming down the notch into the gap that was supposed to be safe. Into the gap where Cael was, a half-step behind, too slow, his slow kind body that had spent its whole life a half-step toward other people's danger now a half-step short of his own.
 
-There was no time to think and Oscar didn't. He had failed this figure twice on the open road and gone cold and gasping for the failure, and there was no part of his mind that had time to remember that, which was, he understood later, the only reason it worked. He flung out his hand and he *wrote*: the guard, the brace, the snap of force between a man and the blow he couldn't dodge—and where two days ago the figure had come apart in his fingers, now, with Cael's death a finger's breadth and a heartbeat away, it held.
+There was no time to think and Oscar didn't. He had failed this figure twice on the open road and gone cold and gasping for the failure, and there was no part of his mind that had time to remember that, which was, he understood later, the only reason it worked. He flung out his hand and he *wrote*: the guard, the brace, the snap of force between a man and the blow he couldn't dodge—and where twice on the open road the figure had come apart in his fingers, now, with Cael's death a finger's breadth and a heartbeat away, it held.
 
 It came into being in the air in front of Cael as a hard cold plane, edge-on to the bolt, no bigger than a door, there for less than an instant—and the maker-lance struck it and *skidded,* a screaming line of force turned a hand's width wide, close enough that it scorched Cael's sleeve and blew a crater in the wall beside his head instead of through it. Then the plane was gone, and the wave had passed, and the gap was empty and safe as it should have been, and the cost arrived all at once.
 
@@ -100,7 +100,7 @@ They got out of the notch the rest of the way at a stagger, Kessa under one of O
 
 They sat in the grass on the far side a long time while Oscar's hands came back.
 
-"You stood between," Cael said, finally. He said it quietly, looking at his scorched sleeve, at the place on his arm where the cloth had burned. "That's—I'm the one who does that. That's the only thing I'm for. And you—" He stopped. Started again. "Thank you. The last person who held a door for me was Doss. You know how that ended for him."
+"You stood between," Cael said, finally. He said it quietly, looking at his scorched sleeve, at the place on his arm where the cloth had burned, and at the warded shield still slung across his back where a running fight had put it, no use to anyone there. "That's—I'm the one who does that. That's the only thing I'm for. And you—" He stopped. Started again. "Thank you. The last person who held a door for me was Doss. You know how that ended for him."
 
 "You'd have done it for any of us," Oscar said, his voice thin. "I just got there first, the once."
 

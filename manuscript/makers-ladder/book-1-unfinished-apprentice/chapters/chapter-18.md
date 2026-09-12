@@ -24,7 +24,7 @@ Then she turned and went down the steps into her town, and did not look back.
 
 Something had turned over in him at the name, though, and stayed turned.
 
-It was nothing—a word from a woman born three valleys south of a town he'd only just woken under, a place he had no possible reason to know. And yet for half a breath *Everset* had sat in him like a key tried in a lock a single tumbler off. He'd have sworn he had never heard the word in his life. He found, turning it over, that he couldn't quite swear it after all. He filed the feeling away with the slanting hand in the grimoire and the loop on the southern coin—and said nothing, because there was nothing to say about it that wouldn't have sounded mad.
+It was nothing—a word from a woman born three valleys south of a town he'd only just woken under, a place he had no possible reason to know. And yet for half a breath *Everset* had sat in him like a key tried in a lock a single tumbler off. He'd have sworn he had never heard the word in his life. He found, turning it over, that he couldn't quite swear it after all. He filed the feeling away with the slanting hand in the grimoire—and said nothing, because there was nothing to say about it that wouldn't have sounded mad.
 
 They went south within the hour.
 

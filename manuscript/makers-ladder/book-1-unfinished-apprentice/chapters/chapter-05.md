@@ -56,7 +56,7 @@ The door opened for him the way the tower door had opened for him. Because it kn
 
 No one said anything for a moment. The new dark beyond the door breathed out at them, older and colder.
 
-"You said you'd never been here," Kessa said. Flat. Not quite an accusation. Giving him the chance, almost, to have an answer.
+"You've never been here," Kessa said. Flat. Not quite an accusation. Giving him the chance, almost, to have an answer.
 
 "I haven't." It came out steadier than he felt. "I have never in my life seen this city. I would stake my considerable reputation on it." Both true. Both, he was beginning to understand, beside the point. "And yet."
 
@@ -70,7 +70,7 @@ Not a husk. Not one of the cold drowned dead of the upper streets, grey and rime
 
 And they had not died the way people die.
 
-Oscar crouched over the body, and the scholar in him looked before the rest of him could flinch, and what he saw turned even that cold, detached part of him to ice. There was no wound. There was no blood, no frost-burn, no mark of the cold dead's slow hands. The body was whole and unhurt and entirely, wrongly intact. But it was *unfinished.* Oscar hated that it was the same word the water had handed him by the fire. Pieces of the person were simply *gone.* Not torn away, not destroyed, but *removed,* the way a careful hand lifts a wrong word off a page. One arm thinned to nothing below the elbow, the edge of it clean and pale and final. Half the face smoothed away to blankness, like a carving abandoned mid-cut. Except it had not been abandoned. The blank was *finished.* Not raw, not red, not the open surprise of a wound, but smooth and complete and considered, as though that edge had always been meant to be the edge. And where the parts had been taken, the flesh did not bleed or scar. It simply *ended*, neat as a margin, as though whatever had done this had not killed the salvager so much as *edited* them, reading down the length of a living person and striking out the parts it had no further use for.
+Oscar crouched over the body, and the scholar in him looked before the rest of him could flinch, and what he saw turned even that cold, detached part of him to ice. There was no wound. There was no blood, no frost-burn, no mark of the cold dead's slow hands. The body was whole and unhurt and entirely, wrongly intact. But it was *unfinished.* Oscar hated that it was the right word. Pieces of the person were simply *gone.* Not torn away, not destroyed, but *removed,* the way a careful hand lifts a wrong word off a page. One arm thinned to nothing below the elbow, the edge of it clean and pale and final. Half the face smoothed away to blankness, like a carving abandoned mid-cut. Except it had not been abandoned. The blank was *finished.* Not raw, not red, not the open surprise of a wound, but smooth and complete and considered, as though that edge had always been meant to be the edge. And where the parts had been taken, the flesh did not bleed or scar. It simply *ended*, neat as a margin, as though whatever had done this had not killed the salvager so much as *edited* them, reading down the length of a living person and striking out the parts it had no further use for.
 
 "Don't look," he said to Wick, too late, and put himself between her and it, which he should have done before he spoke and not after, his body always a half-beat behind his mind.
 

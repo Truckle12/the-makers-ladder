@@ -94,7 +94,7 @@ For a while nobody said anything. Below them, very far down, something enormous 
 
 "The plan was *excellent,*" Oscar said. His voice came out wrong. He had an arm still locked around Wick and he wasn't ready to take it away. "I'd like that noted."
 
-Wick laughed, a cracked, wet, half-hysterical sound, and didn't explain herself, and Oscar didn't ask, and Cael lay flat on his back with his ruined shield warm against his chest and said, to no one, "We pulled her back." Just that. Like he was checking it was true. "This time we pulled her back."
+Wick laughed, a cracked, wet, half-hysterical sound, and didn't explain herself, and Oscar didn't ask, and Cael lay flat on his back with his battered shield warm against his chest and said, to no one, "We pulled her back." Just that. Like he was checking it was true. "This time we pulled her back."
 
 Nobody had to ask what other time he meant. They let it sit there, the dead man's name nobody said, and for once it didn't poison anything.
 

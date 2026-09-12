@@ -56,7 +56,7 @@ Cael drove the shield's edge down into the grit and poured himself into it, and 
 
 But the dome didn't move, and it didn't tire the spiders, and there were a dozen. The shield bought time. It didn't spend the threat.
 
-"We can't wait it out," he said. "Cael holds the dome. The rest of us go out and end this, fast, before he's empty. Kessa, left. I'll take right. Wick—" he caught the look on her face, the terror and the awful straining want "—Wick, you've got the cleanest aim of any of us, so you make it count. Small. Aimed. One at a time. Nothing past what you can hold—" he held her eyes "—nothing more than that. Like the street."
+"We can't wait it out," Oscar said. "Cael holds the dome. The rest of us go out and end this, fast, before he's empty. Kessa, left. I'll take right. Wick—" he caught the look on her face, the terror and the awful straining want "—Wick, you've got the cleanest aim of any of us, so you make it count. Small. Aimed. One at a time. Nothing past what you can hold—" he held her eyes "—nothing more than that. Like the street."
 
 She heard him. He watched her hear him. And then she reached for what she could hold and *only* that, no further, not a spark past it, and she put a tight lash of fire through one spider's body, clean, and it dropped, and she didn't spill, and she didn't break, and her hands stayed her own.
 
