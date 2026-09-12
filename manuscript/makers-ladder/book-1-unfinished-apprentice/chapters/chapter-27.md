@@ -22,7 +22,7 @@ She got a grip on it.
 
 And it got a grip on *her*, and pulled.
 
-Nobody could have warned her about this part, because there weren't words for it that meant anything until it was happening. It didn't claw. It didn't bite. It just pulled her toward the open door inside herself like the ground pulls you when you lean too far over a high place, that lurch in the stomach, except the high place was *her* and the long drop was on the other side of the latch she'd kept shut since she was small, and she was going over it. She could feel herself going. The door swung wider than she'd cracked it and the dark behind it breathed out cold and patient and glad, *so* glad, and she scrabbled for the edge of herself and her fingers wouldn't hold.
+It didn't claw. It didn't bite. It just pulled her toward the open door inside herself like the ground pulls you when you lean too far over a high place, that lurch in the stomach, except the high place was *her* and the long drop was on the other side of the latch she'd kept shut since she was small, and she was going over it. She could feel herself going. The door swung wider than she'd cracked it and the dark behind it breathed out cold and patient and glad, *so* glad, and she scrabbled for the edge of herself and her fingers wouldn't hold.
 
 She was losing. She knew the feeling. She'd felt the start of it a hundred times and slammed the door every time, but she'd never felt it this far gone, never felt the actual lip of it, the place past which there wouldn't be a Wick to slam anything.
 
@@ -42,7 +42,7 @@ She hadn't known how much she wanted to stop until something finally offered. No
 
 And the worst thing — the thing she would never tell Oscar, never tell Cael, never tell anybody, the thing she could barely stand to know about herself — was that for one whole second, she said yes.
 
-She wanted to put it down so badly she would have died to do it. And it was a good trap, the best trap anybody had ever built for her, because it wasn't offering to kill her. It was offering to let her *rest.*
+She wanted to put it down so badly she would have died to do it. It wasn't even trying to kill her. That was the trap. It just wanted her to lie down. To *rest.*
 
 And it showed her what rest looked like, which was the cruelest part. Not gold. Not power. Nothing big. Small things. A bed that was warm all the way through to the middle. A morning where the first thing she did when she woke wasn't reach for the latch. Being full. Being a girl somebody fed, instead of a thing somebody had to watch. Sitting in a room full of people and not once running the count of which of them she'd burn if she slipped. It showed her *down* — set the weight down, all the way down, and never pick it up again — and oh, she wanted it. She wanted it so bad her eyes stung in the cold.
 
@@ -62,7 +62,7 @@ And Wick, one second from gone, with the door yawning open and the dark breathin
 
 She hadn't actually let go.
 
-She'd said yes to *wanting* to. Wanting to and doing it weren't the same, and she knew that better than she knew her own name. Want to drop it, don't drop it. Every day, a thousand times a day, since she was small, the worst tired there was and never once putting it down. It was the one thing she was good at. The only thing, maybe. And she was *so* good at it.
+She'd said yes to *wanting* to. Wanting to and doing it weren't the same, and she knew that better than she knew her own name. Want to drop it, don't drop it. Every day, a thousand times a day, since she was eight, the worst tired there was and never once putting it down. It was the one thing she was good at. The only thing, maybe. And she was *so* good at it.
 
 So she stopped trying to win.
 
@@ -88,7 +88,7 @@ ran out of things to eat that weren't itself.
 
 So it ate itself.
 
-It folded inward, the long grey wrongness collapsing down into the hollow it had made, faster and faster, eating its own want because she'd left it nothing else, and it sagged, and it ran, and it was water, just water, soaking dark and harmless into the wet ground, the same as the otter had gone to water under the Warden's hand. The cold went out of the hollow all at once. The deep current, which had been screaming wrong this whole time underneath everything, went quiet, and then went *clean*, and somewhere very far down something huge went slack.
+It folded inward, the long grey wrongness collapsing down into the hollow it had made, faster and faster, eating its own want because she'd left it nothing else, and it sagged, and it ran, and it was water, just water, soaking dark and harmless into the wet ground, the same as the otter had gone to water under the Warden's hand. The cold went out of the hollow all at once. The deep, which had been screaming wrong under everything this whole time, went quiet, and then went *clean*, and somewhere very far down something huge went slack.
 
 She'd done it.
 

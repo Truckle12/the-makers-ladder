@@ -128,15 +128,15 @@ She hunted for it anyway. It was hers; she wasn't letting a good mood take it.
 
 He was quiet next to her for a moment. When he spoke the wit had gone out of it, all the way, which happened about four times a year.
 
-"I heard you scream when she took me," he said. "That's the last thing that road gave me. I sat in this house those two days working proofs I couldn't finish — I didn't know if the finder had turned back on you, I didn't know if the arm Tarn gave to that club was worse than it looked, I didn't know if you'd try the coal on that collar around somebody's neck and cook the wrong thing. She kept telling me you'd be well and I kept explaining to her, at length, with diagrams, that she could not possibly model any of you, because you are none of you sensible people." His hands finally stopped working. "And under all of it, the whole two days, one long ugly thought I couldn't read my way out of: *he said come get me to a girl who will actually do it.* You want to know what I want off this woman, more than anything she's promised? A world where I never again have to be glad, and sick, in the same breath, that you're the kind that comes." He looked at her sideways, then at his hands. "I'm not going to get it. You're going to keep being what you are." He rubbed his face. "Leave it. I'm tired."
+"I heard you scream when she took me," he said. "That's the last thing that road gave me. I sat in this house those two days working proofs I couldn't finish — I didn't know if the finder had turned back on you, I didn't know if the arm Tarn gave to that club was worse than it looked, I didn't know if you'd try the coal on that collar around somebody's neck and cook the wrong thing. She kept telling me you'd be well and I kept explaining to her, at length, with diagrams, that she could not possibly model any of you, because you are none of you sensible people." His hands finally stopped working. "And under all of it, the whole two days, one long ugly thought I couldn't read my way out of: *he said come get me to a girl who will actually do it.* You want to know what I want off this woman, more than anything she's promised? A world where I never again have to be glad, and sick, in the same breath, that you're the kind that comes." He looked at her sideways, then at his hands. "I'm not going to get it. You're going to keep being what you are." He rubbed his face. "Three hundred years, and I still can't tell whether that's the best thing about you or the worst. Leave it. I'm tired."
 
-Wick sat with that. It went into her slow, like heat into cold hands, aching where it worked.
+Wick sat with that. It went into her slow and it hurt where it went.
 
 "She's taking us to the place that made you," she said. Small. "The thing that wants you — it's *there,* and we're just. Walking at it. On purpose."
 
 "Yes."
 
-"And you're going to say no to it." She turned and looked at him straight, because sideways was for people who could afford it. "What if it doesn't take no?"
+"And you're going to say no to it." She turned and looked at him straight. She wasn't doing sideways. "What if it doesn't take no?"
 
 Oscar opened his mouth, and shut it again.
 
@@ -145,5 +145,3 @@ Oscar opened his mouth, and shut it again.
 She put her shoulder against his anyway, and they sat on the wrong stair in the beautiful house that shouldn't exist, not talking, while somewhere below the fire ticked itself down to embers that were exactly, perfectly, insultingly the right size. And behind Wick's ribs, quiet all evening, quiet all week, the door bumped once against its latch, and her stomach dropped.
 
 She held it, out of habit, and didn't tell anyone.
-
-Later she'd wish she had.

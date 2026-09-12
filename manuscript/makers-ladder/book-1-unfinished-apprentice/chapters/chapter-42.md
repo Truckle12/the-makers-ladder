@@ -76,7 +76,7 @@ And it asked. Straight off, sweet as anything, the same as every single night si
 
 "No," she said again. She said it to the ground.
 
-She'd always had a fire to say it with. Now she had nothing, and a wet nose. Every night. Here. She had no idea if she could, and she wasn't going to find out by sitting down.
+She'd always had a fire to say it with. Now she had nothing and a wet nose, and it'd be every night. Here. She had no idea if she could, and she wasn't going to find out by sitting down.
 
 She wiped it on her sleeve and got up.
 

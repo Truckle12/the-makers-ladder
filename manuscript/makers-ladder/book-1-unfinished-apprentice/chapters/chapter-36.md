@@ -6,7 +6,7 @@ You spend a week walking toward a place that's been leaning on your ribs and you
 
 Not shimmer, not heat. Thin. Like the world here was a coat worn through at the elbow and you could feel the cold coming in the place where the weave gave up. All the way down the valley she'd felt it getting worse and told herself it was nerves.
 
-Her sternum had ached for two days. This morning it was *pressing.*
+Her sternum had ached for two days. This morning something was *pressing* on it.
 
 "Say the number," Kessa said, low, beside her. They'd stopped a hundred paces back, in the ordinary dust with the ordinary people, and Kessa was reading the gate: the guards, the traffic, the pace of it, all of it going into her tally. "One to ten. How bad."
 
@@ -32,7 +32,7 @@ He said it the flat careful way he'd been saying things since the valley, and Wi
 
 "What happens if you don't belong?" Wick said.
 
-Nobody answered her, which was answer enough, and then about a minute later the city answered her properly.
+Nobody answered. About a minute later the city did.
 
 There was a man four places up the line. Nothing about him. Thin, older, a bad coat, a bundle under one arm, the sort of man you saw a hundred of in any town and never looked at twice. He got to the arch. He stopped under it like they all did.
 
@@ -112,7 +112,7 @@ They lay up until dark, and Wick did not sleep, and near the end of it Oscar cam
 
 "It is. It's my least favourite of your habits and you learned it from me." He turned the grimoire over in his hands without opening it. "Here's the whole of what I've got. That town runs on something enormous, and it's the same cold written stuff I read and swim in — it's *mine,* in the sense that anything is. And whatever is behind your door is not that. It isn't written anywhere. It isn't in the world at all. Which is why my looking gives me nothing on it, and never has, and never will." He said that steadily, but she heard the crack under it. "It's the one thing coming for you that I cannot read, cannot argue with, and cannot unmake. So when I say *tell me the number every hundred paces,* Wick, I'm not managing you. That number is the only instrument I have."
 
-Wick sat with that. It should have scared her worse. It didn't, much. Somebody had finally said out loud that it was as big as it felt. Since she was small she'd carried it, and it was him that said it, sitting in the leaves with a book he wouldn't open.
+Wick sat with that. It should have scared her worse. It didn't, much. Somebody had finally said out loud that it was as big as it felt. She'd carried it since she was small. He was the first to say it was that big. Him, in the leaves, with a book he wouldn't open.
 
 "Six," she said. "It's a six. It's been a six all afternoon."
 

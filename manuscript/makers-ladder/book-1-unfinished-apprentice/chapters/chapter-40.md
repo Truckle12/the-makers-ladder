@@ -24,9 +24,9 @@ The pie stalls were down there.
 
 Her head did its stupid thing, and it did it before anything else: not *the city,* not *thousands of people,* just the three pie stalls and the grandmother on her step and the boys with the hoop.
 
-Her door leaned in. It had been leaning all day. Now it *pointed,* the way a dog's head comes round at a sound, and what came through the thin place with it was not hunger exactly.
+Her door leaned in. It had been leaning all day. Now it *pointed,* like a dog's head coming round at a sound. Not hunger, exactly.
 
-It was *interest.*
+*Interest.*
 
 Two dogs, she'd said, a night ago, in a stand of trees. Two dogs noticing each other through a fence.
 
@@ -112,7 +112,7 @@ Behind her somebody screamed her name and it might have been all four of them.
 
 The light in the ring wasn't water. It came up round her boots and it wasn't wet and it wasn't cold and it went straight through her leathers and her skin like they weren't there, and the floor of the ring was coming apart under her because the thing had started eating its own house, and she didn't look down. Looking down was for people with time.
 
-Eleven paces. She counted them out loud, because Kessa had spent this whole road teaching her that the thing you say out loud is the thing that's real.
+Eleven paces. She counted them out loud, because Kessa had drilled it into her the whole road: out loud, first, not after.
 
 She got to the chair.
 

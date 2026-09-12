@@ -1,6 +1,6 @@
 ## Chapter Twelve — Kindling
 
-Holding still while you burned was the worst thing there was. Wick had known that since she was small.
+Holding still while you burned was the worst thing there was. Wick had known that since she was eight.
 
 Not real fire. She wished it were real fire; real fire you could put out. This was the other thing, the thing that lived under her skin and especially under the mark at her throat, the heat that came up when she was scared or angry or just *too much* of anything, and right now she was all three, running crouched through the dark under Marrow with the cord somewhere behind them and her whole body wanting, wanting, *wanting* to let go.
 
@@ -16,7 +16,7 @@ They'd gone down into the bones to hide. That was what the salvagers called it, 
 
 —and that was the exact moment she heard the cord coming up the cross-tunnel ahead. The way ahead. The way Kessa was about to lead them straight into.
 
-There wasn't time to say it right. There was barely time to think it. If she shouted, the cord would hear. If she did nothing, they'd walk into a patrol in a dead-end dark with the kid's-one-job-was-to-not-make-noise, and Oscar would be the one they wanted, and the whole thing would go wrong, and it would be her fault for not—
+There wasn't time to say it right. There was barely time to think it. If she shouted, the cord would hear. If she did nothing, they'd walk into a patrol in a dead-end dark with the kid whose one job was *no noise*, and Oscar would be the one they wanted, and the whole thing would go wrong, and it would be her fault for not—
 
 She did the stupid brave thing. She was good at the stupid brave thing. It was practically the only kind of brave she had.
 
@@ -44,7 +44,7 @@ She meant to do it the way Oscar taught her. One thread, one fist-sized place, a
 
 Then it came into the light of her own kindling, and the aiming went clean out of her hands.
 
-It was a spider. Not the word she'd have said out loud—out loud she'd have had a worse word—but that was the body her eyes found in the orange light: eight legs, jointed and bone-pale and long as her arms, folding and reaching and feeling at the floor, carrying a swollen sac of a body low and heavy behind a smooth blind head. No eyes anywhere on it that she could find. Just that pale head, and underneath it a busy wet working of mouthparts that opened and opened. It had no color on it at all; nothing down here did. And it came straight at the warmest thing in the dark, which was her. It wasn't a monster. It was just an animal, and it was hungry, and she was warm.
+It was a spider. Not the word she'd have said out loud—out loud she'd have had a worse word—but that was the body her eyes found in the orange light: eight legs, jointed and bone-pale and long as her arms, folding and reaching and feeling at the floor, carrying a swollen sac of a body low and heavy behind a smooth blind head. No eyes anywhere on it that she could find. Just that pale head, and underneath it a busy wet working of mouthparts that opened and opened. It had no color on it at all; nothing down here did. And it came straight at the warmest thing in the dark, which was her. Not even a monster. An animal. Hungry. And she was the warm thing.
 
 She reached for the heat the way she had in the ruined street the day she nearly killed everyone—reached for *all* of it—
 
