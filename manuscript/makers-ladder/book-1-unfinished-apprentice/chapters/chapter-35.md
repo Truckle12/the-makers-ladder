@@ -68,7 +68,7 @@ Kessa was quiet, marking the dark. "No," she agreed. "It isn't." She turned Doss
 
 "I'll read the made things," Oscar said. "The town, the workings, whatever's holding that valley in the shape of my drawer. I'll tell you what I get. The rest is yours." He glanced at her. "It always was. Remind me when I forget."
 
-"I know," Kessa said, and turned the knife over again."
+"I know," Kessa said, and turned the knife over again.
 
 Off at the edge of the fire's dead reach, Cael sat with his big hands loose and his sworn warmth banked low and even — steady, close, its own. Whatever the town below drew its strength from — and it would draw it from the deep, he'd bet the book on that — Cael's fire came from somewhere else entirely, a thing that kept to hearths and had never heard of Everset. It was the one light on this whole crew that the place could not have made and could not unmake.
 
