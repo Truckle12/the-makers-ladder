@@ -49,6 +49,7 @@ misunderstanding a poetic line, someone saying something too simple for the mome
 The deepest tell is everyone thinking in one register. Keep them separate:
 
 - **Oscar** — proof, grammar, history, identity, editing/reading. Wit as defense; self-correction; intellectualizes fear.
+  - **LOCKED (author, 2026-09-12): wizard, scholar, a bit mechanical — that is the voice. Do not roughen it.** The rations below are about sameness (one failed joke, one wrong guess, no captions), not about making him sound less like a scholar. Separation is enforced from the other side: nobody else borrows his register.
   - *Reduce:* perfect insights mid-action, "three centuries" repetition, "the way…" overuse, abstract emotional summaries.
   - *Add:* failed jokes, petty irritation, bodily humiliation, wrong guesses, noticing too late.
 - **Kessa** — terrain, exits, footing, angles, weather, leverage, watchfulness, plain objects. Clipped, no ornament.
