@@ -15,7 +15,7 @@
   through Batch 5 (2026-08-29) and the Ch20 fold (2026-09-10). Its final chapter is now **Ch42**
   "The Far Side"; Book 1 chapter numbers quoted in the outline's promises ledger predate the fold
   (subtract one from any Book 1 reference ≥ Ch21). It is the immediate antecedent of every Book 2 chapter.
-- **Book 2 outline:** `reference/book-2-outline.md` — **rev3, RATIFIED 2026-09-10.** The
+- **Book 2 outline:** `reference/book-2-outline.md` — **rev4 (rev3 RATIFIED 2026-09-10; Wick's ten chapters rebuilt 2026-09-13 with QUILL on the far side, the terrain as the thing's back, scars, hollows, and a set piece per chapter — see the outline's "Quill, both sides" and "The far side as a place").** The
   author ruled on all ten Open Decisions (rulings recorded in the outline's §"The ten rulings"
   and in the Decisions Log below). rev3 is the approved shape: **46 chapters**, ~140k words at
   the house chapter length. Drafting is open. A drafter drafts *to* the chapter entry — it does

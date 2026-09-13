@@ -1,4 +1,4 @@
-# Book 2 — The Unset Journeyman — Outline, rev3 (RATIFIED 2026-09-10)
+# Book 2 — The Unset Journeyman — Outline, rev4 (rev3 RATIFIED 2026-09-10; Wick thread rebuilt 2026-09-13)
 
 > **Status: the author ruled on all ten Open Decisions on 2026-09-10 (rulings recorded below and
 > in the Book 2 bible's Decisions Log). This outline is the APPROVED SHAPE for drafting.** Per the
@@ -6,7 +6,13 @@
 > (the drafter drafts *to* the entry; it does not redesign it). Anything marked **[proposal]** is
 > a chief-editor suggestion the author has not yet ruled on — a drafter treats it as
 > `[FOR THE AUTHOR]`, not canon. Series canon is single-sourced in Book 1's bible; Book-2-only
-> canon in Book 2's thin bible (both in `reference/`). rev1/rev2 remain in git history.
+> canon in Book 2's thin bible (both in `reference/`). rev1/rev2/rev3 remain in git history.
+> **rev4 (2026-09-13) rebuilt Wick's ten chapters** after the author's rulings: the thing behind
+> her door is decided (an elder evil from outside the world; the Hunger / the Unwritten / the far
+> side — Book 1 bible log 2026-09-13); her chapters must be EPIC, not a walk in fog; and **she
+> talks to QUILL** — the familiar is on both sides of the wall (see "Quill, both sides" below).
+> The far side's terrain (a body), its hollows, and its scars are rev4 additions the author has
+> read in summary; the drafter treats them as canon unless the author says otherwise.
 > Book 1 chapter references below use Book 1's **post-fold numbering** (42 chapters; old
 > Ch22–43 = new Ch21–42).
 
@@ -17,9 +23,10 @@ girl, and walks back into the seat of the power that made Oscar — to open a do
 they were built to keep shut. Three things want that door for three different reasons: a
 copy of Oscar who has hidden from the line for a century and knows what is waiting on the
 other side; a House trying to restart its dead engine with the flood the door would let in;
-and the line's living heirs, who have provisioned a cradle. On the far side, Wick follows a
-dead master's bootprints toward the same wall from within — and the master's last print faces
-it, waiting.
+and the line's living heirs, who have provisioned a cradle. On the far side, Wick walks the
+back of the thing itself, following a master's bootprints toward the same wall from within — with
+a familiar at her ear that was never hers — and the master's last print faces the wall, waiting.
+A fourth thing wants the door, from the other side: the bird wants its master home.
 
 ## The ten rulings (author, 2026-09-10) — canon for this book
 
@@ -48,6 +55,58 @@ it, waiting.
 9. **The Provost of the Seat is named Polperro.**
 10. **Length: the outline decides, 43–48.** rev3 lands at **46 chapters** (~140k at the house
     chapter length).
+
+## Quill, both sides (author ruling 2026-09-13: "she talks to Quill… make it make sense")
+
+**What a familiar is (canon from here):** a bound spirit that wears an animal body. The bond is
+to a **master**, not to the body. Quill has been the ORIGINAL Oscar Alberich's familiar for three
+hundred years. When the master fell *through* (OD1), the bond went with him — **Quill has stood
+on both sides of the wall ever since**: the owl body in the world, the rest of it with its master
+on the far side. That is what Book 1 already showed without naming it: the bird "stirring at the
+edge of the world" (Ch8/9), "the owl that was his and could not be his" and *the perch is not
+open* (Ch31 — a bond already occupied), the refusal of every copy (strangers wearing the hand),
+and the bonding at the climax (Ch39) — when Wick tore the wall to nothing, the two halves touched
+for four seconds and the bird chose *this* Oscar. In the world it is his. On the far side its
+other half is still the master's. **Quill is the only thing that exists on both sides.**
+
+**On the far side it is never an owl** (no body was brought through). It is a brush of feathers
+at her ear, talons in the wool of her coat, a weight on a shoulder with nothing on it, a dry
+rasp. It never gives its name; it doesn't know her words for anything; it calls the thing under
+them **"the Ground."** Wick names it — **[proposal] "Feathers"**. The reader knows what it is by
+Ch7; Wick knows at Ch20.
+
+**Voice:** a bird's mind with three centuries of a scholar's vocabulary — terse, literal, status
+reports, no metaphors, cannot lie, can refuse ("Not mine to say."). Dark-funny foil for a blunt
+sixteen-year-old: they bicker. It is NOT an exposition mule: it reports what it sees and what it
+has been told to keep; it never explains the far side's cosmology (same hold as the third).
+
+**What it can do:** see — and **the master sees through it** (he has watched her since Ch1;
+that is how he is "waiting for exactly this door" at Ch41); find (scars, the near side, the
+blank); warn (hollows); count with her ("Confirmed."); **carry words along the bond** — the owl
+on Oscar's shoulder hears Kessa count in the Fair House; the far-side half repeats it in its rasp
+(Ch32), and at Ch38 the real voice comes through the wall behind it. **What it cannot do:** carry
+her, burn, lie, name the prints' owner, or cross a door that is not its master's.
+
+**Its want:** its master home. It knows her door is a mouth's door and would let the Hunger out
+first. It wants it anyway. That is the fourth thing that wants the door, from the other side.
+**Its end (Ch42):** it follows her to the edge and stops — the door is hers and she does not
+invite it — and its far-side half stays with the sentry. Book 3 residue: **a bird on both sides
+of a sealed wall.**
+
+## The far side as a place (rev4 — so her chapters are a campaign, not a walk)
+
+- **Terrain = the thing's back** (Book 1 Ch42: "There wasn't any ground. She'd been sitting on
+  it."). Ridges like a spine; plates that grind; grey stalk-forests she can hide in; pores that
+  breathe. When it is pleased the hide is warm under her; when it is not, the country moves.
+- **Scars:** every place it ever pushed a finger into the world is a puckered wound on the hide.
+  One is the root under the Warden's wild, **cauterized where the crew killed the finger** (Book
+  1 Ch27–28). The thin place at Everset is the freshest scar — the wall's "near side."
+- **Hollows:** the Hunger keeps what it eats as shapes (the grey kept the otter's). Fetchers who
+  fell through, beasts, a salvage crew — filled with want, and what they want is the warmth under
+  her door. She has no fire. What she has is Ch28's lesson, **holding aimed outward: she can
+  hold a hollow still.** It costs her. It is her only spell and it is used on page one.
+- **The rule of the place** stays learned in her body (Ch1) and stated by nobody: what is not
+  held, goes. Her own marks don't stay. The master's do.
 
 ## What Book 1 left loaded (promises ledger — all canon)
 
@@ -128,10 +187,14 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
 
 ### Arc 1 — "Four Roads" (Ch1–12): the discovery
 
-- **Ch1 (Wick, far side).** Cold open continuous with Book 1's Ch42: walking the prints. First
-  leavings — a cairn of true stones (someone carried world-stuff through), then tally-marks:
-  the walker counted. Rule of the place, learned in her body: *the far side only has what was
-  brought and held.* Ends: her own count said at the dark.
+- **Ch1 (Wick, far side).** Cold open continuous with Book 1's Ch42: walking the prints on
+  the thing's back. **The first hollow** — a fetcher-shape, filled with want, coming for the warmth
+  under her door; she has no fire; she holds it *still* (Ch28's lesson aimed outward) and it costs
+  her more than the coal ever did. First leavings — a cairn of true stones, then tally-marks: the
+  walker counted. And, at her ear when she is too tired to be scared of it: **a brush of feathers,
+  a dry rasp — "Perch: unavailable."** She names it. Rule of the place, learned in her body and
+  said by nobody: what is not held, goes. Ends: her own count said at the dark, and something at
+  her shoulder saying "Confirmed." 
 - **Ch2 (Oscar, north).** Oscar + Quill on the ice roads. The dead city found again from
   above; the tympanum under frost, the name scoured. He goes down into what he climbed out of.
   Ends at the hall of cradles.
@@ -153,8 +216,12 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   the Seat* — and the word for what the House wants at Everset: **restoration.** Oscar's writ,
   reissued. Ends: he memorizes it and owes them nothing.
 - **Ch7 (Wick).** The prints organize: the walker paced a *line*, sentry-fashion, facing one
-  direction. Where he stood, her ears get the room-before-the-light feeling: **the wall has a
-  near side here.** Ends: she yells the count at it.
+  direction. Feathers leads her off the line to **a scar** — a puckered wound in the hide, shut and
+  cold: the root under the Warden's wild, cauterized where her own crew killed the finger. She can
+  feel the world through it and cannot get at it. Hollows den in scars. Where the walker stood her
+  ears get the room-before-the-light feeling: **the wall has a near side here.** The reader now
+  knows what Feathers is (the rasp, "the perch"); Wick doesn't. Ends: she yells the count at the
+  wall, and the bird says her numbers back in the wrong order to make her do it again.
 - **Ch8 (Kessa).** The Warden holds the token in a fist (nothing to read; she does not read)
   and says what it is: *a piece of the outside that remembers being held — and it leans.* THE
   DISCOVERY: a compass to Wick. The warning that prices the book: *a door cut from this side
@@ -185,9 +252,12 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   place the wall is already wounded (**the Fair House**), a key of far-side stuff (**the
   token**), something to keep the threshold human (**Cael's rite**), and a writer to hold the
   tear open — at **fraying** cost, named. Destination: Everset. Again. Knowingly.
-- **Ch14 (Wick).** The walker's leavings worsen: a coat's worth of world gone to nothing —
-  *the far side erases what you stop holding.* Everything she still has, she has because
-  holding is the one thing she's good at. Ends: she stops carrying anything she can't hold.
+- **Ch14 (Wick).** **The beast rolls.** Its pleasure has a weather and the weather turns: the
+  country tilts, plates grind, and everything not held slides off into the grey — her pack, the
+  walker's coat she'd been carrying (a coat's worth of world gone to nothing), and very nearly her.
+  Set piece: holding on to the hide with her hands and her whole self while it moves, Feathers'
+  talons in her collar the only thing not sliding. She learns it with her body: *the far side
+  erases what you stop holding.* Ends: she stops carrying anything she can't hold.
 - **Ch15 (Oscar).** **The hook comes out** — two days of quiet work with the grimoire and
   Cael's steadiness unwrite forty years of never-to-be-paid; proof that House paper can be
   unwritten. Tarn, observed: what a freed debt-man does with his first hours of owing nothing
@@ -212,8 +282,11 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   see the token. Oscar does not show it. Ends: Quill will not go near him.
 - **Ch20 (Wick).** The line the walker paced ends at a left thing: **a small grey blank — the
   twin of her token** — set on the ground like a marker at the thin place. The wall is loudest
-  here; the prints stop pacing past this point. The last print faces the wall. Ends: she sits
-  down where he stood.
+  here; the prints stop pacing past this point. The last print faces the wall. And a second set
+  of prints joins the line here, **fresh** — and Feathers will not say whose. Turn: she puts it
+  together — the rasp, the perch, a bird that hates every Oscar but one — **"You're his. You're
+  the owl."** "Perch: occupied," it says. Ends: she sits down where he stood, and knows she is
+  being watched through the thing on her shoulder.
 - **Ch21 (Oscar).** The third's counsel over three days' road (he will not travel with them —
   he meets them at places; he *knows* the country's seams): he improves the door-plan and,
   every time, steers it toward a design that can be *closed from outside.* Oscar notices. Turn:
@@ -253,9 +326,13 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   pages are *gone* (Book 3's hold kept visibly). Turn: a second set of marks in the room, a
   century old — the third was here, and took something. Ends: Oscar alone with his maker's
   door-plan and a gap in it shaped like a page.
-- **Ch28 (Wick).** The entity's attention acquires *weight* — it stops waiting for her to get
-  tired (Book 1 Ch42's last beat) and takes her leaving seriously. Its pleasure was never about her; its displeasure is. Ends: the wall answers back
-  for the first time — a sound, not words.
+- **Ch28 (Wick).** **The siege.** The entity's attention acquires *weight* — it stops waiting
+  for her to get tired (Book 1 Ch42's last beat) and takes her leaving seriously: the hide closes
+  around the thin place like a fist closing, and the hollows come in numbers, dens emptying out of
+  every scar. She holds a line alone, no fire, one hollow still and then two and then she cannot,
+  and Feathers counts them for her out loud because that is what it can do. Its pleasure was never
+  about her; its displeasure is. Ends: the wall answers back for the first time — a sound, not
+  words — and the hollows flinch from it.
 - **Ch29 (Cael).** The door-hearth laid in the Fair House's kitchens (his god lives there),
   under siege conditions. The rite *takes* — the hall is short here — and he understands he is
   keeping a door for a girl, not a god. Ends: the fire banked and hidden, one night to hold.
@@ -270,9 +347,11 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   leaves the fifth place open, out loud. Turn: Oscar asks her to give the order tomorrow. Ends
   on "Marked."
 - **Ch32 (Wick).** She reaches the thin place's near side. Between her and the wall, the
-  walker's final leavings — and the far side pressing behind her like a held breath. She sets
-  her boots in the last prints and waits where he waited. Turn: through the wall, faint, a
-  count in a voice she knows. Ends: she answers it.
+  walker's final leavings — and the far side pressing behind her like a held breath. She sets her
+  boots in the last prints and waits where he waited. Turn: Feathers goes still, and then says, in
+  its rasp, badly, **"Four. Breathing."** — Kessa's count, heard by the owl on Oscar's shoulder in
+  the Fair House and carried along the bond. Then, faint, through the wall itself, the real voice.
+  Ends: she answers it.
 - **Ch33 (Ash — POV).** **The heirs arrive** — Ambry with the cradle-wagon from the north, the
   unwoken twelfth crated like furniture, and a writ of the family's own drawn on Polperro.
   Family or crew, on the steps of the house her uncle melted down. Ash's trick: she gives
@@ -300,8 +379,10 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   grain. **Fraying on-page for the first time** — the oldest things go first: Evermere's smell,
   the sound of the spires, the borrowed past paying for the chosen future. Quill on his
   shoulder as ballast: it loves *this* Oscar, not the line. Ends: the door open a hand's width.
-- **Ch38 (Wick).** The wall from her side; the count arrives THROUGH it — Kessa's voice — the
-  ritual doing on-page what it was always for. She answers. Ends: she starts to run.
+- **Ch38 (Wick).** The wall from her side; the count arrives THROUGH it — Kessa's voice, not
+  the bird's — the ritual doing on-page what it was always for. She answers. The hide under her
+  goes cold and hard: it knows. Feathers: "Perch: closing. Run." Ends: she starts to run, and
+  behind her every scar on the country opens.
 - **Ch39 (Kessa).** The hold, side one: **the third comes to close the door** — and the mirror
   duel is a *holding* duel, not a working one: he leans his century on the tear and Oscar
   leans his crew. "You don't know what you're letting through." "I know exactly who's coming
@@ -312,15 +393,19 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   Tarn's hands on Oscar, Kessa's hand in the light, Ash holding the third by nothing but his
   eyes. **"The hold is the crew's."** Turn: the fire wants to go out and Cael does not let it,
   at a cost he will keep. Ends: a shape in the door, coming — and behind it, farther, another.
-- **Ch41 (Wick, far side).** Her last miles under the entity's full weight; what she chooses
-  to stop holding so she can run (she drops the walker's relics; keeps the count and the twin
-  blank). **The threshold: the prints' owner stands at it, facing the light — the original
-  Oscar Alberich, patient, waiting for exactly this door.** He does not stop her. He steps
-  aside. Ends: she chooses to go past him.
+- **Ch41 (Wick, far side).** Her last miles under the entity's full weight, the hollows on her
+  heels; what she chooses to stop holding so she can run (she drops the walker's relics; keeps the
+  count and the twin blank). **The threshold: the prints' owner stands at it, facing the light —
+  the original Oscar Alberich, patient, waiting for exactly this door — and the bird on her
+  shoulder is his, and has been telling him about her since the first mile.** He does not stop
+  her. He does not speak. He steps aside. Feathers leaves her shoulder for his. Ends: she chooses
+  to go past him.
 - **Ch42 (Wick, the crossing).** The door from her side: her family holding it open, the hold
-  audible as voices. **The far side keeps nothing of her it can read; it never could.** She
-  steps through. Turn: what follows her to the edge — and what stops at it, because the door
-  is *hers* and she does not invite him. Ends in the world, on stone, warm.
+  audible as voices. **The far side keeps nothing of her it can read; it never could.** She steps
+  through. Turn: what follows her to the edge — a brush of feathers, a rasp, *"Perch —"* — and what
+  stops at it, because the door is *hers* and she does not invite it, and because its master is
+  standing behind her. Ends in the world, on stone, warm, with an owl on Oscar's shoulder that
+  looks at her for a long time.
 - **Ch43 (Kessa).** The catch: the scar meets the hand it remembers. The door must die; the
   token is spent as the lock — the far side loses its *made* handle on the world (Wick's own
   door, shut and hers, is the residue — Ch46, Book 3's). **The third's
@@ -339,9 +424,10 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   door-plan, kept, "in case."
 - **Ch46 (Wick — bookend).** Warm. Ordinary-warm, person-warm; no fire anywhere in her; the
   door still there behind her ribs, shut, *hers*. The count from her side: **"Five. Breathing.
-  Mine."** The Book 3 hook: **the twin blank in her pocket leans away from her, toward the
-  sealed wound** — and Wick, who knows what a rock leaning means now, does not tell anyone
-  yet.
+  Mine."** — and the owl on Oscar's shoulder says nothing, because on this side it never could.
+  The Book 3 hook: **the twin blank in her pocket leans away from her, toward the sealed wound** —
+  and Wick, who knows what a rock leaning means now, does not tell anyone yet. Second hook, hers
+  alone: she knows the bird is on both sides of that wall, and so does the man it left her for.
 
 ## Character arcs (one line each)
 
@@ -349,7 +435,10 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   fraying (loses pieces of the *borrowed* past); ends more himself with less of the original.
   Progression: reading → field architecture → **writing** (the door is authorship).
 - **Wick:** the far side is the country of holding; her curse is Book 2's mastery. Returns
-  with no fire and a key. The apprentice out-walks the masters, and walks past one.
+  with no fire and a key. The apprentice out-walks the masters, and walks past one — with his
+  own bird on her shoulder the whole way.
+- **Quill:** the only thing on both sides of the wall; chose this Oscar in the world, kept by
+  the master on the far side; wants a door it knows would eat the world; stays with the sentry.
 - **Kessa:** owns the rescue (token, summons, count, catch); Doss's whetstone-weight replaced
   by the token, then given up; the palm scar arc; she gives the order.
 - **Cael:** from mercy-that-kills to the door-rite — the waystation's cost converted into the
@@ -365,7 +454,8 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
 ## Series-extensibility notes (the author's direction: a world that supports exploration)
 
 Threads deliberately left live, each large enough for its own story: **the far side now has
-two sentries** (the master and the third) and a leaning blank on this side; **the estate** —
+two sentries** (the master and the third), **a familiar on both sides of a sealed wall**, and a
+leaning blank on this side; **the estate** —
 Greymere, its locked rooms, the family's other holdings, Ash on its paper; **the twelfth**,
 unwoken, in a crate, Ash's to decide; **the other dead-houses** ("under other countries") and
 whatever the heirs provisioned elsewhere; **the Redactor**, spent but not unmade; **the
@@ -374,7 +464,10 @@ font to serve; **the third's century** — his caches across the world, unfound.
 
 ## Continuity watch-outs (Book 2 additions)
 
-No Script on the far side, ever — Wick's chapters contain zero magic except holding · Ash
+No Script on the far side, ever — Wick's chapters contain zero magic except holding (holding a
+hollow still IS holding) · the far-side Quill is never an owl and never says its name; it never
+names the master, never explains the far side, never lies; only WORDS travel the bond (never
+warmth, never things) and the count is the first of them (Ch32) · the master sees through it · Ash
 never travels with anyone; five fixed places · "the coal" and "holding" stay Wick-private;
 "door" is licensed in all POVs · Kessa's palm scar exists; never conveniently gloved · the
 old blood aiding Oscar is debt, not wonder · Corwen and the Setter stay dead and unrevised in
@@ -386,7 +479,8 @@ Book 1 chapter references use post-fold numbering.
 ## What Book 2 must NOT do
 
 Reveal why the seat must be filled (Book 3) · resolve the master on-page (he steps aside; he
-does not speak canon) · let reading work on the far side · make the rescue Oscar's solo feat ·
+does not speak canon; the bird does not speak it for him) · make the far side a fog — every Wick
+chapter has a set piece (a hollow, a scar, the roll, the siege, the run) · let reading work on the far side · make the rescue Oscar's solo feat ·
 bring Ash on the road · give Wick a romance · cheapen Book 1's Ch40 — fraying is not a mana bar.
 
 ## Drafting order
