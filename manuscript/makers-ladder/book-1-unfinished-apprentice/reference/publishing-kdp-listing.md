@@ -41,12 +41,12 @@ make. Placeholders in `[BRACKETS]` are yours. Manuscript state at time of writin
 | Trim size | **6" × 9"** (15.24 × 22.86 cm) | see §5 |
 | Bleed | **No bleed** | text-only interior |
 | Cover finish | **Matte** | reads "trade paperback"; glossy reads "textbook" |
-| Page count (estimate) | **340 – 380 pages**: 121,841 words at 6×9, 11-pt serif, ~34 lines/page ≈ 340–360 text pages, plus ~8–12 pages of front/back matter | final number comes from the interior PDF |
-| Spine width | KDP cream: pages × 0.0025" → **360 pp ≈ 0.90"**, 380 pp ≈ 0.95". (White: × 0.002252.) | needed for the wrap cover |
-| Cover file | one full-wrap PDF: width = 0.125 + 6 + spine + 6 + 0.125 (≈ **13.03"** at 360 pp), height **9.25"** (9 + 2 × 0.125 bleed), 300 dpi, CMYK-safe. Generate the exact template from KDP's *Cover Calculator* once the interior page count is final. | |
+| Page count | **288 pages** as typeset (`tools/typeset-proof.mjs`: EB Garamond 12.5 pt on 16.5 pt leading, 4.6" measure, chapters opening recto, 4 pages of front matter). At 13 pt / 17 pt it would be ~310. | the proof PDF is the number |
+| Spine width | KDP cream: 288 × 0.0025" = **0.72"** (white: 0.65"). B&N Press uses its own calculator on the cover step — expect within a few hundredths. | needed for the wrap cover |
+| Cover file | one full-wrap PDF: width = 0.125 + 6 + 0.72 + 6 + 0.125 = **12.97"**, height **9.25"** (9 + 2 × 0.125 bleed), 300 dpi. Generate the exact template from KDP's *Cover Calculator* with 288 pages / cream. | |
 | Margins (interior PDF) | inside (gutter) **0.75"**, outside **0.6"**, top/bottom **0.7"** | KDP's minimum inside margin for 301–500 pages is 0.625"; B&N wants ≥ 0.5"; 0.75" satisfies both |
 
-**Print cost & royalty (US, b/w, 110+ pages):** print cost = $1.00 + $0.012 × pages → **360 pp ≈ $5.32**.
+**Print cost & royalty (US, b/w, 110+ pages):** print cost = $1.00 + $0.012 × pages → **288 pp ≈ $4.46** (about $0.86 less per copy than the 360-page estimate; the royalty table below still uses the conservative $5.32).
 Amazon royalty = 60% × list price − print cost. Expanded distribution (other retailers via Amazon) = 40% − print cost.
 
 | List price | Amazon royalty | Expanded dist. |
