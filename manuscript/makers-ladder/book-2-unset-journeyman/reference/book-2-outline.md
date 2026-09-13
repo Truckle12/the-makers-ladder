@@ -72,7 +72,7 @@ other half is still the master's. **Quill is the only thing that exists on both 
 **On the far side it is never an owl** (no body was brought through). It is a brush of feathers
 at her ear, talons in the wool of her coat, a weight on a shoulder with nothing on it, a dry
 rasp. It never gives its name; it doesn't know her words for anything; it calls the thing under
-them **"the Ground."** Wick names it — **[proposal] "Feathers"**. The reader knows what it is by
+them **"the Ground."** Wick names it — **"Feathers"** (author-approved 2026-09-13). The reader knows what it is by
 Ch7; Wick knows at Ch20.
 
 **Voice:** a bird's mind with three centuries of a scholar's vocabulary — terse, literal, status
