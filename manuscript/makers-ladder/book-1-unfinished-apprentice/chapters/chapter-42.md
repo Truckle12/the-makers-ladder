@@ -44,7 +44,13 @@ It didn't say anything. It never had. It didn't need to.
 
 But something in the grey leaned at her, glad.
 
-"Yeah," Wick said. "Well. I'm not staying."
+And the ground under her leaned with it.
+
+She took her hand off it. She took the whole of herself off it, up onto her feet, and there wasn't anywhere else to put her feet.
+
+There wasn't any ground. There never had been. She'd been sitting on it.
+
+"Yeah," Wick said. Her voice came out very small. "Well. I'm not staying."
 
 The wall was back, too. She couldn't see it or touch it. In the Fair House there'd been no wall, ten, nothing between her and it but her, and then she'd felt the whole place fold shut round her like a fist. The lid was back on the pot. She was in the pot.
 
@@ -126,7 +132,7 @@ And it was nothing. There wasn't a mark behind her. She'd walked a long way over
 
 She put her boot down next to the fourth scuff, hard, and made a fifth, and stood there and watched it.
 
-It went. Not fast. Like breath going off a window. And then there was the ground not being anything, and the big scuffs pointing away, and no fifth.
+It went. Not fast. Like breath going off a window. And then there was the ground not being anything, and the big scuffs pointing away across its back, and no fifth.
 
 The big ones were still there.
 

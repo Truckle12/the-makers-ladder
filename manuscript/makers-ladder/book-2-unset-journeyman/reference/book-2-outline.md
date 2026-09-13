@@ -51,6 +51,7 @@ it, waiting.
 
 ## What Book 1 left loaded (promises ledger — all canon)
 
+**THE THING (decided 2026-09-13; Book 1 bible log):** an elder evil from outside the world, a god-sized hunger with no magic in it; three names — **the Hunger** (the wild), **the Unwritten** (the House's clerks; the grimoire), **the far side** (Wick's only); the grey was one finger of it through a root; the font wore the wall thin; **the ground on the far side is the thing — Wick walks on its back in every one of her chapters**; HELD for Book 2: its whole shape (the third saw it through the wall); HELD for Book 3: the seat is a ward keyed to the bloodline — the chain needs a living hand on it, the master went through to hold the door from inside — nobody says this in Book 2 ·
 Wick alive on the far side, coal spent, following the prints (Ch42) · **her door is still in
 her, shut, and now opens toward the world** — she cannot pass through it, only things come *in*;
 opening it would let the far side into the world through her; the far side kept her for it

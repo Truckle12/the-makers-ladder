@@ -39,7 +39,7 @@ milestone (Cael east, Tarn south, Oscar north after Ash, Kessa west past the edg
 the Everset font empty-not-broken · the Setter dead (the fourth copy; Oscar is the eleventh;
 five-through-ten "never arrived") · the grimoire is the THIRD copy's book · Tarn carries
 Corwen's made coat · Quill bonded · Kessa's palm scar · the Redactor still loose · Ash never
-travels with the crew · the far side has no Script — no working functions there.
+travels with the crew · the far side has no Script — no working functions there · **the thing has three names** — the Hunger (the wild), the Unwritten (the House, the grimoire), the far side (Wick only) — and **its ground is its back** (Book 1 bible log 2026-09-13; the seat-as-ward and the master-holding-from-inside are Book 3's and are never said in Book 2).
 
 ## Book 2 hard holds (see outline §"What Book 2 must NOT do")
 No "why the seat must always be filled" cosmology (Book 3). No on-page master resolution.

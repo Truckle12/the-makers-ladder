@@ -120,6 +120,7 @@ enforceable part, so they are locked:
   POV's *narration* they are violations; in another character's *mouth* they are violations unless the
   text visibly marks the borrowing (Kessa quoting Tarn's "the pairing posted" is a borrowing; Wick
   saying "I want that noted" is Oscar's tic in her mouth — the author caught it in Ch42).
+- **The thing's three names (2026-09-13):** **the Hunger** = the wild's word (the Warden; Tarn, who fetched); **the Unwritten** = the House's and scholars' word, a clerk's word (Oscar, the Setter, Ash, paper); **the far side** = Wick's, and only hers. Never let one register use another's word unless the borrowing is on the page.
 - **Wick's words — Wick's POV only:** the coal · the door · holding · the far side ("door" allowed in
   others' mouths/narration only after the Warden names it in Ch26; before that she says "lid").
 - **The shape rule that goes with the words:** a non-Oscar character does not summarize the scene.
