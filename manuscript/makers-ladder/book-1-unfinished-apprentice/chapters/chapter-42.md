@@ -16,7 +16,7 @@ She got up, because lying there wasn't going to be any warmer.
 
 ---
 
-There was ground. It held her. There was a down and so there was an up, and there was a sort of light, low and grey and coming from nowhere in particular, and she kept trying to catch where it came from and it wouldn't say.
+There was ground. It held her. There was a down and so there was an up, and there was a sort of light, low and grey and coming from nowhere in particular.
 
 There was no sky. She looked for a long time. Then she stopped, because it was making her feel sick.
 
@@ -56,27 +56,41 @@ It could have. It had come through her like a dog through a gap in a hedge and i
 
 You don't eat the door. You keep the door.
 
-She put her hand on her chest again, and there it was. Not the coal. The other thing. The shut place. Her door, right where it had always been, behind her ribs, cold as the rest of her now, and closed, and *hers.* Course it had come with her. Where else was it going to go.
+She put her hand on her chest again, and there it was. Not the coal. The other thing. The shut place. Her door, right where it had always been, behind her ribs, closed, and *hers.* Course it had come with her. Where else was it going to go.
 
-All her life it had faced this. Eight years with her back against it, keeping this out. And she was in this now. So what was on the other side of it was home. Bread. The four of them. That.
+And it wasn't cold.
 
-Her hand actually moved. She felt it start to do the thing, the letting-go, the thing she'd never done once in her life, because it was the obvious thing, wasn't it, you're the wrong side of a door so you open it —
+Everything else in her was cold. Her hands, her feet, her face, the whole of her, cold like a person for the first time in her life. And under her palm, at the shut place, right along the bottom edge of it, there was a thread of warm.
 
-She stopped. She sat with her hand on her chest and her heart going and made herself be not stupid.
+Like a draught under a door.
+
+She knew what it was before she let herself know it. All her life the door had faced this. Eight years with her back against it, keeping this out. And she was in this now. So what was on the other side of the door now was the world. The bread ovens and the pie stalls and the grandmother on her step and Cael's stupid enormous hands. All of it, an inch of her away, leaking warm under the door like a kitchen at night when you're the one sleeping in the yard.
+
+She put both hands over it and just breathed for a bit.
+
+---
+
+Then her hand moved.
+
+She felt it start to do the thing, the letting-go, the thing she'd never done once in her life, because it was the obvious thing, wasn't it, you're cold and you're the wrong side of a door and it's warm in there, so you open it —
+
+She stopped. She sat with both hands on her chest and her heart going and made herself be not stupid.
 
 She'd never gone through it. Not once. Things came *in.* It was a mouth's door. If she opened it now she wouldn't go anywhere.
 
 *It* would.
 
-Into the pie stalls and the grandmother on her step and the man with the bucket and Cael's stupid enormous hands. Through her. One glad swallow.
+Through her, into the warm. One glad swallow. And it wouldn't stop at the pie stalls.
 
 "No," Wick said.
 
-And it asked. Straight off, sweet as anything, the same as every single night since she was eight, only from every side now, and taking its time about it, because it had her and it had nowhere to be. *Rest. Set it down. You've held it long enough.*
+And it asked. Straight off, sweet as anything, the same as every single night since she was eight, only from every side now, and taking its time about it, because it had her and it had nowhere to be. *Rest. Set it down. You've held it long enough. It's warm in there.*
+
+It could feel the draught as well as she could. Better. That was what it was so pleased about. It had never once got this close to a kitchen.
 
 "No," she said again. She said it to the ground.
 
-She'd always had a fire to say it with. Now she had nothing and a wet nose, and it'd be every night. Here. She had no idea if she could, and she wasn't going to find out by sitting down.
+She'd always had a fire to say it with. Now she had nothing and a wet nose, and it'd be every night. Here. With the warm coming under the door the whole time.
 
 She wiped it on her sleeve and got up.
 
@@ -116,12 +130,22 @@ Wick stood over it with her heart going like a bird in a box, and there wasn't a
 
 She looked back the way she'd come, once, at nothing.
 
-Then she put her boot down next to the fourth scuff and made a fifth.
+And it was nothing. There wasn't a mark behind her. She'd walked a long way over that ground, she'd dragged her feet like a kid the whole last bit, and there wasn't one scuff of hers on it, all the way back to wherever she'd woken up. The grey had closed over her like water.
+
+She put her boot down next to the fourth scuff, hard, and made a fifth, and stood there and watched it.
+
+It went. Not fast. Like breath going off a window. And then there was the ground not being anything, and the four big scuffs pointing away, and no fifth.
+
+The big ones were still there.
+
+She looked at them a long time. She knew what it meant, because holding was the one thing she'd ever been any good at. Marks didn't stay here. These had. Somebody was still holding them.
+
+Whoever had walked here hadn't just got here first. They were still here. Somewhere out ahead, in the grey, holding on.
 
 "Four," she said out loud. Kessa made her promise. "Four of them. Breathing. Mine."
 
-Nothing answered. There was a wall now, and she was the wrong side of it.
+Nothing answered. There was a wall now, and she was the wrong side of it, and there was a warm draught under a door she was never going to open.
 
 All round her it was glad and it was full and it wasn't going anywhere. It was waiting for her to get tired.
 
-Wick put her head down and started walking.
+Wick put her head down and went after the boots.
