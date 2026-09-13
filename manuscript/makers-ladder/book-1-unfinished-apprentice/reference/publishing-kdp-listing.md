@@ -44,7 +44,7 @@ make. Placeholders in `[BRACKETS]` are yours. Manuscript state at time of writin
 | Page count | **288 pages** as typeset (`tools/typeset-proof.mjs`: EB Garamond 12.5 pt on 16.5 pt leading, 4.6" measure, chapters opening recto, 4 pages of front matter). At 13 pt / 17 pt it would be ~310. | the proof PDF is the number |
 | Spine width | KDP cream: 288 × 0.0025" = **0.72"** (white: 0.65"). B&N Press uses its own calculator on the cover step — expect within a few hundredths. | needed for the wrap cover |
 | Cover file | one full-wrap PDF: width = 0.125 + 6 + 0.72 + 6 + 0.125 = **12.97"**, height **9.25"** (9 + 2 × 0.125 bleed), 300 dpi. Generate the exact template from KDP's *Cover Calculator* with 288 pages / cream. | |
-| Margins (interior PDF) | inside (gutter) **0.75"**, outside **0.6"**, top/bottom **0.7"** | KDP's minimum inside margin for 301–500 pages is 0.625"; B&N wants ≥ 0.5"; 0.75" satisfies both |
+| Margins (interior PDF) | as typeset: **0.7"** left and right (same both sides, so the gutter is 0.7" on every page), **0.75"** top and bottom (running head and page number sit in them) | KDP's minimum inside margin for 151–300 pages is 0.5" (0.625" from 301 up); B&N wants ≥ 0.5"; 0.7" clears both |
 
 **Print cost & royalty (US, b/w, 110+ pages):** print cost = $1.00 + $0.012 × pages → **288 pp ≈ $4.46** (about $0.86 less per copy than the 360-page estimate; the royalty table below still uses the conservative $5.32).
 Amazon royalty = 60% × list price − print cost. Expanded distribution (other retailers via Amazon) = 40% − print cost.
