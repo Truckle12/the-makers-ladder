@@ -1,6 +1,6 @@
 ---
 id: b2-ch01-draft
-status: ready
+status: draft
 persona_name: chapter-drafter
 persona_file: prompts/personas/chapter-drafter.md
 target: manuscript/makers-ladder/book-2-unset-journeyman/chapters/chapter-01.md
@@ -13,4 +13,4 @@ Chapters are drafted one at a time, in order. When this chapter is reviewed, lab
 The outline is RATIFIED (rev3, 2026-09-10 — all ten Open Decisions ruled; see the Book 2 bible §Status and §Decisions Log). Anything the outline marks `[proposal]` (the third's chosen name, the heir cousin's name, the estate's name, Ash's metaphor field) is NOT yet author-approved: if this chapter reaches one, flag it `[FOR THE AUTHOR]` and write around it without inventing canon. Ch1 is Wick POV on the far side — no reading, no working functions there (series lock).
 
 ## Approved outline
-Read the approved outline at `manuscript/makers-ladder/book-2-unset-journeyman/reference/book-2-outline.md` (source: main — rev3, ratified 2026-09-10) and draft to its Ch01 entry.
+Read the approved outline at `manuscript/makers-ladder/book-2-unset-journeyman/reference/book-2-outline.md` (source: main — rev4, 2026-09-13; author reviewing before ignition) and draft to its Ch01 entry.
