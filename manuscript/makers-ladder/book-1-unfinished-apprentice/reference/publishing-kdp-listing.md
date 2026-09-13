@@ -16,7 +16,7 @@ make. Placeholders in `[BRACKETS]` are yours. Manuscript state at time of writin
 | Subtitle | *(leave blank — the Series field carries "Book 1"; a subtitle here just clutters the cover-to-listing match)* |
 | Series | **The Maker's Ladder**, Book **1** — set up in KDP's *Series Manager* (Bookshelf → "+ Create a series"); tick "display series title on product page" |
 | Edition number | *(blank — first edition)* |
-| Author | `[PEN NAME]` — decide now; it must match the cover and every later book exactly. The current EPUB metadata says "Truckle" (your handle). |
+| Author | **J K Alberich** (decided 2026-09-13). Use exactly this form everywhere — cover, KDP author field, copyright page, Author Central, B&N. If you would rather typeset it "J. K. Alberich" with periods, decide once and never mix the two. |
 | Contributors | none required. If a cover artist is credited, add as *Illustrator* or *Cover Design* only if they want it on the record. |
 | Description | see §3 — paste the **long blurb** (HTML allowed, ≤ 4,000 characters) |
 | Publishing rights | "I own the copyright and I hold the necessary publishing rights" |
@@ -36,7 +36,7 @@ make. Placeholders in `[BRACKETS]` are yours. Manuscript state at time of writin
 | Field | Value | Why |
 |---|---|---|
 | ISBN | **Buy your own** (Bowker, US: 1 for $125 / 10 for $295) if you intend to print at Barnes & Noble too. KDP's free ISBN may only be used on Amazon; B&N Press's free ISBN may only be used on B&N. One book, two free ISBNs = two "different" books in the trade databases. Your own ISBN travels everywhere. | one edition, one ISBN |
-| Imprint | `[IMPRINT NAME]` — the publisher name registered with your ISBN (can be your pen name or a made-up press) | prints on the copyright page and the listing |
+| Imprint | **What it is:** just the publisher's name — the line on the copyright page and in the listing's *Publisher* field. Traditional houses have many (Tor is an imprint of Macmillan). For a self-publisher it is a name you make up. **If you use KDP's free ISBN you cannot set one:** the publisher shows as "Independently published". **If you buy your own ISBN**, you register an imprint name with it at Bowker and it prints on every book. Options: your pen name (fine, simplest), or a small press name from the book's own world — *Larchwall Press* (Evermere's Larchwall), *Edge-Stone Books*, *Far Side Press*. The proof uses **J K Alberich** as the publisher line for now. | prints on the copyright page and the listing |
 | Interior & paper | **Black & white interior, CREAM paper** | cream is the fiction convention; white is for non-fiction/illustrated |
 | Trim size | **6" × 9"** (15.24 × 22.86 cm) | see §5 |
 | Bleed | **No bleed** | text-only interior |
