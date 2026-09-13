@@ -16,7 +16,7 @@ make. Placeholders in `[BRACKETS]` are yours. Manuscript state at time of writin
 | Subtitle | *(leave blank — the Series field carries "Book 1"; a subtitle here just clutters the cover-to-listing match)* |
 | Series | **The Maker's Ladder**, Book **1** — set up in KDP's *Series Manager* (Bookshelf → "+ Create a series"); tick "display series title on product page" |
 | Edition number | *(blank — first edition)* |
-| Author | **J K Alberich** (decided 2026-09-13). Use exactly this form everywhere — cover, KDP author field, copyright page, Author Central, B&N. If you would rather typeset it "J. K. Alberich" with periods, decide once and never mix the two. |
+| Author | **J. K. Alberich** (decided 2026-09-13, with the periods). Use exactly this form everywhere — cover, KDP author field, copyright page, Author Central, B&N. On the cover art it is set in caps: J. K. ALBERICH. |
 | Contributors | none required. If a cover artist is credited, add as *Illustrator* or *Cover Design* only if they want it on the record. |
 | Description | see §3 — paste the **long blurb** (HTML allowed, ≤ 4,000 characters) |
 | Publishing rights | "I own the copyright and I hold the necessary publishing rights" |
@@ -36,7 +36,7 @@ make. Placeholders in `[BRACKETS]` are yours. Manuscript state at time of writin
 | Field | Value | Why |
 |---|---|---|
 | ISBN | **Buy your own** (Bowker, US: 1 for $125 / 10 for $295) if you intend to print at Barnes & Noble too. KDP's free ISBN may only be used on Amazon; B&N Press's free ISBN may only be used on B&N. One book, two free ISBNs = two "different" books in the trade databases. Your own ISBN travels everywhere. | one edition, one ISBN |
-| Imprint | **What it is:** just the publisher's name — the line on the copyright page and in the listing's *Publisher* field. Traditional houses have many (Tor is an imprint of Macmillan). For a self-publisher it is a name you make up. **If you use KDP's free ISBN you cannot set one:** the publisher shows as "Independently published". **If you buy your own ISBN**, you register an imprint name with it at Bowker and it prints on every book. Options: your pen name (fine, simplest), or a small press name from the book's own world — *Larchwall Press* (Evermere's Larchwall), *Edge-Stone Books*, *Far Side Press*. The proof uses **J K Alberich** as the publisher line for now. | prints on the copyright page and the listing |
+| Imprint | **What it is:** just the publisher's name — the line on the copyright page and in the listing's *Publisher* field. Traditional houses have many (Tor is an imprint of Macmillan). For a self-publisher it is a name you make up. **If you use KDP's free ISBN you cannot set one:** the publisher shows as "Independently published". **If you buy your own ISBN**, you register an imprint name with it at Bowker and it prints on every book. **Decided 2026-09-13: Far Side Press.** Register it as the publisher/imprint when you buy the ISBN at Bowker (the "Publisher" field on the ISBN record); until then it is only a name on the copyright page. | prints on the copyright page and the listing |
 | Interior & paper | **Black & white interior, CREAM paper** | cream is the fiction convention; white is for non-fiction/illustrated |
 | Trim size | **6" × 9"** (15.24 × 22.86 cm) | see §5 |
 | Bleed | **No bleed** | text-only interior |
@@ -107,7 +107,7 @@ Comparable debut epic fantasy paperbacks at this length list $16.99–$19.99. **
 
 ### Author bio (`[EDIT]` — 60–100 words, third person)
 
-> `[PEN NAME]` writes epic fantasy with hard rules and soft people. *The Unfinished Apprentice* is the first book of The Maker's Ladder. `[One human sentence: where you live / what you do when not writing / the thing about you readers like.]` Book Two, *The Unset Journeyman*, is in progress.
+> J. K. Alberich writes epic fantasy with hard rules and soft people. *The Unfinished Apprentice* is the first book of The Maker's Ladder. `[One human sentence: where you live / what you do when not writing / the thing about you readers like.]` Book Two, *The Unset Journeyman*, is in progress.
 
 ---
 
@@ -165,10 +165,10 @@ Cover: if the art is AI-generated (Firefly, Express, etc.), disclose **Images: A
 **Copyright page (draft):**
 
 > *The Unfinished Apprentice*
-> Copyright © `[YEAR]` by `[PEN NAME]`. All rights reserved.
+> Copyright © `[YEAR]` by J. K. Alberich. All rights reserved.
 > This is a work of fiction. Names, characters, places, and incidents are the product of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, or locales is coincidental.
 > No part of this book may be reproduced in any form without written permission from the author, except for brief quotations in reviews.
-> Published by `[IMPRINT]`. First edition `[MONTH YEAR]`.
+> Published by Far Side Press. First edition `[MONTH YEAR]`.
 > ISBN `[978-X-XXXXXX-XX-X]` (paperback) · ISBN `[…]` (eBook)
 > Cover by `[NAME / TOOL]`.
 > The Maker's Ladder: Book One.
