@@ -31,8 +31,9 @@
 ## Book 1 end-state the drafter inherits (all canon; full detail in the Book 1 bible + outline §promises ledger)
 Wick alive on the far side, coal spent, following bootprints · **her door still in her, shut,
 opening toward the world** (she cannot pass through it — only things come *in*; the far side kept
-her for it and asks her nightly to set it down; the wall closed behind her — Ch42, reworked
-2026-09-11; Book 1 bible log) · the token in Kessa's pocket
+her for it and asks her nightly to set it down; the wall closed behind her; **a draught of
+world-warmth under the shut door — warmth only, never sound/smell/voice**; **her marks don't stay,
+the walker's do — read as "held", nothing more** — Ch42, reworked 2026-09-11/13; Book 1 bible log) · the token in Kessa's pocket
 going west (it tracks the plane Wick is on; nobody knows this yet) · crew split four ways at a
 milestone (Cael east, Tarn south, Oscar north after Ash, Kessa west past the edge-stones) ·
 the Everset font empty-not-broken · the Setter dead (the fourth copy; Oscar is the eleventh;

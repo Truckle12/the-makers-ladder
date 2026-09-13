@@ -8,7 +8,7 @@ Then she remembered.
 
 She put a hand flat on her chest and went looking for the coal.
 
-Nothing. Not banked. Not low. She'd had it since before she had teeth and she'd never once had to go looking for it, and now there was nowhere to look. Her hand just lay there on her shirt like anybody's hand.
+Nothing. Not banked. Not low. She'd had it since before she could talk and she'd never once had to go looking for it, and now there was nowhere to look. Her hand just lay there on her shirt like anybody's hand.
 
 "Right," she said, out loud, to nobody. Her voice came out thin. "Right. Okay."
 
@@ -46,6 +46,12 @@ But something in the grey leaned at her, glad.
 
 "Yeah," Wick said. "Well. I'm not staying."
 
+The wall was back, too. She couldn't see it or touch it. In the Fair House there'd been no wall, ten, nothing between her and it but her, and then she'd felt the whole place fold shut round her like a fist. The lid was back on the pot. She was in the pot.
+
+She reached for her pocket, for the rock, because that was what her hand did when it was all too much, and the pocket was empty. She stood there with two fingers in it.
+
+"Course," she said. "Course it is."
+
 ---
 
 It hadn't eaten her.
@@ -60,11 +66,11 @@ She put her hand on her chest again, and there it was. Not the coal. The other t
 
 And it wasn't cold.
 
-Everything else in her was cold. Her hands, her feet, her face, the whole of her, cold like a person for the first time in her life. And under her palm, at the shut place, right along the bottom edge of it, there was a thread of warm.
+Everything else in her was cold. Her hands, her feet, her face, the whole of her, cold for the first time in her life. And under her palm, at the shut place, right along the bottom edge of it, there was a thread of warm.
 
 Like a draught under a door.
 
-She knew what it was before she let herself know it. All her life the door had faced this. Eight years with her back against it, keeping this out. And she was in this now. So what was on the other side of the door now was the world. The bread ovens and the pie stalls and the grandmother on her step and Cael's stupid enormous hands. All of it, an inch of her away, leaking warm under the door like a kitchen at night when you're the one sleeping in the yard.
+She knew. She didn't want to. All her life the door had faced this. Eight years with her back against it, keeping this out. And she was in this now. So what was on the other side of the door now was the world. The bread ovens and the pie stalls and the grandmother on her step and Cael's stupid enormous hands. All of it, an inch of her away, leaking warm under the door like a kitchen at night when you're the one sleeping in the yard. No sound in it. No smell. Just warm.
 
 She put both hands over it and just breathed for a bit.
 
@@ -86,27 +92,13 @@ Through her, into the warm. One glad swallow. And it wouldn't stop at the pie st
 
 And it asked. Straight off, sweet as anything, the same as every single night since she was eight, only from every side now, and taking its time about it, because it had her and it had nowhere to be. *Rest. Set it down. You've held it long enough. It's warm in there.*
 
-It could feel the draught as well as she could. Better. That was what it was so pleased about. It had never once got this close to a kitchen.
+It could feel the draught as well as she could. Better. So that was it. Not the meal. This. It had never once had a kitchen.
 
 "No," she said again. She said it to the ground.
 
 She'd always had a fire to say it with. Now she had nothing and a wet nose, and it'd be every night. Here. With the warm coming under the door the whole time.
 
 She wiped it on her sleeve and got up.
-
----
-
-The wall was back.
-
-She couldn't see it. She couldn't touch it. But in the Fair House there'd been no wall, ten, nothing between her and it but her, and then she'd felt the whole place fold shut round her like a fist, and now it was shut. She could feel it the way you feel a door close in a dark room and know the room got smaller. The lid was back on the pot.
-
-She was in the pot.
-
-She reached for her pocket, for the rock, because that was what her hand did when it was all too much, and the pocket was empty.
-
-She stood there with two fingers in it.
-
-"Course," she said. "Course it is."
 
 ---
 
@@ -118,7 +110,7 @@ It took her a long time to walk to it. She couldn't have said how long. She coun
 
 It was a scuff.
 
-That was all. A drag in the not-ground about as long as a boot, and another one after it, and a third. Then a fourth, further on, pointing away toward wherever the grey stopped.
+That was all. A drag in the not-ground about as long as a boot, and another one after it, and a third. Then a fourth, further on, pointing away toward wherever it all stopped.
 
 Somebody had walked here.
 
@@ -130,21 +122,21 @@ Wick stood over it with her heart going like a bird in a box, and there wasn't a
 
 She looked back the way she'd come, once, at nothing.
 
-And it was nothing. There wasn't a mark behind her. She'd walked a long way over that ground, she'd dragged her feet like a kid the whole last bit, and there wasn't one scuff of hers on it, all the way back to wherever she'd woken up. The grey had closed over her like water.
+And it was nothing. There wasn't a mark behind her. She'd walked a long way over that ground, she'd dragged her feet like a kid the whole last bit, and there wasn't one scuff of hers on it, all the way back to wherever she'd woken up. It hadn't kept one. It hadn't so much as noticed her.
 
 She put her boot down next to the fourth scuff, hard, and made a fifth, and stood there and watched it.
 
-It went. Not fast. Like breath going off a window. And then there was the ground not being anything, and the four big scuffs pointing away, and no fifth.
+It went. Not fast. Like breath going off a window. And then there was the ground not being anything, and the big scuffs pointing away, and no fifth.
 
 The big ones were still there.
 
-She looked at them a long time. She knew what it meant, because holding was the one thing she'd ever been any good at. Marks didn't stay here. These had. Somebody was still holding them.
+She looked at them a long time. She didn't know why hers went and theirs didn't. But she knew what it looked like when something was being held. She'd been doing it since she was eight.
 
-Whoever had walked here hadn't just got here first. They were still here. Somewhere out ahead, in the grey, holding on.
+Somebody was holding those.
 
 "Four," she said out loud. Kessa made her promise. "Four of them. Breathing. Mine."
 
-Nothing answered. There was a wall now, and she was the wrong side of it, and there was a warm draught under a door she was never going to open.
+Nothing answered.
 
 All round her it was glad and it was full and it wasn't going anywhere. It was waiting for her to get tired.
 

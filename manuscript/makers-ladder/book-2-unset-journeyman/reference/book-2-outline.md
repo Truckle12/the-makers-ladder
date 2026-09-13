@@ -54,8 +54,12 @@ it, waiting.
 Wick alive on the far side, coal spent, following the prints (Ch42) · **her door is still in
 her, shut, and now opens toward the world** — she cannot pass through it, only things come *in*;
 opening it would let the far side into the world through her; the far side kept her for it
-("You don't eat the door. You keep the door.") and asks her nightly to set it down (Ch42,
-reworked 2026-09-11) · **the wall closed behind her** — she is on its wrong side; Ch40's "no
+("You don't eat the door. You keep the door.") and asks her nightly to set it down — *"It's warm
+in there"* (Ch42, reworked 2026-09-11/13) · **the draught: world-warmth leaks under her shut
+door — warmth ONLY, never sound, smell or voice** (first contact remains Ch32's count through the
+wall) · **her own marks do not stay on the far side; the walker's four scuffs do** — she reads
+them as *held* and nothing more ("Somebody was holding those."); Ch1's rule, Ch14's erasure and
+Ch41's living owner keep their discoveries (Ch42) · **the wall closed behind her** — she is on its wrong side; Ch40's "no
 wall" was the crossing's peak only (Ch42) · the token in Kessa's
 pocket going west, tracking the plane Wick is on, unknown to anyone (Ch41) · crew split four
 ways at the milestone: Cael east to a hearth, Tarn south "to be found," Oscar north after Ash
