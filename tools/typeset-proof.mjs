@@ -1,7 +1,8 @@
 // tools/typeset-proof.mjs — paperback interior PDF for a KDP / B&N Press proof.
-// Deps (NOT in package.json on purpose): `npm i playwright-core pdf-lib` in a scratch dir, plus the
-// four EB Garamond TTFs from Google Fonts in `${S}/fonts/` (see the KDP worksheet §5 for the spec).
-// Set S to that scratch dir, PEN_NAME / IMPRINT in the env. Output: The-Unfinished-Apprentice-PROOF-6x9.pdf.
+// Deps (NOT in package.json on purpose): `npm i playwright-core pdf-lib hyphen` in a scratch dir, plus the
+// font TTFs from Google Fonts in `${S}/fonts/` (EB Garamond, Libre Baskerville, Crimson Pro; see FACES).
+// Env: S (scratch dir), FONT=libre|ebg|crimson, FONT_PT, LEAD_PT, SIDE_IN, TB_IN, DROP_IN, PEN_NAME, IMPRINT, OUT_PDF.
+// The shipped proof (2026-09-13): FONT=libre FONT_PT=13 LEAD_PT=19 SIDE_IN=0.9 TB_IN=0.85 -> 402 pages.
 // Proof interior: 6x9, cream-ready b/w, EB Garamond, running head + page numbers,
 // chapters open recto. Renders with the preinstalled Chromium via playwright-core,
 // measures each chapter, inserts blanks so every chapter starts on a right-hand page,
@@ -9,6 +10,7 @@
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { chromium } from "playwright-core";
 import { PDFDocument } from "pdf-lib";
+import hyphenEn from "hyphen/en-us/index.js"; const { hyphenateSync } = hyphenEn;
 
 const CH_DIR = "/home/user/the-forge/manuscript/makers-ladder/book-1-unfinished-apprentice/chapters/";
 const S = "/tmp/claude-0/-home-user-the-forge/7cc0ebb2-f4a5-5794-a7a1-533cc8d535d8/scratchpad";
@@ -19,27 +21,37 @@ const SERIES = "The Maker's Ladder · Book One";
 const AUTHOR = process.env.PEN_NAME || "[PEN NAME]";
 const IMPRINT = process.env.IMPRINT || "[IMPRINT]";
 const YEAR = new Date().getFullYear();
+const PT = process.env.FONT_PT || "13"; const LEAD = process.env.LEAD_PT || "17.5"; const SIDE = process.env.SIDE_IN || "0.8"; const TB = process.env.TB_IN || "0.8"; const DROP = process.env.DROP_IN || "2.3";
 
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-const inline = (s) => esc(s).replace(/\*([^*]+)\*/g, "<em>$1</em>");
+// typographic quotes + soft hyphens (Chromium on this box has no hyphenation dictionary)
+function smart(t) {
+  return t
+    .replace(/(^|[\s(\[—–-])"/g, "$1\u201C").replace(/"/g, "\u201D")
+    .replace(/(^|[\s(\[—–-])'(?=\w)/g, "$1\u2018").replace(/'/g, "\u2019")
+    .replace(/\.\.\./g, "\u2026");
+}
+const inline = (s) => esc(hyphenateSync(smart(s), { minWordLength: 6 })).replace(/\*([^*]+)\*/g, "<em>$1</em>");
 
 const b64 = (f) => "data:font/ttf;base64," + readFileSync(`${S}/fonts/${f}`).toString("base64");
-const FONT_CSS = `
-@font-face{font-family:"EBG";src:url("${b64("EBGaramond-normal-400.ttf")}") format("truetype");font-weight:400;font-style:normal}
-@font-face{font-family:"EBG";src:url("${b64("EBGaramond-italic-400.ttf")}") format("truetype");font-weight:400;font-style:italic}
-@font-face{font-family:"EBG";src:url("${b64("EBGaramond-normal-500.ttf")}") format("truetype");font-weight:500;font-style:normal}
-@font-face{font-family:"EBG";src:url("${b64("EBGaramond-normal-600.ttf")}") format("truetype");font-weight:600;font-style:normal}`;
+const FONT = process.env.FONT || "ebg";
+const FACES = {
+  ebg: [["EBGaramond-normal-400.ttf",400,"normal"],["EBGaramond-italic-400.ttf",400,"italic"],["EBGaramond-normal-500.ttf",500,"normal"],["EBGaramond-normal-600.ttf",600,"normal"]],
+  libre: [["libre-normal-400.ttf",400,"normal"],["libre-italic-400.ttf",400,"italic"],["libre-normal-700.ttf",500,"normal"],["libre-normal-700.ttf",600,"normal"]],
+  crimson: [["crimson-normal-400.ttf",400,"normal"],["crimson-italic-400.ttf",400,"italic"],["crimson-normal-500.ttf",500,"normal"],["crimson-normal-600.ttf",600,"normal"]],
+}[FONT];
+const FONT_CSS = FACES.map(([f,w,st]) => `@font-face{font-family:"EBG";src:url("${b64(f)}") format("truetype");font-weight:${w};font-style:${st}}`).join("\n");
 
 const CSS = `${FONT_CSS}
 @page { size: 6in 9in; margin: 0; }
 html, body { margin: 0; padding: 0; }
-body { font-family: "EBG", Georgia, serif; font-size: 12.5pt; line-height: 16.5pt; color: #000; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+body { font-family: "EBG", Georgia, serif; font-size: ${PT}pt; line-height: ${LEAD}pt; color: #000; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
 p { margin: 0; text-indent: 1.25em; orphans: 2; widows: 2; }
 p.noindent, h2 + p, .sep + p { text-indent: 0; }
 p.sep { text-indent: 0; text-align: center; margin: 14pt 0 14pt; letter-spacing: 0.35em; }
 em { font-style: italic; }
 .chapter { break-before: page; }
-.chapter .num { margin: 2.0in 0 0; text-align: center; font-variant: small-caps; letter-spacing: 0.12em; font-size: 11pt; text-indent: 0; }
+.chapter .num { margin: ${DROP}in 0 0; text-align: center; font-variant: small-caps; letter-spacing: 0.12em; font-size: 11pt; text-indent: 0; }
 .chapter h2 { margin: 6pt 0 30pt; text-align: center; font-weight: 500; font-size: 20pt; line-height: 24pt; letter-spacing: 0.02em; }
 .blank { break-before: page; height: 1pt; }
 .front { break-before: page; text-align: center; text-indent: 0; }
@@ -89,7 +101,7 @@ const frontMatter = doc(`
 const browser = await chromium.launch({ executablePath: CHROME, args: ["--allow-file-access-from-files"] });
 const page = await browser.newPage();
 
-const MARGIN = { top: "0.75in", bottom: "0.75in", left: "0.7in", right: "0.7in" };
+const MARGIN = { top: `${TB}in`, bottom: `${TB}in`, left: `${SIDE}in`, right: `${SIDE}in` };
 async function render(html, file, opts = {}) {
   await page.setContent(html, { waitUntil: "load" });
   await page.evaluate(() => document.fonts.ready);
@@ -125,6 +137,6 @@ for (const f of [`${OUT_DIR}/front.pdf`, `${OUT_DIR}/body.pdf`]) {
   pages.forEach((p) => out.addPage(p));
 }
 out.setTitle(TITLE); out.setAuthor(AUTHOR);
-const final = `${S}/The-Unfinished-Apprentice-PROOF-6x9.pdf`;
+const final = process.env.OUT_PDF || `${S}/The-Unfinished-Apprentice-PROOF-6x9.pdf`;
 writeFileSync(final, await out.save());
 console.log(JSON.stringify({ frontPages, bodyPages, total: frontPages + bodyPages, perChapter: counts, out: final }));

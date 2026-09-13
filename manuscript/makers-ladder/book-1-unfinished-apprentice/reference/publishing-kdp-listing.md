@@ -41,22 +41,23 @@ make. Placeholders in `[BRACKETS]` are yours. Manuscript state at time of writin
 | Trim size | **6" × 9"** (15.24 × 22.86 cm) | see §5 |
 | Bleed | **No bleed** | text-only interior |
 | Cover finish | **Matte** | reads "trade paperback"; glossy reads "textbook" |
-| Page count | **288 pages** as typeset (`tools/typeset-proof.mjs`: EB Garamond 12.5 pt on 16.5 pt leading, 4.6" measure, chapters opening recto, 4 pages of front matter). At 13 pt / 17 pt it would be ~310. | the proof PDF is the number |
-| Spine width | KDP cream: 288 × 0.0025" = **0.72"** (white: 0.65"). B&N Press uses its own calculator on the cover step — expect within a few hundredths. | needed for the wrap cover |
-| Cover file | one full-wrap PDF: width = 0.125 + 6 + 0.72 + 6 + 0.125 = **12.97"**, height **9.25"** (9 + 2 × 0.125 bleed), 300 dpi. Generate the exact template from KDP's *Cover Calculator* with 288 pages / cream. | |
-| Margins (interior PDF) | as typeset: **0.7"** left and right (same both sides, so the gutter is 0.7" on every page), **0.75"** top and bottom (running head and page number sit in them) | KDP's minimum inside margin for 151–300 pages is 0.5" (0.625" from 301 up); B&N wants ≥ 0.5"; 0.7" clears both |
+| Page count | **402 pages** as typeset (`tools/typeset-proof.mjs`: Libre Baskerville 13 pt on 19 pt leading, 4.2" measure, hyphenated, typographic quotes, chapters opening recto, 4 pages of front matter) — the author asked for a Dungeon-Crawler-Carl-sized book (~330 words/page). An earlier EB Garamond setting made 288. | the proof PDF is the number |
+| Spine width | KDP cream: 402 × 0.0025" = **1.005"** (white: 0.905"). B&N Press uses its own calculator on the cover step — expect within a few hundredths. | needed for the wrap cover |
+| Cover file | one full-wrap PDF: width = 0.125 + 6 + 1.005 + 6 + 0.125 = **13.255"**, height **9.25"** (9 + 2 × 0.125 bleed), 300 dpi. Generate the exact template from KDP's *Cover Calculator* with 402 pages / cream. | |
+| Margins (interior PDF) | as typeset: **0.9"** left and right (same both sides, so the gutter is 0.9" on every page), **0.85"** top and bottom (running head and page number sit in them) | KDP's minimum inside margin for 301–500 pages is 0.625"; B&N wants ≥ 0.5"; 0.9" clears both with room |
 
-**Print cost & royalty (US, b/w, 110+ pages):** print cost = $1.00 + $0.012 × pages → **288 pp ≈ $4.46** (about $0.86 less per copy than the 360-page estimate; the royalty table below still uses the conservative $5.32).
+**Print cost & royalty (US, b/w, 110+ pages):** print cost = $1.00 + $0.012 × pages → **402 pp ≈ $5.82**.
 Amazon royalty = 60% × list price − print cost. Expanded distribution (other retailers via Amazon) = 40% − print cost.
 
 | List price | Amazon royalty | Expanded dist. |
 |---|---|---|
-| $15.99 | $4.27 | $1.08 |
-| $16.99 | $4.87 | $1.48 |
-| **$17.99** | **$5.47** | $1.88 |
-| $18.99 | $6.07 | $2.28 |
+| $15.99 | $3.77 | $0.58 |
+| $16.99 | $4.37 | $0.98 |
+| **$17.99** | **$4.97** | $1.38 |
+| $18.99 | $5.57 | $1.78 |
+| $19.99 | $6.17 | $2.18 |
 
-Comparable debut epic fantasy paperbacks at this length list $16.99–$19.99. **Recommend $17.99.**
+Comparable debut epic fantasy paperbacks at this length list $16.99–$19.99. **Recommend $17.99** ($18.99 is defensible at 400 pages).
 
 **eBook:** list **$4.99** → 70% royalty band ($2.99–$9.99) − delivery fee (~$0.15 for a text-only EPUB) ≈ **$3.34** per sale. $5.99 ≈ $4.04. Launch at $4.99, raise to $5.99 when Book 2 exists.
 
