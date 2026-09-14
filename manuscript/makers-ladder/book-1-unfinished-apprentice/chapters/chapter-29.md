@@ -12,15 +12,15 @@ Four. And no body. She made herself hold on to the second half of that. No body.
 
 "We go back." Wick's voice came out scorched. "Now. Right now. We go back and we take him —"
 
-"We go back at dark." Kessa didn't raise her voice. Raising it fed the fire; she'd learned that early. "The road belongs to the finder till the light's gone. He's got three men still standing, kit that hits harder than the arm swinging it, and a working I can't cut sitting on ground he chose twice." She looked at the girl straight, because Wick trusted nothing that came at her sideways. "And he doesn't have Oscar."
+"We go back at dark." Kessa didn't raise her voice. "The road belongs to the finder till the light's gone. He's got three men still standing, kit that hits harder than the arm swinging it, and a working I can't cut sitting on ground he chose twice." She looked at the girl straight, because Wick trusted nothing that came at her sideways. "And he doesn't have Oscar."
 
-That landed. Wick's breathing hitched down a notch. "The woman."
+Wick's breathing hitched down a notch. "The woman."
 
-"The woman," Kessa said. "Who walked onto a watched road out of nowhere, took him off the man who'd bound him, and was gone before the finder shut his mouth. Whoever she is, she beat Corwen to the prize with the trap already sprung." She let that sit where all of them could see it. "Two hunters. The one I can find hasn't got him."
+"The woman," Kessa said. "Who walked onto a watched road out of nowhere, took him off the man who'd bound him, and was gone before the finder shut his mouth. Whoever she is, she beat Corwen to the prize with the trap already sprung. Two hunters. The one I can find hasn't got him."
 
 "So we find her," Wick said. "You find everything."
 
-Kessa checked the light — an hour left, maybe less, low cloud coming in off the hills. Under it the girl stood shaking with her fists shut, sixteen years old, staring at Kessa, who looked at the arm instead.
+Kessa checked the light: an hour left, maybe less, low cloud coming in off the hills. Under it the girl stood shaking with her fists shut, sixteen years old, staring at Kessa, who looked at the arm instead.
 
 "I find what leaves sign," she said. "Eat something. When it's dark, I'll go read the road."
 
@@ -28,7 +28,7 @@ Kessa checked the light — an hour left, maybe less, low cloud coming in off th
 
 The road at night told her most of what she already knew and one thing she didn't want.
 
-The cart was gone south — deep ruts, mules leaning into the load, no hurry in the spacing. The men Tarn had dropped were gone with it; the drag marks were plain, boots dug where two had lifted a third. Corwen's own prints she found and learned: a narrow, well-made boot, an even stride, the same depth toe and heel. A man who walked south after losing the thing he'd come for at the same pace he'd have walked away from winning it. She marked that. It was the worst thing she'd learned about him yet.
+The cart was gone south: deep ruts, mules leaning into the load, no hurry in the spacing. The men Tarn had dropped were gone with it; the drag marks were plain, boots dug where two had lifted a third. Corwen's own prints she found and learned: a narrow, well-made boot, an even stride, the same depth toe and heel. A man who walked south after losing the thing he'd come for at the same pace he'd have walked away from winning it. She marked that.
 
 Blood in three patches, dried black on the stones. Tarn's where he'd worn the club. The House man's where she'd cut the arm. A fine spray she didn't like until she matched it to the split knuckles on the man Tarn had put down with the elbow. None of it Oscar's. She checked that patch twice.
 
@@ -38,19 +38,19 @@ Oscar's sign ran clear as print. The scuff where the binding had staggered him, 
 
 And then they stopped.
 
-Not faded. Not crossed. Not stepped over or brushed out or lost on hard ground — she knew every one of those and had beaten every one of them. These just ended. Mid-stride, weight forward, a man about to move.
+Not faded, not crossed, not stepped over or brushed out or lost on hard ground — she knew every one of those and had beaten every one of them. These just ended. Mid-stride, weight forward, a man about to move.
 
-Nothing after. No woman's print anywhere on the road, coming or going, and she had gone over it on her hands in the dark with her fingertips, twice, up and down sixty feet of dust. The woman had stood next to him — Kessa had watched her do it — and the road had no sign the woman had ever existed. Rain didn't do that. Brooms didn't do that. There was no trick in her whole life's kit that did that.
+Nothing after. No woman's print anywhere on the road, coming or going, and she had gone over it on her hands in the dark with her fingertips, twice, up and down sixty feet of dust. The woman had stood next to him — Kessa had watched her do it — and the road had no sign the woman had ever existed. Rain didn't do that. Brooms didn't do that.
 
-She sat back on her heels in the middle of the empty road and let herself have ten seconds of the feeling. The ground was the one thing that had never lied to her. This was worse than lying. This was the ground saying, plainly, truthfully: *the man you're looking for stopped being anywhere.*
+She sat back on her heels in the middle of the empty road and let herself have ten seconds of the feeling. The ground was the one thing that had never lied to her, and it was saying, plainly, truthfully: *the man you're looking for stopped being anywhere.*
 
-Ten seconds. Then she put it down the same as she put everything down, because the feeling didn't track and the night was short.
+Ten seconds. Then she put it down, because the feeling didn't track and the night was short.
 
 Taken is not dead, she told the road. You don't let the dark have your people. Taken means there's a place he is. Places have ground. Ground talks.
 
 She cast one great circle around the whole site anyway, a hundred paces out, then two hundred, working till the cloud broke and the moon gave her an hour. Deer. A fox. The crew's own back-trail into the scrub, embarrassing, loud as a wagon. Nothing else. She came back to the camp in the cold before dawn with dust on her palms and nothing in them, and found Wick sitting up against a stone with her eyes open, waiting, and did not have to say anything at all. The girl had read her walk from fifty feet.
 
-"He told me to come get him," Wick said. Small, and flat, and not a child's voice at all. "He made me hear him say it."
+"He told me to come get him," Wick said. Small, and not a child's voice at all. "He made me hear him say it."
 
 "I know. I was hauling you when he said it." Kessa sat down next to her and unwrapped a strip of the dried meat neither of them wanted. "So we get him. Trails don't end. Somebody hid this one. People leave sign." She bit, chewed, made herself swallow. "Tomorrow we grid this country till it gives her up."
 
@@ -72,7 +72,7 @@ She went down it slow, reading as she went, and the reading came back wrong in a
 
 The lane had ruts. Good ruts, a hand deep, pressed clean into the clay — and no weather in them. Rain had crossed this country two nights back; she'd slept in it. The ruts held no silt, no crumble, no puddle-mark. They were the idea of ruts, printed by nothing she could find. The hedges were worse. Blackthorn, full grown, berried — berried in the wrong month — with no dead wood in them, no gaps grazed by anything, no wear at the roots, no birds. A hedge is a city; there is no such thing as an empty hedge. Both of these were empty. And under it all, the thing she circled twice to be sure of: the lane began. It didn't run from anywhere. Forty feet up the slope from its first rut there was gorse and stone and her own two-day-old boot prints, and then the lane started, complete, the same as a rope starts at its end.
 
-"Bait," Tarn said, when she brought them to it. He said it like he'd say *rain.* An observation about what the sky was doing.
+"Bait," Tarn said, when she brought them to it. He said it like he'd say *rain.*
 
 "So was the cart," Kessa said.
 
@@ -88,15 +88,15 @@ The lane had ruts. Good ruts, a hand deep, pressed clean into the clay — and n
 
 The house stood in the fold of the heath like a coin dropped on a threshing floor.
 
-Last light. They came down the lane in her order — herself first, Cael a pace off her left shoulder where his reach did the most good, Wick between them where four hands could get to her, Tarn last with his eyes on their backs. The hedges opened onto a gravel forecourt, raked, unmarked, and there it was: a manse. Not a farmhouse. A manse, tall-windowed, honey-stoned, three storeys and wings, the kind of thing that in the south sat at the top of a valley it owned with a village at its feet to feed it. Warm light stood in every window. The double doors at the head of the steps were open.
+Last light. They came down the lane in her order — herself first, Cael a pace off her left shoulder where his reach did the most good, Wick between them where four hands could get to her, Tarn last with his eyes on their backs. The hedges opened onto a gravel forecourt, raked, unmarked, and there it was: a manse, tall-windowed, honey-stoned, three storeys and wings, the kind of thing that in the south sat at the top of a valley it owned with a village at its feet to feed it. Warm light stood in every window. The double doors at the head of the steps were open.
 
 There was no village. There was no road but the lane that had not existed at dawn. There was nothing to feed this house for a day's walk in any direction, and Kessa stood at the edge of the gravel and read it as she'd read the empty hedges, and every line came back the same.
 
 No path worn from door to gate: gravel raked, then never walked on. Smoke rising from two chimneys, and no woodpile, no ash-heap, no cart-way to bring the cords in. Glass in forty windows, and no wagon had ever hauled glass down that lane. Grass growing right to the foot of the walls, green and unbruised, where any real house wore a drip-line and a beaten margin into the ground its first winter. Stone with no lichen. A roof with no moss, no sag, no mended patch. Every part of it finished, and none of it *used.* A thing built complete this morning.
 
-"That house shouldn't be here," she said, out loud, flat.
+"That house shouldn't be here," she said, out loud.
 
-"No," Cael said. He was looking at the open doors, and his hand had come off his shield strap. "But the light's real. Heat, too — feel it reach? That's a kept fire." He said it carefully, a man reporting, not trusting. "Whoever keeps it knew we'd come at dusk. That fire's been built up for arriving."
+"No," Cael said. He was looking at the open doors, and his hand had come off his shield strap. "But the light's real. Heat, too — feel it reach? That's a kept fire." He said it carefully. "Whoever keeps it knew we'd come at dusk. That fire's been built up for arriving."
 
 "Or for looking like it." Kessa scanned the flanks of the house. Two wings, a stable block — a stable block, with no horse-sign, no muck, no fly-buzz — and past the far corner the heath rolling dark to the south. "Exits. Front doors. The wing doors, there and there, if they open. Ground floor windows, big enough, if it comes to glass." She was talking to the crew but mostly to Wick, laying the bones down early. If it goes wrong: out, not up. You break for dark ground and you do not stop to burn anything.
 
@@ -112,7 +112,7 @@ Nobody asked. Wick had stopped dead in the middle of the gravel, and the heat ca
 
 The woman from the road stood at the head of the steps.
 
-She hadn't come through the doors. Kessa would have staked — no. She was done staking things on this ground. The woman was simply in the doorway with the lamplight behind her, dressed plainly and well, her hands loose at her sides, empty, and shown empty, which Kessa read and resented in the same beat. She knew what would be checked, and in what order, and she stood there patient while Kessa checked it, the same as she'd grown a lane where the tracker would trip on it.
+She hadn't come through the doors. Kessa would have staked — no. She was done staking things on this ground. The woman was simply in the doorway with the lamplight behind her, dressed plainly and well, her hands loose at her sides, empty, and shown empty, which Kessa read and resented in the same beat. She knew what would be checked, and in what order, and she stood there patient while Kessa checked it.
 
 "You took longer than I guessed," the woman said. "The lane's been down since yesterday noon."
 
@@ -128,7 +128,7 @@ Kessa stood on the raked gravel with her hand on a dead man's knife. Five places
 
 Oscar sat at the table.
 
-Sat. Not bound to it. Not slumped at it. He sat at the table like a man sits at a table, his coat over the chair back, the finder's cold collar gone from his throat, a cup by his hand, and — she watched it happen, watched it with her own two eyes across forty feet of stranger's floor — he heard them at the door, and turned, and his whole cracked worried face came apart with relief, and he *stood up to greet them.*
+Sat. Not bound to it, not slumped at it. He sat at the table like a man sits at a table, his coat over the chair back, the finder's cold collar gone from his throat, a cup by his hand, and — she watched it happen, watched it with her own two eyes across forty feet of stranger's floor — he heard them at the door, and turned, and his whole cracked worried face came apart with relief, and he *stood up to greet them.*
 
 Alive. Unhurt. At supper.
 

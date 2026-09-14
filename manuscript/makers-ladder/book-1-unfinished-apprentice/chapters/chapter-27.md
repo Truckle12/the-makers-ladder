@@ -1,6 +1,6 @@
 ## Chapter Twenty-Seven — What Holds
 
-Walking down into the hollow was the worst part, and Wick didn't let herself think it was the worst part, because if this was already the worst part then she'd never make it to the next one, and she was going to make it to the next one. She'd decided. Her legs went even when the rest of her was screaming to stop, which was a thing she'd known about her legs for a long time. It was almost a funny thing to know about yourself. It wasn't funny.
+Walking down into the hollow was the worst part, and Wick didn't let herself think that, because if this was already the worst part then she'd never make it to the next one, and she was going to make it to the next one. She'd decided. Her legs went even when the rest of her was screaming to stop, which was a thing she'd known about her legs for a long time. It was almost a funny thing to know about yourself. It wasn't funny.
 
 The cold got worse the lower she went. Not weather-cold. The other kind, the kind that came up out of her own chest instead of off the air, the coal in her gone backwards and pulling heat *in* instead of letting it out, so that her hands ached and her breath didn't fog and the mark at her throat felt like a coin left out in snow. Up top, behind her, she could hear the fire and the others and Oscar saying the stupid thing he'd promised to keep saying. Down here there was just the wet grey ground and the steam coming off it and the thing at the bottom waiting for her like it had always been waiting for her.
 
@@ -8,7 +8,7 @@ She'd thought she was scared of it.
 
 She got down to it and found out she wasn't, exactly, and that was so much worse.
 
-Because she *knew* it. Not its face. It didn't have a face, it had been an animal once and now it was a long grey wrongness with the shape of an animal smeared over it. But she knew the thing underneath. She'd been carrying its little brother her whole life. It was hungry. Not skipped-a-meal hungry. Hungry like the hole that's left after you've been hungry so long you forget there was ever a word for the other thing, for *full*, hungry like that, except it had never in all the time it had been alive gotten to put anything in the hole, and it had stopped believing full was a real thing that real people got. She knew that hunger. She woke up with it. She held it down before she opened her eyes most mornings.
+Because she *knew* it. Not its face. It didn't have a face, it had been an animal once and now it was a long grey wrongness with the shape of an animal smeared over it. But she knew the thing underneath. She'd been carrying its little brother her whole life. It was hungry, and not skipped-a-meal hungry. Hungry like the hole that's left after you've been hungry so long you forget there was ever a word for the other thing, for *full*, hungry like that, except it had never in all the time it had been alive gotten to put anything in the hole, and it had stopped believing full was a real thing that real people got. She knew that hunger. She woke up with it. She held it down before she opened her eyes most mornings.
 
 "Oh," Wick said, out loud, to nobody, like you do when a thing turns out exactly as bad as the worst guess you didn't say. "Oh, you're just *me.*"
 
@@ -36,25 +36,25 @@ It didn't have words. It had a feeling, and it put the feeling into her, and the
 
 That was all. *Stop.*
 
-She hadn't known how much she wanted to stop until something finally offered. Nobody had ever offered. Her whole life it had been *hold it, hold it, don't let it slip, you drop this and people die, hold it.* Every minute, every morning, every single day, holding and holding with both hands and her teeth and never once getting to set it down, never once getting to be just a girl and not a thing that had to be held shut. And here was this huge patient bottomless thing saying the one thing not one person had ever said to her in her whole life.
+She hadn't known how much she wanted to stop until something finally offered. Her whole life it had been *hold it, hold it, don't let it slip, you drop this and people die, hold it.* Every minute, every morning, every single day, holding and holding with both hands and her teeth and never once getting to set it down, never once getting to be just a girl and not a thing that had to be held shut. And here was this huge patient bottomless thing saying the one thing not one person had ever said to her.
 
 *Put it down. You've carried it so long. You're so tired. Aren't you so tired. Let me.*
 
-And the worst thing — the thing she would never tell Oscar, never tell Cael, never tell anybody, the thing she could barely stand to know about herself — was that for one whole second, she said yes.
+And the thing she would never tell Oscar, never tell Cael, never tell anybody, the thing she could barely stand to know about herself, was that for one whole second, she said yes.
 
 She wanted to put it down so badly she would have died to do it. It wasn't even trying to kill her. That was the trap. It just wanted her to lie down. To *rest.*
 
-And it showed her what rest looked like, which was the cruelest part. Not gold. Not power. Nothing big. Small things. A bed that was warm all the way through to the middle. A morning where the first thing she did when she woke wasn't reach for the latch. Being full. Being a girl somebody fed, instead of a thing somebody had to watch. Sitting in a room full of people and not once running the count of which of them she'd burn if she slipped. It showed her *down* — set the weight down, all the way down, and never pick it up again — and oh, she wanted it. She wanted it so bad her eyes stung in the cold.
+And it showed her what rest looked like. Not gold, not power, nothing big. Small things. A bed that was warm all the way through to the middle. A morning where the first thing she did when she woke wasn't reach for the latch. Being full. Being a girl somebody fed, instead of a thing somebody had to watch. Sitting in a room full of people and not once running the count of which of them she'd burn if she slipped. It showed her *down* — set the weight down, all the way down, and never pick it up again — and oh, she wanted it. She wanted it so bad her eyes stung in the cold.
 
 She started to let go.
 
 ---
 
-Up at the top of the hollow, something went wrong with the world: a crash, a shout in Kessa's flat hard voice, the *thock* of a crossbow, Tarn's grunt, another one of the grey things come up out of the dark and the two of them hammering it back from the rim so it couldn't get down to her. She heard it like it was happening underwater. But she heard it. They were standing in the dark up there getting hurt so nothing else came down on her. Nobody had told them to. They just *were.*
+Up at the top of the hollow, something went wrong with the world: a crash, a shout from Kessa, the *thock* of a crossbow, Tarn's grunt, another one of the grey things come up out of the dark and the two of them hammering it back from the rim so it couldn't get down to her. She heard it like it was happening underwater. But she heard it. They were standing in the dark up there getting hurt so nothing else came down on her. Nobody had told them to. They just *were.*
 
 And there was a light.
 
-Gold and small and steady, up at the rim where the dark started, a warm she could feel in her teeth even down here in the cold. And she knew it was Cael, that he'd been hanging onto something the whole time, hoarding it, the last of whatever it was he carried, lit special right now so she'd have a thing to find her way back to. A fire kept for her. And under the light a voice, the stupid voice, the wizard saying it over and over like saying it enough times would make it true.
+Gold and small and steady, up at the rim where the dark started, a warm she could feel in her teeth even down here in the cold. And she knew it was Cael, that he'd been hanging onto something the whole time, hoarding it, the last of whatever it was he carried, lit special right now so she'd have a thing to find her way back to. A fire kept for her. And under the light a voice, the wizard saying it over and over like saying it enough times would make it true.
 
 *You're still you. You're still you. Halfway and home. You're still you.*
 
@@ -62,7 +62,7 @@ And Wick, one second from gone, with the door yawning open and the dark breathin
 
 She hadn't actually let go.
 
-She'd said yes to *wanting* to. Wanting to and doing it weren't the same, and she knew that better than she knew her own name. Want to drop it, don't drop it. Every day, a thousand times a day, since she was eight, the worst tired there was and never once putting it down. It was the one thing she was good at. The only thing, maybe. And she was *so* good at it.
+She'd said yes to *wanting* to. Wanting to and doing it weren't the same, and she knew that better than she knew her own name. Want to drop it, don't drop it. Every day, a thousand times a day, since she was eight, and never once putting it down. It was the one thing she was good at. The only thing, maybe. And she was *so* good at it.
 
 So she stopped trying to win.
 
@@ -80,7 +80,7 @@ It didn't know what to do with her. She could feel it not knowing. Everything it
 
 *This one's mine. And you don't get me either.*
 
-It threw itself at the latch. She held it. It promised her rest again, sweeter, begging now. She held it. It showed her how tired she was, how easy it would be, how nobody up there would even blame her. And that one almost worked, that one was cruel, and she held it anyway, held it with both hands and her teeth and the bottom of her stubborn awful heart, the same as she'd held everything her whole unfair life, because holding was the one thing the world had ever let her be good at and she was *not* going to lose the thing she was good at to a thing too lazy to be anything but hungry.
+It threw itself at the latch. She held it. It promised her rest again, sweeter, begging now. She held it. It showed her how tired she was, how easy it would be, how nobody up there would even blame her. And that one almost worked, that one was cruel, and she held it anyway, held it with both hands and her teeth and the bottom of her stubborn awful heart, the same as she held everything, because holding was what she was good at and she was *not* going to lose the one thing she was good at to a thing too lazy to be anything but hungry.
 
 And the hunger — with nothing to eat, and nothing to climb into, and no door left open for it, and the one girl in the whole grey world who would not, would not, *would not* let go —
 
@@ -96,11 +96,11 @@ She sat down hard in the mud because her legs were finally, finally allowed to s
 
 ---
 
-Coming back up was harder than going down, because going down she'd had her legs and her stubbornness and coming up she didn't have much of either. But the gold light was still there at the rim, steady, waiting, warm in her teeth, and the stupid voice was still going, and she crawled toward both because they were up and she wanted to be up, and somewhere on the way Cael's warmth came down and got under her arms like hands made of fireside and the worst of the cold finally, finally let go of her chest.
+Coming back up was harder than going down, because going down she'd had her legs and her stubbornness and coming up she didn't have much of either. But the gold light was still there at the rim, steady, waiting, warm in her teeth, and the stupid voice was still going, and she crawled toward both because they were up and she wanted to be up, and somewhere on the way Cael's warmth came down and got under her arms like hands made of fireside and the last of the cold finally, finally let go of her chest.
 
 She came up over the lip of the hollow on her own two feet at the end, though. She made herself. She wasn't going to get carried out of one more thing in her life if she could crawl out of it instead.
 
-Oscar was right there, gray as ash, his looking still clamped shut, the same shut she'd watched him force on it before she went down, which meant he hadn't peeked, hadn't read her, had just stood there blind and useless and *trusting* her the whole time, which was somehow the nicest thing anybody had ever done. He looked like he wanted to ask a hundred questions and was making himself ask none of them.
+Oscar was right there, gray as ash, his looking still clamped shut, the same shut she'd watched him force on it before she went down, which meant he hadn't peeked, hadn't read her, had just stood there blind and useless and *trusting* her the whole time. He looked like he wanted to ask a hundred questions and was making himself ask none of them.
 
 "Am I still me?" Wick said. Her voice came out about six years old. She hated it. She asked anyway.
 
@@ -110,7 +110,7 @@ She laughed, and it turned into something that wasn't a laugh, and Cael caught h
 
 She was still her. She could feel it: the door still there behind her ribs, still shut, still wanting, the coal still hers to hold come morning, all of it exactly where it had always been. None of it had gone away.
 
-But she'd met the big one. The thing her own door opened onto, the worst thing, and she'd held it till it gave up. She sat in the mud at the edge of a grey gone quiet, her crew bleeding and breathing all round her, and felt for the small one. Still there. Still scared of it.
+But she'd met the big one. The thing her own door opened onto, and she'd held it till it gave up. She sat in the mud at the edge of a grey gone quiet, her crew bleeding and breathing all round her, and felt for the small one. Still there. Still scared of it.
 
 Not gone. Course not.
 

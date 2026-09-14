@@ -12,7 +12,7 @@ The second clean road had gone bad yesterday. A crossing she'd meant to use, a d
 
 Now she crouched over the map in the almost-light with the third clean road under her thumb, and did not believe in it.
 
-The map wasn't wrong. She'd worked that out lying awake with the count refusing to settle. The map had been right when Ash drew it, however she'd drawn it, and it was going wrong a road at a time, west to east, in order. Somebody was taking the clean ways away, one at a time. Not chasing them down any single road. There was no pursuit behind them, she'd swept their back-trail twice and it was as empty as country gets. She'd seen a net worked once, off a cold coast in her girlhood, the men walking the floats in, unhurried, no one of them looking at any fish.
+The map wasn't wrong. She'd worked that out lying awake with the count refusing to settle. The map had been right when Ash drew it, however she'd drawn it, and it was going wrong a road at a time, west to east, in order. Somebody was taking the clean ways away, one at a time, not chasing them down any single road. There was no pursuit behind them, she'd swept their back-trail twice and it was as empty as country gets. She'd seen a net worked once, off a cold coast in her girlhood, the men walking the floats in, unhurried, no one of them looking at any fish.
 
 She rolled the map and sat with it in both hands and made herself say the shape of it plainly, in her own head, where she kept the count.
 
@@ -30,15 +30,15 @@ All right, she thought, cold and quiet. Weight came down onto the foot that had 
 
 The country turned southern under them all that day, and she read it going and liked none of it.
 
-Hedges first. The heath gave out into hedged land, real hedges, laid and layered by hands, generations of them, and after the wild and the grey and a house that had lied about existing, a hedge with fifty years of honest labor in it should have been a comfort. It wasn't. Hedges meant boundaries and boundaries meant owners and owners meant eyes. The fields went from rough grazing to plowland. Twice they crossed old paved stretches, House roads gone to grass a century back but still ruler-straight under the turf, and both times Oscar slowed without seeming to notice, feet finding the buried stones, and said something to nobody about the grade of it, the camber, some dead crew's good work. His voice did the thing it did around made things, warmed, went easy, a man among his own kind.
+Hedges first. The heath gave out into hedged land, real hedges, laid and layered by hands, generations of them, and after the wild and the grey and a house that had lied about existing, a hedge with fifty years of honest labor in it should have been a comfort. It wasn't. Hedges meant boundaries and boundaries meant owners and owners meant eyes. The fields went from rough grazing to plowland. Twice they crossed old paved stretches, House roads gone to grass a century back but still ruler-straight under the turf, and both times Oscar slowed without seeming to notice, feet finding the buried stones, and said something to nobody about the grade of it, the camber, some dead crew's good work. His voice did the thing it did around made things, warmed, went easy.
 
-She marked the change in him because she marked everything, and marked, too, the other thing, the one that had started up since the heath.
+She marked the change in him, and marked, too, the other thing, the one that had started up since the heath.
 
 He kept snagging.
 
 On the skyline south, mostly. They'd top a rise, and the land would open — good open country, farms in the folds, the blue-grey teeth of far hills a week away yet — and the wizard would check. Mid-stride, half a heartbeat, a hitch you'd miss if you weren't paid up on watching him. Like a man who half-hears his name in a crowd and turns, and there's nobody, and he laughs at himself and walks on, except Oscar didn't laugh, and there was nothing on those skylines to hear. Third time it happened she back-tracked his eye-line herself, quartering the horizon he'd checked at: hills, cloud, a kite turning over the valley, distance. Nothing with a shape. Nothing she had a mark for.
 
-"Stone in your boot?" she asked him, even, the fourth time.
+"Stone in your boot?" she asked him, the fourth time.
 
 "Hm? No." He looked briefly, genuinely confused, which from him was informative; the man narrated his own missteps for sport, and this one he hadn't caught. "No, I was — " He frowned back at the skyline, at the far hills that were nothing but far hills. "Nothing. Wool-gathering."
 
@@ -54,7 +54,7 @@ The other ritual of the march was newer, and Kessa minded it less. At the noon h
 
 Wick watched the owl ritual from cover on the far side of the camp, every night, wearing the exact ache she'd worn since the manse. Kessa didn't try to sort the girl's tangle. She didn't need it sorted. She needed the girl sleeping, and the girl wasn't, much.
 
-Cael was the one piece of the march that had gone better instead of worse. The farther south, the steadier that low warmth of his ran; she could feel it off him on the night watches now, banked and even, a wall you could put your back against, and he'd finished Tarn's arm two nights back — the strapping off, the shoulder rolling clean, the last of the club's work gone out of it. "Cheap, down here," he'd said, when he caught her measuring the cost in his face and finding none. "Roads and roofs. I'm near the hearth-end of the hall." Then, because he was Cael, he'd banked the comfort of it himself: "Whatever's herding us south, it's herding me *toward* my strength. I keep turning that over. I don't like being helped by it."
+Cael was the one piece of the march that had gone better instead of worse. The farther south, the steadier that low warmth of his ran; she could feel it off him on the night watches now, banked and even, a wall you could put your back against, and he'd finished Tarn's arm two nights back — the strapping off, the shoulder rolling clean, the last of the club's work gone out of it. "Cheap, down here," he'd said, when he caught her measuring the cost in his face and finding none. "Roads and roofs. I'm near the hearth-end of the hall." Then he'd banked the comfort of it himself: "Whatever's herding us south, it's herding me *toward* my strength. I keep turning that over. I don't like being helped by it."
 
 She'd given him the honest answer, which was a nod, and set it aside with the rest.
 
@@ -64,7 +64,7 @@ Tarn found the waypost on the fourth day, because years of fetching had left him
 
 They'd stopped shy of a valley mouth at noon, off the track, eating cold in a copse while Kessa looked the way ahead and disliked it: the third clean road ran the valley floor, past two farms and a mill, all of it overlooked, all of it exactly where she'd put a watcher if she were a man shutting gaps — and Tarn hunkered down beside her, took one long look at the country, and said, "You've stopped meaning to slip him."
 
-Not a question. She lowered the glass. On the far side of the camp Oscar was showing Wick something about the buried pavement, both their heads down, the owl on a fence post pretending not to be within listening distance; nobody but Tarn to hear it, which was likely why he'd picked now.
+She lowered the glass. On the far side of the camp Oscar was showing Wick something about the buried pavement, both their heads down, the owl on a fence post pretending not to be within listening distance; nobody but Tarn to hear it, which was likely why he'd picked now.
 
 "There's no slipping a man who doesn't follow," she said. "He's closing roads west to east. Three days, maybe four, there's one way south and it has him in it. I mean to pick the ground."
 
@@ -78,17 +78,17 @@ Tarn chewed, swallowed, unhurried. "Thought so. You've been looking at every cho
 
 "Aye."
 
-"Then he'll know where we are." Kessa looked down the valley once more, at the mill, the farms, the soft watched floor of the third clean road, and then up the shoulder at the rough ground rising south and east, and felt the same settling she'd felt over the map at dawn, the weight coming down for good this time. Water, walls, two doors, the scarp at the back. She'd been picking ground to leave since Oressa.
+"Then he'll know where we are." Kessa looked down the valley once more, at the mill, the farms, the soft watched floor of the third clean road, and then up the shoulder at the rough ground rising south and east, and felt the same settling she'd felt over the map at dawn, the weight coming down for good this time. Water, walls, two doors, the scarp at the back.
 
 "Kessa." Tarn's voice, quieter. "One more thing you'll want, before you set this in front of the others." He was looking at the dirt where his map had been. "In the bowl they post the pairing. Days ahead. Both men know there's no second bout." He stood, brushing his hand clean on his thigh, and looked at the level ground south. His eyes came back to her, flat and old. "That's what you're picking. Him or us. Be picking that."
 
-Kessa held his look and didn't blink it away, because he'd earned the straight answer and because she'd walked this one already, at dawn, over the map, and had been waiting all day to see if it still came out the same in better light.
+Kessa held his look. She'd walked this one already, at dawn, over the map, and had been waiting all day to see if it still came out the same in better light.
 
 "I know what I'm picking," she said.
 
 ---
 
-She laid it out for the crew at dusk, all of it, plain: the roads going bad in order, the net and the man working it, the waypost and what turning for it meant. She'd learned a long time ago you didn't soften ground-truth for people you expected to fight on it, and this crew had earned the whole map more times than she had fingers.
+She laid it out for the crew at dusk, all of it, plain: the roads going bad in order, the net and the man working it, the waypost and what turning for it meant.
 
 Nobody argued. After all this road together it still caught in her chest at wrong moments, how they didn't. Wick went white and then red and then said, "Good. I'm sick of being herded," with the heat audibly in it. Cael took the longest, sitting with his big hands loose between his knees, and what he finally said was: "He'll bring men who are only doing a wage's worth. I'll want us agreed, before, on what we do about surrender if it's offered. Theirs, I mean." Nobody laughed, because he wasn't joking; it went on the plan like everything else, a line in the order of march. Tarn just nodded, once, the pairing posted.
 
@@ -100,6 +100,6 @@ And Oscar. Oscar had gone still while she talked and stayed still after. She'd w
 
 "The post has walls," Tarn said, to the fire, "and a well," and the vote was carried.
 
-Later, on first watch, with the camp breathing behind her and the owl a pale smudge in the black of the one tall tree, Kessa sat with Doss's knife loose in its sheath and ran the count, which was what she had instead of prayers. Half a day to the waypost. A day, two, to make the room theirs — the doors, the well, the angles, whatever Oscar could wake in the old work. Then however long it took the last clean road to go quiet, and dust on the north approach, and a good grey coat coming on unhurried across ground she had chosen, to a door she'd be standing in.
+Later, on first watch, with the camp breathing behind her and the owl a pale smudge in the black of the one tall tree, Kessa sat with Doss's knife loose in its sheath and ran the count. Half a day to the waypost. A day, two, to make the room theirs — the doors, the well, the angles, whatever Oscar could wake in the old work. Then however long it took the last clean road to go quiet, and dust on the north approach, and a good grey coat coming on unhurried across ground she had chosen, to a door she'd be standing in.
 
 Come on, then, she told the dark south. Come collect. Then she checked her people once more, and settled in to wait for the light.

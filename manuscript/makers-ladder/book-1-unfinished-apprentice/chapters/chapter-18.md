@@ -2,7 +2,7 @@
 
 Marrow tried to give them everything it owned, which was the problem with freeing a town: it wanted to thank you, and it had only just remembered it was allowed to want things at all.
 
-For three days the gifts came up the steps of the boarding house in a steady, embarrassed flood. Salvagers who had nothing pressed nothing on them anyway: a knife, a coil of good rope, a child's drawing of four stick figures standing on a dead monster. A scale-clerk who two days before would not have met Oscar's eye now wept and tried to give him a coat off his own back. The widows of the good claim came in a quiet line and left things on the sill without a word: a carved button, a twist of dried meat, a single coin worn smooth from being held. Oscar took almost none of it, and what he took he took because Cael caught his eye and made the small patient face that meant *let them, it's for them and not for you,* and Cael, in matters of mercy, was almost never wrong.
+For three days the gifts came up the steps of the boarding house in a steady, embarrassed flood. Salvagers who had nothing pressed nothing on them anyway: a knife, a coil of good rope, a child's drawing of four stick figures standing on a dead monster. A scale-clerk who two days before would not have met Oscar's eye now wept and tried to give him a coat off his own back. The widows of the good claim came in a quiet line and left things on the sill without a word: a carved button, a twist of dried meat, a single coin worn smooth from being held. Oscar took almost none of it, and what he took he took because Cael caught his eye and made the small patient face that meant *let them, it's for them and not for you.*
 
 What they could not refuse was Brida.
 
@@ -12,7 +12,7 @@ She found them on the morning of the fourth day, when the packs were filled and 
 
 "Brida—"
 
-"I'm not coming, before you ask, and you weren't going to ask, so don't pretend." A flicker of the old humor. "This town doesn't know how to be free yet. Somebody has to teach it before it sells itself to the next clever hand that comes up the valley promising to take the danger off its books. That's me. I'm the somebody." She said it plainly, but Oscar saw what it had cost her to find—a use for the rage she'd carried four winters, a thing to do with it besides bleed. "I buried a husband in that deep on a lie. I'm going to spend what's left of me making sure nobody buries another one the same way."
+"I'm not coming, before you ask, and you weren't going to ask, so don't pretend." A flicker of the old humor. "This town doesn't know how to be free yet. Somebody has to teach it before it sells itself to the next clever hand that comes up the valley promising to take the danger off its books. That's me. I'm the somebody." She said it plainly. "I buried a husband in that deep on a lie. I'm going to spend what's left of me making sure nobody buries another one the same way."
 
 Wick, who had said almost nothing in three days, stepped forward and hugged her, fierce and wordless, as she did everything that mattered. Brida held her one-armed and looked over the girl's head at Oscar, and her face changed.
 
@@ -24,7 +24,7 @@ Then she turned and went down the steps into her town, and did not look back.
 
 Something had turned over in him at the name, though, and stayed turned.
 
-It was nothing—a word from a woman born three valleys south of a town he'd only just woken under, a place he had no possible reason to know. And yet for half a breath *Everset* had sat in him like a key tried in a lock a single tumbler off. He'd have sworn he had never heard the word in his life. He found, turning it over, that he couldn't quite swear it after all. He filed the feeling away with the slanting hand in the grimoire—and said nothing, because there was nothing to say about it that wouldn't have sounded mad.
+It was nothing—a word from a woman born three valleys south of a town he'd only just woken under, a place he had no possible reason to know. And yet for half a breath *Everset* had sat in him like a key tried in a lock a single tumbler off. He'd have sworn he had never heard the word in his life. He found, turning it over, that he couldn't quite swear it after all. He filed the feeling away with the slanting hand in the grimoire, and said nothing.
 
 They went south within the hour.
 
@@ -42,9 +42,9 @@ It was a tree.
 
 A living one—not the grey dead spars that stood in the north like the masts of drowned ships, but a true tree, low and broad and stubborn, its bare branches furred all over with tight red buds that meant, Oscar realized with a strange small lurch, that somewhere ahead of them it was nearly spring. Wick walked to it like a person approaching something holy or dangerous and put one hand flat against the bark, and stood there, and did not say anything at all.
 
-"It's just a tree, Wick," Kessa said, but not unkindly, and even she had slowed to look.
+"It's just a tree, Wick," Kessa said, and even she had slowed to look.
 
-"It's *alive,*" Wick said, which was the whole of it, and pressed her ear to the trunk as if she might hear it.
+"It's *alive,*" Wick said, and pressed her ear to the trunk as if she might hear it.
 
 Cael laughed—the first real laugh Oscar had heard from him since the square—and tipped his head back to the thin warm sun. "The hearth keeps a fire even where you can't see the chimney," he said, which was a thing his faith said, and which Oscar had always privately found a little smug, and which today, with the buds red against the grey sky and the girl with her ear to the bark, he could not bring himself to argue with.
 
@@ -70,8 +70,6 @@ He looked.
 
 It was getting easier. The gift he'd half-distrusted as a parlor trick was *sharpening,* like a muscle that finds its strength only once you're made to use it every day. In the buried city, looking had shown him seams: how a thing was made, where it would give. He turned it on the tree now, eyes half-closed. The tree gave him nothing, the same as every living thing had ever given him. Bark and bud and the warm shut fact of it; no edge to take hold of, no rule written down, nothing made in it for him to read. He'd stopped resenting that a while ago. But the looking didn't die where the tree turned it away. It went *past* the tree—down, below the roots and below the road, to the cold under-thing that ran beneath everything standing in the world: the deep current, the Script that the living and the made were alike set down upon. He grazed it, a fingertip's worth, careful as a man stepping onto ice he didn't trust. And where a season ago he'd have caught only a faint cold pressure and lost it, tonight he held it clean and deep for a long quiet moment before he let it go. He could read the page the tree stood written on, and he read it better tonight than he had a month ago.
 
-He kept that too, the fierce private joy of it, the same as in the square.
-
 The last thing he did before he woke Kessa for her watch was reach south.
 
 He didn't decide to. He never quite decided to; it just happened, the way you test a sore tooth with your tongue. Somewhere down the dark valley, fainter than a sound and surer than a thought, the bond was there—the old thread that ran out of him and away, the absence shaped like a thing that had known every version of him there had ever been. *Quill.* It was nearer than it had been in Marrow. South. Always south, as if the bird and the answers and the danger were all the same direction.
@@ -90,7 +88,7 @@ They went in with the green cloaks up and Oscar's loop-marked sword wrapped in s
 
 "You'd be the third lot through this week asking south. Busy road, for the back end of winter." A pause, wiping a cup. "Course, you're the first that's been *asked after.*"
 
-Oscar kept his face still. Across the table Kessa did not look up from her stew, which was how he knew she'd gone to stone too.
+Oscar kept his face still. Across the table Kessa did not look up from her stew.
 
 "Asked after," Oscar said, mild.
 
@@ -106,9 +104,9 @@ He went back to his bar, and left them with it.
 
 Wick had woken. Cael had set down his cup. Nobody spoke for a moment.
 
-"Someone's asking after me by name," Oscar said finally, keeping it light because the alternative was not. "Six days ahead, on the road we have to walk, paying good coin for my face. Brida said it would come kind." He turned his cup on the table. "She didn't mention it would come *early.*"
+"Someone's asking after me by name," Oscar said finally. "Six days ahead, on the road we have to walk, paying good coin for my face. Brida said it would come kind." He turned his cup on the table. "She didn't mention it would come *early.*"
 
-"Then we go careful," Kessa said. Flat. Already turning the bad fact into a route, he could see it. "Off the main road where we can. No chokepoints we can't help. And we find out who this polite bastard is before he finds us."
+"Then we go careful," Kessa said. Already turning the bad fact into a route, he could see it. "Off the main road where we can. No chokepoints we can't help. And we find out who this polite bastard is before he finds us."
 
 "Or," Wick said, small and worn and not entirely joking, "we just stop being on a road he's standing on."
 

@@ -10,9 +10,9 @@ For three nights the old trees had glowed, a slow green seep Oscar had stopped s
 
 It wasn't there.
 
-Not fouled. Not fighting him. Gone, or near enough, so that what came back was an illegible grey smear, a page soaked through and run together until there was nothing left on it to read. He pulled out fast. His hands were fine. He felt, absurdly, like a man who had reached for a railing in the dark and closed his fist on air.
+Not fouled, and not fighting him: gone, or near enough, so that what came back was an illegible grey smear, a page soaked through and run together until there was nothing left on it to read. He pulled out fast. His hands were fine. He felt, absurdly, like a man who had reached for a railing in the dark and closed his fist on air.
 
-"Don't touch what's gone dark," he said, before any of them could. "Don't put any part of you against it. Including me. Especially me." He didn't explain. He didn't have the words yet, and they didn't need them.
+"Don't touch what's gone dark," he said, before any of them could. "Don't put any part of you against it. Including me. Especially me." He didn't explain. He didn't have the words yet.
 
 The deeper they went, the less the wood bothered pretending to be a wood. The dark trees gave way to grey ones, and the grey ones to trees that had given up the shape of trees, slumped and softened, bark sliding off in wet sheets. The ground went spongy where it should have been firm. And there was a smell Oscar kept failing to place and then placed all at once: the inside of a thing. A wound, opened and left. A whole forest of it.
 
@@ -22,21 +22,21 @@ It stood off the line with its head low and watched them go by, no hunger in it 
 
 "Why doesn't it come?" Wick whispered.
 
-"Not told to yet," Tarn said, and that was worse than teeth.
+"Not told to yet," Tarn said.
 
 ---
 
-Tarn took point and stopped talking, and the stopping was the loud part.
+Tarn took point and stopped talking.
 
 He was weathered and going grey, an economical man who wasted no motion. For three days he'd guided them with a low steady patter, markers and water and what drank where. Now he went quiet and walked his old country with his jaw set wrong, and once, at a stand of black trees that might have been alders, he laid his hand flat to a trunk and held it there too long.
 
-"Fetched a bear out of this stretch," he said. Not really to them. "Eleven years gone. Took me four days. Nearly had my leg." His hand came away from the cold bark. "There were birds, then." He started walking before anyone could find an answer, which was its own kind of mercy.
+"Fetched a bear out of this stretch," he said. Not really to them. "Eleven years gone. Took me four days. Nearly had my leg." His hand came away from the cold bark. "There were birds, then." He started walking before anyone could find an answer.
 
-Kessa hated the grey before the rest of them, and for the most practical reason. It lied to her.
+Kessa hated the grey before the rest of them.
 
 She'd read ground her whole life. Out here the ground had stopped telling the truth. A trail Kessa swore aloud was an hour cold ran colder; tracks doubled into themselves and ended at nothing; she set a heading by the fall of the land, and the land, she said, lied about which way was down. Oscar watched her crouch over a print, go still, and do a thing he'd never seen her do—smear it out with her palm, like she didn't trust herself to have seen it.
 
-"I can't read this," she said. Flat. It cost her. "Ground won't hold still. Tarn's got the point. I'm no use in a place that won't stay where I put it."
+"I can't read this," she said. "Ground won't hold still. Tarn's got the point. I'm no use in a place that won't stay where I put it."
 
 Nobody argued.
 
@@ -46,11 +46,11 @@ The heat had gone out of her. For weeks she'd run hot, the fire in her always wa
 
 She rounded on him. "I can feel it," she snapped. "Exactly where it is. It's the only thing out here I *can* feel. So don't grab me. You grabbing my arm doesn't do anything—nothing you do out here does anything, and you know it, so don't. That hand's not for me."
 
-It was true, and meaner than she usually let herself be, and true. He let go and kept close anyway and didn't pretend it was for her.
+It was true, and meaner than she usually let herself be, and true. He let go and kept close anyway.
 
 ---
 
-The boar-thing came out of a deadfall low and fast and wrong, and it came with no fear in it at all, which was the tell. Nothing alive runs at five armed strangers without fear.
+The boar-thing came out of a deadfall low and fast and wrong, and it came with no fear in it at all. Nothing alive runs at five armed strangers without fear.
 
 Tarn put it down with his hands. He gave ground at the one angle that took the charge past him, got inside its rush, and broke what needed breaking, forty years of bowl-fighting and all of it in the fists. It cost him a long tear up the forearm going down. An ordinary wound. He'd had worse for a smaller purse.
 
@@ -68,11 +68,11 @@ Cael sat down in the dirt all at once.
 
 "We heard it," Kessa said, and got him on his feet, and they went on with one fewer card and all of them counting.
 
-After that the grey stopped pretending. The last stretch was less a walk than a wading, the air gone so thick that breathing was a thing you had to decide to do. The slumped trees gave out and left a basin of bare grey ground, steaming faintly in the cold. Oscar reached for the deep current one more time, the same old reflex, and got the same soaked nothing, and then made himself stop reaching, which was harder than it should have been. Looking was where he lived. He had to choose, and keep choosing, not to go there, the way you choose not to put your tongue to a broken tooth.
+After that the grey stopped pretending. The last stretch was less a walk than a wading, the air gone so thick that breathing was a thing you had to decide to do. The slumped trees gave out and left a basin of bare grey ground, steaming faintly in the cold. Oscar reached for the deep current one more time, the same old reflex, and got the same soaked nothing, and then made himself stop reaching, which was harder than it should have been. He had to choose, and keep choosing, not to go there, the way you choose not to put your tongue to a broken tooth.
 
 Kessa stopped at the rim and would not put a boot past it. Cael kept a hand flat to his chest, hoarding what was left. Even Tarn went still.
 
-Only Wick kept moving, like the ground had a grip on her, and Oscar got a fist in the back of her cloak, and she let him, which frightened him more than the snapping had.
+Only Wick kept moving, like the ground had a grip on her, and Oscar got a fist in the back of her cloak, and she let him.
 
 ---
 
@@ -88,7 +88,7 @@ That was the first insult. After all of it, the dead trees and the lying ground 
 
 There was only a hollow.
 
-At the bottom lay what had been an animal once. Large. Antlered, maybe; the head had softened too much to tell. Grey ran through it in slow pulses, root to rib to throat, not written over the body but grown up through it. Not a thing crouched inside a host. The flesh was the working now.
+At the bottom lay what had been an animal once. Large. Antlered, maybe; the head had softened too much to tell. Grey ran through it in slow pulses, root to rib to throat, not written over the body but grown up through it. The flesh was the working now.
 
 Oscar reached anyway.
 
@@ -104,13 +104,13 @@ He tried for the seam again. There wasn't one. He tried for the rule. The rule w
 
 It had not been made.
 
-"I can't end it." Plain and ugly, and better that way. "There's nothing to cut. Nothing to correct. It isn't holding the animal. It's *become* the animal." He made himself say the rest with his own mouth. "It's the wrong tool."
+"I can't end it. There's nothing to cut. Nothing to correct. It isn't holding the animal. It's *become* the animal." He made himself say the rest with his own mouth. "It's the wrong tool."
 
-Nobody said anything, and he was grateful.
+Nobody said anything.
 
 The thing at the bottom of the hollow, which had not moved the whole time, moved. Not toward him. There was nothing in him for it to climb, and being beneath a monster's notice landed on Oscar cold and total. It turned, slow and certain, toward the one of them it had come up out of the spring to find. The one it had been reaching for since the pit. Since before any of them learned her name.
 
-Wick had gone still. Her hand had come off the cold mark at her throat. She had the look on her the Warden had turned on the frozen otter by the fire. Not fear. Recognition.
+Wick had gone still. Her hand had come off the cold mark at her throat. She had the look on her the Warden had turned on the frozen otter by the fire.
 
 "It's the same as mine," she said, very quiet. "The thing behind my door. It's the same."
 
@@ -132,7 +132,7 @@ And there it was. The input.
 
 Oscar had three facts and no time, and the old version of him would have spent an hour reading for a fourth and gotten everyone killed comfortable in the knowledge of why. He made the call on three. He could not touch it. She could, and it cost her, and it drew the thing's whole attention onto her. And opened too wide, the door took *her* instead of the other way around.
 
-"Tarn." His voice came out flat and sure, in a register he didn't quite recognize as his own. "Set her down and get off this rim. The marker stone, there, out of its line. You're no use to her in the hollow and you've got more deep in you than any of us—you're a door it can climb. Go." Tarn went.
+"Tarn." His voice came out in a register he didn't quite recognize as his own. "Set her down and get off this rim. The marker stone, there, out of its line. You're no use to her in the hollow and you've got more deep in you than any of us—you're a door it can climb. Go." Tarn went.
 
 "Kessa. The treeline at our backs. If anything comes up out of the dark while we're all watching the hole, it's yours, because I won't see it coming." She was already moving.
 
@@ -142,7 +142,7 @@ Oscar had three facts and no time, and the old version of him would have spent a
 
 "Hold them."
 
-Then Wick, who'd got her feet back under her. The thing every nerve in him wanted was to look—to throw his gift open and pour it down into the hollow and read every thread of what he was sending her into, because not knowing was a kind of drowning and knowing was the whole of what he was. He shut it instead. Deliberately. The hardest figure he set all day, and he set it against himself.
+Then Wick, who'd got her feet back under her. The thing every nerve in him wanted was to look—to throw his gift open and pour it down into the hollow and read every thread of what he was sending her into. He shut it instead. Deliberately. The hardest figure he set all day, and he set it against himself.
 
 He crouched to her and gave her the one thing that wasn't a guess.
 
@@ -152,13 +152,13 @@ She nodded, white to the lips.
 
 She stood, and Tarn's hand came out from the marker stone and Cael half-rose, both of them reaching for her on pure human reflex, and Oscar put up a flat palm.
 
-"Don't hold her." Quiet. A command now, not a thing he'd just discovered. "Nobody holds her. She walks down on her own feet or it isn't hers."
+"Don't hold her." Quiet. "Nobody holds her. She walks down on her own feet or it isn't hers."
 
-Wick looked back at him. Once. Afraid now, and he was glad of it, because the not-afraid had been the worst thing about her all day.
+Wick looked back at him. Once. Afraid now, and he was glad of it.
 
 "Tell me after," she said, "that I'm still me."
 
-"You're still you." He made it sound certain, because she needed one certain thing and certainty cost him nothing to give. "Halfway and home. I'll be right here to say it."
+"You're still you." He made it sound certain, because she needed one certain thing. "Halfway and home. I'll be right here to say it."
 
 She turned and walked down into it on her own two feet, small and cold and burning somewhere underneath.
 

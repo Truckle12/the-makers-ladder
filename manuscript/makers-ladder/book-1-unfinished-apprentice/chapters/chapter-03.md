@@ -10,7 +10,7 @@ He stepped into it. There was, he reflected, a first time for everything, includ
 
 The first husk reached Cael, and Cael broke it.
 
-It was not elegant and it did not need to be. The long hammer came around in a flat economical arc and took the thing where its neck met its shoulder, and the husk did not fly apart the way a living man's bones would have flown; it *cracked*, all down one side, frost puffing out of the fracture in a pale breath, and folded sideways and did not get up. Cael had already turned to the next. He fought the way a man chops a winter's worth of wood: no waste, no flourish, a thing to be done before dark.
+The long hammer came around in a flat economical arc and took the thing where its neck met its shoulder, and the husk did not fly apart the way a living man's bones would have flown; it *cracked*, all down one side, frost puffing out of the fracture in a pale breath, and folded sideways and did not get up. Cael had already turned to the next. He fought the way a man chops a winter's worth of wood: no waste, no flourish, a thing to be done before dark.
 
 Kessa's first bolt took a husk through the eye-socket from fifteen feet, and the second was already on the string before the first had finished falling. She did not miss. Oscar made a private note that she did not miss, ever, and that this was a quality he wished to keep on the friendly side of him.
 
@@ -34,7 +34,7 @@ Cael did not argue and did not ask why, which Oscar would think well of him for 
 
 Kessa did not turn to look at him. She turned and put a bolt through the exact hollow of the husk's frosted throat as it reached for her shoulder blade, and it folded, and she was already reloading, and only afterward did her eyes cut sideways to him for half a breath, fast and flat and recalculating.
 
-It was not gratitude. He had not expected gratitude. But it was the first time she had looked at him as a thing that might be worth keeping alive on purpose rather than on principle, and Oscar, who had been worshipped and feared and consulted by kings, found the flat reassessing flick of a frontier scout's eyes more satisfying than any of it.
+It was the first time she had looked at him as a thing that might be worth keeping alive on purpose rather than on principle, and Oscar, who had been worshipped and feared and consulted by kings, found the reassessing flick of a frontier scout's eyes more satisfying than any of it.
 
 For a little while it almost worked.
 
@@ -60,11 +60,11 @@ Silence. Steam. The patter of small stones coming down, and then larger ones.
 
 "Up," he croaked. "*Up*, everyone up, the front's coming—"
 
-They got up. They were soldiers of a sort, all three, and they got up. But the way ahead was a wall of fallen stone now, and the street behind was a churn of steam already crawling with more of the dead drawn by the noise, and in the middle of the wreckage stood Wick, both hands clamped over her own mouth, staring at the place where Cael had hit the wall with an expression Oscar knew far too well from the inside. The expression of a person discovering exactly how much harm they are capable of and that they have no idea at all how to stop.
+They got up. They were soldiers of a sort, all three, and they got up. But the way ahead was a wall of fallen stone now, and the street behind was a churn of steam already crawling with more of the dead drawn by the noise, and in the middle of the wreckage stood Wick, both hands clamped over her own mouth, staring at the place where Cael had hit the wall with an expression Oscar knew far too well from the inside.
 
 "I didn't—" she said, behind her hands. "I didn't mean—Cael, are you—I didn't—"
 
-"I'm whole." Cael was up, one arm not quite right, blood at his hairline, but up. "I'm whole, Wick, look at me, I'm whole." The mercy in him did not even have to be reached for; it was simply the first thing out. But under it Oscar heard the strain, and saw Kessa's hand white on the crossbow, and understood that the girl's power had cost them before, and that the crew was one more such moment from deciding she was a danger they could not afford in close quarters.
+"I'm whole." Cael was up, one arm not quite right, blood at his hairline, but up. "I'm whole, Wick, look at me, I'm whole." But under it Oscar heard the strain, and saw Kessa's hand white on the crossbow, and understood that the girl's power had cost them before, and that the crew was one more such moment from deciding she was a danger they could not afford in close quarters.
 
 And the dead were coming, and Oscar had nothing left to spend.
 
@@ -76,17 +76,15 @@ He crossed to the girl. He did it slowly, hands open, the way Cael had wanted to
 
 "I—I let it go, I didn't mean to, I never mean to—"
 
-"No." Plainly. Not unkind. "You didn't *do* anything. That's the trouble. You had a great deal of power and you gave it no instructions, and so it did the only thing power does when no one tells it where to go, which is *everything, everywhere, at once.*" The husks were thirty feet off and closing. He did not look at them. He kept his eyes on hers, because the whole game now was making his calm more interesting to her than her terror. "Power isn't the rare thing, child. You've more of it than I've seen in a century. The rare thing is the *aiming.* And aiming I can give you."
+"No." Plainly. "You didn't *do* anything. That's the trouble. You had a great deal of power and you gave it no instructions, and so it did the only thing power does when no one tells it where to go, which is *everything, everywhere, at once.*" The husks were thirty feet off and closing. He did not look at them. He kept his eyes on hers, because the whole game now was making his calm more interesting to her than her terror. "Power isn't the rare thing, child. You've more of it than I've seen in a century. The rare thing is the *aiming.* And aiming I can give you."
 
 And here was the strange part, the part he would turn over later in the few quiet moments this place allowed: as he said it, he *felt* it come back to him. Not the power; the power stayed gone. But the *understanding.* The shape of the craft, the thing he had known so long he had stopped knowing he knew it. Saying it aloud to a frightened girl, slowly, in words simple enough for her to catch: it put the words back in his own mouth.
-
-He had forgotten, somewhere in three centuries of being effortless, that you learn a thing twice: once when you struggle to it, and once when you teach it.
 
 "Pick one," he said. "Not all of them. *One.* The tall one, in front, do you see it? Put everything you have into a place the size of my fist, right *here*—" he reached out, careless of the heat, and laid two fingers against the air over the husk's frost-furred breastbone, where his old, returning, half-dead seeing told him the binding ran in a single overstretched thread "—and *nowhere else.* Hold it small. Smaller than your fear. Can you do that for me?"
 
 "I don't—"
 
-"Can you do it for *me.*" Not a question now. The voice he had used on apprentices who needed permission to be brave. "I have never once been wrong about who can do a thing. Ask anyone. Ask the wall I just hid behind."
+"Can you do it for *me.*" The voice he had used on apprentices who needed permission to be brave. "I have never once been wrong about who can do a thing. Ask anyone. Ask the wall I just hid behind."
 
 A laugh got out of her, cracked and wet and half a sob, but a laugh. And the heat at her hands stopped roiling and drew *in*, gathered, condensed, a child holding a tantrum down to a single white point of light at the end of one trembling finger because a strange arrogant man had told her she could.
 
@@ -104,7 +102,7 @@ Then there was no more time for revelation, because the dead had closed the last
 
 They did not celebrate. There was no breath for it. They simply stood in the steaming ruin of the street, among the drifts of frost that had been the city's dead, and breathed, and lived.
 
-Kessa was the one who said it, of course. She had walked to the wall of fallen stone where the road out had been and laid her hand flat against it and stood there a moment, reading it the way Oscar read seams, and when she turned back her face had gone past grim into something quieter and worse.
+Kessa was the one who said it, of course. She had walked to the wall of fallen stone where the road out had been and laid her hand flat against it and stood there a moment, reading it the way Oscar read seams, and when she turned back her face had gone past grim into something quieter.
 
 "It's gone," she said. "The high road's under all of that, and it's not coming back out, not for the four of us, not with hands." She looked at the steam, and the dark, and at last down, down the long throat of the dead city, toward the place where the streets sloped away into a deeper black, toward whatever sat at the bottom of all that silence and had lit when Oscar woke. "There's one way left that I know runs through to open air. It goes down before it goes up. It goes through the middle of the whole dead place."
 

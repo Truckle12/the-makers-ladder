@@ -12,7 +12,7 @@ Her sternum had ached for two days. This morning something was *pressing* on it.
 
 "Six." Wick had made herself answer that question honestly about forty times since the waystation. "It's a six but it's a *rising* six." She rubbed her sternum without meaning to. "It's not the town doing it, before you ask. The town's just where it's worn through."
 
-"Worn through," Kessa repeated, in the flat voice that meant *say more.*
+"Worn through," Kessa repeated, in the voice that meant *say more.*
 
 "Like." Wick hunted for it and got something worse than she meant. "You know when ice goes bad over a pond and you can still walk on it but you can hear it? It's like that except the ice is everything and the pond is *hungry.*"
 
@@ -26,7 +26,7 @@ Oscar had gone very still.
 
 ---
 
-He said it the flat careful way he'd been saying things since the valley, and Wick watched his face do the thing where he stopped being a person and started being a machine that took notes.
+He said it the careful way he'd been saying things since the valley, and Wick watched his face do the thing where he stopped being a person and started being a machine that took notes.
 
 "Not licensed readers. That's not — " he squinted at the arch, and she could tell he was doing his looking, reaching out for the made parts of it, "that's not a person's working at all. The arch is doing it. The whole gate is one enormous figure and it's *reading everyone who walks under it.* It takes the measure of a thing and asks whether the thing belongs." He was talking to himself now, as he did. "It's the Redactor's grammar. Scaled up. Made permanent and given a *door* to stand in."
 
@@ -56,7 +56,7 @@ She staggered. Cael's hand was on her shoulder before she knew she'd moved, big 
 
 "It liked that," she got out. "The — the thing. Behind my door. When the man came apart it *liked* it, it went all — " she couldn't, she didn't have any of the words, she was sixteen and her hands were shaking and the biggest thing she'd ever felt had just licked its lips. "It's not the same as the striking-out. It's the *opposite* of it. But it woke up for it. Like two dogs noticing each other through a fence."
 
-She saw Oscar hear that. She saw it go into him and get put somewhere with a lid on it, and she saw — and this was the bit that scared her worst, after — she saw him decide not to say what he was thinking.
+She saw Oscar hear that. She saw it go into him and get put somewhere with a lid on it, and she saw him decide not to say what he was thinking.
 
 ---
 
@@ -112,7 +112,7 @@ They lay up until dark, and Wick did not sleep, and near the end of it Oscar cam
 
 "It is. It's my least favourite of your habits and you learned it from me." He turned the grimoire over in his hands without opening it. "Here's the whole of what I've got. That town runs on something enormous, and it's the same cold written stuff I read and swim in — it's *mine,* in the sense that anything is. And whatever is behind your door is not that. It isn't written anywhere. It isn't in the world at all. Which is why my looking gives me nothing on it, and never has, and never will." He said that steadily, but she heard the crack under it. "The book has a word for it. A clerk's word. *The Unwritten.* It means the one thing their paper can't hold. I'd rather you had a better one." "It's the one thing coming for you that I cannot read, cannot argue with, and cannot unmake. So when I say *tell me the number every hundred paces,* Wick, I'm not managing you. That number is the only instrument I have."
 
-Wick sat with that. She had a better one. It was the far side, and it was hers, and she wasn't giving it a clerk's name. It should have scared her worse. It didn't, much. Somebody had finally said out loud that it was as big as it felt. She'd carried it since she was small. He was the first to say it was that big. Him, in the leaves, with a book he wouldn't open.
+Wick sat with that. She had a better one. It was the far side, and it was hers, and she wasn't giving it a clerk's name. It should have scared her worse. It didn't, much. Somebody had finally said out loud that it was as big as it felt. Him, in the leaves, with a book he wouldn't open.
 
 "Six," she said. "It's a six. It's been a six all afternoon."
 
@@ -120,7 +120,7 @@ Wick sat with that. She had a better one. It was the far side, and it was hers, 
 
 "You're so weird," Wick said, and meant *thank you,* and he heard it, because he always did.
 
-She held the rock in her fist while the others got up and shouldered their packs and Kessa counted them in the dark — five, breathing, hers — and the thin place over Everset waited above them with a patience she was starting to recognize. Not the town's patience. The other one.
+She held the rock in her fist while the others got up and shouldered their packs and Kessa counted them in the dark — five, breathing, hers — and the thin place over Everset waited above them with a patience she was starting to recognize, not the town's patience, the other one.
 
 She was the only one who could feel it.
 

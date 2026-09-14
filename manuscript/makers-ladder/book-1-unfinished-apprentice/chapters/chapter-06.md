@@ -8,15 +8,15 @@ Oscar kept reading the walls. He could not stop, and now he had a reason past ha
 
 They stopped. Cael looked where Oscar was looking and saw nothing but stone. "What is it?"
 
-"It's been *here.*" Oscar held his ruined hand a careful span from the wall, not touching, the way you hold a palm near a fire to test it. The script on the left-hand stone was wrong. Not damaged. This was the opposite of damage. Whole stretches of the old working had been *cleaned,* the dense frost-script simply gone and the stone beneath left blank and smooth, the edges where it ended neat as a knife-cut, neat as the salvager's vanished arm.
+"It's been *here.*" Oscar held his ruined hand a careful span from the wall, not touching, the way you hold a palm near a fire to test it. The script on the left-hand stone was wrong. This was the opposite of damage. Whole stretches of the old working had been *cleaned,* the dense frost-script simply gone and the stone beneath left blank and smooth, the edges where it ended neat as a knife-cut, neat as the salvager's vanished arm.
 
 And along the cleaned stretch, something was missing that took him a moment to name: the cold. Not warmed—*gone.* Cael's breath fogged white everywhere in the gallery except in front of the blank stone, where it came and went invisible, as though the air there had forgotten the habit. Oscar crouched and laid two fingers to the floor below the blank and found no frost on it at all, on a floor that had worn frost for an age.
 
-"It isn't only erasing the writing," he said slowly, and the slowness was dread. "It's striking out the *rules.* Somewhere in all this the old working has a line that says *let it be cold here.* And that thing read the line, decided the city had no further use for it, and now this stretch simply isn't cold anymore. It doesn't fight what's in its way. It removes the part of the world that was holding the thing up." He looked down the gallery, toward the dark where the heart waited, and the rest of it came clear and worse. "And it's following the sentence to its end. The end is the heart. The same place we're going. And it's editing as it reads."
+"It isn't only erasing the writing," he said slowly. "It's striking out the *rules.* Somewhere in all this the old working has a line that says *let it be cold here.* And that thing read the line, decided the city had no further use for it, and now this stretch simply isn't cold anymore. It doesn't fight what's in its way. It removes the part of the world that was holding the thing up." He looked down the gallery, toward the dark where the heart waited, and the rest of it came clear and worse. "And it's following the sentence to its end. The end is the heart. The same place we're going. And it's editing as it reads."
 
 "Then we go a different way," Kessa said.
 
-"There is no different way. You said it yourself. This is the road. It's the road for us and it's the road for that. We're behind it. It's between us and where we need to be, and it's moving slower than we are because it's stopping to *correct* everything, and the moment we catch up to it—" He did not finish. He had a gift for finishing sentences nobody wanted finished, and for once he set the gift down.
+"There is no different way. You said it yourself. This is the road. It's the road for us and it's the road for that. We're behind it. It's between us and where we need to be, and it's moving slower than we are because it's stopping to *correct* everything, and the moment we catch up to it—" He did not finish.
 
 "Then we go quiet," Cael said, "and we go careful, and we don't catch up to it."
 
@@ -30,9 +30,9 @@ Down the gallery, in the dark past the fallen columns, something that had been s
 
 "It heard," he said. "Move. *Move,* now, back, into the columns—"
 
-It came up the gallery toward them, and it did not hurry, and the not-hurrying was the most frightening thing Oscar had seen in a day full of frightening things.
+It came up the gallery toward them, and it did not hurry.
 
-He had braced for a monster. He understood monsters; he had catalogued a great many. This was not a monster. It walked upright and it was roughly the size and shape of a person, robed or shrouded in something that drank the light, and where its face should have been there was only a smooth pale blankness, unfinished, the exact blankness of the half-edited salvager. It carried no weapon. It did not need one. As it came it trailed one hand along the right-hand wall, the wall still thick with old script, and everywhere its fingers passed the script *thinned and vanished,* the working coming apart at its touch, the stone going blank and smooth in its wake. It was reading the wall as it walked. It was editing the world simply by moving through it, the way a careless reader leaves a book changed.
+He had braced for a monster. He understood monsters; he had catalogued a great many. This was not a monster. It walked upright and it was roughly the size and shape of a person, robed or shrouded in something that drank the light, and where its face should have been there was only a smooth pale blankness, unfinished, the exact blankness of the half-edited salvager. It carried no weapon. It did not need one. As it came it trailed one hand along the right-hand wall, the wall still thick with old script, and everywhere its fingers passed the script *thinned and vanished,* the working coming apart at its touch, the stone going blank and smooth in its wake. It was reading the wall as it walked.
 
 And it was reading toward them.
 
@@ -64,7 +64,7 @@ The script under his hand did not shatter. It went *out,* a long dimming rush ra
 
 The Redactor stopped.
 
-It stood three columns from them, one hand still raised to the now-dead wall, and the smooth pale blank of its face turned slowly along the line of darkened script to the place where the sentence ended and there was no more to read. And for the first time it did something other than advance: it *hesitated,* a thing built to follow a text standing at the place the text ran out, casting. Not for them, Oscar understood, but for the *line,* for the thread it had lost, the way a reader who has lost their place runs a finger back up the page.
+It stood three columns from them, one hand still raised to the now-dead wall, and the smooth pale blank of its face turned slowly along the line of darkened script to the place where the sentence ended and there was no more to read. And for the first time it did something other than advance: it *hesitated,* a thing built to follow a text standing at the place the text ran out, casting. Not for them, Oscar understood, but for the *line,* for the thread it had lost.
 
 "Now," Oscar said. "While it's lost. Down, toward the heart, *quietly.* It can't follow what it can't read, and I've just torn out the page between us."
 
@@ -72,10 +72,10 @@ They went. They went fast and low through the fallen columns, past the hesitatin
 
 "What *was* that," Wick managed, when they had put distance and darkness between themselves and it. "You said later. It's later."
 
-Oscar did not answer at once. His hand, the new, smooth, wrong hand, was shaking, and not only from the spending of his last power. Because he had felt it, in the moment he laid his seeing on the thing: the family resemblance, and underneath it the one difference that mattered. They did the same work from opposite ends. He read to understand and changed nothing; it changed everything and understood nothing. It had moved down the sentence of the city exactly the way he moved down it, and taken in none of it. Not the salvager. Not the city. Not him. It did not mean anything at all. It did not hate. It *corrected.* It treated bodies as drafts the way the tower had treated him as a draft. It belonged to the same order of things as the door that knew his hand and the loop signed into the wall, and as, he was beginning to be unable not to know, *himself.*
+Oscar did not answer at once. His hand, the new, smooth, wrong hand, was shaking, and not only from the spending of his last power. Because he had felt it, in the moment he laid his seeing on the thing: the family resemblance, and underneath it the one difference that mattered. They did the same work from opposite ends. He read to understand and changed nothing; it changed everything and understood nothing. It had moved down the sentence of the city exactly the way he moved down it, and taken in none of it, not the salvager, not the city, not him. It did not mean anything at all. It did not hate. It *corrected.* It belonged to the same order of things as the door that knew his hand and the loop signed into the wall, and as, he was beginning to be unable not to know, *himself.*
 
 "I don't know what it is," he said, which was the truth, and then, because the rest of it was crowding up behind his teeth and he had not once in his whole life successfully kept that kind of truth behind his teeth, "but I know what it's *for.* It's a corrector. Something made it to go through places like this and read them and strike out what doesn't belong." He looked back, once, into the dark where it waited. "And I came up out of a place exactly like this, through a door that knew my hand, and the city woke when I did. So I find I'm extremely interested in what it considers *belongs,* and what it doesn't."
 
 He did not say the last of it. He did not say: *and I am increasingly afraid I am a thing it was made to correct.*
 
-But Kessa was watching his shaking hand again, with that same patient, terrible, unpushing look, and he understood that he had not needed to say it. She had read that line a long way back. She was only waiting, the way you wait at the end of a long sentence, for the word the whole thing had been building toward.
+But Kessa was watching his shaking hand again, with that same patient, terrible, unpushing look, and he understood that he had not needed to say it.

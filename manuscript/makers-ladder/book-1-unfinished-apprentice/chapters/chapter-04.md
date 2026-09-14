@@ -34,9 +34,9 @@ There was no other word that fit, and he turned the wrong word over and over loo
 
 *Made.*
 
-He did not let the thought finish. He had got very good, in the last several hours, at not letting certain thoughts finish. He drank, and did not look at the water again, and when he sat back down by the fire his face was arranged into its usual mild superiority and only his hands, had anyone been watching them, were not quite steady.
+He did not let the thought finish. He drank, and did not look at the water again, and when he sat back down by the fire his face was arranged into its usual mild superiority and only his hands, had anyone been watching them, were not quite steady.
 
-Someone had been watching them. Kessa's eyes came off the door for half a breath, found his hands, and went back to the door, and she said nothing, and somehow her saying nothing was the loudest thing in the room.
+Someone had been watching them. Kessa's eyes came off the door for half a breath, found his hands, and went back to the door, and she said nothing.
 
 "You should sleep," Cael said. To all of them, but mostly, Oscar thought, to fill the quiet that had got too large. "I'll take the first watch."
 
@@ -52,7 +52,7 @@ It was Oscar who said the thing out loud, because of course it was. He had been 
 
 The argument stopped. Something went out of the room and something colder came into it, and Oscar understood, a half-second too late, as he understood most things that weren't written on a page, that he had walked his clever feet directly into a grave.
 
-"You just *say* it." Kessa's voice had gone very flat. Her hand had found the crossbow again, not lifting it, only resting there. "Whatever's in your head. Straight out the mouth." She looked at him with something that was nearly hatred and nearly grief and could not seem to settle on which. "I've put a bolt in men for less and slept the night through."
+"You just *say* it." Kessa's hand had found the crossbow again, not lifting it, only resting there. "Whatever's in your head. Straight out the mouth." She looked at him with something that was nearly hatred and nearly grief and could not seem to settle on which. "I've put a bolt in men for less and slept the night through."
 
 "That was unkindly put," Oscar conceded, and meant it, which did not help. "I have a gift for the unkindly put. I'm given to understand it's among my warmer qualities."
 
@@ -66,11 +66,11 @@ He stopped. Kessa had gone still at the door, not watching it now, watching noth
 
 "You don't have to," Kessa said, low.
 
-"They've asked." He let the words settle, and went on, steady and not unkind, telling it now because telling it was owed. "The ward wasn't sleeping for nothing. It woke the way this place woke, all at once, the cold things coming up out of the floor, and there was a moment—there's always a moment—where one person can hold the door so the others get clear, and Doss took it, because Doss always took it, and we got clear, and he—" Cael's voice did not break. It simply stopped, the way the dying voice in the tower had stopped, on a word it could not get to the front of. "He didn't."
+"They've asked." He let the words settle, and went on, steady, telling it now because telling it was owed. "The ward wasn't sleeping for nothing. It woke the way this place woke, all at once, the cold things coming up out of the floor, and there was a moment—there's always a moment—where one person can hold the door so the others get clear, and Doss took it, because Doss always took it, and we got clear, and he—" Cael's voice did not break. It simply stopped, the way the dying voice in the tower had stopped, on a word it could not get to the front of. "He didn't."
 
-The fire popped. No one filled the silence. Oscar, who had spent his life being the one who filled silences, had three or four things he could have said. He always had three or four things. And he looked at the iron token turning in Cael's fist, and the stilled knife on Kessa's knee, and he set every one of them down unsaid and let the quiet stand. It had cost him only the pleasure of being heard.
+The fire popped. No one filled the silence. Oscar, who had spent his life being the one who filled silences, had three or four things he could have said. He always had three or four things. And he looked at the iron token turning in Cael's fist, and the stilled knife on Kessa's knee, and he set every one of them down unsaid and let the quiet stand.
 
-"So when you came up out of *your* deep house," Cael said, finally, lifting his eyes to Oscar, and there was no accusation in them, which landed harder than accusation would have, "and Kessa said *put it back or put it down,* and I said no. You should understand I wasn't being kind. I've voted to go through a sleeping door once already. I'd sooner carry a stranger I'm not sure of than make that call again and be wrong the same way." He almost smiled, and didn't. "That's not faith. I just won't do it twice."
+"So when you came up out of *your* deep house," Cael said, finally, lifting his eyes to Oscar, and there was no accusation in them, "and Kessa said *put it back or put it down,* and I said no. You should understand I wasn't being kind. I've voted to go through a sleeping door once already. I'd sooner carry a stranger I'm not sure of than make that call again and be wrong the same way." He almost smiled, and didn't. "That's not faith. I just won't do it twice."
 
 Oscar looked at the three of them: the watchful woman who would not leave the door, the gentle ruined man who had run out of *no*, the wild girl who carried a mark she didn't understand and a guilt that wasn't hers to carry. And understood that he was sitting in a dead man's place. They had been moving since they lost Doss in fits and lurches, voting on things no one should vote on because the one who used to *decide* was holding a door somewhere in the dark forever. And some part of him, the part that had commanded and been obeyed for longer than these three had been alive, was already leaning into the gap, already reaching for the empty place at the head of the crew the way an hour ago he had reached for the empty place on his shoulder.
 
@@ -82,7 +82,7 @@ He did not take it. Not yet. It was not his to take, and he had learned, watchin
 
 They slept. Wick first and hardest, curled small as a child, the mark at her throat faintly warm in the firelight. Cael after, grey and heavy. Kessa did not sleep at all, but she let her eyes rest on the fire instead of the door for a little while, which from her was nearly the same thing.
 
-And Oscar sat his watch in the warm uneven light, in a dead city under the bones of the world, and did not reach for his shoulder, because he had decided he was done discovering the absence over and over like someone worrying a bruise. He missed the weight. He missed the voice. He missed it the way you miss a thing that is part of the architecture of you, so that its loss is not a wound in you but a wound in the *shape* of you.
+And Oscar sat his watch in the warm uneven light, in a dead city under the bones of the world, and did not reach for his shoulder, because he had decided he was done discovering the absence over and over like someone worrying a bruise. He missed the weight. He missed the voice.
 
 "You'd have something to say about all this," he told the fire, very low, where no one could hear. "Something unforgivable. I'd pretend to hate it."
 

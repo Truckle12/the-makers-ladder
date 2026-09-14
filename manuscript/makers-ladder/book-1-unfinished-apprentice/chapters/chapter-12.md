@@ -6,7 +6,7 @@ Not real fire. She wished it were real fire; real fire you could put out. This w
 
 *No sparks,* Kessa had said. *Not one. Not in a town full of people and old dry timber.*
 
-So Wick held it. She held it as you'd hold a breath underwater, with her jaw tight and her fists tighter and the heat banked down to a coal in her chest, and it hurt, the holding, it always hurt. They all looked at her like she was a problem that might go off. None of them got that she spent every waking minute *not* going off, and that it was the most exhausting thing she did, more exhausting than running, more exhausting than being hungry, which she also was.
+So Wick held it. She held it as you'd hold a breath underwater, with her jaw tight and her fists tighter and the heat banked down to a coal in her chest, and it hurt, the holding, it always hurt. They all looked at her like she was a problem that might go off. Holding it was harder than running. It was harder than being hungry, which she also was.
 
 Oscar got it, maybe. A little. He'd said the aiming was the hard part, but she thought he'd had it half-backwards, and he was the only one who'd ever made her feel like the holding was a thing she was strong for doing instead of a bomb they were all standing next to.
 
@@ -30,7 +30,7 @@ She went down.
 
 She wasn't scared yet, not really, not for the first while. She was *proud,* which she knew even then was the kind of feeling that gets people killed, but she couldn't help it. She'd done it, she'd been useful, she'd been the one who saw it and acted, not the liability, not the bomb, the one who *saved* them. And the pride carried her down three turns and a long sloped shaft into the deep bones before it ran out and left her standing in a dark so complete it had a texture, breathing air that tasted of cold stone and older things, with no idea at all where she was.
 
-What came in to take its place was the cold thing, the *alone* thing. She had never been properly alone before. Not like this, not in a dark with a texture to it and no bottom and no Kessa's-steps to set her feet in. She kept one hand flat on the wall and the other curled around the small banked coal of her own heat, the only warm thing left in the world, and she told herself she'd find a shaft, find air, find them. She told herself a lot of things. The dark ate every one.
+What came in to take its place was the cold thing, the *alone* thing. She had never been properly alone before, not like this, not in a dark with a texture to it and no bottom and no Kessa's-steps to set her feet in. She kept one hand flat on the wall and the other curled around the small banked coal of her own heat, the only warm thing left in the world, and she told herself she'd find a shaft, find air, find them. She told herself a lot of things. The dark ate every one.
 
 She didn't have long to be frightened of it, because that was when the thing in the dark found her.
 
@@ -44,7 +44,7 @@ She meant to do it the way Oscar taught her. One thread, one fist-sized place, a
 
 Then it came into the light of her own kindling, and the aiming went clean out of her hands.
 
-It was a spider. Not the word she'd have said out loud—out loud she'd have had a worse word—but that was the body her eyes found in the orange light: eight legs, jointed and bone-pale and long as her arms, folding and reaching and feeling at the floor, carrying a swollen sac of a body low and heavy behind a smooth blind head. No eyes anywhere on it that she could find. Just that pale head, and underneath it a busy wet working of mouthparts that opened and opened. It had no color on it at all; nothing down here did. And it came straight at the warmest thing in the dark, which was her. Not even a monster. An animal. Hungry. And she was the warm thing.
+It was a spider, not the word she'd have said out loud—out loud she'd have had a worse word—but that was the body her eyes found in the orange light: eight legs, jointed and bone-pale and long as her arms, folding and reaching and feeling at the floor, carrying a swollen sac of a body low and heavy behind a smooth blind head. No eyes anywhere on it that she could find. Just that pale head, and underneath it a busy wet working of mouthparts that opened and opened. It had no color on it at all; nothing down here did. And it came straight at the warmest thing in the dark, which was her. Not even a monster. An animal. Hungry. And she was the warm thing.
 
 She reached for the heat the way she had in the ruined street the day she nearly killed everyone—reached for *all* of it—
 
@@ -66,9 +66,9 @@ She slammed the door. Everything she had. Her whole self. The bit of her that wa
 
 It shut.
 
-She came back to herself on her knees in the dark, shaking, the mark gone cold and quiet at her throat, the tunnel black again and stinking of ash, her own breath sawing loud in the silence. Whatever she'd touched was gone, back down below the floor of her, sleeping or waiting or whatever it did. She was alive. She was herself. She'd almost not been, and nobody would ever, ever know how close it had been, and she made a decision right there on her knees in the dark, without looking at it too hard: she was not going to tell them. Not Kessa, who'd look at her like the bomb again. Not Cael, who'd pray over her. Not even Oscar.
+She came back to herself on her knees in the dark, shaking, the mark gone cold and quiet at her throat, the tunnel black again and stinking of ash, her own breath sawing loud in the silence. Whatever she'd touched was gone, back down below the floor of her, sleeping or waiting or whatever it did. She was alive. She was herself. She'd almost not been, and nobody would ever, ever know how close it had been, and she made a decision right there on her knees in the dark, without looking at it too hard: she was not going to tell them: not Kessa, who'd look at her like the bomb again, not Cael, who'd pray over her. Not even Oscar.
 
-*Especially* not Oscar. He'd have it worked out in a breath, and then he'd look at her, and she couldn't take being looked at like that. Not tonight.
+*Especially* not Oscar. He'd have it worked out in a breath, and then he'd look at her, and she couldn't take being looked at like that, not tonight.
 
 She didn't have to find her way back. They found her. She heard them before she saw the bobbing light of Brida's mended lamp, heard Cael's big careful voice calling her name with an edge of real fear in it that made her eyes sting, heard Kessa's flat *there she is* that somehow had more relief in it than a shout would have. And then there was light, and there were her people, and Cael was crushing her into a hug that smelled of sweat and iron and safety, and she let him, and she did not cry, and she was very proud of not crying.
 
@@ -82,12 +82,12 @@ And then there was Oscar, crouching down to her level the way grown-ups never di
 
 And then he stood, and turned, and read them a way out.
 
-The thing she kept seeing after wasn't the spider. It was Oscar with his hand flat on the wall, the oldest deadest wall in the whole buried city, his eyes doing their cold shine, and then he just *knew.* Which way the tunnels went. Which ones would hold. Where the air was. He didn't feel along the stone with one hand out like she'd been doing. The walls told him. This place, the place that had nearly eaten her from the inside out, that had opened a door in her she hadn't even known she had, and he walked through it like it was his own front hall. Not scared. Not even a bit.
+The thing she kept seeing after wasn't the spider. It was Oscar with his hand flat on the wall, the oldest deadest wall in the whole buried city, his eyes doing their cold shine, and then he just *knew.* Which way the tunnels went. Which ones would hold. Where the air was. He didn't feel along the stone with one hand out like she'd been doing. The walls told him. This place, the place that had nearly eaten her from the inside out, that had opened a door in her she hadn't even known she had, and he walked through it like it was his own front hall. Not scared, not even a bit.
 
-He was magnificent. He was the most magnificent thing she had ever seen.
+He was magnificent. His lips were going the whole time, same as when he read anything, and he didn't know it, and she wasn't going to tell him.
 
 She wanted that. She wanted it so bad her teeth hurt. To stand in the dark with all of it coming at her and not be scared, because she'd *know* what it was. She wanted him to teach her till she did. She'd been calling herself his apprentice in her head for days now, secretly, the way you try on a coat in a shop you can't afford. Watching him walk them out of the bones, she stopped trying it on. She just decided it was true.
 
 There was one other thing. A small thing, and she didn't know where to put it, so it went in with everything else she wasn't saying. The dead place *let* him. It was a silly thought and she knew it was silly, but the walls seemed almost *glad* to tell him the way. Like the city knew him. Like it had been waiting a long time for him to come home. It made the back of her neck go cold, and she didn't know why.
 
-So she went up after her teacher toward the light, and she kept her own door shut, and she didn't tell anyone. Not Kessa. Not Cael. Not him. Not what had reached back through it in the dark, and not how glad it had been.
+So she went up after her teacher toward the light, and she kept her own door shut, and she didn't tell anyone, not Kessa, not Cael, not him. Not what had reached back through it in the dark, and not how glad it had been.

@@ -2,13 +2,13 @@
 
 The wild did not feel empty. That was the first thing, and the wrongest.
 
-Oscar had expected empty. The managed south had taught him that *unwatched* meant *dead:* a field nobody tithed was a field nobody tended, and a road nobody policed was a road gone to weeds. He'd carried that south with him without noticing, and so he was unprepared for the truth of the country past the paving: that the House's absence wasn't an absence at all. Something else lived here. Something older had simply never left.
+Oscar had expected empty. The managed south had taught him that *unwatched* meant *dead:* a field nobody tithed was a field nobody tended, and a road nobody policed was a road gone to weeds. He'd carried that south with him without noticing, and so he was unprepared for the truth of the country past the paving: that the House's absence wasn't an absence at all. Something else lived here.
 
 They'd been two days in it. Two days of forest that got taller and stranger as the last farms fell behind, of trees whose bark ran with a faint slow light when the sun went, of birds that watched them pass with an attention birds were not supposed to have, of a deep green quiet that was not silence but the opposite. A held breath. A thing aware. The deep current ran close to the surface out here. Oscar could feel it the way you feel a river through the soles of your feet on a bridge, that cold vast under-thing he'd only ever brushed in dead cities and worked relics, here running warm and living and everywhere, threaded up through root and leaf and the slow blood of old animals. In the south they wrote on it with figures and stamps and licenses. Out here it wrote itself, and had been writing itself a very long time, and did not appear to require anyone's permission.
 
-They crossed it in a loose order that had sorted itself without anyone deciding it, and the sorting of it told Oscar something true about each of them.
+They crossed it in a loose order that had sorted itself without anyone deciding it.
 
-Tarn led, and Tarn had changed. In Oressa he'd been a banked thing, all that borrowed power held down under a lid; out here, on ground he knew, he walked like a man who'd had a collar taken off. He read the country with his eyes and his boots and forty years, naming things as he went. *That's a marker, leave it. Black alder there means water inside a mile, and something drinks at it come dusk, so we don't bed down close.* At a cairn of moss-grown stones where two deer-paths crossed, he stopped the whole line and made them wait while he set a strip of dried meat on the topmost stone, unhurried, almost solemn.
+Tarn led, and Tarn had changed. In Oressa he'd been a banked thing, all that borrowed power held down under a lid; out here, on ground he knew, he walked like a man who'd had a collar taken off. He read the country with his eyes and his boots and forty years, naming things as he went. *That's a marker, leave it. Black alder there means water inside a mile, and something drinks at it come dusk, so we don't bed down close.* Once he stopped for no reason Oscar could see, head cocked at a two-note call somewhere up in the canopy, and stood with his thumbs in his pack straps until it quit. "Wood dove," he said. "Missed those." He walked on. At a cairn of moss-grown stones where two deer-paths crossed, he stopped the whole line and made them wait while he set a strip of dried meat on the topmost stone, unhurried, almost solemn.
 
 "Edge-stone," he said, when he caught Oscar's look. "You leave something. Doesn't matter what. Keeps you remembering whose house you're walking through." He turned back to the path.
 
@@ -16,23 +16,25 @@ Oscar filed it away, and would remember it later with a great deal of feeling.
 
 Behind Tarn came Kessa, and Kessa had come *unwound.* He hadn't understood how tight Oressa had wound her until he watched it leave her shoulders, mile by mile. The city had handed her nothing she could trust: too many people, too many eyes, no clean line to anything that mattered. The wild gave her back a language she'd been fluent in her whole life. She read the ground alongside Tarn, the two of them trading findings in half-sentences (*cat, old, gone off west; three days since rain; something bedded here and didn't care for company*), and she found them water twice and a dry camp once and a way around a fen that would have eaten a day, and she did all of it without a grain of magic.
 
-It was, Oscar thought, watching her crouch over a scuff in the moss and tell him what had made it and how long ago and which way it had gone, quietly humbling. Here was a mortal woman reading the world as fluently as he read the deep, needing no gift to do it, and never making it look like a miracle.
-
 "You're good at this," he said, and meant it as more than it sounded.
 
-Kessa gave him a flat look that wasn't unfriendly. "It's just paying attention." She stood, wiped her hands on her thighs. "You'd be better at it if you did less of the other thing. The other thing keeps opening holes the rest of us have to climb out of."
+Kessa gave him a look that wasn't unfriendly. "It's just paying attention." She stood, wiped her hands on her thighs. "You'd be better at it if you did less of the other thing. The other thing keeps opening holes the rest of us have to climb out of."
 
 He didn't have an argument, which was becoming a habit around her, and not an unwelcome one.
 
-Cael was the one the country didn't suit, and he bore it as he bore everything: quietly, and by working harder. Every dusk he built the fire with more care than a fire needed, banking and feeding and tending it like a thing with a soul. His warmth still came when he called it, the slow gold mending that had kept Oscar on his feet since the bowl, but it came a little slower out here, reached a little further, like a voice answering from the far end of a very long hall.
+Cael was the one the country didn't suit. Every dusk he built the fire with more care than a fire needed, banking and feeding and tending it like a thing with a soul. His warmth still came when he called it, the slow gold mending that had kept Oscar on his feet since the bowl, but it came a little slower out here, reached a little further, like a voice answering from the far end of a very long hall.
 
 "It's not gone," Cael said, when Oscar, unable not to, saw the small extra effort in him and asked. "It's a long way off, out here. What I'm sworn to keeps to roofs and roads and people. This—" he nodded at the dark trees, the bark-light, the held-breath quiet "—isn't its country." He fed the fire a careful branch. "So I build it bigger."
+
+Oscar started to say he was grateful for it, and Cael's hands stopped on the wood.
+
+"Don't," Cael said. It came out short. He didn't take it back. He put the piece where he'd meant to put it. "I know I'm the one still up feeding it. I don't need telling." He stayed crouched over the fire a while longer than the fire needed. Then he got up and went to look at Oscar's ribs, which he'd looked at that morning.
 
 And Wick.
 
 Wick walked in the middle, where a crew keeps the things it can't afford to lose, and the wild was *working* on her. Oscar could see it without trying, which was its own warning: the heat coming off her stronger out here, the mark at her throat gone darker, her jaw set with the particular effort he'd learned to read as her holding something down with both hands. She'd gone quiet in a way that wasn't her ordinary quiet. She kept looking off into the deep green where there was nothing to look at, then catching herself and dragging her eyes back to the path, and saying nothing to anyone.
 
-He fell in beside her on the second day, carefully, as if she might bolt or burn. "The wild's loud for you," he said. Not a question.
+He fell in beside her on the second day, carefully, as if she might bolt or burn. "The wild's loud for you," he said.
 
 She didn't look at him. "It's not loud. It's—" she worked for a word and didn't find one she was willing to give him "—*close.* Everything out here's close. It sits in my throat." Her hands had knotted in her sleeves. "In the city I could hold it down and still think. Out here it's all I do. My hands won't stop."
 
@@ -42,19 +44,17 @@ She didn't look at him. "It's not loud. It's—" she worked for a word and didn'
 
 He shut his mouth. Then he tried again, and gave her a true thing this time, because she'd handed him one. "I know that feeling better than you'd guess. Every hour out here I want to *look.* Throw it all the way open, read the deep where it runs this close, drink the whole shape of the world down at once. It's the strongest want I own and the worst idea I've ever had, and I've been swallowing it for three days straight." He managed a crooked smile. "Turns out holding it is the hard part for all of us. You've just been doing it longer. And alone. And younger. So I'm not going to tell you it gets easier. I tried that. It doesn't. You do it every minute, and nobody's ever once clapped."
 
-Wick's eyes had gone bright and furious, which meant she would sooner die than cry in front of him. She didn't answer. But she walked a little nearer to him after that, and didn't drift toward the trees again the rest of the day, and Oscar counted it the only honest work he'd done all week.
+Wick's eyes had gone bright and furious. She didn't answer. But she walked a little nearer to him after that, and didn't drift toward the trees again the rest of the day.
 
-But the wild's attention wasn't a thing he had to read to feel, and across those three days it pressed in. It was nothing you could put a bolt through. A doe that watched them from forty feet and didn't run, didn't so much as flick an ear, just *regarded* them until Kessa's hand drifted to her crossbow, and then turned and walked, not bolted, away. A night when the bark-light all around the hollow dimmed at once, like a hundred eyes going half-shut, and came back up only when Cael fed the fire. A sense that thickened by the hour: that they were not being hunted. Hunting would have been simpler; hunting was a thing Kessa knew how to answer. They were being *assessed.* Weighed. Read, the way Oscar read things, by something in no particular hurry and of no particular mercy.
+But the wild's attention wasn't a thing he had to read to feel, and across those three days it pressed in. It was nothing you could put a bolt through. A doe that watched them from forty feet and didn't run, didn't so much as flick an ear, just *regarded* them until Kessa's hand drifted to her crossbow, and then turned and walked, not bolted, away. A night when the bark-light all around the hollow dimmed at once, like a hundred eyes going half-shut, and came back up only when Cael fed the fire. A sense that thickened by the hour: that they were not being hunted. They were being *assessed.* Weighed. Read, the way Oscar read things, by something in no particular hurry and of no particular mercy.
 
-"It knows we're here," Kessa said the second night, flat, not a question, cleaning a knife that didn't need cleaning.
+"It knows we're here," Kessa said the second night, cleaning a knife that didn't need cleaning.
 
-"Known since the edge stones," Tarn said. "Everything out here knows. Question was whether we'd stay small enough it wouldn't get up for us." He looked into the dark past the fire, and for once the dryness had gone out of him. "We've been lucky. Stay small. Leave payment. Don't go loud." He said the last word to the flames, but Oscar felt it land squarely on himself. Tarn had a fetcher's instinct for which member of a party was most likely to do something costly, and he had correctly identified the wizard.
+"Known since the edge stones," Tarn said. "Everything out here knows. Question was whether we'd stay small enough it wouldn't get up for us." He looked into the dark past the fire, and for once the dryness had gone out of him. "We've been lucky. Stay small. Leave payment. Don't go loud." He said the last word to the flames, but Oscar felt it land squarely on himself.
 
 Oscar said nothing, because by then he was spending most of his waking strength on not doing the exact thing Tarn was warning him against, and losing the argument a little more every mile.
 
 His own reserve had been creeping back the whole while: slowly, the scorched place still tender whenever he leaned on it, Cael's slow gold doing its patient work each night, the wild's strange green abundance filling the well a little past the fumes. And as it filled, the want he'd confessed to Wick stopped being a small thing he could swallow between steps and became a steady pressure behind his eyes. Worse every hour. Worst of all near water, where the deep came nearest the surface and all but spoke.
-
-He should have kept swallowing it.
 
 He lasted until the third evening, when they made camp by a spring.
 

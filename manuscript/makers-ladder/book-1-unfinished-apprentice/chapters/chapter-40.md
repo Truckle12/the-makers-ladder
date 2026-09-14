@@ -16,7 +16,7 @@ The thing that had wanted her since she was small wasn't behind anything now. It
 
 And out through the great doors the city was coming apart.
 
-Not like a fire. She'd never be able to tell anyone this part. When a house burns you *know.* There's noise and heat and the roof goes and it's the most honest thing in the world. This was the other thing. A bridge with lamps on it stopped being a bridge and there was no bridge and no gap where a bridge had been, just a piece of the world that had never held one. Then a garden. Then a street with people in it, and she saw them, she was going to see them for the rest of her life, one man with a bucket standing in the road looking up —
+She'd never be able to tell anyone this part. When a house burns you *know.* There's noise and heat and the roof goes and it's the most honest thing in the world. This was the other thing. A bridge with lamps on it stopped being a bridge and there was no bridge and no gap where a bridge had been, just a piece of the world that had never held one. Then a garden. Then a street with people in it, and she saw them, she was going to see them for the rest of her life, one man with a bucket standing in the road looking up —
 
 — and then no street.
 
@@ -46,7 +46,7 @@ He kept walking.
 
 "*Oscar.*"
 
-"It's a hand," he said, not turning round, in the flat careful voice he used when he had stopped being a person and started being a machine that took notes. "It only ever needed a hand on it. There's a chair and it's empty and the thing goes mad when the chair's empty, and it takes about four seconds to sit down."
+"It's a hand," he said, not turning round, in the careful voice he used when he had stopped being a person and started being a machine that took notes. "It only ever needed a hand on it. There's a chair and it's empty and the thing goes mad when the chair's empty, and it takes about four seconds to sit down."
 
 "You said no." She was moving. She didn't remember starting. "You said it to its *face,* you said *I decline* — "
 
@@ -142,7 +142,7 @@ And the far side came through her and went for the font like something falling o
 
 She was the hole. That was all she was for about four seconds and it was the biggest she had ever been.
 
-It was so *happy.* She'd never tell anybody that. It wasn't cruel. It had never been cruel. It was the gladdest thing she had ever been near, and being near it was like standing next to a mouth.
+It was so *happy.* She'd never tell anybody that. It wasn't cruel. It had never been cruel. Being near it was like standing next to a mouth.
 
 Above her the light bent.
 
@@ -178,7 +178,7 @@ Kessa at the rim with her mouth shaping a word.
 
 Four. Breathing. Hers.
 
-She was so cold. She'd been too hot her whole life and she was cold now and it was the loneliest thing that had ever happened to her.
+She was so cold. She'd been too hot her whole life and she was cold now and the four of them were all the way over there.
 
 "WICK!" Kessa was screaming. "*NUMBER!* Say the number — out loud, first, not after, you *promised* me — "
 

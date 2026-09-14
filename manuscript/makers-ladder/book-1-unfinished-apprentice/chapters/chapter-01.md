@@ -28,7 +28,7 @@ His hand closed on his own bare shoulder.
 
 No weight. No talons. No rasp. Only the cold, and the silver light, and the sound of his own breathing in a room built to swallow sound. He held the shoulder a moment longer than there was any reason to, fingers pressed to the place where the weight should have been.
 
-"Off sulking somewhere," he said. The words came out level. He made sure of it. "We'll discuss it."
+"Off sulking somewhere," he said. The words came out level. "We'll discuss it."
 
 He took his hand back, and stood, faster than he meant to.
 
@@ -42,7 +42,7 @@ He had no memory of putting it there. A man forgets the small marks on an old bl
 
 The voice came out of the walls.
 
-Not an echo off them. The script *itself* brightened to speak, silver figures flaring across the stone in time with the words. It was not a living voice. It had been made to be calm, and it was.
+The script *itself* brightened to speak, silver figures flaring across the stone in time with the words. It was not a living voice. It had been made to be calm, and it was.
 
 *"The master has fallen. The line endures. Rise, and be set."*
 
@@ -62,13 +62,13 @@ The room was coming down. That, at least, was a problem with a known shape.
 
 He raised his free hand, reached for the cold place in the air where the work waited, and scored the lance.
 
-It was the first thing his hands had ever learned and the truest thing he knew how to do. Magic, the way Oscar made it, was a matter of reaching past the warm everyday surface of things and down into the deep cold current that ran beneath, the place where the world kept the rules it could be argued out of, and writing, with will and motion, a figure the current would agree to carry. The lance was the simplest argument there was: *here, force, in a line.* He had made it ten thousand times. He could no more fail at it than he could fail to know his own name.
+Magic, the way Oscar made it, was a matter of reaching past the warm everyday surface of things and down into the deep cold current that ran beneath, the place where the world kept the rules it could be argued out of, and writing, with will and motion, a figure the current would agree to carry. The lance was the simplest argument there was: *here, force, in a line.* He had made it ten thousand times. He could no more fail at it than he could fail to know his own name.
 
 He reached down for the current—
 
 —and there was nothing there to reach.
 
-Not a barrier. Not resistance, which he would have understood, which he could have shoved against. The deep place where the power had lived his whole long life was simply *thin*, scraped to a film, a held breath where there had always been an ocean. The figure took shape in his fingers out of habit and then sagged, starving, the force he'd called for bleeding away before it could amount to anything, and the light of it went out in his palm like a candle pinched between wet fingers.
+Not a barrier, not resistance, which he would have understood, which he could have shoved against. The deep place where the power had lived his whole long life was simply *thin*, scraped to a film, a held breath where there had always been an ocean. The figure took shape in his fingers out of habit and then sagged, starving, the force he'd called for bleeding away before it could amount to anything, and the light of it went out in his palm like a candle pinched between wet fingers.
 
 For one full breath Oscar did not think anything at all.
 
@@ -116,7 +116,7 @@ Below him, fainter now, the dying walls went on murmuring. *The master has falle
 
 The vestibule narrowed ahead to a single great seal of a door, round as a coin, graven edge to edge with the frost-script. When he laid his wrong new hand against it, the figures beneath his palm brightened, glad and eager. And the small closed loop on the door's face, the knot drawn without ends, flared brightest of all, twin to the one on the blade, twin to the one healed into his own skin.
 
-The door knew him. It had been waiting for him. The cold notion he had trodden on twice now got to its feet, walked to the center of his mind, and sat down where he could not look away from it.
+The door knew him. The cold notion he had trodden on twice now got to its feet, walked to the center of his mind, and sat down where he could not look away from it.
 
 He did not try to name it. He was not ready to, and there was a door, and the door was open.
 
@@ -128,9 +128,9 @@ He stepped onto a balcony of carved stone, and the world dropped away beneath hi
 
 A city. Underground. Beneath a sky of solid rock so high and far above that its darkness could have passed for an honest night. Streets, towers, the long pale bones of bridges; roofs beyond roofs marching into a gloom he could find no end to; all of it grey, all of it dead, all of it furred here and there with the same soft frost that had been eating the figure in the cradle. A buried city, sealed beneath the skin of the world, so old that Oscar, who was old, who had known this continent when half its kingdoms were arguments and the other half were trees, could not place a single line of it.
 
-He stood with the dead city below him and felt, for the first time in longer than he could have said, entirely and honestly lost. Not turned-around lost. Lost the way a word is lost when the language that held it dies.
+He stood with the dead city below him and felt, for the first time in longer than he could have said, entirely and honestly lost, the way a word is lost when the language that held it dies.
 
-"Right," he said, very quietly. There was no audience for it and no joke in it. "Right."
+"Right," he said, very quietly. "Right."
 
 Then, off to his right, a small, deliberate, mechanical sound: the dry click of a crossbow drawn to the full.
 
@@ -148,10 +148,10 @@ Her eyes dropped to the sword. To the small closed loop struck into the steel be
 
 The change in her was not large and not loud, and that was what put the bottom out of him. Her face simply closed. And under the closing was something he had not expected to find pointed at him down the length of a crossbow bolt. Something that looked, impossibly, like grief.
 
-"You came up out of the dead-house," she said. Flat. Not a question. "Through a door that doesn't open. Carrying *that*."
+"You came up out of the dead-house," she said. Not a question. "Through a door that doesn't open. Carrying *that*."
 
 "It opened for me," he said, before the wiser parts of him could intervene.
 
-"I know it did." That was worse than anything she could have shouted. She had got somewhere first, and she was waiting, not unkindly, for him to catch up. "I know."
+"I know it did." She had got somewhere first, and she was waiting for him to catch up. "I know."
 
 Far below, down in the dead grey streets of a city sealed and silent longer than memory ran, something the size of nothing good began, without the least hurry, to move.

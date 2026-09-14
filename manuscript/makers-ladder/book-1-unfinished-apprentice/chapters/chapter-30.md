@@ -6,7 +6,7 @@ She'd meant not to touch it. She'd walked up that too-clean lane with the coal h
 
 And across the table, past the candles, Oscar was fine.
 
-Not fine like brave. Not fine like holding-it-together-for-the-kid, which she knew all his versions of and could sort at a glance. Fine like rested. Fine like a man two days into good sleep. He had a cup at his elbow and colour in his face and when Kessa asked him, flat, first thing, *are you hurt,* he'd said "only my pride, and it needed thinning," and the woman — the *witch,* Wick reminded herself, the thief, the person they were here to take him back from — had huffed through her nose like this was an old joke between them.
+Not fine like brave, not fine like holding-it-together-for-the-kid, which she knew all his versions of and could sort at a glance. Fine like rested. Fine like a man two days into good sleep. He had a cup at his elbow and colour in his face and when Kessa asked him, first thing, *are you hurt,* he'd said "only my pride, and it needed thinning," and the woman — the *witch,* Wick reminded herself, the thief, the person they were here to take him back from — had huffed through her nose like this was an old joke between them.
 
 Two days. Wick had spent two days learning what the inside of her own chest looked like with the floor out of it. She'd watched Kessa crawl a road in the dark on her hands. She'd slept in wet gorse with her fists shut so hard her nails cut half-moons into her palms, telling the dark over and over, *he said come get him, he said it to me, halfway and home, he's mine and I'm his and I will burn down anything standing between,* two days of that.
 
@@ -28,11 +28,11 @@ When the plates were done the woman poured herself tea, unhurried, the pot going
 
 ---
 
-Her name was Ash. She said it flat, no fuss about it, and then she started in on the rest, and nobody interrupted her. Not once. Not even Kessa. Wick had never seen that happen at a table in her life.
+Her name was Ash. She said it flat, no fuss about it, and then she started in on the rest, and nobody interrupted her, not once, not even Kessa. Wick had never seen that happen at a table.
 
 "You've been calling me a hunter. That's fair, from where you stood. It's also wrong, and I don't care to be wrong about twice more, so." She turned her cup a quarter-turn on its saucer. "I didn't take him from you. I took him from the finder. There's a difference, and the difference is the only reason any of you is sitting warm right now instead of bleeding into a road. Corwen had him in a collar cut to his measure. Your wizard reads better than anyone alive and he could not unpick it. No shame in it; it was written *for* him, which is a sentence you should all sit with. In another hundred count he'd have been on that cart, and none of you would ever have found so much as his hat."
 
-"How," Kessa said. Flat. "Faster from where. There was no one on that road."
+"How," Kessa said. "Faster from where. There was no one on that road."
 
 "There was me," Ash said, and stopped, and you could see that was all they were getting. "I was faster. I am always faster. You're welcome, by the way. Nobody's said it yet, and I've noticed."
 
@@ -44,7 +44,7 @@ Her name was Ash. She said it flat, no fuss about it, and then she started in on
 
 Nobody moved. Wick's spoon was halfway up and stayed there. She put it down.
 
-"The man your wizard was copied from — the first Oscar Alberich, the real one, dead these long centuries — was my uncle." She said *the real one* the same flat way she'd said her own name, and Wick saw it go into him. He didn't flinch. He didn't do anything. He just sat there and took it, and Wick's hands went hot under the table. "I am the last blood of that line that still owns the name. I knew my uncle's face. I have eaten at his table, the true one, that this table is a poor guess at." Her eyes stayed on Oscar, and there was something in them Wick didn't want to look at. Old. She looked at her bowl instead. "And so when something wearing his shape and his voice and his way of tipping his head woke up in the north and started walking, I knew before the House knew. I have been ahead of their finders the whole way down. It is not," and here her voice went dry, "a *close* race."
+"The man your wizard was copied from — the first Oscar Alberich, the real one, dead these long centuries — was my uncle." She said *the real one* the same way she'd said her own name, and Wick saw it go into him. He didn't flinch. He didn't do anything. He just sat there and took it, and Wick's hands went hot under the table. "I am the last blood of that line that still owns the name. I knew my uncle's face. I have eaten at his table, the true one, that this table is a poor guess at." Her eyes stayed on Oscar, and there was something in them Wick didn't want to look at. Old. She looked at her bowl instead. "And so when something wearing his shape and his voice and his way of tipping his head woke up in the north and started walking, I knew before the House knew. I have been ahead of their finders the whole way down. It is not," and here her voice went dry, "a *close* race."
 
 "Family." Kessa's voice was as flat as ground gets. "To him."
 
@@ -100,7 +100,7 @@ Oscar looked back at her and said nothing, and his thumb went round the rim of h
 
 "Back," he said. His thumb stopped. "You said it wants me back. Back means I've been. I was made in the north. The cradles—"
 
-"I said what I'll say." Flat. Shut. She said it past him, to the table. "The rest he gets as he goes, or he works it out himself; he's built for that. Only one more thing tonight, because it's owed." She stood, and gathered the pot, and paused, and it was the first time all night she'd looked like she didn't know what to do with her hands. "My uncle built more than towers. Some of what he built is still running." A breath. "Present tense is the worst grammar there is. Good night."
+"I said what I'll say." She said it past him, to the table. "The rest he gets as he goes, or he works it out himself; he's built for that. Only one more thing tonight, because it's owed." She stood, and gathered the pot, and paused, and it was the first time all night she'd looked like she didn't know what to do with her hands. "My uncle built more than towers. Some of what he built is still running." A breath. "Present tense is the worst grammar there is. Good night."
 
 She left with the tea things, the owl dropping off the chair-back to swing through the doorway ahead of her, and the five of them sat there in the warm room she'd grown out of a heath, with the fire the exact right size, and *Everset* sitting on the table between the cups, and nobody reaching for it.
 

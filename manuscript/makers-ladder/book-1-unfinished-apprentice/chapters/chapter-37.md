@@ -54,7 +54,7 @@ Wick stopped in the middle of the street with her mouth open.
 
 "I have noticed all three of them and I would like it recorded that I am finding this considerably harder than the drain."
 
-Because he was. He had come five hundred miles to a place he was ready to hate, and the place had handed him a morning. He kept waiting to catch the seam — the flat note, the performance under it — and it wasn't there. Nobody was pretending. These were people who had woken up in a town they liked.
+Because he was. He had come five hundred miles to a place he was ready to hate, and the place had handed him a morning. He kept waiting to catch the seam — the flat note, the performance under it — and it wasn't there. These were people who had woken up in a town they liked.
 
 It took him until the second street to work out why his shoulders had come down.
 
@@ -114,7 +114,7 @@ Oscar put that somewhere safe.
 
 The rest of the morning went where it was going about a quarter of an hour later, and Kessa was the one who put a name on it.
 
-She had crouched at the edge of a yard with her fingers in the gutter-mud, and her face had the flat set it got when the ground lied.
+She had crouched at the edge of a yard with her fingers in the gutter-mud, and her face had the set it got when the ground lied.
 
 "There's no rats," she said.
 
@@ -132,7 +132,7 @@ And there was one more thing he owed her, and he made himself say it out loud at
 
 "I can read all of this," he said. "Grammar, clauses, purpose. I could stand here a year and take notes and probably understand the whole of it. And I want to be very clear about the next part, so nobody builds a plan on the wrong hope." He looked at the calm lovely working running away in every direction under the market. "I can't *hold* any of it. Reading isn't lifting. If this thing turns round and asks whether I belong, knowing exactly how the question is phrased will not help me survive the answer. I'm a man who can read a river. I still drown in it."
 
-Kessa took that the way she took everything, which was as something to be spent later. "Then you find the door," she said. "We do the rest."
+"Then you find the door," Kessa said. "We do the rest."
 
 "Yes."
 
@@ -140,7 +140,7 @@ Kessa took that the way she took everything, which was as something to be spent 
 
 He stood in the best-run place he had ever seen and understood at last what he was standing in.
 
-It was clean. Not tidy. *Clean,* in the way a page is clean when someone has been going over it with a pen and striking out what doesn't belong — and the striking-out never stops, and it is never loud, and the city simply *stays* lovely. They were happy. He believed the happiness completely. That was the horror: it was not a lie. It was an *edit,* and it had been running so long and so gently that the people inside it had never had a bad day they could name.
+It was clean, in the way a page is clean when someone has been going over it with a pen and striking out what doesn't belong — and the striking-out never stops, and it is never loud, and the city simply *stays* lovely. They were happy. He believed the happiness completely. It was an *edit,* and it had been running so long and so gently that the people inside it had never had a bad day they could name.
 
 "It's not a city," he said. "It's a fair copy of one."
 
@@ -164,7 +164,7 @@ He had felt it first at the third crossing and told himself it was the tiredness
 
 And the older bones were *familiar.*
 
-Not Evermere-familiar. He had been braced for Evermere since Marrow, a whole apparatus assembled in himself for the moment the borrowed memory said *home.* This was a different door, and it opened on a different room.
+He had been braced for Evermere since Marrow, a whole apparatus assembled in himself for the moment the borrowed memory said *home.* This was a different door, and it opened on a different room.
 
 He knew the stone because he had woken on it.
 
@@ -190,7 +190,7 @@ Nobody said anything. Down the lane the man with the bad broom was still singing
 
 "You aren't from either. You're from a village that was cruel to you and a wood that wasn't." He said it too fast and too hard and meant every syllable, and saw it land. "That's mine to carry, not yours. But I'd like our crew close together for the next hour, and I would like it very much if nobody wandered."
 
-*Our crew.* He heard himself say it and did not take it back. There had been a time when he'd have said *your crew* to Kessa, or *the crew,* keeping the pronoun at arm's length. He was too tired to do that today.
+*Our crew.* He heard himself say it and did not take it back.
 
 Kessa heard it too. She didn't remark on it. She just moved a half-step in, and so did the others, without being told, and the five of them went up the hill as one object.
 
@@ -207,8 +207,6 @@ It began with a girl of about nine carrying a basket of cut flowers, who stopped
 "It's *you.*" She turned around and shouted it down the street with the full lung capacity of a nine-year-old. "IT'S HIM! HE'S COME!"
 
 Kessa's hand went to Doss's knife. Tarn stepped wide. And Everset — the market, the pie stalls, the grandmother, the barefoot wedding party, the guard with the bun — turned around and looked at Oscar Alberich, and began, warmly, delightedly, entirely without malice, to *cheer.*
-
-It was the worst thing that had happened to him since the ice.
 
 They came out of the shops. Somebody put a cup of something hot in his hand and he took it because his body took it.
 
@@ -266,7 +264,7 @@ And beside the basin, set on the stone, plain and low and entirely unremarkable,
 
 His knees wanted to fold. He locked them and stayed standing, and the horror came up through his body first and arrived at his mind about a second later carrying a small tidy card that read: *this is what you were fetched home for, and it is not even angry with you.*
 
-"Oscar," Kessa said. She had her back to him and Doss's knife out and low, and her voice had gone very flat. "There's someone at the water."
+"Oscar," Kessa said. She had her back to him and Doss's knife out and low. "There's someone at the water."
 
 There was someone at the water.
 
@@ -276,7 +274,7 @@ Oscar's gift went out to it before he could stop it, pure reflex, the oldest thi
 
 And it came back *full.*
 
-It dropped through him like cold water. A living body gave his looking nothing, the rule his whole life was built on. He had read a man's coat and never the man. But this thing at the water's edge came back to him *made* — worked, written, composed, a thing with an author and a grammar and a beginning — and the grammar was in a hand he had spent a month reading by firelight, and the shape of the argument was one he could have finished himself.
+It dropped through him like cold water. A living body gave his looking nothing, the rule his whole life was built on. But this thing at the water's edge came back to him *made* — worked, written, composed, a thing with an author and a grammar and a beginning — and the grammar was in a hand he had spent a month reading by firelight, and the shape of the argument was one he could have finished himself.
 
 He did not understand what he was looking at. His body understood perfectly and tried to take him backward a step; he stopped it, mostly.
 

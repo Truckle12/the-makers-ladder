@@ -6,15 +6,13 @@ Kessa took them by the back route, the one the Tithe didn't watch because the Ti
 
 "People go down to the good claim," she'd said. "Fewer come up. The ones that don't, mostly, are still down there. So watch where you step. You'll be stepping on them."
 
-She had not been speaking poetically.
-
-The first body was a quarter-mile down, folded into a side-niche as if it had crawled there to be out of the way of its own dying. Salvager's leathers, gone stiff. A pick still in one hand. Wick made a small sound and then made herself stop. Cael stood over the dead stranger a moment with his head bowed and his lips moving, the small private mercy he did for everything that had stopped living, and then they went on.
+The first body was a quarter-mile down, folded into a side-niche as if it had crawled there to be out of the way of its own dying. Salvager's leathers, gone stiff. A pick still in one hand. Wick made a small sound and then made herself stop. Cael stood over the dead stranger a moment with his head bowed and his lips moving, and then they went on.
 
 There were more after that. The good claim had been eating crews for a long time.
 
 It was the third body that changed the shape of the day.
 
-This one had died sitting, back to the wall, in a wide gallery where the old workings in the walls had begun, faintly, to wake. A salvager in better gear than the others, and propped against their knees, half-fallen, was a shield. Not a salvager's buckler. A real shield, broad and old, the metal of it dark and strange and worked all over with a fine raised tracery that Oscar felt pull at his attention from twenty feet away.
+This one had died sitting, back to the wall, in a wide gallery where the old workings in the walls had begun, faintly, to wake. A salvager in better gear than the others, and propped against their knees, half-fallen, was a shield, a real one, broad and old, the metal of it dark and strange and worked all over with a fine raised tracery that Oscar felt pull at his attention from twenty feet away.
 
 He crouched and looked at it, and the cold legible shine came up behind his eyes, and he read it, and went still.
 
@@ -26,15 +24,15 @@ Cael took it the way a man takes something he's afraid to want. It was heavy; he
 
 The shield woke.
 
-The tracery filled. Not with the cold blue-white shine that the old work always gave under Oscar's hand, but with a deep and living *warmth,* a glow the color of banked coals, of lamplight under a door, of a hearth at the end of a hard cold road. It spread up the dark metal and hung there, steady and golden, and the air around Cael went suddenly close and safe, and Wick actually stepped toward it the way you step toward a fire on a freezing night.
+The tracery filled, not with the cold blue-white shine that the old work always gave under Oscar's hand, but with a deep and living *warmth,* a glow the color of banked coals, of lamplight under a door, of a hearth at the end of a hard cold road. It spread up the dark metal and hung there, steady and golden, and the air around Cael went suddenly close and safe, and Wick actually stepped toward it the way you step toward a fire on a freezing night.
 
-"Huh," said Oscar, with the particular delight of a man watching his understanding of the world get larger. "It ran cold for me. It runs warm for you. Same figure: the relic's only the shape of the thing; the power that fills it is yours, and yours comes with the temperature of what you are." He was almost laughing, here in a tomb, over a dead stranger's shield. "I have spent a very long time thinking I understood how this all worked. I love being wrong about it. Genuinely. It's the best thing that happens to me."
+"Huh," said Oscar. "It ran cold for me. It runs warm for you. Same figure: the relic's only the shape of the thing; the power that fills it is yours, and yours comes with the temperature of what you are." He was almost laughing, here in a tomb, over a dead stranger's shield. "I have spent a very long time thinking I understood how this all worked. I love being wrong about it. Genuinely. It's the best thing that happens to me."
 
 Cael wasn't listening to the lecture. He was looking at the warm shield, and then down at the salvager he'd taken it from, and the joy went out of the moment for him in a way it took Oscar a beat too long to follow.
 
 "It didn't save them," Cael said quietly.
 
-Oscar watched Cael understand that, and watched him decide to carry the thing anyway: a man who would shoulder a shield *because* it had failed the last hand that held it, as if to argue with the fact.
+Oscar watched Cael understand that, and watched him decide to carry the thing anyway.
 
 Kessa, meanwhile, had been doing what Kessa did, which was robbing the dead with brisk unsentimental respect, and she came up from a fourth body, red cord at the wrist, a Tithe man, gone the same way as all the rest, holding a pair of boots.
 
@@ -54,7 +52,7 @@ Oscar understood that almost at once, which was the only reason the first rush d
 
 Cael drove the shield's edge down into the grit and poured himself into it, and the hearth-dome bloomed: a half-sphere of warm golden warding, ten feet across, and the first spiders hit it and could not come through, their bone-pale legs scrabbling at a wall of force they couldn't see and couldn't pass. It held. It *held,* and for one breath the crew had a fortress in the dark.
 
-But the dome didn't move, and it didn't tire the spiders, and there were a dozen. The shield bought time. It didn't spend the threat.
+But the dome didn't move, and it didn't tire the spiders, and there were a dozen.
 
 "We can't wait it out," Oscar said. "Cael holds the dome. The rest of us go out and end this, fast, before he's empty. Kessa, left. I'll take right. Wick—" he caught the look on her face, the terror and the awful straining want "—Wick, you've got the cleanest aim of any of us, so you make it count. Small. Aimed. One at a time. Nothing past what you can hold—" he held her eyes "—nothing more than that. Like the street."
 

@@ -12,7 +12,7 @@ Waiting for the particular flavor of a man who could read without a license.
 
 Oscar lay in the mud and counted it up, and did not like the answer.
 
-The post was watched because someone had told the House where to watch. Not the road generally. *This* road, *this* night, the southern gate of Oressa with a reader posted to it like bait left for one specific animal. And there was only one person who'd known, an hour ago, that the silver-haired freak who'd gutted Borr on the sand meant to leave the city before dawn by the river road.
+The post was watched because someone had told the House where to watch, and not the road generally. *This* road, *this* night, the southern gate of Oressa with a reader posted to it like bait left for one specific animal. And there was only one person who'd known, an hour ago, that the silver-haired freak who'd gutted Borr on the sand meant to leave the city before dawn by the river road.
 
 "Hauk," Tarn said, very low, reading Oscar's face. There was no surprise in it, only a tired, bitter certainty. "He couldn't keep me and he couldn't kill you in front of his own bowl, so he sold the only thing he had left. You." A breath. "Told you I was a waste of your evening. Didn't think the bill would come this fast."
 
@@ -20,7 +20,7 @@ The post was watched because someone had told the House where to watch. Not the 
 
 "It's got my name on it." Tarn's jaw worked. "Hauk to a fixer. Fixer to a House factor. Word goes up the line, comes back down: *reader on the south gate, loose one running.* They didn't have to want you badly. A boss whispers and the House just—" he turned a thick hand over, a small gesture that meant *owing* "—shuts a gate. Doesn't even look."
 
-That was the part that put the cold all the way through Oscar, worse than the reader in the shed. Not malice. *Convenience.* The machine hadn't been roused. It had barely been nudged.
+That was the part that put the cold all the way through Oscar, worse than the reader in the shed. Not malice. *Convenience.*
 
 He could fix this, normally. On a full reserve he could have read the shed down to the working the reader had strung across the dark, found the slack place in the net, and walked the crew through the gap like smoke. But he wasn't on a full reserve. He was on the dregs and the fumes of the dregs, and the place inside him where the figures came from still felt scorched and tender from the bowl, the frayed edges of it twinging every time his pulse climbed.
 
@@ -58,15 +58,15 @@ They'd cleared the post: five shapes sliding through cold reeds with the river l
 
 Hooves. Unhurried. Coming down the cart-track from the south, toward the bridge, toward them.
 
-Not a gate this time. A horse patrol: House men by the cut of them, two riders walking their mounts along the southern approaches, not hunting so much as *being present.* There was nowhere to fold. The reeds had given out at the firm ground. There was the bridge, and the open track, and a single huddle of cart-sheds twenty feet off where the night's carters had left their loads, and the riders would be on all of it in the time it took to think.
+A horse patrol this time: House men by the cut of them, two riders walking their mounts along the southern approaches, not hunting so much as *being present.* There was nowhere to fold. The reeds had given out at the firm ground. There was the bridge, and the open track, and a single huddle of cart-sheds twenty feet off where the night's carters had left their loads, and the riders would be on all of it in the time it took to think.
 
 "Sheds," Tarn said, and didn't wait to be agreed with.
 
-They got into the gap between two loaded carts as the first rider's lamp swung across the track. Pressed flat. Wick was shaking. Not fear, Oscar realized, with a fresh drop of dread; she had her fist jammed against her own sternum and her teeth set, and there was a heat coming off her in the cold that had nothing to do with exertion, the banked fire of her stirred up by terror and proximity and the long bad night. If she lit, here, now, they were finished. Cael saw it the same instant. He didn't speak. He took her clenched fist in both of his broad hands and held it, the way you'd cup a candle against a draft, and bent his head to hers and breathed, slow, deliberate, in and out, until she caught the rhythm and matched it and the heat banked back down.
+They got into the gap between two loaded carts as the first rider's lamp swung across the track. Pressed flat. Wick was shaking, and it wasn't fear, Oscar realized with a fresh drop of dread; she had her fist jammed against her own sternum and her teeth set, and there was a heat coming off her in the cold that had nothing to do with exertion, the banked fire of her stirred up by terror and proximity and the long bad night. If she lit, here, now, they were finished. Cael saw it the same instant. He didn't speak. He took her clenched fist in both of his broad hands and held it, the way you'd cup a candle against a draft, and bent his head to hers and breathed, slow, deliberate, in and out, until she caught the rhythm and matched it and the heat banked back down.
 
 The riders stopped on the bridge.
 
-Close. Close enough that Oscar could hear the saddle creak as one of them leaned, the small wet sound of a horse at the river. Close enough that one good look into the shadow between the carts would end it. And he couldn't read them at all; there was nothing worked on two tired patrolmen for his gift to catch. Men were just men; his looking slid off them like rain off glass. But he had eyes, and the riders carried a lamp.
+Close. Close enough that Oscar could hear the saddle creak as one of them leaned, the small wet sound of a horse at the river. Close enough that one good look into the shadow between the carts would end it. And he couldn't read them at all; there was nothing worked on two tired patrolmen for his gift to catch. But he had eyes, and the riders carried a lamp.
 
 He watched instead: the swing of the lamp as they turned, the tilt of a head, the lazy track of a man's gaze in the dark. Two of them, one settled on the river, one drifting along the sheds, looking because looking was the job and not because he expected to find anything—
 
@@ -98,7 +98,7 @@ They didn't have to; by the gray of full dawn, hunkered in a hedge a mile south 
 
 "It shut too fast," he said, first, like a man putting the strangest figure at the top of the bill. "A grudge buys a word up the line. It doesn't put a reader in a shed by dawn. They were already listening on this stretch. Before Hauk."
 
-Oscar thought of a notch in the hills gone silent, and a name written on a road in letters a blind man could read, and Kessa's flat voice saying *you think your polite friend won't hear about it,* and said nothing at all.
+Oscar thought of a notch in the hills gone silent, and a name written on a road in letters a blind man could read, and Kessa's voice saying *you think your polite friend won't hear about it,* and said nothing at all.
 
 "One gate," Kessa said. "Or all of them."
 
@@ -108,7 +108,7 @@ Oscar thought of a notch in the hills gone silent, and a name written on a road 
 
 "Till the loose thing dies trying a gate. Or sits still long enough to collect."
 
-"Then we don't take a road," Kessa said. She'd said it once already tonight. This time it landed differently, because this time there was nothing after it.
+"Then we don't take a road," Kessa said. She'd said it once already tonight.
 
 "No," Tarn agreed. "We don't take a road." And he turned and looked south and west, away from every line on every map, to where the cultivated country gave out in a gray-green smudge of hills and the hills gave out in something darker behind them, and Oscar felt the hair go up on his arms before the man even said it. "We go where the roads won't."
 
@@ -120,7 +120,7 @@ Oscar had been raised, if *raised* was the word for memories poured into him sec
 
 "What is out there?" Kessa said.
 
-"The old country. Forest, fen, the bones of places older than the House. Runs south for days." He said it flat. "Salvage crews cross it for relics. Fetchers for what goes in a bowl." He said *fetchers* like a man says a job he's done. "That was half my life. Three and four days deep and back."
+"The old country. Forest, fen, the bones of places older than the House. Runs south for days. Salvage crews cross it for relics. Fetchers for what goes in a bowl." He said *fetchers* like a man says a job he's done. "That was half my life. Three and four days deep and back."
 
 "Back," Oscar said.
 
@@ -145,8 +145,6 @@ And there it was: the thing that had put the hair up on Oscar's arms before a wo
 "You ask. That's the rule. The one rule." A pause. "The ones who don't ask are the ones who send word they're not coming back."
 
 It should have been the worst news of a night made entirely of bad news. And it nearly was. But Oscar, scorched and swaying and propped half-upright on a hedge with a reader's needle still cold in his memory, felt something underneath the dread that he recognized with a kind of horrified amusement as *interest.*
-
-For the first time since the bridges, the thought of being read by another set of eyes didn't feel like a noose. It felt like the possibility of meeting someone who spoke the language.
 
 He glanced at Wick, and wished he hadn't, because she'd gone somewhere behind her eyes. She was looking south at the dark behind the hills the way a thirsty person looks at water they've been told not to drink: the hand in her pocket, the heat banked but humming, something in her leaning toward the wild and the free thing in it before the rest of her caught up and pulled it back. She felt him notice and shut it away, fast, the lid going down. Oscar filed it under the long list of things he was afraid for her about and said nothing, because a girl's fears weren't owed to him either.
 

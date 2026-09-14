@@ -24,7 +24,7 @@ Something passed over the big man's face. Not the girl's. She only looked deligh
 
 "Ah," he said, very quietly. "One of those."
 
-*One of those.* Oscar disliked the phrase intensely, and disliked more that two people who had never met him plainly knew a category he belonged to. He had spent three hundred years being unprecedented. He was not accustomed to being *recognized*.
+*One of those.* Oscar disliked the phrase intensely, and disliked more that two people who had never met him plainly knew a category he belonged to.
 
 "I'm going to spare us all a great deal of time," he said, in the warm and reasonable register he generally reserved for tax officials and very large dogs. "Whatever the wheel-mark means to you, I assure you it is a misunderstanding. I am a scholar. A traveler. I was caught in a working that went badly, and I woke in that—" he chose the word "—*place*, with a headache and a great many questions, and the door let me out, and now there is a crossbow in my face, which I feel is an overreaction to a man who is simply trying to find his way home."
 
@@ -34,7 +34,7 @@ Something passed over the big man's face. Not the girl's. She only looked deligh
 
 He stopped, because all three of them were looking at him now in the same way. He had expected ignorance. Frontier people, salvagers grubbing in a hole in the ground; of course they would not know the great roads, the old kingdoms, the names that had mattered. He had braced to be patient with them.
 
-Instead the big man's careful face had gone gentle, which was worse. It was the gentleness people put on for the very ill.
+Instead the big man's careful face had gone gentle. It was the gentleness people put on for the very ill.
 
 "Friend," he said. "There's no Larchwall. There's not been a Larchwall in—" he glanced at Kessa, as if for a figure, and she gave him nothing. "A long time. Longer than the maps go back."
 
@@ -44,7 +44,7 @@ Instead the big man's careful face had gone gentle, which was worse. It was the 
 
 He shut his mouth.
 
-For a moment he reached, by old reflex, for the small dry voice that would have made this bearable: Quill, perched and unimpressed, ready to cut the thing down to a size a man could carry. The shoulder was as empty as it had been an hour ago. He had simply not yet learned to stop reaching for it, and there was no one left to mock him for that, either.
+For a moment he reached, by old reflex, for the small dry voice that would have made this bearable: Quill, perched and unimpressed, ready to cut the thing down to a size a man could carry. The shoulder was as empty as it had been an hour ago.
 
 "How long," he said, finally, and the question came out without any of the voice in it at all. "How long is longer than the maps go back."
 
@@ -86,7 +86,7 @@ None of them had any idea what they had just watched. He had meant to call down 
 
 It was the first lie he'd told them that he knew, as he said it, to be one.
 
-Kessa watched the dead light wink out, and something in her shifted. Not trust, nothing so warm, but a recalculation. A wizard, however small, was a wizard.
+Kessa watched the dead light wink out, and something in her shifted. Not trust, nothing so warm, but a recalculation.
 
 "The way we came in is gone," she said, to Cael, not to Oscar. "Collapsed when the deep place lit. I scouted it while you two were arguing about his soul." Her eyes finally left Oscar and swept the dark below, professional, quick. "There's one other road up and out that I know of. It runs through the low quarter. Through *that*." A tilt of her chin at the moving dark. "We'd have wanted four bodies for it before today. Now we'll want luck on top."
 
@@ -114,4 +114,4 @@ They had gone perhaps three streets when the first of the dead stood up.
 
 It came out of a doorway directly ahead of Cael: what had been a man, once, before the cold and the years had had their long quiet conversation with it. Grey, and rimed white. It rose without hurry, joints cracking the ice that had sealed them, and it turned its furred and eyeless face toward the four warm bodies that had walked into its street, and from every doorway down the length of the low quarter, from every black window and every frozen stair, the city began, unhurriedly, to do the same.
 
-"Right," said Kessa, very flat, raising the crossbow. "There it is."
+"Right," said Kessa, raising the crossbow. "There it is."

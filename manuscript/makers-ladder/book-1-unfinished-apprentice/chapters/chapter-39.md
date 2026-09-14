@@ -48,7 +48,7 @@ They did not feel any of it. Tarn understood that inside four seconds and adjust
 
 The second thought was that Wick had been waiting for somebody to say *yes* to her since the day they met.
 
-She went past Tarn's shoulder low and came up in the middle of them, and she did not touch a single clerk. She had been holding the coal all season with both hands and her teeth and she did not let it off the leash now either — she *aimed* it. The board in the nearest clerk's hands went up with a crack like a green log. The stylus in the next went to a smear of hot slag on the stone. She got her hands under the arm of a third and its board lit from underneath and the clerk stood there patiently holding a fire, still moving the stub of its stylus through ash.
+She went past Tarn's shoulder low and came up in the middle of them, and she did not touch a single clerk. She had been holding her fire all season with both hands and her teeth and she did not let it off the leash now either — she *aimed* it. The board in the nearest clerk's hands went up with a crack like a green log. The stylus in the next went to a smear of hot slag on the stone. She got her hands under the arm of a third and its board lit from underneath and the clerk stood there patiently holding a fire, still moving the stub of its stylus through ash.
 
 "Their cupboard!" Oscar shouted. "West arcade — they resupply, there's a *store* of it — "
 
@@ -74,7 +74,7 @@ It noticed her. The first thing it had done all day that wasn't in the book.
 
 So the duel began badly, from the wrong place, out of position, to buy a tracker two seconds.
 
-He had believed, in some private stupid chamber of himself, that when it came he would be *equal* to it. There is no cure for that kind of belief except the thing that happened next.
+He had believed, in some private stupid chamber of himself, that when it came he would be *equal* to it.
 
 He led with the brace, the good figure, the one that had held against the grey. The Setter took it apart in passing, and Oscar's body registered the insult before his mind did.
 
@@ -84,7 +84,7 @@ He went for the drive, the low hard shove that had thrown Wick clear at the spri
 
 So he stopped trying to hit the thing, and hit the *room.*
 
-He had read it off a dead man's book by firelight three weeks ago and never tried it: four lines in a hand he shared, under a heading that said only *for when there are more of them than of you.* A wide thing. A shallow thing. Not elegant.
+He had read it off a dead man's book by firelight three weeks ago and never tried it: four lines in a hand he shared, under a heading that said only *for when there are more of them than of you.* A wide thing, a shallow thing, not elegant.
 
 He set his feet and opened his looking as far as it went and laid his attention flat across the whole nave: every made thing in it, the standing lamps, the gallery rails, the exquisite fittings of an exquisite building. And he found the small mean binding they all had in common, the one that held worked stone in the shape somebody had argued it into.
 
@@ -98,7 +98,7 @@ The rubble settled.
 
 The Setter walked out of it, unhurried, brushing dust off one sleeve with two fingers.
 
-"That was the sweep," it said. There was no mockery in it, which was worse. "The fourth of us worked that out too. It's a good tool. It isn't a good answer." It came on. "You're quick. You're the quickest of us. But I have been doing this without stopping since before anything you remember, and you remember three hundred years, and you have been alive for one season, and you are still, at the bottom of it, trying to *win a conversation.*"
+"That was the sweep," it said. There was no mockery in it. "The fourth of us worked that out too. It's a good tool. It isn't a good answer." It came on. "You're quick. You're the quickest of us. But I have been doing this without stopping since before anything you remember, and you remember three hundred years, and you have been alive for one season, and you are still, at the bottom of it, trying to *win a conversation.*"
 
 ---
 
@@ -120,7 +120,7 @@ The hair went up on Oscar's arms.
 
 Then Kessa said, "How many are we?"
 
-Oscar turned. She was standing with the knife in her hand and her mouth slightly open, and there was a blankness in her more frightening than any wound, because Kessa's count was not a habit, it was the load-bearing wall of the entire woman.
+Oscar turned. She was standing with the knife in her hand and her mouth slightly open, and there was a blankness in her more frightening than any wound.
 
 "Five," Oscar said. "Kessa. Five."
 
@@ -152,7 +152,7 @@ He lost thoroughly, at length, and in front of everyone. He went for the composi
 
 It took him apart the way a tutor takes apart an essay: patiently, without heat, marking each error as it arrived.
 
-And it got a hand round his throat and stood him against the plinth without effort, and the font's light bent down toward him, and Oscar Alberich understood with total clarity and no bitterness at all that the duel was already lost. It had been lost before it started, because it was a duel of the work, and the thing holding him was better at the work than he would ever live to be.
+And it got a hand round his throat and stood him against the plinth without effort, and the font's light bent down toward him, and Oscar Alberich understood with total clarity and no bitterness at all that the duel was already lost. It was a duel of the work, and the thing holding him was better at the work than he would ever live to be.
 
 So he stopped doing magic.
 
@@ -276,7 +276,7 @@ He was reading it. He was reading it fast and wished he weren't, because he coul
 
 He went down the list. It took four seconds and it was the worst list he had ever made.
 
-"Cael can ward it, he can't drink it — you don't ward an ocean, you only choose which of us gets wet first. You've no ground to use; there's nothing left down there to put between anybody and anything. Tarn can't hit a tide. Wick's fire is a fire and this thing eats fires on its way past. And me." He heard how flat it came out. "I can read every clause of it. I could recite it to you. I can't lift it. There is nothing in the world that answers this."
+"Cael can ward it, he can't drink it — you don't ward an ocean, you only choose which of us gets wet first. You've no ground to use; there's nothing left down there to put between anybody and anything. Tarn can't hit a tide. Wick's fire is a fire and this thing eats fires on its way past. And me. I can read every clause of it. I could recite it to you. I can't lift it. There is nothing in the world that answers this."
 
 He stopped, because his own sentence had gone wrong in his mouth and he did not yet know why.
 

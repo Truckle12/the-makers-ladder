@@ -4,7 +4,7 @@ The road taught them what the south was before anyone said a word about it.
 
 It happened by degrees, the same as the cold had let go: first a second road joining theirs from the east, then a third, the three of them braiding together into something wider and harder-packed than any track in the north, a proper relic-road laid on the makers' old bones and kept up, Oscar realized, *kept up,* by people with the wealth to keep things. Then traffic. A teamster with a wagon. A family on foot with a handcart. Two riders who passed them at a trot and didn't so much as glance, which in the north would have been an insult or a threat and here was apparently just manners. By midday the empty white silence Oscar had woken into months ago was simply gone, replaced by the ordinary churn of a country with somewhere to be, and he found the noise of it stranger than any monster he'd met in the dark.
 
-The wonder came at a crossroads stall, and it gutted him a little, which he hadn't expected.
+The wonder came at a crossroads stall, and it gutted him a little.
 
 It was a tinker's tray, set up where the roads met, the sort of thing that sold buttons and needles and luck-charms to travelers. And laid out among the buttons, in a chipped wooden bowl, casual as eggs, were lamps.
 
@@ -24,13 +24,13 @@ He moved on, and didn't explain the joke to anyone, because it wasn't funny, and
 
 "I know," Oscar said.
 
-"It's not *fair,*" she said, and then heard herself, sixteen and saying a child's word about the shape of the whole world, and shut her mouth and walked on with her jaw set.
+"It's not *fair,*" she said, and then heard herself, and shut her mouth and walked on with her jaw set.
 
 He followed, and read the whole country in a chipped wooden bowl as he went. The north dug, and bled, and was taxed for the shovel; the wagons rolled south under bond and seal; and here at the mouth of the pipe the House sold the flood at flood prices, cheap as eggs, to people who had never seen the hole.
 
 The town was called Hollet's Cross, and it was the first real town of the south, and it ran on the House the way a mill runs on water.
 
-You couldn't not see it. Oscar had thought, back in Marrow, that "a southern house" meant a family, a faction, a rich name among rich names. He understood within an hour of walking into Hollet's Cross that he'd had the scale wrong, as he kept getting the scale wrong about everything. Here, *the House* was not a family. It was the air. Its mark was over the door of the assay office and the broker's and the lending-house and the bonded warehouse where the relic-wagons offloaded under guard; its mark was on the weights the grain-sellers used and the licenses pinned to the readers' stalls and the very coin that changed hands, because the House minted it. People didn't say its name. They didn't need to. They said *the House,* the way you'd say *the sky,* and they said it with a particular tone: not love, not hate, but the flat respect you give a thing too large to have feelings about.
+You couldn't not see it. Oscar had thought, back in Marrow, that "a southern house" meant a family, a faction, a rich name among rich names. He understood within an hour of walking into Hollet's Cross that he'd had the scale wrong, as he kept getting the scale wrong about everything. Here, *the House* was not a family. It was the air. Its mark was over the door of the assay office and the broker's and the lending-house and the bonded warehouse where the relic-wagons offloaded under guard; its mark was on the weights the grain-sellers used and the licenses pinned to the readers' stalls and the very coin that changed hands, because the House minted it. People didn't say its name. They didn't need to. They said *the House,* the way you'd say *the sky,* and they said it with a particular tone: the flat respect you give a thing too large to have feelings about.
 
 And on the House's mark, worked into the seal beside its own device, small enough you'd miss it if you didn't already know it in your bones: a loop. A knot tied in a circle. The same mark burned into the haul out of the good claim, and stamped on the crates that went south, and, under the sacking on Oscar's own back, scored into the steel of his sword.
 
@@ -46,7 +46,7 @@ The point was that reading belonged to the House. Here, you read with a license 
 
 "Keep the sword wrapped," he said quietly to Kessa, "and keep me from reading anything where anyone can see. I'm a brand that lights itself, down here."
 
-Kessa, who had been pricing dried fish and listening to the market the way she listened to everything, only nodded. "Already worked that out. You've got a tell when you look at a thing. You go still wrong." She paid the fish-seller. "We get supplies, we get out, we sleep off the road. And we find out about your polite friend before we lose another day to him being ahead of us." Her flat eyes came up. "That part I've already started."
+Kessa, who had been pricing dried fish and listening to the market the way she listened to everything, only nodded. "Already worked that out. You've got a tell when you look at a thing. You go still wrong." She paid the fish-seller. "We get supplies, we get out, we sleep off the road. And we find out about your polite friend before we lose another day to him being ahead of us." Her eyes came up. "That part I've already started."
 
 ---
 
@@ -56,13 +56,13 @@ She'd started it by being unremarkable in the right places, and by the time the 
 
 "A finder," Oscar repeated.
 
-"It's a trade." She said it the way she'd say a track was a wolf's and not a dog's, certain, unhappy. "Licensed, like everything here. The House loses things. Relics that walk off a wagon. A debtor who runs his bond. A piece of property that goes where it shouldn't." A beat, very slight. "And it pays people to bring them back. *Finders.* There's a whole guild of them. There's a *board* in the broker's with standing finds posted on it, like a butcher posting cuts. They're respectable. People tip their hats." She turned her cup a quarter-turn on the table, which for Kessa was a storm of feeling. "I read the board, Oscar. It's pages. The House is always finding something."
+"It's a trade." She said it the way she'd say a track was a wolf's and not a dog's, certain, unhappy. "Licensed, like everything here. The House loses things. Relics that walk off a wagon. A debtor who runs his bond. A piece of property that goes where it shouldn't." A beat, very slight. "And it pays people to bring them back. *Finders.* There's a whole guild of them. There's a *board* in the broker's with standing finds posted on it, like a butcher posting cuts. They're respectable. People tip their hats." She turned her cup a quarter-turn on the table. "I read the board, Oscar. It's pages. The House is always finding something."
 
 Oscar sat with that, and felt the floor of the thing drop another level beneath him.
 
 He was a find. Not a special one, not a personal vendetta, not Sarn's clever once-in-a-career score: a line on a board he'd never seen, and the only thing that made his line different from a stray relic or a runaway debtor was the size of the number beside it. He didn't say any of that out loud. He looked at Wick, dozing against the wall with her hand in her pocket, and was glad she wasn't listening.
 
-"This one has a name," Kessa went on, lower. "The one ahead of us. They knew him at the finders' board. He's not local, he came up from the deep south special, which the man I asked thought was *interesting,* a finder of his standing coming all that way for one find." Her jaw worked. "Corwen. That's the name they gave. They say—" and here she stopped, and Oscar saw her decide to give it to him straight, because Kessa did not believe in softening a thing you'd have to face anyway "—they say he doesn't lose them. Ever. Not once, in a long career. They say he's the one the House sends when it actually wants the thing back, not just wants to look like it's trying. And they say he's the most civil man you'll ever meet, which the fellow telling me thought was a recommendation. Civil. Those are the ones I watch."
+"This one has a name," Kessa went on, lower. "The one ahead of us. They knew him at the finders' board. He's not local, he came up from the deep south special, which the man I asked thought was *interesting,* a finder of his standing coming all that way for one find." Her jaw worked. "Corwen. That's the name they gave. They say—" and here she stopped, and Oscar saw her decide to give it to him straight "—they say he doesn't lose them. Ever. Not once, in a long career. They say he's the one the House sends when it actually wants the thing back, not just wants to look like it's trying. And they say he's the most civil man you'll ever meet, which the fellow telling me thought was a recommendation. Civil. Those are the ones I watch."
 
 "Brida said that," Wick mumbled, not asleep after all. "He'll come kind."
 
@@ -82,9 +82,9 @@ He was right, and Oscar hated that he was right, and they went to the taphouse w
 
 The keep's face did something complicated, and he reached under the bar.
 
-"Wondered when you'd come," he said, not unkindly. "He said someone might. Silver-haired man, he said, or his people. Said to hand it over with no charge and no trouble." He laid it on the bar: a single folded square of good paper, sealed with a drop of plain wax, no device pressed in it, a private man's seal, not the House's, which was somehow worse. "Bought the house a round when he left it. Civil sort."
+"Wondered when you'd come," he said. "He said someone might. Silver-haired man, he said, or his people. Said to hand it over with no charge and no trouble." He laid it on the bar: a single folded square of good paper, sealed with a drop of plain wax, no device pressed in it, a private man's seal, not the House's. "Bought the house a round when he left it. Civil sort."
 
-Oscar took it. It weighed nothing. He broke the wax aware of the three of them at his shoulders, and read it once to himself, and then, because they had earned it and because secrets were a luxury a crew couldn't afford, he read it aloud, low, in the corner, in a voice he kept very level.
+Oscar took it. It weighed nothing. He broke the wax aware of the three of them at his shoulders, and read it once to himself, and then he read it aloud, low, in the corner, in a voice he kept very level.
 
 It said:
 
@@ -101,7 +101,7 @@ It said:
 
 The corner was very quiet.
 
-Oscar folded the note back along its creases, slowly, because his hands wanted something to do that wasn't shaking. The casual *the goods.* And worst, the line about Wick, *the girl especially,* done gently, to show how much he could see.
+Oscar folded the note back along its creases, slowly. The casual *the goods.* And worst, the line about Wick, *the girl especially,* done gently, to show how much he could see.
 
 And there was the thread that pulled the whole thing loose, sitting in the corner with the note going cold in his hand. *He's never seen her.* Six days ahead the entire way. Corwen had never been in a room with any of them. So what he knew about Wick hadn't come from his own eyes; it had come from whoever sent him. Oscar thought of the licensed readers in the market, hands flat on their relics, reading label-deep, and understood that was only the small end of the trade. Somewhere was the large end: a reach that needed no hand, no room, no face in front of it. The House had looked at them once, he'd have wagered, one long cold look from very far off, and seen everything it cared to, and handed the picture to its hound like a scent, then gone back to running a country.
 

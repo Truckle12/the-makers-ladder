@@ -16,7 +16,7 @@ It screamed.
 
 The sound was enormous and wrong, a grinding shriek that came up out of that millstone maw and slammed off every wall at once: the sound of silence itself tearing. Wick clapped her hands over her ears. Cael flinched. And the hush, half-deafened, blind, maddened with pain, stopped being a careful hunter and became something far worse: a rampage with no plan in it at all, twelve tons of armored agony.
 
-"It's not dying," Wick said, in the small flat voice of someone watching the math go wrong. "Oscar. It's supposed to be dying."
+"It's not dying," Wick said. "Oscar. It's supposed to be dying."
 
 "Noted," Oscar said, and then the hush charged the place they were all standing, and there was no more time for notes.
 
@@ -26,15 +26,15 @@ Cael drove the hearthward into the stone and threw everything he had into it, an
 
 "It can't get through," Cael ground out. "But I can't—this won't last. It's too big. It's too angry. I can give you a minute. Maybe less."
 
-"Then we kill it in a minute." Oscar's mind was already racing, looking, *looking.* Not at the beast now, the beast was alive and gave his gift nothing. He looked at the *room.* "Wick. When Cael's wall drops, you let go. All of it that's safe to let go: everything you can hold, and not one spark past that, you hear me. And you put it into the thing's face. Not to kill it. To make it flinch, to keep it off us, to buy room. Can you do that?"
+"Then we kill it in a minute." Oscar's mind was already racing, looking, *looking,* not at the beast now, the beast was alive and gave his gift nothing. He looked at the *room.* "Wick. When Cael's wall drops, you let go. All of it that's safe to let go: everything you can hold, and not one spark past that, you hear me. And you put it into the thing's face. Not to kill it. To make it flinch, to keep it off us, to buy room. Can you do that?"
 
-Her eyes were huge. But she nodded, and there was iron in the nod. "I can do that."
+Her eyes were huge. But she nodded. "I can do that."
 
 "Kessa." He turned to her, and she was already looking where he was looking. "This chamber. You read ground better than anyone alive. Tell me what's wrong with it."
 
 Kessa's gaze swept the cathedral dark, the dripping live seams, the vaulted stone, the floor, and snagged, and sharpened. She pointed. Past the hush, past the haul, the floor of the good claim simply *stopped*: a black gulf of a shaft, an old dig gone too deep, a pit that fell away into a dark even the live workings couldn't light. And the span of floor leading to it, the broad shelf of old stone the hush was rampaging across, was veined with cracks, undercut by the same dig, held up by Oscar-couldn't-yet-see-what.
 
-"That edge is rotten," Kessa said. "The whole shelf. They dug under it chasing the seams and never shored it. It's been waiting a hundred years to fall." Her flat eyes cut to him. "You're thinking we drop it."
+"That edge is rotten," Kessa said. "The whole shelf. They dug under it chasing the seams and never shored it. It's been waiting a hundred years to fall." Her eyes cut to him. "You're thinking we drop it."
 
 "I'm thinking we drop it."
 
@@ -94,13 +94,13 @@ For a while nobody said anything. Below them, very far down, something enormous 
 
 "The plan was *excellent,*" Oscar said. His voice came out wrong. He had an arm still locked around Wick and he wasn't ready to take it away. "I'd like that noted."
 
-Wick laughed, a cracked, wet, half-hysterical sound, and didn't explain herself, and Oscar didn't ask, and Cael lay flat on his back with his battered shield warm against his chest and said, to no one, "We pulled her back." Just that. Like he was checking it was true. "This time we pulled her back."
+Wick laughed, a cracked, wet, half-hysterical sound, and didn't explain herself, and Oscar didn't ask, and Cael lay flat on his back with his battered shield warm against his chest and said, to no one, "We pulled her back." Just that. "This time we pulled her back."
 
-Nobody had to ask what other time he meant. They let it sit there, the dead man's name nobody said, and for once it didn't poison anything.
+Nobody had to ask what other time he meant. They let it sit there, the dead man's name nobody said.
 
 The haul was everything Brida had said, and the cost of reaching it was written all around them in the bones, and Oscar made himself walk to it slowly, with respect.
 
-It was a fortune. Not in coin. In *workings,* crated and packed and waiting: lamps and locks and the small grey cold-boxes, and stranger things, intricate enough that Oscar wanted to sit down with each one for a week. The Tithe's richest season, ready to move south. Enough, sold quietly, to arm a rebellion.
+It was a fortune in *workings,* crated and packed and waiting: lamps and locks and the small grey cold-boxes, and stranger things, intricate enough that Oscar wanted to sit down with each one for a week. The Tithe's richest season, ready to move south. Enough, sold quietly, to arm a rebellion.
 
 And burned into every crate, the same seal.
 
@@ -120,7 +120,7 @@ And then he turned a page, and his breath stopped.
 
 Because he knew the hand.
 
-He didn't know how he knew it. He had never seen it before. But the way the figures were drawn—the particular slope of them, the small private flourishes, the choices a writer makes that are as personal as a face—was *familiar,* familiar in his fingers, familiar in the part of him that reached for a working without being told how. It was a hand he could have written. It was, he thought, with a cold that had nothing to do with the deep current, a hand he *had* written, somewhere, somewhen, in a life that might not be his. And the not-knowing opened under him like the pit had opened under the hush, black and bottomless and waiting.
+He didn't know how he knew it. He had never seen it before. But the way the figures were drawn—the particular slope of them, the small private flourishes, the choices a writer makes that are as personal as a face—was *familiar,* familiar in his fingers, familiar in the part of him that reached for a working without being told how. It was a hand he could have written. It was, he thought, with a cold that had nothing to do with the deep current, a hand he *had* written, somewhere, somewhen, in a life that might not be his.
 
 He closed the book. He held it for a moment against his chest the way Cael held the shield, and he did not explain, and no one made him.
 
@@ -140,7 +140,7 @@ But Wick was holding it the way you hold something warm, turning it over and ove
 
 They loaded what they could carry. They left the rest. And as they turned for the long road up, Oscar stopped at the lip of the black, where a monster lay dead at the bottom of a pit, and felt the whole shape of it click into place.
 
-"They told this town the deep belonged to them," he said. "That only the Tithe could work the good claim. That nobody else could survive it." He looked at his crew—gray, bloodied, emptied, standing in the impossible heart of the place that wasn't supposed to let anyone out. "And it was true. It nearly killed us four times over." He looked down into the pit, at the dead thing folded in it. "But it had a cause, and the cause could die, and in a hundred years they never once—" His voice went. He stood there with the rest of the sentence in his mouth and could not get it out, and did not try again. What he had instead was a plan, or the pieces of one. "We show the town the body. We show them whose seal is on these crates. So they finally know where their blood's been going."
+"They told this town the deep belonged to them," he said. "That only the Tithe could work the good claim. That nobody else could survive it." He looked at his crew. "And it was true. It nearly killed us four times over." He looked down into the pit, at the dead thing folded in it. "But it had a cause, and the cause could die, and in a hundred years they never once—" His voice went. What he had instead was a plan, or the pieces of one. "We show the town the body. We show them whose seal is on these crates. So they finally know where their blood's been going."
 
 Kessa nodded slowly, and for the second time since he'd known her, something dangerously like hope moved in her face. "That'd bring the whole thing down."
 

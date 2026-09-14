@@ -38,13 +38,13 @@ Its gaze went, without hurry, to the squared weight under Oscar's coat, the way 
 
 ---
 
-Behind him, Kessa said, low and flat: "Oscar. Is it going to move?"
+Behind him, Kessa said, low: "Oscar. Is it going to move?"
 
 "Not yet," he said, because he could read that much off it and because the alternative was to keep listening to his own pulse. "It's not — Kessa, it isn't waiting to attack us. It's *on duty.*"
 
 "On duty," she repeated.
 
-"He has it exactly," said the Setter, pleased, and that was the moment the horror properly arrived, because *pleased* was a thing it could still do, a little, badly, like a man clapping with one hand. "Someone must tend the font. Someone must perform the Setting when a candidate comes home. I do those things. I have done them for the whole of my — " a pause; not for effect. A pause where a word should have been and wasn't. "I do those things," it finished.
+"He has it exactly," said the Setter, and it was pleased, a little, badly, like a man clapping with one hand. "Someone must tend the font. Someone must perform the Setting when a candidate comes home. I do those things. I have done them for the whole of my — " a pause; not for effect. A pause where a word should have been and wasn't. "I do those things," it finished.
 
 Oscar heard the gap. He heard exactly what size it was.
 
@@ -58,7 +58,7 @@ And he asked the question he had crossed five hundred miles to ask, and he asked
 
 "I no longer have the part that keeps things," the Setter said.
 
-It said it without self-pity, because self-pity requires a self, and Oscar stood very still while the worst news of his life arrived in the shape of an administrative regret.
+It said it without self-pity, and Oscar stood very still while the worst news of his life arrived in the shape of an administrative regret.
 
 Oscar, who had been alive for one season and had inherited a long dead man's certainty about nearly everything, did what he always did with a fact he could not stand: tried to put a fence round it.
 

@@ -10,7 +10,7 @@ It had happened without anyone deciding it, which was apparently the only way th
 
 "How old are you, though," Wick said, on the fourth day, apropos of a long argument about whether a particular river had always been where it was. "Actually. You keep saying old. Old like Cael, or old like a tree?"
 
-"Older than the river, evidently," Oscar said, "since the river's in the wrong place." Which was a deflection, and she let him have it, but he noticed he had not given her the number.
+"Older than the river, evidently," Oscar said, "since the river's in the wrong place." He noticed he had not given her the number.
 
 He said, "Old enough to know better and young enough to keep not doing it," which made Wick laugh, and which had the additional virtue of being, for once, entirely true.
 
@@ -38,7 +38,7 @@ And then one was inside the line, low and pale and silent, going past Cael's hip
 
 He did the thing he had been failing to do since the morning he woke in a stone box.
 
-He reached. Not for the great deep work, he knew better now than to grab for the ocean, but for the small first figure, the lance, the hard bright line of force that was the first true working any hand of his tradition ever learned. He had scored it ten thousand times across a life that might not be his. He had scored it in a falling tower a week ago and felt it die in his fingers like a wet match. He scored it now, fast and clean, the gesture his hands remembered even when the rest of him doubted—
+He reached, not for the great deep work, he knew better now than to grab for the ocean, but for the small first figure, the lance, the hard bright line of force that was the first true working any hand of his tradition ever learned. He had scored it ten thousand times across a life that might not be his. He had scored it in a falling tower a week ago and felt it die in his fingers like a wet match. He scored it now, fast and clean, the gesture his hands remembered even when the rest of him doubted—
 
 —and it *took.*
 
@@ -56,7 +56,7 @@ He turned in time to see it: the final cat breaking past Kessa, and Wick not fli
 
 "Did you see," she said. "Oscar. Did you *see* it. I aimed."
 
-"I saw," he said, and meant it. "Textbook. Better than textbook. I never wrote anything that clean at your age." Which was a lie, since he had no idea what he'd written at her age; but it was the kind of lie a teacher is supposed to tell, and he found he didn't mind that one.
+"I saw," he said, and meant it. "Textbook. Better than textbook. I never wrote anything that clean at your age." Which was a lie, since he had no idea what he'd written at her age.
 
 Kessa was already among the bodies, knife out, checking them with a frontier thoroughness. "Don't eat these," she said, to no one, to all of them. "Whatever's in them, it's not for eating." She rolled one with her boot, studied the flat dead shine of its open eye, and her mouth went thin. "Forty miles off range, in daylight, with no fog to their breath. I've worked this country thirty years." She stood. "I've never seen that. Things are coming loose out here. Let's get behind a wall."
 
@@ -68,9 +68,9 @@ Marrow was built on bones.
 
 The old world had left something enormous in that valley: the broken half of a structure so vast that the living town had simply moved into the corpse of it, the way wasps move into a skull. Stone arches the size of hills marched down the valley in a long shattered colonnade, and between and beneath and inside them the town had grown, timber and tile and tarp packed into the ribs of a thing no one now living could have built, smoke rising through gaps that had been windows for giants. Carts moved on roads that had been the floors of halls. And everywhere, on every approach, on the broken stone and the new timber both, salvagers worked, hauling up out of the deep places of the ruin the relics of the dead world and bringing them, in barrows and on backs, down to the town that ate them.
 
-"They live *on* it," Oscar said. He could not quite keep the thing out of his voice. He thought of a font, and what a font was for, and what the dead world had built its dead cities to do. "They live on the bones of the old places and they don't—they can't know what's in them. What they're built on top of."
+"They live *on* it," Oscar said. He thought of a font, and what a font was for, and what the dead world had built its dead cities to do. "They live on the bones of the old places and they don't—they can't know what's in them. What they're built on top of."
 
-"They know there's coin in them," Kessa said, not unkindly. "Come on. And let me do the talking at the gate, because you, with respect, talk like a man who's never paid for anything in his life."
+"They know there's coin in them," Kessa said. "Come on. And let me do the talking at the gate, because you, with respect, talk like a man who's never paid for anything in his life."
 
 "I have paid for a great many things," Oscar said, with dignity.
 
@@ -78,21 +78,21 @@ The old world had left something enormous in that valley: the broken half of a s
 
 He elected not to answer that.
 
-The gate was not a gate. It was a chokepoint: the one road down into the valley narrowing to a single span between two stone ribs, and across it a timber barrier, and at the barrier a knot of people who were not soldiers and were very plainly not friendly. They wore no uniform, but they wore the same thing all the same: a hard easy confidence, the look of people who do not have to ask. A cord of knotted leather at the wrist, every one of them, dyed deep red. One of them sat on a stool with a ledger open on their knee, and that, Oscar understood at once, was the dangerous one, because the ones with the weapons only hurt you, and the one with the ledger owned you.
+The gate was not a gate. It was a chokepoint: the one road down into the valley narrowing to a single span between two stone ribs, and across it a timber barrier, and at the barrier a knot of people who were not soldiers and were very plainly not friendly. They wore no uniform, but they wore the same thing all the same: a hard easy confidence, the look of people who do not have to ask. A cord of knotted leather at the wrist, every one of them, dyed deep red. One of them sat on a stool with a ledger open on their knee, and that, Oscar understood at once, was the dangerous one.
 
 "Salvage tithe," the one with the ledger said, not looking up. They had a quiet, bored, accountant's voice, and a long scar that pulled one corner of their mouth into a permanent small skepticism. "Crew of four. What're you bringing in, what're you taking out, and who's your factor."
 
-"We've nothing to bring in," Kessa said, easy, level, a different person than the one who read slopes. This was a person who had stood at a hundred such gates. "We're not salvaging. We're passing through. Resupply and a roof and we're gone."
+"We've nothing to bring in," Kessa said, easy, level, a different person than the one who read slopes. "We're not salvaging. We're passing through. Resupply and a roof and we're gone."
 
 "Nobody passes through Marrow." The accountant turned a page. "There's nowhere to pass through to. There's the ruin, and there's Marrow, and there's two hundred miles of nothing in every other direction, which I'd guess you came across, which means you came from the ruin, which means you've been salvaging without a factor, which is the one thing the Tithe takes personally." Now they looked up. "So. Let's try again. What did you bring up out of the deep, and where is it."
 
-"We brought up nothing," Cael said, and there was a flat finality in it, the voice of an honest person stating a fact, and the accountant's scarred mouth twitched as if that were the funniest thing they'd heard all day.
+"We brought up nothing," Cael said, and the accountant's scarred mouth twitched as if that were the funniest thing they'd heard all day.
 
 "Everybody brings up nothing," they said. "Right up until we find the something." They made a small mark in the ledger. "Day's grace. You eat, you sleep, you don't trade, you don't dig. Tomorrow you see a factor and you square what you owe for crossing Tithe ground, or you and your nothing find out how much Marrow loves strangers." They waved two fingers; the barrier dragged aside. "Welcome in."
 
 The crew filed through, and Oscar with them, and he had nearly made it past the stool when the accountant's bored eyes came up and landed on him and—stopped.
 
-It was a small thing. It was nothing; he told himself it was nothing, the way he had told himself the wrongness of his own hands was fatigue. But the accountant's gaze went over him once, idly, the way it had gone over the others. And then came back, and sharpened, and dropped, for half a breath, to the worn grey hilt of the sword at his hip, where a small closed loop sat struck into the steel below the guard. And the bored skepticism on that scarred face shifted, very slightly, into something attentive. Something that was already, quietly, doing sums.
+It was nothing; he told himself it was nothing, the way he had told himself the wrongness of his own hands was fatigue. But the accountant's gaze went over him once, idly, the way it had gone over the others. And then came back, and sharpened, and dropped, for half a breath, to the worn grey hilt of the sword at his hip, where a small closed loop sat struck into the steel below the guard. And the bored skepticism on that scarred face shifted, very slightly, into something attentive. Something that was already, quietly, doing sums.
 
 "Long way to carry a blade like that," the accountant said, mild, "for a crew that brought up nothing."
 

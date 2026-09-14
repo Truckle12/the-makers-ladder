@@ -34,7 +34,7 @@ He was kneeling with both hands flat and his face doing the thing it did when he
 
 "No." He almost laughed. It came out badly. "No, I suppose it isn't."
 
-She let that stand. Then she said the thing she'd come out to say.
+Then she said the thing she'd come out to say.
 
 "Get up."
 
@@ -84,7 +84,7 @@ He sat with that a while.
 
 "It sounds exactly like her." He wiped his face with the flat of his hand, once, businesslike. His other hand was at his throat, on the iron, not rubbing it, just holding on. "It's come to me now. The words. Came up whole, like they always do." A short ugly breath. "Hours late. And I can't use them, Kessa. It isn't grief. It isn't that I'm afraid to." He looked at her. "The words are for the dead. I don't know that she's dead. I've stood over a great many people. Every time, I knew which thing I was standing over. This time I've got them in my mouth and I don't know."
 
-Kessa thought about that. She was not a woman who did much with words; she read ground, and there was ground here, and the reading was plain.
+Kessa thought about that.
 
 "Say them anyway," she said. "Not for her. For you. I'll stand for it, and if it turns out you were wrong you can be embarrassed about it later, and I will personally enjoy that day very much."
 
@@ -122,7 +122,7 @@ There was a bucket standing in a doorway with the rope coiled beside it.
 
 She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa tried to make the man with the bucket count against yesterday, and it didn't. It never had. She'd known that since Doss.
 
-She did not knock. There was nothing to say to him that wouldn't have been a kind of collecting.
+She did not knock.
 
 She went back and got her people.
 
@@ -164,7 +164,7 @@ Kessa sat with that a long moment.
 
 "Say the thing you're not saying," she said.
 
-"There's no lead." He said it flatly and it landed like a stone in a well. "Nothing. Not a trail, not a trace, not a thread. If somebody handed me the whole of my old master's library I wouldn't know which shelf to start on. That's where we are, Kessa, and pretending otherwise tonight would be a kindness that costs you a decade."
+"There's no lead." He said it, and it landed like a stone in a well. "Nothing. Not a trail, not a trace, not a thread. If somebody handed me the whole of my old master's library I wouldn't know which shelf to start on. That's where we are, Kessa, and pretending otherwise tonight would be a kindness that costs you a decade."
 
 She looked at the table for a while.
 
@@ -180,11 +180,11 @@ There was no job. There was a dry basin, and a town that would never be told, an
 
 Cael was going home. He said it first and he said it plainly, sitting on the end of a bed with his hands between his knees. There was a house and a hearth two hundred miles east that had been keeping a fire lit for him for four years, and his own fire was down to the bottom of the cup, and the honest way to say it was that he needed to go and be near people who kept hearths for a while. "I'm no good to anybody like this," he said. "I'll come back when there's something in me."
 
-"Come back to what," said Tarn, not unkindly.
+"Come back to what," said Tarn.
 
 "I don't know," Cael said.
 
-Tarn was going south. He didn't dress it up. There was a bowl in Oressa he was never going near again and there was a great deal of country he'd never seen, and a man with one good arm and money in his coat can look at country for a while. "And I've a debt," he said, when Kessa raised an eyebrow. "It moved. I know where it moved to. I don't know where *she* is, so I can't go and pay it, so I'll go and be somewhere I can be found." He looked at her flatly. "You'll find me."
+Tarn was going south. He didn't dress it up. There was a bowl in Oressa he was never going near again and there was a great deal of country he'd never seen, and a man with one good arm and money in his coat can look at country for a while. "And I've a debt," he said, when Kessa raised an eyebrow. "It moved. I know where it moved to. I don't know where *she* is, so I can't go and pay it, so I'll go and be somewhere I can be found." He looked at her. "You'll find me."
 
 "I'll find you," Kessa agreed.
 
@@ -200,7 +200,7 @@ He said it standing at the window with the owl on the sill beside him, and he di
 
 "Yes."
 
-She let it go, because she was not going to insult him now by pretending he needed managing.
+She let it go.
 
 And Kessa went west.
 

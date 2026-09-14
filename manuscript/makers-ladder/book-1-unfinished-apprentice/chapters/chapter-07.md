@@ -6,7 +6,7 @@ The gallery opened without warning into a void, and the four of them stopped at 
 
 The whole city's script was running *here.* Every clause, every wall, every frost-fine line of the great working they had walked through for hours, all of it poured inward and down along the shaft's curved sides in rivers of moving light, spiraling, gathering, feeding into something at the heart that he could not yet see and already did not want to. The dead city was a sentence. This was the word it had been built to say.
 
-A stair wound down the inside of the shaft, hugging the wall, and they took it because there was nowhere else to go, and as they descended the light grew, and the air grew warm—warm, the first true warmth that did not come from a fire since Oscar had clawed up out of his cradle. And the warmth was somehow worse than the cold had been, because it was *wrong* down here, an exhale where everything else was held breath.
+A stair wound down the inside of the shaft, hugging the wall, and they took it because there was nowhere else to go, and as they descended the light grew, and the air grew warm—warm, the first true warmth that did not come from a fire since Oscar had clawed up out of his cradle. And the warmth was somehow worse than the cold had been, an exhale where everything else was held breath.
 
 The heart of the city was a font.
 
@@ -24,11 +24,11 @@ The voice came out of the walls again, here as in the tower, the great gathered 
 
 "Don't," Kessa said. She had her crossbow up, not at anything, at everything, her eyes moving over the basin and the leaning light and Oscar's face, which had gone slack with longing in a way he could not feel and would have hated. "Whatever it's telling you. Don't."
 
-"It's not telling me anything." His voice came out strange. "It's *offering.*" And it was. The font was not commanding him, not dragging him. It was holding the door open and letting him feel, in his bones, exactly how much he wanted to walk through. He had spent a day discovering all the ways he was diminished. And here was the thing that would mend all of it at once. He could feel that it would. The font was not lying.
+"It's not telling me anything." His voice came out strange. "It's *offering.*" And it was. The font was not commanding him, not dragging him. It was holding the door open and letting him feel, in his bones, exactly how much he wanted to walk through.
 
 "It's a forge," he said, and made himself say it, dragging the scholar up over the longing the way you drag a cold cloth over a fever. "Look at the architecture of it. The whole city pours its working into this basin and the basin—" he swallowed "—the basin *makes* things. Or finishes them. Completes a thing that came out unfinished." He thought of his too-new hands. He thought of the salvager edited on the vault floor. He thought, and could not stop thinking, of a frost-shedding figure in a lonely cradle, reaching, coming apart for want of exactly this. "It's where they were meant to be set. The ones from the cradles. The ones like—"
 
-He did not finish. He was getting better at not finishing. But Kessa finished it for him, very quietly, not unkindly, the way you say a true thing to someone who has nearly arrived at it:
+He did not finish. But Kessa finished it for him, very quietly:
 
 "The ones like you."
 
@@ -36,7 +36,7 @@ The word sat in the warm air and did not echo.
 
 Wick had drifted toward the basin's rim. Of course she had; she was sixteen and the light was beautiful and the warmth was the first kind thing this city had offered. "It's not scary," she said, soft, reaching out a hand toward the slow luminous something the way she reached for any bright thing. The mark at her throat had begun, faintly, to glow in answer to it. "It feels like—Cael, it feels *good,* it feels like—"
 
-"Wick." Cael had her wrist before Oscar could move, drawing her back, gentle and immovable, and his other hand had gone to the iron at his throat, and his plain face had set into something Oscar had not seen on it before. Not fear, but a deep devotional unease, the look of a person of faith standing in front of a holy thing that belongs to the wrong god. "Don't touch it. I don't care how good it feels. *Especially* if it feels good." He looked at the basin the way he had looked at the edited body, and named it the way his kind named things: "This is a miracle. I just don't think it's a kind one. The kind ones don't have to talk you into them."
+"Wick." Cael had her wrist before Oscar could move, drawing her back, gentle and immovable, and his other hand had gone to the iron at his throat, and his plain face had set into something Oscar had not seen on it before: not fear, but a deep devotional unease. "Don't touch it. I don't care how good it feels. *Especially* if it feels good." He looked at the basin the way he had looked at the edited body, and named it the way his kind named things: "This is a miracle. I just don't think it's a kind one. The kind ones don't have to talk you into them."
 
 And he wanted it. That was the thing he would not be able to explain to them afterward, if there was an afterward: that some large and exhausted part of him wanted nothing in the world so much as to climb into that warm pale light and stop being a candle and stop being unfinished and stop being whatever half-made thing the water by the fire had shown him. The longing was not a trick worked on him from outside. It came from the truest part of him.
 
@@ -44,7 +44,7 @@ He realized his hands were cold.
 
 He looked down. The warmth of the heart was on every other surface of him, but his hands, the new, smooth, wrong hands, had gone white at the fingertips, and a fine pale rime was creeping up from the nails, frost, the same soft frost that furred the dead and had eaten the figure in the cradle. As if some part of him knew that to be unfinished was to be coming apart, slowly, all along, and that the nearer he stood to the cure the more honestly his body admitted the disease.
 
-He closed his fists over it before the others saw. He was getting practiced at hiding what his body kept trying to confess.
+He closed his fists over it before the others saw.
 
 "We can't be here," he said. "All of us feeling differently in front of a thing that wants something: that's how it gets one of us. We find the way up and out, the high road Kessa promised, and we leave this for—"
 

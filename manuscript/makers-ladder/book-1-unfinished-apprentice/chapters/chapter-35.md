@@ -16,7 +16,7 @@ He had been telling himself, since the market at Marrow, that place-names rhyme;
 
 "I know this place," Oscar said. It came out flatter than he meant. "I've never been here and I know it, and I've spent three weeks pretending I didn't, and I'd like it noted for the record that pretending was the smart play and I'm only stopping because we're out of country to pretend in."
 
-Kessa took that as she took most of what he said, which was as data. "Know it how."
+"Know it how," Kessa said.
 
 "Like a room in a house you grew up in." He made himself look at the towers. "Except I didn't grow up. I was — filled. And whoever filled me used *this* for the mould." The word *mould* landed in his own chest like a dropped stone. He heard how close it sat to another word, and did not say the other word, because the crew was strung out on the slope behind them and some of them were watching him and one of them was sixteen.
 
@@ -46,19 +46,19 @@ Wick didn't smile. She was looking at the page with her too-sharp eyes, not at t
 
 "It's like yours," she said. "The writing. It's exactly like yours. I've watched you make your little marks in the mud a hundred times." She said it slowly, working it, and he saw the moment she arrived where he'd been living for a month, saw it go into her and turn cold. "That's a dead man's book and it's in *your* writing."
 
-"Yes," Oscar said. There was no version of a lie that was kind here, and he was done handing her the kind ones; she'd earned the true ones in a grey hollow with her hands over a monster's mouth. "The man who wrote this is the man I was copied off. His hand is my hand because I'm — a fair copy of him, down to the flourishes. Ash told us that much, at her table. The book only makes it particular." He closed it, and held it against his chest a moment, and knew as he did it that he was holding it exactly as Cael held the shield. "The town down there is his town. Made over. I don't know yet what for. I have a guess and I don't like it, and I'm not going to say the guess out loud until I have to, because saying a thing gives it hinges."
+"Yes," Oscar said. "The man who wrote this is the man I was copied off. His hand is my hand because I'm — a fair copy of him, down to the flourishes. Ash told us that much, at her table. The book only makes it particular." He closed it, and held it against his chest a moment, and knew as he did it that he was holding it exactly as Cael held the shield. "The town down there is his town. Made over. I don't know yet what for. I have a guess and I don't like it, and I'm not going to say the guess out loud until I have to, because saying a thing gives it hinges."
 
 Wick was quiet for a while. Across the fire Cael had gone still in the manner that meant he was listening without seeming to, and Tarn's eyes had come up off the dark and settled on Oscar, unhurried, weighing. Only Kessa kept working, sharpening a knife that didn't need it, and even she had slowed her stroke.
 
-"Then we don't let it have you," Wick said finally, fierce and low, near the version of it she'd said in a freed town a lifetime north. "Whatever it made itself for. It's a house. Houses burn." And then, because she was who she was, and because the fear had got into her and had to come out sideways or not at all: "I'm good at houses."
+"Then we don't let it have you," Wick said finally, fierce and low, near the version of it she'd said in a freed town a lifetime north. "Whatever it made itself for. It's a house. Houses burn." A beat. "I'm good at houses."
 
-"I'm aware," Oscar said, and the joke landed for both of them, badly, wetly, and was better than the quiet would have been.
+"I'm aware," Oscar said, and the joke landed for both of them, badly, wetly.
 
 ---
 
 He didn't sleep much, and near the bottom of the night he stopped trying and went and sat where Kessa was keeping the watch, because she was the only one who wouldn't make him talk and the only one he wanted to talk to.
 
-"I have to go in," he said, after a while. Not asking. "You know that. Whatever it is. There's no line of country that doesn't end at those towers, and even if there were, I'd walk the one that does, and I've been trying to work out why since noon and I think I finally have it and you're not going to like it."
+"I have to go in," he said, after a while, not asking. "You know that. Whatever it is. There's no line of country that doesn't end at those towers, and even if there were, I'd walk the one that does, and I've been trying to work out why since noon and I think I finally have it and you're not going to like it."
 
 "Try me."
 
@@ -74,7 +74,7 @@ Off at the edge of the fire's dead reach, Cael sat with his big hands loose and 
 
 And Wick, asleep and not, twenty feet off with her back to a stone and her fist against her sternum even in sleep — Wick was the other thing. The closer they came to the valley, the lower her fire banked and the harder her jaw set against something in the ground that was pressing on the part of her she kept shut. Something was leaning on her as it had at the spring. His looking gave him nothing on it, and never had. She said the number when Kessa asked for it, and nothing else. But twice tonight, half-asleep, she'd flinched at nothing, and both times her hand had gone to her throat, and Oscar had made himself keep watching the fire and not the girl, because there was nothing his looking could do for a door.
 
-The grey came up over the valley slow, and the towers took shape in it, and were exactly the shape he'd known they'd be. Two days. He held the dead man's book against his ribs and looked at the dead man's home wearing a stranger's stone, and did the new work in place of the old — not reading the thing he couldn't yet reach, but counting the four people he could, and the owl somewhere overhead that wouldn't come to his hand.
+The grey came up over the valley slow, and the towers took shape in it, and were exactly the shape he'd known they'd be. Two days. He held the dead man's book against his ribs and looked at the dead man's home wearing a stranger's stone, and counted the four people he could reach, and the owl somewhere overhead that wouldn't come to his hand.
 
 He had been made to come home.
 
