@@ -47,6 +47,12 @@ const BANNED = [
 const WATCH = [
   { name: '"not X but Y"', re: /\bnot\b[^.!?\n]{1,60}?\bbut\b/gi },
   { name: '"that was the"', re: /\bthat was the\b/gi },
+  // Batch 7 (Astra review, 2026-09-14): house tics measured book-wide before the pass —
+  // "flat"/"flatly" as a dialogue label (125), sentence-initial "Not X." fragments (105),
+  // Wick's superlatives ("stupid" 13 / "worst" 14 in her six chapters).
+  { name: '"flat"/"flatly" (dialogue label)', re: /\b(?:flat|flatly)\b/gi },
+  { name: '"Not X." fragment (sentence-initial)', re: /(?:^|[.!?"”]\s+)Not [^.!?\n]{1,40}[.!?]/g },
+  { name: 'superlative tic (stupid / worst / whole life)', re: /\b(?:stupid|worst|whole life)\b/gi },
 ];
 
 // Lexicon lock (Batch 6, 2026-09-11). Sarn's words belong to the Tithe; Oscar's words belong to
