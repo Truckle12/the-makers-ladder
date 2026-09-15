@@ -124,7 +124,7 @@ They were a mile south when it reached the end of itself. There was no sound. Th
 
 The owl went with them.
 
-Not *with* them; Oscar was made to understand the distinction at once and continuously. It went along the same route they happened to be using, at its own altitude, on its own schedule, a pale shape making short unhurried hops from dead tree to fence post to standing stone, always in sight and never in reach. When they stopped, it stopped, at a remove. When Wick held out her arm to it, having lasted an hour before trying, which for Wick was a geological era of restraint, it looked at her with warm interest and did not come, and she said "your bird's broken," at him and not at the bird, and he had to look at the road for a while. When Tarn tossed it a strip of dried meat it caught the strip out of the air, ate it, and went back to ignoring them all with its whole pointed face.
+Not *with* them; Oscar was made to understand the distinction at once and continuously. It went along the same route they happened to be using, at its own altitude, on its own schedule, a pale shape making short unhurried hops from dead tree to fence post to standing stone, always in sight and never in reach. When they stopped, it stopped, at a remove. When Wick held out her arm to it, having lasted an hour before trying, which for Wick was a geological era of restraint, it looked at her with warm interest and did not come, and she said "your bird's broken," at him and not at the bird, and the road required his attention for a while. When Tarn tossed it a strip of dried meat it caught the strip out of the air, ate it, and went back to ignoring them all with its whole pointed face.
 
 "He lies about having been fed," Oscar said.
 

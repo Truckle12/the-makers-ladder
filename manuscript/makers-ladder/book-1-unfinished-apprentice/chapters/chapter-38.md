@@ -60,7 +60,7 @@ And he asked the question he had crossed five hundred miles to ask, and he asked
 
 It said it without self-pity, and Oscar stood very still while the worst news of his life arrived in the shape of an administrative regret.
 
-Oscar, who had been alive for one season and had inherited a long dead man's certainty about nearly everything, did what he always did with a fact he could not stand: tried to put a fence round it.
+Oscar, who had been alive for one season and had inherited a long dead man's certainty about nearly everything, tried to put a fence round it.
 
 "How long, then. How many. Give me a number with an edge on it."
 

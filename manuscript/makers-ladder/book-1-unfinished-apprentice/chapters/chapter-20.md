@@ -24,7 +24,7 @@ He came to take the second watch that night and folded himself down beside her b
 
 "It's getting harder," Wick said. Her voice came out small, and she didn't fix it. "The holding. Everybody thinks I fixed it after the pit—I held in the square, didn't reach for anything I shouldn't, and you all looked at me like I'd *solved* something, and I let you, because it was nice." She made herself look at him, this once, instead of away. "But it's not fixed. It's just *held.* And it takes more to hold every day, and today it nearly got off its leash in a stupid little stream over nothing, and I don't understand why it keeps getting heavier, and I'm scared of the day it's heavier than I can lift." The last of it came out in a rush, because a rush was the only way it was coming at all. "And I'm telling you because I'm tired of being the only one who knows when I'm scared. So. There. Now you know a thing about me too."
 
-He listened to all of it with his hands very still.
+He listened to all of it with his hands very still, because the girl watched them.
 
 It was true; he could hear that it was true. He could also hear, with the part of him that had spent an age listening to clever people stop one sentence short, that it was the smallest true thing she could have handed him. There was a shape behind it. He could no more read that shape than he could read the stream. He would have given a great deal, just then, for it to be a made thing, so that he could open it and know.
 
@@ -110,7 +110,7 @@ Wick was looking at Oscar with frank professional interest, one student grading 
 
 "No," Oscar said, and let himself have it, the fierce small thing he'd filed away on the road for when there was a *later.* Because this was the later, sitting wrung-out in the grass with Cael alive beside him and the brace finally, *finally* landed when it had to. "No. It didn't fall apart."
 
-He looked back at the notch, at the Cull, at the old indifferent battery still sweeping its patient death over an empty road. The same hands that built it had built him. His deadliest trick was a splinter of their war.
+He looked back at the notch, at the Cull, at the old indifferent battery still sweeping its patient death over an empty road. The same hands that built it had built him. His deadliest trick was a splinter of their war. The makers were dust and their machine still killed.
 
 But he didn't stand to leave.
 
@@ -136,7 +136,7 @@ Kessa held his eye a moment longer. Then she stepped aside. "Be fast," she said.
 
 He went to the mouth of the notch, to the edge of the sweep where the bolts didn't quite reach, and he looked.
 
-Not as he'd looked crossing it, fast and frightened, reading just enough of the rhythm to live. This time he opened the looking all the way, deeper than he had ever taken it, down past the bolts and the worn flawed beat and into the working itself: the thousand-year logic of the thing, read like a sentence in a language you were only beginning to dream in. It cost. It cost in a way that scared him, his reserve draining down and down, past tiredness, to the scraped bottom of what he'd brought, further than he had ever taken the looking on purpose. A season ago he could not have done this. A season ago he could read a lamp. Now he read a war-engine down to its bones. And somewhere in the depths of it he found the thing he was hunting: the keystone, the single anchoring figure the makers had tied first and hung everything else upon, the knot that held the whole battery in the world.
+Not as he'd looked crossing it, fast and frightened, reading just enough of the rhythm to live. This time he opened the looking all the way, deeper than he had ever taken it, down past the bolts and the worn flawed beat and into the working itself: the thousand-year logic of the thing, read like a sentence in a language you were only beginning to dream in. It cost. It cost in a way that scared him, his reserve draining down and down, past tiredness, to the scraped bottom of what he'd brought, further than he had ever taken the looking on purpose. A season ago he could read a lamp. Now he read a war-engine down to its bones. And somewhere in the depths of it he found the thing he was hunting: the keystone, the single anchoring figure the makers had tied first and hung everything else upon, the knot that held the whole battery in the world.
 
 He set his grip to it, and pulled.
 

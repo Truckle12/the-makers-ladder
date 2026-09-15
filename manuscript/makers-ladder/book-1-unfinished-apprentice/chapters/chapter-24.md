@@ -28,7 +28,7 @@ Cael was the one the country didn't suit. Every dusk he built the fire with more
 
 Oscar started to say he was grateful for it, and Cael's hands stopped on the wood.
 
-"Don't," Cael said. It came out short. He didn't take it back. He put the piece where he'd meant to put it. "I know I'm the one still up feeding it. I don't need telling." He stayed crouched over the fire a while longer than the fire needed. Then he got up and went to look at Oscar's ribs, which he'd looked at that morning.
+"Leave it," Cael said. It came out short, and he didn't take it back; he put the piece where he'd meant to put it. "I know I'm the one still up feeding it. I don't need telling." He stayed crouched over the fire a while longer than the fire needed. Then he got up and went to look at Oscar's ribs, which he'd looked at that morning.
 
 And Wick.
 
@@ -46,7 +46,7 @@ He shut his mouth. Then he tried again, and gave her a true thing this time, bec
 
 Wick's eyes had gone bright and furious. She didn't answer. But she walked a little nearer to him after that, and didn't drift toward the trees again the rest of the day.
 
-But the wild's attention wasn't a thing he had to read to feel, and across those three days it pressed in. It was nothing you could put a bolt through. A doe that watched them from forty feet and didn't run, didn't so much as flick an ear, just *regarded* them until Kessa's hand drifted to her crossbow, and then turned and walked, not bolted, away. A night when the bark-light all around the hollow dimmed at once, like a hundred eyes going half-shut, and came back up only when Cael fed the fire. A sense that thickened by the hour: that they were not being hunted. They were being *assessed.* Weighed. Read, the way Oscar read things, by something in no particular hurry and of no particular mercy.
+The wild's attention wasn't a thing he had to read to feel, and across those three days it pressed in. It was nothing you could put a bolt through. A doe that watched them from forty feet and didn't run, didn't so much as flick an ear, just *regarded* them until Kessa's hand drifted to her crossbow, and then turned and walked, not bolted, away. A night when the bark-light all around the hollow dimmed at once, like a hundred eyes going half-shut, and came back up only when Cael fed the fire. A sense that thickened by the hour: that they were not being hunted. They were being *assessed.* Weighed. Read, the way Oscar read things, by something in no particular hurry and of no particular mercy.
 
 "It knows we're here," Kessa said the second night, cleaning a knife that didn't need cleaning.
 

@@ -38,7 +38,7 @@ So he learned, in the reeds, with a reader thirty yards away and dawn coming, th
 
 He'd always gone in full-bore: throw the looking wide open, drink the whole shape of a thing, spend whatever it spent. It was, he understood now, lying scorched in the mud, a child's grip. A fist where a fingertip would do.
 
-He could not afford a fist. So he tried a fingertip.
+So he tried a fingertip.
 
 He let the looking *barely* open. A hair, a thread, the least touch he could manage, like laying one finger on a still pond to feel which way it would ripple if you ever pushed. It cost almost nothing. The scorched place didn't shriek; it only ached, dully, the way a bruise aches when you press it on purpose. And through that single thread he felt, not the buckles on the reader's coat, not the whole shape of the shed, just one made thing. The reader's net: the working they'd strung across the dark to catch a gift being used, laid out like a snare on a game trail.
 

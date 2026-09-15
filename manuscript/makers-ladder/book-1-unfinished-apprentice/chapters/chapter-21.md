@@ -52,7 +52,7 @@ He found Wick watching him as they came back out onto the bridge.
 
 "No," Wick agreed. "You just get used to being tired the whole time." She said it without any self-pity at all, just one professional to another.
 
-It lasted until the glass.
+The company lasted until the glass.
 
 ---
 
