@@ -38,7 +38,7 @@ Wick had drifted toward the basin's rim. Of course she had; she was sixteen and 
 
 "Wick." Cael had her wrist before Oscar could move, drawing her back, gentle and immovable, and his other hand had gone to the iron at his throat, and his plain face had set into something Oscar had not seen on it before: not fear, but a deep devotional unease. "Don't touch it. I don't care how good it feels. *Especially* if it feels good." He looked at the basin the way he had looked at the edited body, and named it the way his kind named things: "This is a miracle. I just don't think it's a kind one. The kind ones don't have to talk you into them."
 
-And he wanted it. That was the thing he would not be able to explain to them afterward, if there was an afterward: that some large and exhausted part of him wanted nothing in the world so much as to climb into that warm pale light and stop being a candle and stop being unfinished and stop being whatever half-made thing the water by the fire had shown him. The longing was not a trick worked on him from outside. It came from the truest part of him.
+And Oscar wanted it. That was the thing he would not be able to explain to them afterward, if there was an afterward: that some large and exhausted part of him wanted nothing in the world so much as to climb into that warm pale light and stop being a candle and stop being unfinished and stop being whatever half-made thing the water by the fire had shown him. The longing was not a trick worked on him from outside. It came from the truest part of him.
 
 He realized his hands were cold.
 

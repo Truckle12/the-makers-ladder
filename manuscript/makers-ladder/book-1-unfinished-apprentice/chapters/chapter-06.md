@@ -8,7 +8,7 @@ Oscar kept reading the walls. He could not stop, and now he had a reason past ha
 
 They stopped. Cael looked where Oscar was looking and saw nothing but stone. "What is it?"
 
-"It's been *here.*" Oscar held his ruined hand a careful span from the wall, not touching, the way you hold a palm near a fire to test it. The script on the left-hand stone was wrong. This was the opposite of damage. Whole stretches of the old working had been *cleaned,* the dense frost-script simply gone and the stone beneath left blank and smooth, the edges where it ended neat as a knife-cut, neat as the salvager's vanished arm.
+"It's been *here.*" Oscar held his ruined hand a careful span from the wall, not touching, the way you hold a palm near a fire to test it. The script on the left-hand stone was wrong. Not damaged. This was the opposite of damage. Whole stretches of the old working had been *cleaned,* the dense frost-script simply gone and the stone beneath left blank and smooth, the edges where it ended neat as a knife-cut, neat as the salvager's vanished arm.
 
 And along the cleaned stretch, something was missing that took him a moment to name: the cold. Not warmed—*gone.* Cael's breath fogged white everywhere in the gallery except in front of the blank stone, where it came and went invisible, as though the air there had forgotten the habit. Oscar crouched and laid two fingers to the floor below the blank and found no frost on it at all, on a floor that had worn frost for an age.
 

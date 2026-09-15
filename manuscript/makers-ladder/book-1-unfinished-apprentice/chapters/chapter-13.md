@@ -60,7 +60,7 @@ Oscar looked up.
 
 "We're not going to run," he said.
 
-He said it plainly, and he felt the whole chamber turn toward the plainness of it. He was doing the thing again, stepping into the wheel-shaped gap.
+He said it plainly, and he felt the whole chamber turn toward the plainness of it.
 
 "Here is the proof, since we're being honest." He laid his hand flat on the writ. "I cannot outrun a contract that renews itself every season for the rest of a very long life. I cannot hide from a mark that's healed into my own skin. The only place the answer to *why* lives is south, behind the cord, in a house I can't reach. And the only road south that doesn't end with me in a box runs straight through the thing that owns this town. So. The Tithe is between me and the truth, and it's between Brida and a free breath, and it's between every soul in this valley and a life that isn't a ledger. That's a great many reasons pointing the same direction, and I have learned to be suspicious of my own cleverness, but even I can't argue with a proof that clean." He looked around the fire, at the woman who read slopes, the man who'd run out of *no,* the girl who'd nearly come apart in the dark and told no one. *His* crew. "We break the Tithe. We free the town that sheltered us, we cut the hand that reaches for me, and somewhere in the breaking we find the thread that runs south, and I follow it until I know what I am." A breath. "I'd rather do it with you. But I'll understand the one who'd rather not."
 

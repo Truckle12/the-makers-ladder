@@ -40,7 +40,7 @@ She was at his side already, white-faced, the mark at her throat blazing now in 
 
 "What happens to you if I do?"
 
-It was, he thought, the first genuinely wise question anyone had asked all day, and it had come from the youngest of them, and he did not have the heart to lie to her and did not have the time to tell the truth.
+It was, he thought, the first genuinely wise question anyone had asked all day, and it had come from the youngest of them.
 
 "Something new," he said. "Now, Wick. *Now.*"
 

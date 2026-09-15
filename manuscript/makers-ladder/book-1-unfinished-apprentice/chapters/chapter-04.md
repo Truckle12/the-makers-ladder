@@ -50,7 +50,7 @@ It was Oscar who said the thing out loud, because of course it was. He had been 
 
 "You've lost someone," he said, into the middle of the small argument about the watch. "Recently. The one who used to make the calls." He said it the way he said most true things, as though being right about a thing were the same as being permitted to mention it. "You move like a cart with a wheel off. Three of you, and a hole shaped like a fourth, and not one of you will stand in it. Who were they?"
 
-The argument stopped. Something went out of the room and something colder came into it, and Oscar understood, a half-second too late, as he understood most things that weren't written on a page, that he had walked his clever feet directly into a grave.
+The argument stopped. Something went out of the room and something colder came into it, and Oscar understood, a half-second too late, that he had walked his clever feet directly into a grave.
 
 "You just *say* it." Kessa's hand had found the crossbow again, not lifting it, only resting there. "Whatever's in your head. Straight out the mouth." She looked at him with something that was nearly hatred and nearly grief and could not seem to settle on which. "I've put a bolt in men for less and slept the night through."
 
