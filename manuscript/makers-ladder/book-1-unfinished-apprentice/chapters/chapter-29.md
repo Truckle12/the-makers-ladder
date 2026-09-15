@@ -54,7 +54,7 @@ She cast one great circle around the whole site anyway, a hundred paces out, the
 
 "I know. I was hauling you when he said it." Kessa sat down next to her and unwrapped a strip of the dried meat neither of them wanted. "So we get him. Trails don't end. Somebody hid this one. People leave sign." She bit, chewed, made herself swallow. "Tomorrow we grid this country till it gives her up."
 
-She said it like a plan, and Wick took it like one, and slept. There was no plan in it. There was an empty road, and a girl who couldn't be handed the truth at two in the morning. Kessa sat with Doss's knife across her knees and watched the east go pale and ran the count until it hurt less. Four. Four, and a place he is. She'd find the place.
+She said it like a plan, and Wick took it like one, and slept. There was an empty road, and a girl who couldn't be handed the truth at two in the morning. Kessa sat with Doss's knife across her knees and watched the east go pale and ran the count until it hurt less. Four. Four, and a place he is. She'd find the place.
 
 ---
 

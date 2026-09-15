@@ -110,7 +110,7 @@ She laughed, and it turned into something that wasn't a laugh, and Cael caught h
 
 She was still her. She could feel it: the door still there behind her ribs, still shut, still wanting, the coal still hers to hold come morning, all of it exactly where it had always been. None of it had gone away.
 
-But she'd met the big one. The thing her own door opened onto, and she'd held it till it gave up. She sat in the mud at the edge of a grey gone quiet, her crew bleeding and breathing all round her, and felt for the small one. Still there. Still scared of it.
+But she'd met the big one. It was the thing her own door opened onto, and she'd held it till it gave up. She sat in the mud at the edge of a grey gone quiet, her crew bleeding and breathing all round her, and felt for the small one. Still there. Still scared of it.
 
 Not gone. Course not.
 

@@ -120,7 +120,7 @@ Wick had screamed it going, from the stone: a bridge, a garden, a street with a 
 
 There was a bucket standing in a doorway with the rope coiled beside it.
 
-She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa tried to make the man with the bucket count against yesterday, and it didn't. It never had. She'd known that since Doss.
+She stood there a while. Down the lane a shutter went up and a woman leaned out and shook something and went back in, and Kessa tried to make the man with the bucket count against yesterday, and it didn't. She'd known that since Doss.
 
 She did not knock.
 
@@ -164,7 +164,7 @@ Kessa sat with that a long moment.
 
 "Say the thing you're not saying," she said.
 
-"There's no lead." He said it, and it landed like a stone in a well. "Nothing. Not a trail, not a trace, not a thread. If somebody handed me the whole of my old master's library I wouldn't know which shelf to start on. That's where we are, Kessa, and pretending otherwise tonight would be a kindness that costs you a decade."
+"There's no lead." It landed like a stone in a well. "Nothing. Not a trail, not a trace, not a thread. If somebody handed me the whole of my old master's library I wouldn't know which shelf to start on. That's where we are, Kessa, and pretending otherwise tonight would be a kindness that costs you a decade."
 
 She looked at the table for a while.
 
@@ -204,7 +204,7 @@ She let it go.
 
 And Kessa went west.
 
-She didn't explain it and nobody asked her to. Out past the edge-stones the maps went pale and stopped. She'd been thinking about the pale part since a girl walked into a basin. West was a direction. Standing still wasn't. She was a tracker. She had never yet failed to find a way into somewhere. Some of the ways in, she hadn't liked.
+She didn't explain it and nobody asked her to. Out past the edge-stones the maps went pale and stopped. She'd been thinking about the pale part since a girl walked into a basin. West was a direction. Standing still wasn't. She was a tracker. She had never yet failed to find a way into somewhere.
 
 ---
 

@@ -2,7 +2,7 @@
 
 The waypost had good bones and Cael spent two days learning them with his hands.
 
-It was old work, older than the House, older than any road he'd ever prayed beside. The walls were a single grey stone without joint or mortar, cool in the sun and never cold at night, and when he laid his palm flat against them he could feel a low steadiness in the rock, not alive, not warm, but *kept*. Oscar had gone around the whole place the first evening reading it aloud to anyone in earshot, drunk on it, calling it the finest weather-work he'd seen outside the buried city, and Cael had understood one word in five and agreed with all of them. It was a place built by people who meant travelers to live through the night. Whatever else the dead makers had done wrong in the world, a roadhouse that would not burn and would not crack was a thing you could respect with both hands.
+It was old work, older than the House, older than any road he'd ever prayed beside. The walls were a single grey stone without joint or mortar, cool in the sun and never cold at night, and when he laid his palm flat against them he could feel a low steadiness in the rock, not alive, not warm, but *kept*. Oscar had gone around the whole place the first evening reading it aloud to anyone in earshot, drunk on it, calling it the finest weather-work he'd seen outside the buried city, and Cael had understood one word in five and agreed with all of them. The people who'd built it had meant travelers to live through the night. Whatever else the dead makers had done wrong in the world, a roadhouse that would not burn and would not crack was a thing you could respect with both hands.
 
 He learned the doors best, because the doors would be his.
 
@@ -110,7 +110,7 @@ His thumb found the iron at his throat on the way, the old touch. For the first 
 
 "He's a name," Corwen said, patient, not turning, two fingers holding his place. "They're rarely persons, this deep in the paper. You'd be surprised." And then, in the same mild bookkeeping voice, to the man at his shoulder: "You keep doors, priest. Your paper says so. *Wards. Mends. Buries other men's dead with their boots on. Does not kill.* Forty years of sound paper is why you're still standing there, and why I haven't turned around."
 
-The shield had failed a person once, and been carried anyway, and fed with oil, and kept. It came around flat and full, with all of Cael behind it, the whole slow weight that things landed on first, and it caught the finder below the ear where the coat's cleverness didn't reach, and Cael felt it through his arm, all of it: the rim going in, the small bones behind the ear giving first and then the big one under them, the jolt coming back up into his shoulder. He'd had his hands on enough broken men to know what that was. He could have named every bone. Nobody would ever have to ask.
+The shield had failed a person once, and been carried anyway, and fed with oil, and kept. It came around flat and full, with all of Cael behind it, the whole slow weight that things landed on first, and it caught the finder below the ear where the coat's cleverness didn't reach, and Cael felt it through his arm, all of it: the rim going in, the small bones behind the ear giving first and then the big one under them, the jolt coming back up into his shoulder. He'd had his hands on enough broken men to know what that was. He could have named every bone.
 
 Corwen went down the way a coat slides off a chair.
 

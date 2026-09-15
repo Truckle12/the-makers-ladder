@@ -70,7 +70,7 @@ And the dead were coming, and Oscar had nothing left to spend.
 
 Except the one thing that did not run on the deep current at all.
 
-He crossed to the girl. He did it slowly, hands open, the way Cael had wanted to be approached an hour ago on the balcony, and he put himself between her and the wreckage so that the only thing she could look at was his face.
+He crossed to the girl. He did it slowly, hands open, the way Kessa had wanted to be approached an hour ago on the balcony, and he put himself between her and the wreckage so that the only thing she could look at was his face.
 
 "Wick. Look at me. Not at Cael. At me." She looked. Her eyes were enormous and her hands were shaking and the heat was already building again, fear feeding it, a fire that fed on the very panic of being a fire. "Good. Now—what did you just do?"
 

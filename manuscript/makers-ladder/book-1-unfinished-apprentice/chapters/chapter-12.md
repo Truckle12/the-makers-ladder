@@ -6,7 +6,7 @@ Not real fire. She wished it were real fire; real fire you could put out. This w
 
 *No sparks,* Kessa had said. *Not one. Not in a town full of people and old dry timber.*
 
-So Wick held it. She held it as you'd hold a breath underwater, with her jaw tight and her fists tighter and the heat banked down to a coal in her chest, and it hurt, the holding, it always hurt. They all looked at her like she was a problem that might go off. Holding it was harder than running. It was harder than being hungry, which she also was.
+So Wick held it. She held it as you'd hold a breath underwater, with her jaw tight and her fists tighter and the heat banked down to a coal in her chest, and it hurt, the holding, it always hurt. They all looked at her like she was a problem that might go off. None of them got that holding it was harder than running, harder than being hungry, which she also was.
 
 Oscar got it, maybe. A little. He'd said the aiming was the hard part, but she thought he'd had it half-backwards, and he was the only one who'd ever made her feel like the holding was a thing she was strong for doing instead of a bomb they were all standing next to.
 
@@ -66,7 +66,7 @@ She slammed the door. Everything she had. Her whole self. The bit of her that wa
 
 It shut.
 
-She came back to herself on her knees in the dark, shaking, the mark gone cold and quiet at her throat, the tunnel black again and stinking of ash, her own breath sawing loud in the silence. Whatever she'd touched was gone, back down below the floor of her, sleeping or waiting or whatever it did. She was alive. She was herself. She'd almost not been, and nobody would ever, ever know how close it had been, and she made a decision right there on her knees in the dark, without looking at it too hard: she was not going to tell them: not Kessa, who'd look at her like the bomb again, not Cael, who'd pray over her. Not even Oscar.
+She came back to herself on her knees in the dark, shaking, the mark gone cold and quiet at her throat, the tunnel black again and stinking of ash, her own breath sawing loud in the silence. Whatever she'd touched was gone, back down below the floor of her, sleeping or waiting or whatever it did. She was alive. She was herself. She'd almost not been, and nobody would ever, ever know how close it had been, and she made a decision right there on her knees in the dark, without looking at it too hard: she was not going to tell them, not Kessa, who'd look at her like the bomb again, not Cael, who'd pray over her. Not even Oscar.
 
 *Especially* not Oscar. He'd have it worked out in a breath, and then he'd look at her, and she couldn't take being looked at like that, not tonight.
 

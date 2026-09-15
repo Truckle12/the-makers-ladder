@@ -21,6 +21,10 @@ left off entirely. "Too perfectly interpreted" is the root tell; everything belo
 - **"Not X, but Y." / "Not X. Not Y. But Z."** Reserve for genuinely sharp contrasts. Not the house move.
 - **"the way [X]" similes.** Beautiful but frequent. Cut about a third; keep the sharpest; vary the comparison shape.
 - **"That was the thing / the horror / the trouble / the lie / the part."** Reserve for real revelations, not routine pivots.
+- **Caption stacks (Batch 7, 2026-09-15).** Image or action → a sentence interpreting it → a compact statement of its meaning. Cut the statement; cut the interpretation when the image already carries it; keep it only when the character is *reasoning* in a way the next beat needs (Oscar working out a mechanism is content). Keep every caption spoken aloud in dialogue. Do not narrate that a joke hid pain right after we watched it do so.
+- **"flat" / "flatly" as a dialogue label.** It had become the house tag (125 in Book 1 before Batch 7; 75 after, almost none as labels). Delete where the line already reads flat; let action or the character's known manner carry it. Kessa may keep a few — it is her manner. Same for "not unkindly".
+- **Sentence-initial "Not X." fragments** ("Not a cry. Worse."). Every voice shared this rhythm (133 → 74 in Batch 7). Never two in one paragraph; fold into the neighbouring sentence rather than add words. Keep the sharpest.
+- **Wick's superlatives** (her POV only): stupid / worst / whole life / nobody-ever-understood. Rationed (32 → 24 in her six chapters); where one goes, let her be observant, unfair, amused or competent instead of arriving at a superlative. Never Oscar-polish in its place.
 - **Paragraph landings.** Stop landing most paragraphs on a polished abstract clause. Let many
   end on action, a mundane object, an unresolved line, a practical problem, dialogue that
   doesn't fully resolve the feeling.
@@ -81,6 +85,7 @@ at the perfect moment — especially Wick and Cael.
 7. Did I protect the lexicon while concretizing generic abstractions?
 8. Does any character land the perfect line at the perfect time more than once? → make one imperfect.
 9. Run `node tools/cadence.mjs <chapter>`: in a non-Oscar POV the **lexicon lock** must report 0 violations (or each hit is a marked, deliberate borrowing). See "Lexicon lock" below.
+10. Caption stack anywhere (image → interpretation → statement of meaning)? → cut the statement. The same tool's watches list "flat" labels, sentence-initial "Not X." fragments and the superlative tic per chapter; the per-chapter baseline after Batch 7 is `notes/b1-batch7-sweep.txt` — do not drift back up.
 
 ## Don't overcorrect
 When the user corrects something, apply the **lightest fix that works**. Don't invert the note into the opposite excess, and don't repeat the new note as a drumbeat — one clean touch, then move on.
