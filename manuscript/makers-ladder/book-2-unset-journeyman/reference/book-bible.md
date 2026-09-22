@@ -11,14 +11,18 @@
 > This file holds only what is specific to Book 2.
 
 ## Status
-- **Book 1** (*The Unfinished Apprentice*, **42 chapters**, ~126k words) is complete and revised
-  through Batch 5 (2026-08-29) and the Ch20 fold (2026-09-10). Its final chapter is now **Ch42**
-  "The Far Side"; Book 1 chapter numbers quoted in the outline's promises ledger predate the fold
-  (subtract one from any Book 1 reference ≥ Ch21). It is the immediate antecedent of every Book 2 chapter.
-- **Book 2 outline:** `reference/book-2-outline.md` — **rev4 (rev3 RATIFIED 2026-09-10; Wick's ten chapters rebuilt 2026-09-13 with QUILL on the far side, the terrain as the thing's back, scars, hollows, and a set piece per chapter — see the outline's "Quill, both sides" and "The far side as a place").** The
+- **Book 1** (*The Unfinished Apprentice*, **42 chapters**, **118,552 words**) is complete and revised
+  through **Batch 7** (2026-09-15; before it the Ch20 fold 09-10, the Ch42 reworks 09-11/13, Batch 6
+  voice separation 09-12). Its final chapter is **Ch42** "The Far Side". **Every Book 1 chapter number
+  in the outline is post-fold and correct** (the fold made old Ch22–43 = new Ch21–42) — do NOT
+  subtract one. It is the immediate antecedent of every Book 2 chapter; the author is reading it
+  (2026-09-22).
+- **Book 2 outline:** `reference/book-2-outline.md` — **rev5 (rev3 RATIFIED 2026-09-10; Wick's ten chapters rebuilt 2026-09-13 with QUILL on the far side, the terrain as the thing's back, scars, hollows, and a set piece per chapter — see the outline's "Quill, both sides" and "The far side as a place"; rev5 2026-09-22 = continuity pass against the finished Book 1 — see the
+  Decisions Log).** The
   author ruled on all ten Open Decisions (rulings recorded in the outline's §"The ten rulings"
   and in the Decisions Log below). rev3 is the approved shape: **46 chapters**, ~140k words at
-  the house chapter length. Drafting is open. A drafter drafts *to* the chapter entry — it does
+  the house chapter length. Drafting is gated on the author's review of the outline
+  (`book2/b2-ch01-draft.md` sits at `status: draft`). A drafter drafts *to* the chapter entry — it does
   not redesign it. Anything the outline marks **[proposal]** (currently: the third's chosen name
   "Aldous"; the cousin "Ambry"; the estate "Greymere"; Ash's metaphor field) is a chief-editor
   suggestion the author has NOT yet approved — a drafter that reaches one flags it
@@ -37,8 +41,8 @@ the walker's do — read as "held", nothing more** — Ch42, reworked 2026-09-11
 going west (it tracks the plane Wick is on; nobody knows this yet) · crew split four ways at a
 milestone (Cael east, Tarn south, Oscar north after Ash, Kessa west past the edge-stones) ·
 the Everset font empty-not-broken · the Setter dead (the fourth copy; Oscar is the eleventh;
-five-through-ten "never arrived") · the grimoire is the THIRD copy's book · Tarn carries
-Corwen's made coat · Quill bonded · Kessa's palm scar · the Redactor still loose · Ash never
+of the others between, "none of them arrived") · the grimoire is the THIRD copy's book · Tarn carries
+Corwen's made coat · Quill bonded (Ch39, before the crossing) · **Kessa unmarked** (Ch41 — the 07-30 palm-scar canon is not on the page; author to rule) · the Redactor cut loose in Ch8, blind, under the collapsed dead city · Tarn one arm strapped and a word short (*door*, Ch39) · Cael's fire "down to the bottom of the cup" · the basin whole, the wound unwritten (Ch41) · Ash never
 travels with the crew · the far side has no Script — no working functions there · **the thing has three names** — the Hunger (the wild), the Unwritten (the House, the grimoire), the far side (Wick only) — and **its ground is its back** (Book 1 bible log 2026-09-13; the seat-as-ward and the master-holding-from-inside are Book 3's and are never said in Book 2).
 
 ## Book 2 hard holds (see outline §"What Book 2 must NOT do")
@@ -84,3 +88,28 @@ history — only add.*
 - [2026-09-10] `b2-ch01-draft` flipped to `status: ready` on the author's instruction ("ready it
   now") — the first Book 2 chapter drafts on the next `book2` run. Sequential from here via the
   `next` label.
+- [2026-09-13] `b2-ch01-draft` parked back to `status: draft` on the author's instruction ("no need
+  to draft book 2 yet ill need to review the outline first"). Nothing spends until the author re-readies it.
+- [2026-09-22] **Outline rev5 — continuity pass against Book 1 as finished** (author: "take a pass
+  now on book 2 outline ensuring its up to date"). Audit `notes/b2-outline-check-2026-09-22.md` (34
+  findings, every Book 1 quote and reference re-checked against the post-Batch-7 manuscript). Fixed
+  in the outline: pre-fold numbers for the finger's death and "holding aimed outward" (Ch26–27, not
+  27–28); the cradles line ("Most, not all, were empty."), "under other mountains", the Ch42 ground
+  quote, "none of them arrived"; **the Quill-bonding sequence** (the bird takes Oscar in Ch39 when he
+  calls with an open hand and no working, BEFORE the Setter dies; the "no wall" is Ch40; Ash's Ch31
+  diagnosis is Oscar's *reach*; the bird predates the original — "his mother's before him, and back
+  and back"); **the seat's "wound"** (the basin reads whole in Ch41 — Ch13 now says the tear is unwritten
+  and shows only with far-side stuff in hand, on the erasure-affinity Book 1 showed as "two dogs…
+  through a fence"); the Redactor's state (cut loose in Ch8, blind, under the collapsed city); Ch8's
+  summons no longer travels "with Quill" (the owl is on Oscar's shoulder in the north). Wired in: Tarn's
+  wood dove and one good arm (Ch6, arc), Tarn's debt moved to Wick (Ch15/35), Tarn one word short
+  (Ch35), Cael's "Leave it" and his rite already said over Wick (Ch5/29/40), Kessa's "There was no
+  hole" (Ch25), the empty pocket / no sky / four feet of voice (Ch1/7/28), Ash's rewritten Ch31 reason
+  as the on-page ground for OD7 and the payoff of Ch26/39/40/45, and Oscar's "four questions" and
+  "my old master's library" (Ch9/27). **[FOR THE AUTHOR], unruled:** (1) Kessa's palm scar — the
+  2026-07-30 canon never reached the page and Ch41 says nothing touched her hands: drop the thread or
+  give it a Book 2 origin; (2) Kessa's hearth-gift at Ch16 — the whetstone is gone by Ch41; Doss's
+  knife or her own stone; (3) Tarn's missing word *door* — back by Ch6 (say so once) or the corrector
+  passes the already-edited place at Ch35; (4) who "walked out ahead of" Ash (Ch31) — the original or
+  the third. The four earlier **[proposal]** names (Aldous, Ambry, Greymere, Ash's field) remain
+  unruled. No structural change; POV ledger unchanged; drafting still gated.
