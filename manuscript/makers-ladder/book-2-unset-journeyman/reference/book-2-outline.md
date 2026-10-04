@@ -113,6 +113,11 @@ of a sealed wall.**
 
 ## The far side as a place (rev4 — so her chapters are a campaign, not a walk)
 
+**THE WICK RULE (author, 2026-10-04 — binding on every drafter):** "Wick's chapters and the far side need to be fucking awesome and shit actually needs to happen. It cannot be bland or all inner monologue." Every Wick chapter is
+a run of things that happen to her and things she does — a fight, a chase, a find, a trap, a choice
+made with her hands. Her thinking rides on the action and never replaces it. The test: the chapter
+can be told as a list of events, and the list is exciting.
+
 - **Terrain = the thing's back** (Book 1 Ch42: "There wasn't any ground. There never had been. She'd been
   sitting on it."). Ridges like a spine; plates that grind; grey stalk-forests she can hide in; pores that
   breathe. When it is pleased the hide is warm under her; when it is not, the country moves.
@@ -190,7 +195,7 @@ it?* Arc 3 — *Who built the ladder, and who is climbing it now?* Arc 4 — *Wh
 
 ## POV allocation (46 chapters)
 
-Oscar 15 · Wick 10 (the far-side thread, on a fixed rhythm) · Kessa 10 · Ash 5 (her separate
+Oscar 16 · Wick 10 (the far-side thread, on a fixed rhythm) · Kessa 9 · Ash 5 (her separate
 thread: Ch10, 17, 26, 33, 45) · Cael 4 · Tarn 2 (Ch6, Ch35). One POV per chapter, tight
 limited, past tense, metaphor fields per the Book 1 bible; Ash's field **[proposal]**: rooms,
 locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
@@ -439,8 +444,8 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   the bird's — the ritual doing on-page what it was always for. She answers. The hide under her
   goes cold and hard: it knows. Feathers: "Perch: closing. Run." Ends: she starts to run, and
   behind her every scar on the country opens.
-- **Ch39 (Kessa).** The hold, side one: **the third comes to close the door** — and the mirror
-  duel is a *holding* duel, not a working one: he leans his century on the tear and Oscar
+- **Ch39 (Oscar — author ruling 2026-10-04: "Oscar narrating his own duel sounds good").** The hold, side one: **the third comes to close the door** — and the mirror
+  duel, told from inside Oscar's head, is a *holding* duel, not a working one: he leans his century on the tear and Oscar
   leans his crew. "You don't know what you're letting through." "I know exactly who's coming
   through. She's sixteen." Turn: Ash out-thinks the hermit (a trickster against a man who has
   been alone too long to expect one) — in the room she said she would never trust herself in (Ch31),
@@ -538,7 +543,7 @@ Book 1 chapter references use post-fold numbering (the fold of 2026-09-10: old C
 
 ## What Book 2 must NOT do
 
-Reveal why the seat must be filled (Book 3) · resolve the master on-page (he steps aside; he
+Make Wick's chapters boring (author 2026-10-04: "Wick's chapters and the far side need to be fucking awesome and shit actually needs to happen. It cannot be bland or all inner monologue.") · reveal why the seat must be filled (Book 3) · resolve the master on-page (he steps aside; he
 does not speak canon; the bird does not speak it for him) · make the far side a fog — every Wick
 chapter has a set piece (a hollow, a scar, the roll, the siege, the run) · let reading work on the far side · make the rescue Oscar's solo feat ·
 bring Ash on the road · give Wick a romance · cheapen Book 1's fraying (Ch8, Ch23, the near-miss at the font in Ch39) — it is not a mana bar.

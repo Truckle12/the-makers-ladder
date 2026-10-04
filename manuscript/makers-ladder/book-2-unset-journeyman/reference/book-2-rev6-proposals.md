@@ -1,5 +1,9 @@
 # Book 2 — rev6 proposals (2026-10-04) — NOT RATIFIED
 
+> **Status 2026-10-04:** #6 RATIFIED (Oscar narrates the duel; folded into rev5). #1 REOPENED — Ash's
+> whole story is being built first. The author is taking the rest one at a time. Every Wick item is
+> bound by the Wick rule (outline, "The far side as a place").
+>
 > The approved shape is still `book-2-outline.md` **rev5**. Nothing here is canon until the author
 > rules. Each item has a recommendation; answer them by number. Once ruled, rev6 folds them into the
 > outline and the Book 2 Ch1 pilot can be drafted. Sources: the 2026-09-23 review
