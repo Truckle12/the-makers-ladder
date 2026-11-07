@@ -1,5 +1,9 @@
 # The Maker's Ladder — Trilogy Story Overview & Three-Book Plan
 
+> **Stale in places (2026-11-07).** Book 1 is finished, and Book 2 has an approved outline. For
+> current state and open decisions read `STATUS.md` in this folder first; the bibles' Decisions Logs win
+> where this page disagrees. The July author seeds in §4 are queued as decision B2-1.
+
 > Single-source overview of the overarching story and the plan for Books 1–3.
 > **Reading rule:** Anything marked **[ESTABLISHED]** is decided canon. Anything marked
 > **[TBD]** is *not yet decided* and must not be treated as canon or silently invented.
