@@ -1,5 +1,9 @@
 # The Maker's Ladder — status and decision queue
 
+> **The live version is the Maker's Ladder Desk artifact:** https://claude.ai/artifact/8KKoDvLLVaELQs49snmwi9
+> The author reviews and decides there; answers are saved in its `decisions` store. Every review goes
+> to the author as an artifact with a clear ask (author, 2026-11-07).
+
 > **The one page to read first.** Updated at the end of every working session. Open decisions live
 > in the queue below, in order, one at a time; once ruled they move into the right bible and leave
 > this page. Last updated **2026-11-07** (nothing on the books had moved since 2026-10-04).
