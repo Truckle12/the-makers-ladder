@@ -258,6 +258,9 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   marks him *kept*. The old lore: the first fire was kept against the dark
   outside the world — an ancestral **door-rite** nobody living has performed. He copies it out.
   Ends: he cannot stay.
+  **Romance beat (author 2026-11-09):** the hearth that "had been keeping a fire lit for him for four
+  years" (Book 1 Ch41) is kept by **one person**. The connection is real, on the page, and Cael chooses not
+  to pursue it — he won't drag anyone into his life — and leaves when the summons comes.
 - **Ch6 (Tarn — POV).** Tarn lets the paper find him. A regional office in quiet panic: the
   seat dark, ledgers failing, and a new hand on the top of every page — *Polperro, Provost of
   the Seat* — and the word for what the House wants at Everset: **restoration.** Oscar's writ,
@@ -281,11 +284,13 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   grimoire) and one sentence: *"Ask what you were* for*."* Turn: Oscar shows her the
   provisioning page — her family's crating. Ends: she leaves for home before he can ask what
   home is; her thread begins.
-- **Ch10 (Ash — POV; her thread opens, unconnected).** **Greymere [proposal]**, the line's
-  country seat: a wealthy house with too many locked rooms, a cousin (**Ambry [proposal]**)
-  who runs the family's paper and calls her *the one who left*, a dinner with knives under the
-  courtesy. No mention of Oscar, Everset, or the crew: this reads as a different novel — a
-  daughter come home to a house that owns things. Ends: she learns the cradle-wagon has
+- **Ch10 (Ash — POV; her thread opens) (author-approved 2026-11-09).** Oscar's provisioning page (Ch9) brings Ash
+  home to **Greymere** for the first time in a century: she knows exactly which cradle it means. Dinner
+  with her cousins (Alberich blood without the name) is courtesy with knives under it; they call her
+  *the one who left*. That night she breaks into **her mother's workshop wing**, sealed with family paper
+  since the morning it was found open; the house's wards know her blood and fight her anyway. Inside:
+  tools on the bench, a clean square in the dust where the cradle stood, every note taken by the
+  clerks — and, wedged in a crack in the bench, **a coin with no loop on it**. Ends: the cradle-wagon has
   already gone north.
 - **Ch11 (Oscar).** South with Quill and the summons. At a dead-makers' waystation, a figure
   left for him on the wall in the line's hand — *unsigned, recent, and correct*: a better way
@@ -319,12 +324,12 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   things. The crew's contributions assemble (Kessa's — **[FOR THE AUTHOR]** Doss's knife, the last thing of his she carries, or her own stone: Doss's whetstone is already gone by Ch41 ("had carried Doss's whetstone for two years and nothing since"); a pie-stall token; pages in
   the line's hand — Oscar giving the day-book is his first betrayal of the line). Cael's cost:
   unlicensed faith. "Standing between is the job. Nobody said between *what.*"
-- **Ch17 (Ash — POV).** Greymere's cellars: the heirs' project laid bare — Ambry means to Set a
-  compliant twelfth under the family's own hand and take the seat back from the House's
-  clerks. Ash steals what the house has kept for an age: **the key to the master's workroom
-  under Evermere**, and learns the family never knew where the master went either. Turn: she
-  is seen. Ends: she blinks out of a room for the first time on the page from inside her own
-  head — and it costs her.
+- **Ch17 (Ash — POV) (author-approved 2026-11-09).** Greymere's cellars: the clerks have her mother's notes and a second
+  workshop, and they have been **practising** — bodies that came apart as they woke, like Book 1's
+  frost-shedding figure. Her cousin means to finish the twelfth, Set it under the family's hand, and take
+  the seat back from the House. Ash steals two things: **the key to her uncle's workroom under Evermere**
+  and **her mother's own notebook** — its last pages are not craft notes but tide tables and a list of
+  coastal towns. She is seen, and blinks out of a room on the page, and it costs her.
 - **Ch18 (Kessa).** South at speed, Book 1's road inverted and compressed (one Marrow beat:
   Brida, the freed town holding). News moving upriver: the bright market's lamps browning
   out; the House buying candles. Ends: a corrector is rumored at Everset — "the thing from the
@@ -362,17 +367,21 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   in living memory, weeds in the clean cracks. Turn: the old blood find them first (the Book 1
   heralding cashed — they hide the crew because *at last* is a debt too). Ends: the Fair
   House lit at night, under guard.
+  **Romance beat (author 2026-11-09):** among the old blood who hide the crew is **Kessa's new person** —
+  human, outside the crew (name and details to come). Over the weeks before door night she lets someone in
+  (her locked need: let someone in, grieve Doss), so she has something to lose when she gives the order.
+  Seen from outside here; hers in Ch25, Ch31 and Ch36.
 - **Ch25 (Kessa).** **Polperro's restoration seen at work, and the Redactor on its leash** —
   the Book 1 monster walking the market with two clerks holding its paper, correcting: a
   quarrel struck out mid-sentence, a weed, a limp. The crew is what doesn't belong. Kessa maps
   rotations, the three open doors, and the corrector's rounds — never damage: she already knows an
   erasure here leaves "no scar, no ash, no gap" (Ch41). Turn: the wound and the seat are
   the same room. Ends on her count of exits: none.
-- **Ch26 (Ash — POV; the threads meet).** **Ash in Evermere** — the first time the reader is
-  told, in her own head, that the house she left and the seat that hunted Oscar are one
-  estate. She walks the halls she grew up under naming what rooms were before the engine.
-  Turn: she finds the crew, and the key in her hand fits a door Oscar has been failing to
-  open. Ends at the workroom threshold, Ash refusing to go in first — her Ch31 limit in action ("I don't trust myself in the room… I make it mine without meaning to").
+- **Ch26 (Ash — POV; the threads meet) (author-approved 2026-11-09).** Ash in Evermere, the house she grew up under,
+  naming what rooms were before the engine. On one doorframe: **her own childhood height marks, scratched
+  by her mother** — the one thing the clerks never scraped. She finds the crew; her key fits the door Oscar
+  has been failing to open. Ends at the workroom threshold, Ash refusing to go in first — her Book 1
+  limit ("I don't trust myself in the room… I make it mine without meaning to").
 - **Ch27 (Oscar).** The workroom. Papers in the hand Oscar knows better than his own. **THE
   ARCHITECT REVEAL:** the original devised the cycle — the fair-copy method, the cradles, the
   Setting — and the copies are his *estate*: property made to be finished into his
@@ -408,11 +417,11 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   its rasp, badly, **"Four. Breathing."** — Kessa's count, heard by the owl on Oscar's shoulder in
   the Fair House and carried along the bond. Then, faint, through the wall itself, the real voice.
   Ends: she answers it.
-- **Ch33 (Ash — POV).** **The heirs arrive** — Ambry with the cradle-wagon from the north, the
-  unwoken twelfth crated like furniture, and a writ of the family's own drawn on Polperro.
-  Family or crew, on the steps of the house her uncle melted down. Ash's trick: she gives
-  Ambry exactly what he asks for — the workroom's location — knowing what it will cost him to
-  see it. Ends: the heirs and the Provost at each other's throats over a chair.
+- **Ch33 (Ash — POV) (author-approved 2026-11-09).** **The heirs arrive**: her cousin with the cradle-wagon from the
+  north, her mother's last, unfinished body crated on the steps like furniture, and a writ of the family's
+  own drawn on Polperro. Ash's trick: she gives her cousin exactly what he asks for — the workroom's
+  location — knowing what it will cost him to see it. Ends: family and Provost at each other's throats
+  over a chair, and the crate unguarded.
 - **Ch34 (Oscar — arc turn).** Everything placed — seam read, token set, hearth laid — and
   the trap springs by lamplight: **Polperro does not want to stop the door. He wants it
   open.** A restored font needs the current at flood; a wound in the world is a flood — and his corrector at
@@ -481,12 +490,11 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   frayed, missing Evermere's smell and finding he does not miss it. He unmakes nothing. He
   leaves the cradle to Ash. Ends: he can no longer draw the well-head's groove from memory,
   and is glad.
-- **Ch45 (Ash — POV; her thread closes forward).** The estate has a new hand on its paper.
-  Ambry's writ torn; the family seat's locks hers now; the twelfth's cradle hers to decide.
-  The city told the truth at the three open doors, by the old blood, for the first time in
-  its life. Ash does not join the crew — the paper is the thing she could not help making hers (Ch31), and
-  she knows it. She sets a lamp in a north window. Ends on the
-  door-plan, kept, "in case."
+- **Ch45 (Ash — POV; her thread closes forward) (author-approved 2026-11-09).** The estate's paper and locks are hers now,
+  and so is the decision about the twelfth: she **leaves it unfinished on purpose** — the thing two women
+  in her family refused to complete. The city is told the truth at the three open doors, by the old blood.
+  She sets a lamp in a north window for the crew, and walks **west toward the coast** with the loopless
+  coin in her pocket. Her road goes over the sea (series hook; her mother's country is not shown).
 - **Ch46 (Wick — bookend).** Warm. Ordinary-warm, person-warm; no fire anywhere in her; the
   door still there behind her ribs, shut, *hers*. The count from her side: **"Five. Breathing.
   Mine."** — and the owl on Oscar's shoulder says nothing, because on this side it never could.
