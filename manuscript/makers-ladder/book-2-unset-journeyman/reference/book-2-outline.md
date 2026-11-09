@@ -374,8 +374,8 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   in living memory, weeds in the clean cracks. Turn: the old blood find them first (the Book 1
   heralding cashed — they hide the crew because *at last* is a debt too). Ends: the Fair
   House lit at night, under guard.
-  **Romance beat (author 2026-11-09):** among the old blood who hide the crew is **Kessa's new person** —
-  human, outside the crew (name and details to come). Over the weeks before door night she lets someone in
+  **Romance beat (author 2026-11-09):** working for the old families who hide the crew is **Kessa's new person** —
+  a human (the old blood are elves), outside the crew (name and details to come). Over the weeks before door night she lets someone in
   (her locked need: let someone in, grieve Doss), so she has something to lose when she gives the order.
   Seen from outside here; hers in Ch25, Ch31 and Ch36.
 - **Ch25 (Kessa).** **Polperro's restoration seen at work, and the Redactor on its leash** —
