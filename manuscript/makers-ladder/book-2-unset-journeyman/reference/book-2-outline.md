@@ -276,6 +276,8 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   and says what it is: *a piece of the outside that remembers being held — and it leans.* THE
   DISCOVERY: a compass to Wick. The warning that prices the book: *a door cut from this side
   is a wound.* "Then bring the ones who'll flinch." Ends: the summons goes out by the Warden's roads (Quill is on Oscar's shoulder five hundred miles north; the bond carries words only to the far side, never across the world); it finds Oscar at Ch11.
+  **Road fix (author 2026-11-09):** the token **leans back toward Everset** — the wall is thinnest there —
+  and the summons names **the milestone outside Everset's west gate**, where the crew split in Book 1.
 - **Ch9 (Oscar).** Ash at her fixed lodge on the ice: partial truths — the cycle is her
   family's craft, the copies her uncle's method, she does not know where the master *went*
   ("He stopped answering the world"); Oscar's four questions from the bakehouse (Ch41) get asked here,
@@ -299,6 +301,9 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
 - **Ch12 (Kessa — reunion).** The milestone. Four again; the token on the map-stone, leaning;
   the count said properly — "Five. Four here. One out." Arc turn: *she can be found* becomes
   *how do you open a door.*
+  **Road fix (author 2026-11-09):** this is Book 1's milestone, a short walk from Everset's west gate. They
+  split here and come back together here. From now until Arc 3 the crew stays in **Everset's country** —
+  the waystation where Corwen died, the scarp, the river — and never walks Book 1's road again.
 
 ### Arc 2 — "The Price of a Door" (Ch13–23): the plan, its cost, and who else wants it
 
@@ -330,10 +335,12 @@ locks, inheritance, hospitality-as-weapon, the trick that costs the trickster.
   the seat back from the House. Ash steals two things: **the key to her uncle's workroom under Evermere**
   and **her mother's own notebook** — its last pages are not craft notes but tide tables and a list of
   coastal towns. She is seen, and blinks out of a room on the page, and it costs her.
-- **Ch18 (Kessa).** South at speed, Book 1's road inverted and compressed (one Marrow beat:
-  Brida, the freed town holding). News moving upriver: the bright market's lamps browning
-  out; the House buying candles. Ends: a corrector is rumored at Everset — "the thing from the
-  old story, on a chain."
+- **Ch18 (Kessa) (road fix, author 2026-11-09).** Kessa scouts the city gate alone. The queue still steps
+  round the spots where people were struck out; the bright market's lamps are browning; the House is
+  buying candles. She sees the corrector at work for the first time — the thing from Book 1's dead city,
+  on a chain, two clerks holding its paper. Ends: she counts its rounds, and gets out before it reads
+  the ground she's standing on. (Replaces "south at speed through Marrow", which was impossible: the
+  milestone sits outside Everset.)
 - **Ch19 (Oscar).** **The third makes contact.** A man with Oscar's face aged by a century of
   hiding, at a fixed place of his own choosing, who says: "I wrote you that book." Kind, dry,
   exact; he knows the door-craft better than Oscar; he offers help. Turn: he asks, lightly, to
