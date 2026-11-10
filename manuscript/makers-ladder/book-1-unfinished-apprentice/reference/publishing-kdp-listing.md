@@ -16,7 +16,7 @@ make. Placeholders in `[BRACKETS]` are yours. Manuscript state at time of writin
 | Subtitle | *(leave blank — the Series field carries "Book 1"; a subtitle here just clutters the cover-to-listing match)* |
 | Series | **The Maker's Ladder**, Book **1** — set up in KDP's *Series Manager* (Bookshelf → "+ Create a series"); tick "display series title on product page" |
 | Edition number | *(blank — first edition)* |
-| Author | **J. K. Alberich** (decided 2026-09-13, with the periods). Use exactly this form everywhere — cover, KDP author field, copyright page, Author Central, B&N. On the cover art it is set in caps: J. K. ALBERICH. |
+| Author | **J. T. Kennyth** (decided 2026-09-13, with the periods). Use exactly this form everywhere — cover, KDP author field, copyright page, Author Central, B&N. On the cover art it is set in caps: J. K. ALBERICH. |
 | Contributors | none required. If a cover artist is credited, add as *Illustrator* or *Cover Design* only if they want it on the record. |
 | Description | see §3 — paste the **long blurb** (HTML allowed, ≤ 4,000 characters) |
 | Publishing rights | "I own the copyright and I hold the necessary publishing rights" |
@@ -107,7 +107,7 @@ Comparable debut epic fantasy paperbacks at this length list $16.99–$19.99. **
 
 ### Author bio (`[EDIT]` — 60–100 words, third person)
 
-> J. K. Alberich writes epic fantasy with hard rules and soft people. *The Unfinished Apprentice* is the first book of The Maker's Ladder. `[One human sentence: where you live / what you do when not writing / the thing about you readers like.]` Book Two, *The Unset Journeyman*, is in progress.
+> J. T. Kennyth writes epic fantasy with hard rules and soft people. *The Unfinished Apprentice* is the first book of The Maker's Ladder. `[One human sentence: where you live / what you do when not writing / the thing about you readers like.]` Book Two, *The Unset Journeyman*, is in progress.
 
 ---
 
@@ -165,7 +165,7 @@ Cover: if the art is AI-generated (Firefly, Express, etc.), disclose **Images: A
 **Copyright page (draft):**
 
 > *The Unfinished Apprentice*
-> Copyright © `[YEAR]` by J. K. Alberich. All rights reserved.
+> Copyright © `[YEAR]` by J. T. Kennyth. All rights reserved.
 > This is a work of fiction. Names, characters, places, and incidents are the product of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, or locales is coincidental.
 > No part of this book may be reproduced in any form without written permission from the author, except for brief quotations in reviews.
 > Published by Lanternhouse Press. First edition `[MONTH YEAR]`.
