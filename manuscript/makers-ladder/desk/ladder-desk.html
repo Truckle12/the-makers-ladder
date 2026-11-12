@@ -1,0 +1,386 @@
+<title>Maker's Ladder Desk</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column. The ask and its decision cards first, the state of the three books after, the queue last. Colors follow the cover: ink navy, brass, paper. */
+:root{
+  --paper:#f2f1ed; --sheet:#fbfaf7; --ink:#14223a; --ink-2:#4a5468; --rule:#d9d6cc;
+  --brass:#9a7419; --brass-soft:#efe5c8; --good:#2f6b46; --good-soft:#e1efe5; --warn:#8a4b12;
+  --f-display:"Cinzel","Trajan Pro",Georgia,serif;
+  --f-body:"Literata",Georgia,"Times New Roman",serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0f1726; --sheet:#16203a; --ink:#e8e4d8; --ink-2:#a9b0c0; --rule:#2c3856;
+  --brass:#d9b25a; --brass-soft:#2e2a1c; --good:#7cc596; --good-soft:#18301f; --warn:#e3a066; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0f1726; --sheet:#16203a; --ink:#e8e4d8; --ink-2:#a9b0c0; --rule:#2c3856;
+  --brass:#d9b25a; --brass-soft:#2e2a1c; --good:#7cc596; --good-soft:#18301f; --warn:#e3a066; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 64px}
+.wrap{max-width:46rem;margin:0 auto;display:grid;gap:40px}
+h1,h2,h3{font-family:var(--f-display);font-weight:700;text-wrap:balance;margin:0;letter-spacing:.02em}
+h1{font-size:1.9rem;line-height:1.15}
+h2{font-size:1.15rem;letter-spacing:.08em;text-transform:uppercase;color:var(--brass)}
+h3{font-size:1.05rem;font-family:var(--f-body);font-weight:600;letter-spacing:0}
+p{margin:0}
+.eyebrow{font-family:var(--f-mono);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
+header{display:grid;gap:12px;border-bottom:1px solid var(--rule);padding-bottom:24px}
+.ask{background:var(--brass-soft);border-left:3px solid var(--brass);padding:16px 18px;display:grid;gap:8px}
+.ask strong{font-weight:600}
+section{display:grid;gap:16px}
+.card{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:20px;display:grid;gap:14px}
+.card-head{display:flex;gap:10px;align-items:baseline;justify-content:space-between;flex-wrap:wrap}
+.tag{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.08em;color:var(--ink-2)}
+.why{color:var(--ink-2);font-size:.95rem}
+.opts{display:grid;gap:8px}
+.opt{display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start;padding:10px 12px;border:1px solid var(--rule);border-radius:5px;cursor:pointer}
+.opt:hover{border-color:var(--brass)}
+.opt:has(input:checked){border-color:var(--brass);background:var(--brass-soft)}
+.opt input{margin-top:5px;accent-color:var(--brass)}
+.opt b{font-weight:600}
+.rec{font-family:var(--f-mono);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--brass);margin-left:6px}
+.opt small{display:block;color:var(--ink-2);font-size:.88rem;line-height:1.45}
+label.field{display:grid;gap:4px;font-size:.88rem;color:var(--ink-2)}
+input[type=text],textarea{font:inherit;font-size:.95rem;color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:4px;padding:8px 10px;width:100%}
+textarea{min-height:3.2em;resize:vertical}
+.row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+button{font-family:var(--f-mono);font-size:.82rem;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--ink);background:var(--ink);color:var(--sheet);border-radius:4px;padding:9px 16px;cursor:pointer}
+button:disabled{opacity:.45;cursor:default}
+button:focus-visible,input:focus-visible,textarea:focus-visible,.opt:focus-within{outline:2px solid var(--brass);outline-offset:2px}
+.status{font-family:var(--f-mono);font-size:.78rem;color:var(--ink-2)}
+.status.ok{color:var(--good)} .status.err{color:var(--warn)}
+.saved-pill{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:99px;background:var(--good-soft);color:var(--good)}
+.books{display:grid;gap:14px}
+.book{border-top:1px solid var(--rule);padding-top:14px;display:grid;gap:6px}
+.book .state{font-family:var(--f-mono);font-size:.75rem;letter-spacing:.06em;text-transform:uppercase}
+.book ul{margin:4px 0 0;padding-left:1.1em;display:grid;gap:4px}
+.queue{list-style:none;margin:0;padding:0;display:grid;gap:0;border-top:1px solid var(--rule)}
+.queue li{display:grid;grid-template-columns:4.2rem 1fr;gap:12px;padding:10px 0;border-bottom:1px solid var(--rule)}
+.queue .id{font-family:var(--f-mono);font-size:.78rem;color:var(--brass);padding-top:2px}
+.queue small{color:var(--ink-2);display:block;font-size:.88rem}
+.rules{margin:0;padding-left:1.2em;display:grid;gap:6px}
+.notice{font-size:.9rem;color:var(--warn)}
+@media (prefers-reduced-motion:no-preference){.saved-pill{transition:opacity .3s}}
+</style>
+
+<div class="wrap">
+  <header>
+    <span class="eyebrow">The Maker's Ladder · status as of 7 November 2026</span>
+    <h1>Maker's Ladder Desk</h1>
+    <div class="ask">
+      <p><strong>The ask: review my picks and accept them, or change the ones you disagree with.</strong> I reviewed Book 1, the repo's drafting setup, and every open Book 2 question against a new one-page plan for Book 3. All my picks hold up against that plan.</p>
+      <p class="why">One button accepts every pick you haven't answered yet. You can still change any single card afterward. The review itself is below the cards.</p>
+      <div class="row"><button type="button" id="accept-all">Accept all of Claude's picks</button><span class="status" id="accept-status" aria-live="polite"></span></div>
+    </div>
+    <p id="db-note" class="notice" hidden>Saving isn't available in this view. Sign in to claude.ai to save, or send me your picks in chat.</p>
+  </header>
+
+  <section aria-labelledby="dec-h">
+    <h2 id="dec-h">Decisions</h2>
+    <div id="cards" class="opts" style="gap:18px"></div>
+  </section>
+
+  <section aria-labelledby="done-h">
+    <h2 id="done-h">Decided so far</h2>
+    <ul class="rules" style="list-style:none;padding:0">
+      <li><span class="saved-pill">Done</span> Pen name: <b>J. T. Kennyth</b>. Updated in the bible and the KDP worksheet.</li>
+      <li><span class="saved-pill">Done</span> Publisher name: <b>Lanternhouse Press</b>. Updated in the bible and the KDP worksheet.</li>
+      <li><span class="saved-pill">Done</span> Nothing was registered under the old names, so nothing needs redoing.</li>
+      <li><span class="saved-pill">Done</span> Ash's five chapters, rebuilt on her mother's story, are approved and written into the outline.</li>
+      <li><span class="saved-pill">Done</span> Romance beats placed: Cael's is the person keeping his hearth (Ch5); Kessa's is someone among the old blood who hide the crew in Everset (Arc 3).</li>
+      <li><span class="saved-pill">Done</span> Road fix: the crew reunites at the milestone outside Everset and stays in its country. Book 1's road isn't walked twice.</li>
+      <li><span class="saved-pill">Done</span> Book 2 has <b>no time jump</b>. Kessa's romance and Cael's road not taken fold in; Wick stays 16 and out of any romance.</li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="b1-h">
+    <h2 id="b1-h">Book 1 review</h2>
+    <div class="books">
+      <div class="book">
+        <span class="state" style="color:var(--good)">Finished · 42 chapters · 118,552 words · with your test readers</span>
+        <h3>What it does well, and what Book 2 should copy</h3>
+        <ul>
+          <li>The best chapters are the ones where a character's one habit becomes the answer: Wick holding in Ch27, Wick holding open and aiming in Ch40. Book 2's Wick chapters should all work this way.</li>
+          <li>The crew with jobs in a fight (the lanes in Ch39) is the series' signature. Book 2's door night is built on it.</li>
+          <li>The villains are new ideas: a monster beaten by reading, and a Setter who is Oscar if he had said yes.</li>
+        </ul>
+      </div>
+      <div class="book">
+        <h3>Three habits Book 2 must not inherit</h3>
+        <ul>
+          <li><b>Costs that reset.</b> Until Ch40 nothing the crew lost stayed lost. My Book 2 picks fix this on purpose: every crew member pays something permanent.</li>
+          <li><b>The same question asked at the same size.</b> Oscar circled "what am I" for a whole book. In Book 2 each arc asks a new question, and he states a theory out loud.</li>
+          <li><b>A long exhale after every peak.</b> Book 2 has Wick's thread to cut to whenever the crew rests, which is why her chapters must always be events.</li>
+        </ul>
+      </div>
+      <div class="book">
+        <h3>What I'd still change in Book 1</h3>
+        <ul>
+          <li>Nothing until your test readers report. Then one batch: their notes, your formatting changes, and whichever of the six September fixes you want.</li>
+          <li>One fix matters for Book 2 either way: in Ch41 the crew should agree to meet again at the milestone. Book 2's reunion happens there.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="kit-h">
+    <h2 id="kit-h">The repo's drafting setup</h2>
+    <p>The pipeline itself is sound: one chapter at a time, drafted on its own branch, reviewed, nothing merged without you, and nothing spends until an item is marked ready. Five gaps would hurt Book 2's drafts:</p>
+    <ol class="rules">
+      <li><b>The canon is a 15,000-word log.</b> Every drafter is told to read all of it, and old entries that were later overturned are still in there (Kessa's scar is one). I'd add a short digest of what is true now and keep the log as history.</li>
+      <li><b>No voice sheets for the new narrators.</b> Oscar, Wick, Kessa, Cael and Tarn have them. Ash has five chapters and none. Feathers has no sheet either, and its voice carries ten chapters.</li>
+      <li><b>The style checker thinks every Book 2 chapter is Oscar's.</b> It picks the narrator from Book 1's chapter numbers, so the rule that keeps Oscar's words out of other heads would never fire on Wick's Chapter 1.</li>
+      <li><b>No running ledger.</b> Book 1 needed a whole pass to fix who was holding what and which arm was hurt. A one-page ledger updated after each chapter prevents that.</li>
+      <li><b>The Wick rule isn't in the reviewer's checklist,</b> and the drafter's instructions still describe an older, shorter self-check.</li>
+    </ol>
+    <p class="why">The Chapter 1 queue item also still describes the September outline. I'll refresh it when the cards are answered. It stays parked.</p>
+  </section>
+
+  <section aria-labelledby="b3-h">
+    <h2 id="b3-h">Book 3: the one-page spine</h2>
+    <div class="books">
+      <div class="book">
+        <span class="state" style="color:var(--brass)">Proposal · nothing here is canon until you approve it</span>
+        <h3>The problem Book 2 leaves behind</h3>
+        <ul>
+          <li>The chair at Everset is a lock on the wall of the world, and it only works with someone of the Alberich line sitting in it. The Setter is dead. Nobody is in the chair.</li>
+          <li>So the wall starts to give. Patches of grey open across the south, like the one in the Warden's wood, and every one is a finger of the Hunger.</li>
+          <li>The rock in Wick's pocket leans toward the sealed door because the old master is still on the other side, holding it shut with his own hands. He has done that for centuries, and he is tiring.</li>
+        </ul>
+      </div>
+      <div class="book">
+        <h3>Three bad answers, and Oscar's</h3>
+        <ul>
+          <li><b>Sit in the chair.</b> The House wants Oscar in it, or the unfinished twelfth woken for it. That is Book 1's trap again.</li>
+          <li><b>Let the master come home.</b> He wants to. The door that lets him out lets the Hunger out with him.</li>
+          <li><b>Give it Wick.</b> The Hunger only ever wanted her door.</li>
+          <li><b>Oscar's answer is to make something new.</b> He is on the master rung, so refusing isn't enough any more. He builds a way to hold the wall that needs no chair and no bloodline: many small kept fires, held by many hands. The hold is the crew's, at the size of the world.</li>
+        </ul>
+      </div>
+      <div class="book">
+        <h3>Where it goes</h3>
+        <ul>
+          <li><b>West over the sea,</b> on Ash's road. Those kingdoms never had a chair. They hold their wall with hearths and songs, which is where Cael's door-rite first came from. A new map, new people, and a different kind of magic.</li>
+          <li><b>Oscar meets his maker.</b> Ash's mother made his body. She is the first real master he has ever had, and she is not the one who designed the trap.</li>
+          <li><b>Home for the ending,</b> at Everset. The chair is broken on purpose. The old master is let go to die as a person. Quill's two halves come back together. Wick decides what her own door is for.</li>
+        </ul>
+      </div>
+      <div class="book">
+        <h3>What it costs, and how it ends</h3>
+        <ul>
+          <li>Oscar's writing burns the last of the borrowed memories. He ends with only the life he has lived himself: a master nobody wrote.</li>
+          <li>Wick is his apprentice because she chose him. The ladder's trap is broken one rung down as well.</li>
+          <li>It ends as a win that cost something real. It is not a tragedy.</li>
+        </ul>
+      </div>
+      <div class="book">
+        <h3>Two small plants Book 2 needs so this lands</h3>
+        <ul>
+          <li>In Cael's first chapter, the old lore says the door-rite came "from over the water."</li>
+          <li>In Book 2's last chapter, the first small patch of grey appears outside Everset. Nobody but Wick knows what it means.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="how-h">
+    <h2 id="how-h">How we work from here</h2>
+    <ol class="rules">
+      <li>Anything for your review comes as a page like this one, with a clear ask and decisions you can make on it.</li>
+      <li>A few decisions at a time, each with my recommendation.</li>
+      <li>This desk is the project's memory. I update it at the end of every session.</li>
+      <li>Each ruling is recorded in one place: the Book 1 bible for the series, the Book 2 bible for Book 2.</li>
+      <li>Nothing that costs tokens runs without a heads-up. Book 2 is drafted an arc at a time, after a Chapter 1 pilot.</li>
+    </ol>
+  </section>
+</div>
+
+<script>
+const DECISIONS = [
+  { id:"B2-4a", title:"Book 2: Kessa's scar", why:"An old note gave Kessa a burn scar on her left palm from Wick's crossing, but it never made it into Book 1. Ch41 even says nothing touched her hands all day. Book 2's outline still plans a scene around it the night before the door.",
+    options:[
+      {v:"ring-from-token", label:"The token cuts a ring into her palm at the river", rec:true, sub:"The third tries to pull the rock out of her pocket with magic only Oscar can see. Kessa closes her fist on it and won't let go, and its edge cuts a ring into her palm. She's the one who says Marked over the crew; now she is. When the rock is spent as the door's lock, the ring is all that's left of it."},
+      {v:"drop", label:"Drop the scar", sub:"The night-before scene becomes about the count alone."},
+      {v:"book1", label:"Put it back in Book 1", sub:"Reopens Wick's crossing and a protected line in Ch41."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B2-4b", title:"Book 2: Kessa's gift to the door-hearth", why:"Cael's door-rite needs kept things that matter, not fuel. The outline says Kessa gives Doss's whetstone, but Book 1's Ch41 says the whetstone has been gone for two years.",
+    options:[
+      {v:"knife", label:"Doss's knife", rec:true, sub:"The last thing of his she carries, and the blade that killed the Setter. The door that brings Wick home is kept by Doss's knife. She fights the rest of the book with her crossbow and a plain blade."},
+      {v:"keep-knife-give-count", label:"She keeps the knife and gives something nobody expects", sub:"For example, the flap pocket that carried the whetstone, or the knot she ties every morning. Smaller, and stranger."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B2-4c", title:"Book 2: Tarn's lost word", why:"In Book 1 the Setter took the word door out of Tarn's head, and the book never gives it back. Book 2 is about building a door.",
+    options:[
+      {v:"never", label:"It never comes back, and it saves him", rec:true, sub:"In his own chapter we're inside the gap: he calls it the thing, the gap, her way home. At the aisle the corrector reads him, finds a place already struck out in its own hand, and passes over him as a corrected page. That's how he holds the aisle. A cost that stays."},
+      {v:"payoff", label:"It comes back at the very end", sub:"The last word he says in the book is door. Moving, but it softens the cost."},
+      {v:"early", label:"He has it back by Chapter 6", sub:"Mention it once and move on."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B2-4d", title:"Book 2: what the door costs Cael", why:"The outline says the fire costs him something he will keep, but never says what. Every other crew member pays something that stays: Oscar loses memories of Evermere, Tarn his word, Kessa her token.",
+    options:[
+      {v:"warmth", label:"His warmth goes into the threshold, and into Wick", rec:true, sub:"To keep the door a place a person can stand, he puts his own gift into it. Wick comes home person-warm because he gave her his. His hands are cold after; he keeps fires the ordinary way. Wick in Book 1: I can't be a person and a hole at the same time. He makes her a person again."},
+      {v:"faith", label:"His god stops answering", sub:"He keeps the rite going on faith alone and comes out of it with the hall gone quiet. Darker, and harder to show on the page."},
+      {v:"body", label:"A wound he carries", sub:"His hands burned to the wrist by the threshold fire. Concrete, but it's the kind of cost Book 1 already uses."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B2-5", title:"Book 2: the pressure on Wick's chapters", why:"Chapter 1 tells the reader Wick is alive, so her chapters need their own danger. My first idea, losing memories, was too much inner monologue for the Wick rule. This version is all events: the hollows keep the shape of whatever they eat.",
+    options:[
+      {v:"hollows-wear-memories", label:"The hollows steal her memories and wear them", rec:true, sub:"When a hollow gets its teeth into her, it takes a memory, and then it walks around wearing it: the grandmother on her step, the pie stalls, Cael's hands, coming at her across the hide. She has to fight her own past to keep going. At the siege a hollow wears Oscar's face and she loses her name; Feathers gives it back in Oscar's voice, carried through the bond, then Four. Breathing. One memory never comes home with her."},
+      {v:"cooling-draught", label:"The draught under her door is going cold", sub:"The warm thread of the world under her shut door fades chapter by chapter. When it goes cold, her side of the world is gone. A ticking clock, but quieter."},
+      {v:"no-clock", label:"No extra clock", sub:"The set pieces and the siege carry it."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B2-6", title:"Book 2: a tighter opening", why:"The crew is apart for Chapters 1 to 11, a quarter of the book. Merging four travel chapters brings them back together at Chapter 9 and takes the book from 46 to 43 chapters, still inside your 43 to 48 range. Every beat stays.",
+    options:[
+      {v:"43", label:"Tighten to 43 chapters, reunion at Chapter 9", rec:true, sub:"Oscar's dead city and hall of cradles become one chapter, and so do Ash's lodge and the waystation. Kessa reaches the Warden in her first chapter. A failed attempt at a tiny door replaces the explaining-the-rules chapter, and that attempt is what makes the beast roll in Wick's next chapter."},
+      {v:"46", label:"Keep 46 chapters", sub:"The slower opening, four separate roads."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B2-7a", title:"Name: the third copy", why:"The copy who wrote Oscar's grimoire chose his own name when he refused to be finished. He has used it for a century.",
+    options:[
+      {v:"aldous", label:"Aldous", rec:true, sub:"Means old. A name a man would pick for himself after refusing the one he was given."},
+      {v:"oswin", label:"Oswin", sub:"Keeps an echo of Oscar he can't quite shake."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B2-7b", title:"Names: Ash's family", why:"Ash is the last of the blood who still carries the Alberich name, so her cousins need another one. The family seat is the estate.",
+    options:[
+      {v:"greymere", label:"The estate is Greymere; the cousins are the Greymeres; her cousin is Ambry Greymere", rec:true, sub:"The -mere ties it to Evermere. They took the estate's name to run it without being the line."},
+      {v:"other", label:"Different names", other:true, sub:"Tell me the estate, family, or cousin's name you want."}
+    ]},
+  { id:"B2-7c", title:"Name: Ash's mother", why:"The original's sister, the hand that made every cradle, who walked out and crossed the sea. Elven, old, and struck from every page the family owns.",
+    options:[
+      {v:"edda", label:"Edda", rec:true, sub:"Short and old, sits beside Oscar and Ash without matching them."},
+      {v:"ilse", label:"Ilse", sub:"Softer. Sounds like someone who'd leave without a word."},
+      {v:"marit", label:"Marit", sub:"A maker's name. Hard edges."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B2-7d", title:"Kessa's person", why:"A human, outside the crew, working for the old families who hide the crew in Everset. Kessa lets someone in for the first time since Doss.",
+    options:[
+      {v:"lamplighter-hollin", label:"A lamplighter named Hollin", rec:true, sub:"Everset's lamps are dying one by one now the font is empty, and this is the person going round relighting them by hand. Fits your Lanternhouse imprint, and gives them a reason to know every street and every back door."},
+      {v:"ferry", label:"A ferryman on the river", sub:"Knows every crossing, which matters for the river scene. Name to pick."},
+      {v:"other", label:"Something else", other:true, sub:"Role, name, or both."}
+    ]},
+  { id:"B3-title", title:"Book 3: the title", why:"The title decides the ending. The Unmade Master sounds like a tragedy. The House's own word for the thing behind Wick's door is the Unwritten, which opens a third option that keeps the un- pattern of the first two titles.",
+    options:[
+      {v:"unwritten", label:"The Unwritten Master", rec:true, sub:"Two meanings at once: a master nobody wrote, which is Oscar's whole fight, and the master who is standing in the Unwritten, the original holding the door from the far side. The reader gets the second meaning halfway through."},
+      {v:"unmade", label:"The Unmade Master", sub:"Completes the pattern, but promises a tragedy."},
+      {v:"remade", label:"The Remade Master", sub:"Hopeful, but breaks the pattern."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"B3-spine", title:"Book 3: the one-page spine", why:"The spine is written out lower on this page, under Book 3. In one line: with nobody in the chair, the ward is slipping, and Oscar has to make a new way to hold the door that needs no chair and no bloodline.",
+    options:[
+      {v:"approve", label:"Approve it as the working spine", rec:true, sub:"It stays a plan, not canon. Book 2 gets two small plants so it leads there."},
+      {v:"changes", label:"Right direction, with changes", other:true},
+      {v:"rethink", label:"Wrong direction", other:true, sub:"Tell me what the ending should feel like."}
+    ]},
+  { id:"B3-edda", title:"Book 3: is Ash's mother alive over the sea?", why:"She made every cradle, Oscar's included, then walked out. Elves live for centuries, so she can still be alive.",
+    options:[
+      {v:"alive", label:"Alive, and Oscar finally meets a real master", rec:true, sub:"The apprentice had no master, the journeyman worked alone, and in Book 3 he learns from the woman who made his body. Ash gets her mother back, briefly."},
+      {v:"dead", label:"Dead; they find what she built and who she taught", sub:"Sadder for Ash. Her work speaks for her."},
+      {v:"other", label:"Something else", other:true}
+    ]},
+  { id:"KIT", title:"Set up the Book 2 drafting kit", why:"The repo review found five gaps that would hurt Book 2's drafts. They are listed lower on this page. Fixing them costs no tokens beyond this session.",
+    options:[
+      {v:"yes", label:"Yes, build all five", rec:true, sub:"A short canon digest, voice sheets for Ash and Feathers, the style checker taught Book 2's narrators, a running continuity ledger, and the Wick rule in the reviewer's checklist."},
+      {v:"some", label:"Only some of them", other:true},
+      {v:"no", label:"Not yet"}
+    ]},
+  { id:"B1-1", title:"Book 1: when to make changes", why:"Six structural fixes from the September review are waiting, and your test readers will bring their own notes and formatting changes.",
+    options:[
+      {v:"wait", label:"Wait for the test readers, then decide everything in one batch", rec:true},
+      {v:"now", label:"Go through the six fixes now", sub:"I'll put them on cards."},
+      {v:"other", label:"Something else", other:true}
+    ]}
+];
+
+const state = {}; let db = null;
+const cards = document.getElementById("cards");
+
+function render(){
+  cards.innerHTML = "";
+  for (const d of DECISIONS){
+    const saved = state[d.id];
+    const card = document.createElement("article"); card.className = "card"; card.id = "card-"+d.id;
+    const head = document.createElement("div"); head.className = "card-head";
+    const h = document.createElement("h3"); h.textContent = d.title;
+    const tg = document.createElement("span"); tg.className = "tag"; tg.textContent = d.id;
+    head.append(h, tg);
+    if (saved){ const p = document.createElement("span"); p.className = "saved-pill"; p.textContent = "Saved"; head.append(p); }
+    const why = document.createElement("p"); why.className = "why"; why.textContent = d.why;
+    const opts = document.createElement("div"); opts.className = "opts"; opts.setAttribute("role","radiogroup");
+    for (const o of d.options){
+      const lab = document.createElement("label"); lab.className = "opt";
+      const r = document.createElement("input"); r.type = "radio"; r.name = "r-"+d.id; r.value = o.v; r.id = "r-"+d.id+"-"+o.v;
+      if (saved && saved.choice === o.v) r.checked = true;
+      const txt = document.createElement("span");
+      const b = document.createElement("b"); b.textContent = o.label; txt.append(b);
+      if (o.rec){ const rc = document.createElement("span"); rc.className = "rec"; rc.textContent = "My pick"; txt.append(rc); }
+      if (o.sub){ const s = document.createElement("small"); s.textContent = o.sub; txt.append(s); }
+      lab.append(r, txt); opts.append(lab);
+    }
+    const otherF = document.createElement("label"); otherF.className = "field"; otherF.textContent = "Your own answer";
+    const otherIn = document.createElement("input"); otherIn.type = "text"; otherIn.id = "other-"+d.id; otherIn.value = saved?.other || "";
+    otherF.append(otherIn);
+    const noteF = document.createElement("label"); noteF.className = "field"; noteF.textContent = "Anything I should know (optional)";
+    const noteIn = document.createElement("textarea"); noteIn.id = "note-"+d.id; noteIn.value = saved?.note || "";
+    noteF.append(noteIn);
+    const row = document.createElement("div"); row.className = "row";
+    const btn = document.createElement("button"); btn.type = "button"; btn.textContent = saved ? "Update" : "Save";
+    const st = document.createElement("span"); st.className = "status"; st.setAttribute("aria-live","polite");
+    if (saved?.savedAt) st.textContent = "Saved " + new Date(saved.savedAt).toLocaleString();
+    row.append(btn, st);
+    const syncOther = () => { const c = opts.querySelector("input:checked"); otherF.hidden = !(c && d.options.find(o=>o.v===c.value)?.other); };
+    opts.addEventListener("change", syncOther); syncOther();
+    btn.addEventListener("click", async () => {
+      const c = opts.querySelector("input:checked");
+      if (!c){ st.className = "status err"; st.textContent = "Pick an option first."; return; }
+      const opt = d.options.find(o=>o.v===c.value);
+      if (opt.other && !otherIn.value.trim()){ st.className = "status err"; st.textContent = "Type your answer in the box."; return; }
+      if (!db){ st.className = "status err"; st.textContent = "Saving isn't available here. Send me this pick in chat."; return; }
+      btn.disabled = true; st.className = "status"; st.textContent = "Saving…";
+      try{
+        await db.collection("decisions").doc(d.id).set({ choice:c.value, label:opt.label, other:otherIn.value.trim(), note:noteIn.value.trim(), savedAt:new Date().toISOString() });
+        st.className = "status ok"; st.textContent = "Saved. I'll pick it up from here.";
+      }catch(e){
+        st.className = "status err";
+        st.textContent = (e && (e.code==="not_granted"||e.code==="permission_denied")) ? "You don't have permission to save on this page." : "That didn't save. Try again in a moment.";
+      }finally{ btn.disabled = false; }
+    });
+    card.append(head, why, opts, otherF, noteF, row);
+    cards.append(card);
+  }
+}
+render();
+
+document.getElementById("accept-all").addEventListener("click", async () => {
+  const st = document.getElementById("accept-status");
+  if (!db){ st.className = "status err"; st.textContent = "Saving isn't available here. Tell me in chat and I'll take them all."; return; }
+  const todo = DECISIONS.filter(d => !state[d.id] && d.options.some(o => o.rec));
+  if (!todo.length){ st.className = "status ok"; st.textContent = "Every card already has an answer."; return; }
+  st.className = "status"; st.textContent = "Saving " + todo.length + " picks…";
+  let ok = 0;
+  for (const d of todo){
+    const o = d.options.find(x => x.rec);
+    try{ await db.collection("decisions").doc(d.id).set({ choice:o.v, label:o.label, other:"", note:"accepted with the accept-all button", savedAt:new Date().toISOString() }); ok++; }catch(e){}
+  }
+  st.className = ok === todo.length ? "status ok" : "status err";
+  st.textContent = ok === todo.length ? "Saved " + ok + " picks. Change any card below if you disagree." : "Saved " + ok + " of " + todo.length + ". Try the rest again in a moment.";
+});
+
+(async () => {
+  try{ db = window.claude ? await window.claude.use("db") : null; }catch(e){ db = null; }
+  if (!db){ document.getElementById("db-note").hidden = false; return; }
+  const timer = setTimeout(()=>{}, 10000);
+  db.collection("decisions").onSnapshot(snap => {
+    clearTimeout(timer);
+    let changed = false;
+    for (const doc of snap.docs){ const v = doc.data(); if (v && JSON.stringify(state[doc.id]) !== JSON.stringify(v)){ state[doc.id] = v; changed = true; } }
+    const active = document.activeElement;
+    if (changed && !(active && (active.tagName==="TEXTAREA" || active.type==="text"))) render();
+  }, () => { clearTimeout(timer); });
+})();
+</script>
