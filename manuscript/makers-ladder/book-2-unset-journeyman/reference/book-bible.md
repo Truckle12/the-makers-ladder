@@ -22,7 +22,7 @@
   author ruled on all ten Open Decisions (rulings recorded in the outline's §"The ten rulings"
   and in the Decisions Log below). rev3 is the approved shape: **46 chapters**, ~140k words at
   the house chapter length. Drafting is gated on the author's review of the outline
-  (`book2/b2-ch01-draft.md` sits at `status: draft`). A drafter drafts *to* the chapter entry — it does
+  (chapters are drafted in session; see `HOW-WE-WRITE.md`). A drafter drafts *to* the chapter entry — it does
   not redesign it. Anything the outline marks **[proposal]** (currently: the third's chosen name
   "Aldous"; the cousin "Ambry"; the estate "Greymere"; Ash's metaphor field) is a chief-editor
   suggestion the author has NOT yet approved — a drafter that reaches one flags it
@@ -121,3 +121,4 @@ history — only add.*
 - [2026-11-07] **No time jump; Kessa's and Cael's romance beats fold in** (author ruling B2-1 on the Maker's Ladder Desk). Book 2 opens continuous with Book 1's last page, as the outline has it. From the July seeds in `series-overview.md`, keep: **Kessa** — a romance with a NEW Book-2 character (a human, outside the crew; "let someone in / grieve Doss"); **Cael** — a real connection he chooses NOT to pursue, because he won't drag someone into his life; **Tarn** — a bit of a player, light texture. **Retired:** the time jump and the aging of Wick for a later romance (Book 2's no-Wick-romance hold stands; Wick is 16). Where the two beats land is the next decision.
 - [2026-11-09] **Author rulings on the Maker's Ladder Desk:** (a) **Ash's five chapters APPROVED** as rebuilt on her mother's story (Ch10, 17, 26, 33, 45 written into the outline). (b) **Romance beats placed:** Cael's is the one person keeping his hearth (Ch5); Kessa's is a human among the old blood who hide the crew in Everset (Arc 3, from Ch24). Still open: Ash's mother's name, the cousins' family name, and Kessa's person's name.
 - [2026-11-09] **Road fix RULED (B2-3):** the crew reunites at Book 1's milestone outside Everset's west gate and stays in Everset's country for Arc 2 (the waystation where Corwen died, the scarp, the river). The token leans back toward Everset; the summons names the milestone. Ch18's impossible "south at speed through Marrow" becomes Kessa scouting the city gate alone and seeing the corrector at work.
+- [2026-11-14] **Book 2 is drafted in a working session, not through the `book2` lane** (author ruling; see the series bible's log of the same date and `manuscript/makers-ladder/HOW-WE-WRITE.md`). The parked `b2-ch01-draft` item is in `book2/_archive/`. The 09-10 note "sequential from here via the `next` label" no longer applies.

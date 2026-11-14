@@ -1,101 +1,80 @@
-# The Maker's Ladder — status and decision queue
+# The Maker's Ladder — where things stand
 
-> **The live version is the Maker's Ladder Desk artifact:** https://claude.ai/artifact/8KKoDvLLVaELQs49snmwi9
-> The author reviews and decides there; answers are saved in its `decisions` store. Every review goes
-> to the author as an artifact with a clear ask (author, 2026-11-07).
+Read this first, then `HOW-WE-WRITE.md`, then the Decisions Logs in the two bibles (they win where
+anything disagrees). Updated at the end of every working session. Last updated **2026-11-14**.
 
-> **The one page to read first.** Updated at the end of every working session. Open decisions live
-> in the queue below, in order, one at a time; once ruled they move into the right bible and leave
-> this page. Last updated **2026-11-07** (nothing on the books had moved since 2026-10-04).
+The author decides on the Maker's Ladder Desk: https://claude.ai/artifact/8KKoDvLLVaELQs49snmwi9
+Its source is `desk/ladder-desk.html` (publish to that URL to update it in place). His answers are
+saved in its `decisions` store, one document per card id. Each ruling is recorded in the right
+bible, then its card moves to the page's "Decided so far" list.
 
-## How we make progress (proposed — decision P1)
+## How the author wants to work
+- **Artifacts, always.** Anything he reviews reaches him as a claude.ai artifact with a clear ask and
+  decisions he can make on the page. Not long chat messages, not files.
+- **All open questions as cards at once**, each with a recommendation.
+- **A heads-up before any draft starts.**
+- Book work is committed straight to `main`.
+- The rules for the prose itself are in `HOW-WE-WRITE.md`.
 
-1. **One decision at a time.** I bring the top item from the queue with a recommendation; you rule;
-   I record it and bring the next. No more ten-item lists.
-2. **This page is the memory.** Every session starts by reading it and ends by updating it, so a
-   month away costs nothing.
-3. **Rulings go to one place each.** Series-wide → Book 1 bible log. Book 2 → Book 2 bible log.
-   Proposals stay marked as proposals until you rule.
-4. **Nothing spends without a heads-up.** Drafting through the queue runs real tokens; I say so before
-   any item goes `ready`.
-5. **Book 2 drafts in arcs, not chapters.** After the outline is final: Chapter 1 as a pilot, your
-   read, then one arc at a time with your review at each arc's end.
-
-## Where things stand
-
-### Book 1 — *The Unfinished Apprentice*: finished, out with test readers
+## Book 1 — *The Unfinished Apprentice*: finished, out with test readers
 - 42 chapters, 118,552 words, revised through Batch 7 (2026-09-15).
-- **Your printed author copy is out with friends and family.** You expect formatting changes.
-- A developmental review (2026-09-23, `notes/review-2026-09-23-b1-developmental-and-b2-outline.md`)
-  proposed six small structural fixes. You haven't ruled on them; my advice is to wait for the test
-  readers first, then decide all of Book 1's changes in one batch.
-- Publishing: the KDP worksheet is done. The cover is your design, but it needs print-resolution art,
-  a 0.99" spine for 396 pages, and the new pen name. The name change also touches the copyright page,
-  the KDP worksheet, the typesetting and EPUB builds, and the bible.
+- His printed author copy is with test readers. He expects formatting changes.
+- Six structural fixes are proposed in
+  `notes/review-2026-09-23-b1-developmental-and-b2-outline.md`. The plan is to decide them together
+  with the test readers' notes, in one batch (card B1-1).
+- **Pen name J. T. Kennyth, imprint Lanternhouse Press.** Nothing was registered under the old
+  names. The cover image, the typesetting defaults and the EPUB build still carry the old names.
+- **Before release:** test reader feedback; a print-resolution cover with a 0.99" spine and the new
+  pen name; the new names on the title and copyright pages; KDP's AI disclosure.
+- He intends to publish on KDP at no cost: the free KDP ISBN for the paperback (Amazon lists it as
+  "Independently published"; Lanternhouse Press still goes on the cover and copyright page), and the
+  ebook with Lanternhouse Press in the publisher field. Worksheet:
+  `book-1-unfinished-apprentice/reference/publishing-kdp-listing.md`.
+- **Proof builds:** `tools/typeset-proof.mjs` is a copy of the proof builder. It needs
+  `playwright-core`, `pdf-lib`, `hyphen` and three font families (EB Garamond, Libre Baskerville,
+  Crimson Pro) installed, and its paths edited. The EPUB and Word builders were never committed and
+  must be rebuilt when a new proof is needed.
+- **Audiobook (asked, not started):** about 624,000 characters, roughly 12.8 hours, an estimated
+  $100–200 on ElevenLabs. A one-chapter test was offered and not approved. Casting sheet:
+  `book-1-unfinished-apprentice/reference/audiobook-pov-sheet.md`.
 
-### Book 2 — *The Unset Journeyman*: outline approved, final decisions in progress
-- Approved shape: outline **rev5** (46 chapters). Nothing drafted; the Chapter 1 queue item stays
-  parked at `draft`.
-- **Ruled since rev5:** Oscar narrates his own mirror duel · the Wick rule (her chapters must be
-  awesome, things must happen, never bland or all inner monologue) · the one who walked out ahead of
-  Ash is **her mother**, the original's sister, who made the cradles · her mother went **west over the
-  sea**, and Ash's proof is a coin with no loop on it.
-- **Proposed, waiting on you:** Ash's five chapters rebuilt on her mother's story (sent 2026-10-04),
-  then the rest of the rev6 list (`book-2-unset-journeyman/reference/book-2-rev6-proposals.md`).
-- **New conflict found today:** `series-overview.md` carries your July seeds for Book 2 — **it opens
-  after a time jump** with Wick older, Kessa gets a romance with a new character, Cael chooses not to
-  pursue one, Tarn is a bit of a player. **None of that is in the outline**, which opens Book 2
-  continuous with Book 1's last page. See decision B2-1.
+## Book 2 — *The Unset Journeyman*: outline approved at rev5, nothing drafted
+Ruled since rev5 (all in the Book 2 bible's log): no time jump · Oscar narrates his own mirror duel ·
+the Wick rule · Ash's mother walked out first, made the cradles, and went west over the sea (proof: a
+coin with no loop) · Ash's five chapters approved · Cael's romance beat is the person keeping his
+hearth (Ch5), Kessa's is a human working for the old families in Everset (Ch24 on) · the crew
+reunites at the milestone outside Everset and stays in its country.
 
-### Book 3 — title not chosen: holds only, no plan
-What exists is what Books 1 and 2 promise it:
+**Open on the Desk** (each card has a recommended pick):
+- B2-4a Kessa's scar · B2-4b her gift to the door-hearth · B2-4c Tarn's lost word · B2-4d Cael's cost
+- B2-5 the pressure on Wick's chapters
+- B2-6 tighten to 43 chapters (the proposed map is in
+  `book-2-unset-journeyman/reference/book-2-rev6-proposals.md`)
+- B2-7a/b/c/d names: the third, Ash's family, Ash's mother, Kessa's person
+- KIT: the Book 2 drafting kit
+- The page's "Accept all of Claude's picks" button has not been tested with a real save.
+
+**Chapter 1 needs B2-5, B2-6 and KIT answered first.** Chapter 1 is Wick on the far side, so B2-5
+decides what happens in it; B2-6 renumbers the outline.
+
+**After the cards are answered:**
+1. Fold every ruling into the outline as rev6.
+2. If KIT is approved: a short digest of what is true now; voice sheets for Ash and Feathers; a
+   Book 2 narrator map in `tools/cadence.mjs`; a running continuity ledger.
+3. Heads-up to the author, then draft Chapter 1 as a pilot. After his read, one arc at a time.
+
+## Book 3 — title not chosen: holds only, no plan
 - The seat is a ward keyed to the bloodline. The master went through to hold the door from inside.
 - The twin blank in Wick's pocket leans away from her, toward the sealed wound.
 - Two sentries on the far side (the master and the third), and a bird on both sides of the wall.
 - Ash's road over the sea; the twelfth left unfinished; the Redactor spent, not unmade.
-- The title debate is still open: *The Unmade Master* vs *The Made Master* / *The Remade Master*.
-  The choice decides whether the ending is triumphant or tragic.
-My advice: write a one-page Book 3 spine **before** drafting Book 2, so Book 2's setups point
-somewhere real.
+- Open on the Desk: B3-title (*The Unmade Master* vs *The Made Master* / *The Remade Master*; the
+  choice decides whether the ending is triumphant or tragic) · B3-spine (a one-page spine before
+  Book 2 is drafted, so its setups point somewhere real) · B3-edda.
 
-## Decision queue (top first)
-
-| # | Decision | My recommendation |
-|---|---|---|
-| **N1** | **New pen name** | **Calder Vane** (or E. M. Larch). See below. |
-| **N2** | **New publisher name** | **Lanternhouse Press** (or Waystation Books). See below. |
-| **N3** | Did you buy ISBNs or register anything under Far Side Press? | Tells me what needs re-registering. |
-| **P1** | Adopt the five working rules above | Yes |
-| **B2-1** | Time jump and the July romance seeds vs the outline | Decide before anything else in Book 2; it changes Ch1 and every character's starting point. |
-| B2-2 | Ash's five chapters as sent 2026-10-04 | Approve, then name her mother and the cousins' family |
-| B2-3 | Geography fix: reunite at the milestone outside Everset; no second road south | Yes (it's a real error in rev5) |
-| B2-4 | Kessa's scar · Doss's knife · Tarn's lost word · Cael's cost | One at a time, in that order |
-| B2-5 | Wick's clock, rebuilt to obey the Wick rule | I bring a new version built on events, not thoughts |
-| B2-6 | Tighter opening: 43 chapters, reunion at Ch9 | Yes |
-| B2-7 | Names: Aldous (the third), Greymere (the estate) | Approve; the cousin needs a new surname (Ash is the last Alberich) |
-| B3-1 | Write a one-page Book 3 spine before Book 2 drafting | Yes |
-| B3-2 | Book 3 title | Later, with the spine |
-| B1-1 | Book 1 structural fixes | After the test readers report |
-
-### N1 — pen name
-
-My guess at the reason for changing: "Alberich" is the hero's own surname, which is confusing on a
-cover. If it's something else, tell me and I'll re-aim.
-
-- **Calder Vane** — my pick. It sounds like the genre, it's easy to say and spell, and a web search
-  found no author using it.
-- **E. M. Larch** — keeps the initials style you chose before, and quietly nods to Evermere's
-  Larchwall. No author found using it.
-- *Rejected:* Owen Harrow — too close to Alix E. Harrow, a major fantasy author.
-
-### N2 — publisher name
-
-- **Lanternhouse Press** — my pick. Lamps run through both books (Brida's mended lamp, the lamp Oscar
-  makes Ash hang, the lamp she sets in a north window), and it isn't tied to one book.
-- **Waystation Books** — the series' recurring roadside shelters; warm and genre-neutral.
-- **Rungwright Press** — the ladder of the series title; distinctive, slightly odd.
-None turned up as an existing publisher in a web search.
-
-**Before committing to any name:** search it on Amazon and Goodreads, check the US trademark
-database (TESS), and buy the matching web domain if you want one. Register the publisher name with
-Bowker when you buy the ISBNs.
+## What was retired on 2026-11-14
+The overnight engine last landed book work on 2026-07-13; everything since was written in sessions.
+The books no longer use it. Moved, not deleted: the parked Chapter 1 queue item
+(`book2/_archive/`), the June pipeline plan and the Arc 1–4 working documents
+(`book-1-unfinished-apprentice/reference/_archive/`), and Book 1's 53 run notes
+(`notes/_archive/book-1/`).

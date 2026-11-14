@@ -176,4 +176,4 @@ Oscar now narrates 3 of the last 11 chapters, including the duel.
 ## Not proposed
 - No change to the ten rulings, the Book 3 holds, or the far side's no-Script lock.
 - The heirs stay. Decision 1 is what ties them in: Ash's thread now runs through the antagonist.
-- Nothing is drafted until the author rules. `book2/b2-ch01-draft.md` stays at `status: draft`.
+- Nothing is drafted until the author rules.
