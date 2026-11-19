@@ -1,0 +1,12 @@
+{
+  "name": "makers-ladder",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Maker's Ladder book series: manuscript, canon and the chapter tools.",
+  "dependencies": {
+    "hyphen": "^1.10.4",
+    "pdf-lib": "^1.17.1",
+    "playwright-core": "^1.48.0"
+  }
+}

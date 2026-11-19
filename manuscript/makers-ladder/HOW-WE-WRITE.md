@@ -1,9 +1,7 @@
 # How a Maker's Ladder chapter gets written
 
 The books are written in a working session with the author, not through the overnight engine. There
-is no queue item, no agent branch, no pull request and no label. (The engine's `book` and `book2`
-lanes still exist in `config.json` because the hub reads them; nothing for the books runs through
-them. Old queue items are in `book/_archive/` and `book2/_archive/`.)
+is no queue item, no agent branch, no pull request and no label. (Since 19 Nov 2026 the books have a repo of their own; the engine stayed behind in the old one. Old queue items are in `book/_archive/` and `book2/_archive/`.)
 
 ## What is true, and where
 | What | Where |
